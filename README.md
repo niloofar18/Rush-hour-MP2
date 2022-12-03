@@ -1,7 +1,10 @@
 **Repository link**: https://github.com/niloofar18/Rush-hour-MP2
 
+<div>
 <span style="background-image: linear-gradient(to left, black, maroon); -webkit-background-clip: text;
   color: transparent;">GROUP NAME: Artificial Musketeers</span>
+</div>
+
 <br>
 
 |Contributors|Name|ID|
@@ -28,7 +31,8 @@ Simply run the main.py
 
 <br>
 
-<span style="color:red">Please Note:</span> <br> We wrote the code to generate 50 random puzzles in the class **PuzzleGenerator.py** and we saved it as **generatePuzzles.txt** under <U>input</U> folder. 
+<div>
+<span style="color:red">Please Note:</span> <br> We wrote the code to generate 50 random puzzles in the class **PuzzleGenerator.py** and we saved it as **generatePuzzles.txt** under <u>input</u> folder. 
 We also keep the <U>sample-input.txt</U> under input folder to test our program.
 Since we want to <span style="color:rgb(136,176,75)">generate outputs(Search files & Solution files)</span> for our **generatePuzzles.txt** that contains 50 random puzzles, we used "generatedPuzzles text file" as **default** in the class <u>main.py</u> & we **open** this text file in the **PuzzleGenerator.py** class as well.
 
@@ -39,3 +43,5 @@ If You are plan to use different text file with different name in order to test 
 ---------------
 
 <span style="color:rgb(146,106,166)"> Thank You! &#128578;</span>
+  
+</div>
