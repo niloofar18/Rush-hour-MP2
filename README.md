@@ -32,7 +32,7 @@ Simply run the main.py
 <br>
 
 <div>
-<span style="color:red">Please Note:</span> <br> We wrote the code to generate 50 random puzzles in the class <B>PuzzleGenerator.py</B> and we saved it as <B>>generatePuzzles.txt</B> under <u>input</u> folder. 
+  <span style="color:red"><B>Please Note:</B></span> <br> We wrote the code to generate 50 random puzzles in the class <B>PuzzleGenerator.py</B> and we saved it as <B>generatePuzzles.txt</B> under <u>input</u> folder. 
 We also keep the <U>sample-input.txt</U> under input folder to test our program.
 Since we want to <span style="color:rgb(136,176,75)">generate outputs(Search files & Solution files)</span> for our <B>generatePuzzles.txt</B> that contains 50 random puzzles, we used "generatedPuzzles text file" as <B>default</B> in the class <u>main.py</u> & we <B>open</B> this text file in the <B>PuzzleGenerator.py</B> class as well.
 
