@@ -23,7 +23,7 @@ Second Mini Project for comp 472
 3. activate venv
 <br>
 <b>TO RUN THE PROGRAM </b>
-Simply run the main.py
+* Simply run the main.py
 
 <span style="color:red">Please Note:</span> <br> We wrote the code to generate 50 random puzzles in the class **PuzzleGenerator.py** and we saved it as **generatePuzzles.txt** under <U>input</U> folder. 
 We also keep the <U>sample-input.txt</U> under input folder to test our program.
