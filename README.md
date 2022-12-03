@@ -22,12 +22,17 @@ Second Mini Project for comp 472
 2. Use this python as venv (interpretor)
 3. activate venv
 <br>
-<b>TO RUN THE PROGRAM
-* Simply run the main.py
+<b>TO RUN THE PROGRAM</b>
+
+Simply run the main.py
+
+<br>
 
 <span style="color:red">Please Note:</span> <br> We wrote the code to generate 50 random puzzles in the class **PuzzleGenerator.py** and we saved it as **generatePuzzles.txt** under <U>input</U> folder. 
 We also keep the <U>sample-input.txt</U> under input folder to test our program.
 Since we want to <span style="color:rgb(136,176,75)">generate outputs(Search files & Solution files)</span> for our **generatePuzzles.txt** that contains 50 random puzzles, we used "generatedPuzzles text file" as **default** in the class <U>main.py</U> & we **open** this text file in the **PuzzleGenerator.py** class as well.
+
+<br>
 
 If You are plan to use different text file with different name in order to test our program, make sure to save this file under **input folder** and change the <U>default</U> value in **main.py** to its corresponding name as well as use its name in **PuzzleGenerator.py** to <U>open</U> it.
 
