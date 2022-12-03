@@ -33,6 +33,7 @@ Second Mini Project for comp 472
 1. Having Python 3.8 or above
 2. Use this python as venv (interpretor)
 3. activate venv
+4. Open the requirements.txt and install all of them in your project.
 
 <br>
 
