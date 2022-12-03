@@ -33,7 +33,9 @@ Second Mini Project for comp 472
 1. Having Python 3.8 or above
 2. Use this python as venv (interpretor)
 3. activate venv
+
 <br>
+
 <b>TO RUN THE PROGRAM</b>
 
 Simply run the main.py
@@ -48,6 +50,8 @@ Since we want to <span style="color:rgb(136,176,75)">generate outputs(Search fil
 <br>
 
 If You are plan to use different text file with different name in order to test our program, make sure to save this file under **input folder** and change the <U>default</U> value in **main.py** to its corresponding name as well as use its name in **PuzzleGenerator.py** to <U>open</U> it.
+
+There is also a text file generated (called <b>analysis.txt</b>) to show the statistics of our algorithms' searches based on our 50 random puzzles.
 
 ---------------
 
