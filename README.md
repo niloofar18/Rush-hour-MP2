@@ -17,12 +17,12 @@ Second Mini Project for comp 472
 
 <br>
 
-**REQUIREMENTS**
+<B>REQUIREMENTS</B>
 1. Having Python 3.8 or above
 2. Use this python as venv (interpretor)
 3. activate venv
 <br>
-**TO RUN THE PROGRAM**
+<b>TO RUN THE PROGRAM</b>
 Simply run the main.py
 
 <span style="color:red">Please Note:</span> <br> We wrote the code to generate 50 random puzzles in the class **PuzzleGenerator.py** and we saved it as **generatePuzzles.txt** under <U>input</U> folder. 
