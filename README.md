@@ -22,8 +22,8 @@ All students contributed to the entire project as a whole and therefore it is ne
 
 |Contributors|Name|ID|
 |:----|:-----:|-----:|
-|1|Hoomaan Tayariyan|40112380|
-|2|Niloofar Dadkhah|40096621|
+|1|Niloofar Dadkhah|40096621|
+|2|Hoomaan Tayariyan|40112380|
 |3|Nahid Alladini|40071981|
 
 -----------
