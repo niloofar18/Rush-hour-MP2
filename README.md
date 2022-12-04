@@ -1,5 +1,9 @@
 **Repository link**: https://github.com/niloofar18/Rush-hour-MP2
 
+# Rush-hour-MP2
+Second Mini Project for comp 472
+------------
+
 <div>
 <span style="background-image: linear-gradient(to left, black, maroon); -webkit-background-clip: text;
   color: transparent;">GROUP NAME: Artificial Musketeers</span>
@@ -22,10 +26,7 @@ All students contributed to the entire project as a whole and therefore it is ne
 |2|Niloofar Dadkhah|40096621|
 |3|Nahid Alladini|40071981|
 
-
-# Rush-hour-MP2
-Second Mini Project for comp 472
-------------
+-----------
 
 <br>
 
