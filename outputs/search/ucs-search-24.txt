@@ -1,0 +1,450 @@
+ 0  0  0 ...W.....WLF.AAOLF..HOL...H.....H...
+ 1  1  0 ...W.....W.F.AAO.F..HOL...H.L...H.L. L 98 
+ 1  1  0 ...W.F...WLF.AAOL...HOL...H.....H... F 99 
+ 1  1  0 ...W.....WLF.AA.LF..HOL...HO....H... O 3 
+ 1  1  0 ...WL....WLF.AAOLF..HO....H.....H... L 99 
+ 1  1  0 ...W.....WL..AAOLF..HOLF..H.....H... F 99 
+ 1  1  0 ...W.....WLFAA.OLF..HOL...H.....H... A 4 
+ 1  1  0 ...W.....WL..AAOL...HOLF..H..F..H... F 98 
+ 1  1  0 ...W.....WL..AAOL...HOL...H..F..H..F F 97 
+ 1  1  0 ...W.....WLF.AA.LF..H.L...HO....HO.. O 2 
+ 1  1  0 ...W.....W.F.AAOLF..HOL...H.L...H... L 99 
+ 2  2  0 ...W.....WLFAAHOLF..HOL...H......... H 99 A 4 
+ 2  2  0 ...W.....WL..AA.L...H.LF..HO.F..HO.. O 2 F 98 
+ 2  2  0 ...W.....WL..AA.L...HOL...HO.F..H..F F 97 O 3 
+ 2  2  0 ...W.....W.F.AA..F..H.L...HOL...HOL. O 2 L 98 
+ 2  2  0 ...W.....W.F.AA.LF..HOL...HOL...H... L 99 O 3 
+ 2  2  0 ...W.....W...AAOL...HOLF..H.LF..H... L 99 F 98 
+ 2  2  0 ...W.....W...AAO....HOL...H.LF..H.LF F 97 L 98 
+ 2  2  0 .........WLF.AAWLF..HOL...HO....H... W 3 O 3 
+ 2  2  0 ...W.....WLFAA..LF..H.L...HO....HO.. O 2 A 4 
+ 2  2  0 ...W.F...WLFAA.OL...HOL...H.....H... A 4 F 99 
+ 2  2  0 ...W.....WLF..AALF..HOL...HO....H... A 4 O 3 
+ 2  2  0 ...W.....W.FAA.OLF..HOL...H.L...H... L 99 A 4 
+ 2  2  0 ...W.F...WLF.AA.L...HOL...HO....H... F 99 O 3 
+ 2  2  0 ...WLF...WLF.AAOL...HO....H.....H... F 99 L 99 
+ 2  2  0 ...WL....WLFAA.OLF..HO....H.....H... A 4 L 99 
+ 2  2  0 ...W....HWLFAAHOLF..HOL............. H 98 A 4 
+ 2  2  0 ...W.....W...AAO.F..HOLF..H.L...H.L. L 98 F 99 
+ 2  2  0 ...W.....WL..AA.LF..H.LF..HO....HO.. O 2 F 99 
+ 2  2  0 ..HW....HWLFAAHOLF...OL............. H 97 A 4 
+ 2  2  0 ...W.....W...AAOL...HOL...H.LF..H..F L 99 F 97 
+ 2  2  0 ...W.....W.F.AA..F..HOL...HOL...H.L. L 98 O 3 
+ 2  2  0 ...W.F...WLF.AA.L...H.L...HO....HO.. O 2 F 99 
+ 2  2  0 ...WL....WL..AAOL...HO.F..H..F..H... F 98 L 99 
+ 2  2  0 ...W.....WL..AA.LF..HOLF..HO....H... O 3 F 99 
+ 2  2  0 ...W.F...W.F.AAO....HOL...H.L...H.L. L 98 F 99 
+ 2  2  0 ...WL....WLF.AA.LF..HO....HO....H... O 3 L 99 
+ 2  2  0 ...WL....WL..AAOL...HO....H..F..H..F L 99 F 97 
+ 2  2  0 ...W.....W...AAO....HOLF..H.LF..H.L. L 98 F 98 
+ 2  2  0 ...W.F...W.F.AAOL...HOL...H.L...H... L 99 F 99 
+ 2  2  0 ...W.....W.F.AA.LF..H.L...HOL...HO.. L 99 O 2 
+ 2  2  0 .........WLF.AAWLF..H.L...HO....HO.. W 3 O 2 
+ 2  2  0 ...W.....WLF..AALF..H.L...HO....HO.. A 4 O 2 
+ 2  2  0 ...WL....WL..AAOLF..HO.F..H.....H... F 99 L 99 
+ 2  2  0 ...W.....WL.AA.OL...HOLF..H..F..H... F 98 A 4 
+ 2  2  0 ...W.....W...AAOLF..HOLF..H.L...H... L 99 F 99 
+ 2  2  0 ...W.....WL.AA.OLF..HOLF..H.....H... F 99 A 4 
+ 3  3  0 ...W.....WLFAAH.LF..HOL...HO........ O 3 H 99 A 4 
+ 3  3  0 .........WL..AAWLF..HOLF..HO....H... F 99 W 3 O 3 
+ 3  3  0 ..HWL...HWLFAAHOLF...O.............. H 97 A 4 L 99 
+ 3  3  0 ...WL....WLFAA..LF..HO....HO....H... O 3 A 4 L 99 
+ 3  3  0 ...W.....WL.AA..LF..H.LF..HO....HO.. F 99 O 2 A 4 
+ 3  3  0 ...W....HWLFAAH.LF..HOL....O........ O 3 H 98 A 4 
+ 3  3  0 ...W.....WL.AAHOLF..HOLF..H......... F 99 H 99 A 4 
+ 3  3  0 .........WLFAA.WLF..H.L...HO....HO.. W 3 O 2 A 4 
+ 3  3  0 ...W.....WL...AAL...H.LF..HO.F..HO.. A 4 O 2 F 98 
+ 3  3  0 ....L....WLF.AAWLF..HO....HO....H... L 99 W 3 O 3 
+ 3  3  0 ..........LFAA.WLF..HWL...HO....HO.. W 2 O 2 A 4 
+ 3  3  0 ...W.....W.FAAHO.F..HOL...H.L.....L. L 98 H 99 A 4 
+ 3  3  0 ...W.....W..AA.O....HOL...H.LF..H.LF A 4 F 97 L 98 
+ 3  3  0 ...W.....WL.AAHOL...HOLF..H..F...... F 98 H 99 A 4 
+ 3  3  0 ...W.....W...AA..F..HOLF..HOL...H.L. O 3 L 98 F 99 
+ 3  3  0 ...W.....WL.AA..L...HOL...HO.F..H..F A 4 F 97 O 3 
+ 3  3  0 ...WL....WL..AA.L...HO....HO.F..H..F L 99 F 97 O 3 
+ 3  3  0 ...WL....WL..AA.LF..H..F..HO....HO.. L 99 O 2 F 99 
+ 3  3  0 ..........L..AAWLF..HWLF..HO....HO.. W 2 O 2 F 99 
+ 3  3  0 ...W.....WL.AA..L...H.L...HO.F..HO.F F 97 O 2 A 4 
+ 3  3  0 ...W.....W...AA.L...HOLF..HOLF..H... F 98 L 99 O 3 
+ 3  3  0 ...W.F...WLF..AAL...HOL...HO....H... F 99 A 4 O 3 
+ 3  3  0 .........WL..AAWL...HOLF..HO.F..H... F 98 W 3 O 3 
+ 3  3  0 ...W.....W.FAA...F..H.L...HOL...HOL. A 4 O 2 L 98 
+ 3  3  0 ...W.....W.F..AALF..HOL...HOL...H... L 99 A 4 O 3 
+ 3  3  0 ...W.F...W.F.AA.....H.L...HOL...HOL. F 99 O 2 L 98 
+ 3  3  0 ...W.....W.F..AA.F..H.L...HOL...HOL. A 4 O 2 L 98 
+ 3  3  0 ...W....HWL.AAHOL...HOL......F.....F F 97 H 98 A 4 
+ 3  3  0 ...W.....W...AA.....H.L...HOLF..HOLF F 97 O 2 L 98 
+ 3  3  0 ..HW.F..HWLFAAHOL....OL............. F 99 H 97 A 4 
+ 3  3  0 .........W.F.AAW.F..H.L...HOL...HOL. W 3 O 2 L 98 
+ 3  3  0 ...W....HW.FAAHOLF..HOL.....L....... H 98 L 99 A 4 
+ 3  3  0 ...W.....W..AA.OL...HOLF..H.LF..H... F 98 L 99 A 4 
+ 3  3  0 ...WL....WL.AA.OLF..HO.F..H.....H... F 99 A 4 L 99 
+ 3  3  0 ...W.....W...AA.LF..H.LF..HOL...HO.. L 99 O 2 F 99 
+ 3  3  0 ...W.....W...AA.....H.LF..HOLF..HOL. L 98 O 2 F 98 
+ 3  3  0 ..HW....HWLFAAH.LF....L....O.....O.. H 97 O 2 A 4 
+ 3  3  0 .....F...WLF.AAWL...H.L...HO....HO.. W 3 O 2 F 99 
+ 3  3  0 ...W.....W.F...AAF..HOL...HOL...H.L. A 3 L 98 O 3 
+ 3  3  0 ...W.F...W.F.AA.....HOL...HOL...H.L. F 99 L 98 O 3 
+ 3  3  0 ...WLF...WLF.AA.L...HO....HO....H... O 3 F 99 L 99 
+ 3  3  0 ...WL....WLFAAHOLF..HO....H......... H 99 A 4 L 99 
+ 3  3  0 .........W.F.AAWLF..HOL...HOL...H... W 3 L 99 O 3 
+ 3  3  0 .........WL..AAWL...H.LF..HO.F..HO.. W 3 O 2 F 98 
+ 3  3  0 ...WL....WL.AA.OL...HO....H..F..H..F F 97 A 4 L 99 
+ 3  3  0 ...........F.AAW.F..HWL...HOL...HOL. W 2 O 2 L 98 
+ 3  3  0 ....L....WLF.AAWLF..H.....HO....HO.. L 99 W 3 O 2 
+ 3  3  0 .........WL..AAWL...H.L...HO.F..HO.F F 97 W 3 O 2 
+ 3  3  0 ...........F.AAWLF..HWL...HOL...HO.. W 2 L 99 O 2 
+ 3  3  0 ..HW....HWL.AAHOLF...OLF............ F 99 H 97 A 4 
+ 3  3  0 ...W.....WL...AALF..HOLF..HO....H... F 99 A 4 O 3 
+ 3  3  0 ..HW....HW.FAAHO.F...OL.....L.....L. L 98 H 97 A 4 
+ 3  3  0 ...W.F...WLF..AAL...H.L...HO....HO.. A 4 O 2 F 99 
+ 3  3  0 ...WL....WLF..AALF..HO....HO....H... L 99 A 4 O 3 
+ 3  3  0 .........WLFAA.WLF..HOL...HO....H... A 4 W 3 O 3 
+ 3  3  0 ...W.F...WLFAA..L...HOL...HO....H... O 3 A 4 F 99 
+ 3  3  0 ...W.....W...AA.LF..HOLF..HOL...H... L 99 O 3 F 99 
+ 3  3  0 ..HW....HWL.AAHOL....OL......F.....F F 97 H 97 A 4 
+ 3  3  0 ...WLF...WLF.AA.L...H.....HO....HO.. O 2 F 99 L 99 
+ 3  3  0 ...WL....WL..AA.L...H..F..HO.F..HO.. O 2 F 98 L 99 
+ 3  3  0 .........W.F.AAW.F..HOL...HOL...H.L. L 98 W 3 O 3 
+ 3  3  0 ...WL....WL.AA.OL...HO.F..H..F..H... L 99 F 98 A 4 
+ 3  3  0 ...WL....WL..AA.LF..HO.F..HO....H... L 99 O 3 F 99 
+ 3  3  0 ...W.F...W.FAA.O....HOL...H.L...H.L. L 98 A 4 F 99 
+ 3  3  0 ...W.....W...AA.L...H.L...HOLF..HO.F O 2 L 99 F 97 
+ 3  3  0 ...W.....W..AA.O....HOLF..H.LF..H.L. A 4 L 98 F 98 
+ 3  3  0 ..HW....HWLFAAH.LF...OL....O........ O 3 H 97 A 4 
+ 3  3  0 ...W.....WL.AA.OL...HOL...H..F..H..F F 97 F 97 A 4 
+ 3  3  0 ...W.F...W.F.AA.L...HOL...HOL...H... O 3 L 99 F 99 
+ 3  3  0 ..HW....HWL.AAHOL....OLF.....F...... F 98 H 97 A 4 
+ 3  3  0 ...WL...HWLFAAHOLF..HO.............. H 98 A 4 L 99 
+ 3  3  0 ...W.F..HWLFAAHOL...HOL............. H 98 A 4 F 99 
+ 3  3  0 ...W.....W.FAA..LF..HOL...HOL...H... O 3 L 99 A 4 
+ 3  3  0 ...W.....WL.AA..L...H.LF..HO.F..HO.. A 4 O 2 F 98 
+ 3  3  0 ...W.....WL.AA..LF..HOLF..HO....H... O 3 F 99 A 4 
+ 3  3  0 ...W.....W..AA.O.F..HOLF..H.L...H.L. L 98 F 99 A 4 
+ 3  3  0 ...W.....W.FAAHOLF..HOL...H.L....... H 99 L 99 A 4 
+ 4  4  0 .........WL.AA.WLF..HOLF..HO....H... A 4 F 99 W 3 O 3 
+ 4  4  0 ...W.F..HWLFAAH.L...HOL....O........ F 99 O 3 H 98 A 4 
+ 4  4  0 ....LF...WLF.AAWL...HO....HO....H... W 3 O 3 F 99 L 99 
+ 4  4  0 ...WL....WL...AALF..H..F..HO....HO.. A 4 L 99 O 2 F 99 
+ 4  4  0 ........H.LFAAHWLF..HWL....O.....O.. H 98 W 2 O 2 A 4 
+ 4  4  0 ...WLF...WLFAAHOL...HO....H......... F 99 H 99 A 4 L 99 
+ 4  4  0 .....F....LFAA.WL...HWL...HO....HO.. F 99 W 2 O 2 A 4 
+ 4  4  0 ....L.....LFAA.WLF..HW....HO....HO.. L 99 W 2 O 2 A 4 
+ 4  4  0 ...W....HWL.AAH.LF..H.LF...O.....O.. H 98 F 99 O 2 A 4 
+ 4  4  0 ..........L.AA.WL...HWLF..HO.F..HO.. F 98 W 2 O 2 A 4 
+ 4  4  0 .........W.FAA.WLF..HOL...HOL...H... A 4 W 3 L 99 O 3 
+ 4  4  0 .........W...AAWL...HOL...HOLF..H..F F 97 W 3 L 99 O 3 
+ 4  4  0 ...W.....W....AAL...H.LF..HOLF..HO.. L 99 A 4 O 2 F 98 
+ 4  4  0 .........WLFAAHWLF..H.L...HO.....O.. H 99 W 3 O 2 A 4 
+ 4  4  0 .........W.FAA.WLF..H.L...HOL...HO.. L 99 W 3 O 2 A 4 
+ 4  4  0 ...W.....W..AAHO....HOL...H.LF....LF H 99 A 4 F 97 L 98 
+ 4  4  0 ...W.....W..AAHOLF..HOLF..H.L....... L 99 F 99 H 99 A 4 
+ 4  4  0 ...WL...HWLFAAH.LF..HO.....O........ L 99 O 3 H 98 A 4 
+ 4  4  0 ........HWLFAAHWLF..HOL....O........ W 3 O 3 H 98 A 4 
+ 4  4  0 ...W.....W..AA...F..HOLF..HOL...H.L. A 4 O 3 L 98 F 99 
+ 4  4  0 ...WL....WLFAAH.LF..H.....HO.....O.. O 2 H 99 A 4 L 99 
+ 4  4  0 ..HW....HW.FAAH.LF....L....OL....O.. L 99 H 97 O 2 A 4 
+ 4  4  0 ...W....HWL.AAH.L...HOLF...O.F...... F 98 O 3 H 98 A 4 
+ 4  4  0 ...W.F...W.F....AA..HOL...HOL...H.L. A 2 F 99 L 98 O 3 
+ 4  4  0 ...W.....W.F...AAF..H.L...HOL...HOL. O 2 A 3 L 98 O 2 
+ 4  4  0 .....F...W.F.AAWL...H.L...HOL...HO.. L 99 W 3 O 2 F 99 
+ 4  4  0 ...W.....W.F..AA.F..HOL...HOL...H.L. A 2 A 2 L 98 O 3 
+ 4  4  0 ...W.....W.FAA...F..HOL...HOL...H.L. A 0 A 0 L 98 O 3 
+ 4  4  0 .....F...W.F.AAW....H.L...HOL...HOL. L 98 W 3 O 2 F 99 
+ 4  4  0 ...W.F...W.F...AA...HOL...HOL...H.L. F 99 A 3 L 98 O 3 
+ 4  4  0 ...W.....W.....AAF..HOLF..HOL...H.L. F 99 A 3 L 98 O 3 
+ 4  4  0 .....F....LF.AAWL...HWL...HO....HO.. W 2 W 2 O 2 F 99 
+ 4  4  0 ...W.....W.....AA...HOLF..HOLF..H.L. F 98 A 3 L 98 O 3 
+ 4  4  0 ...W.....W.F..HAAF..HOL...HOL.....L. H 99 A 3 L 98 O 3 
+ 4  4  0 ..HW....HW.F..HAAF...OL....OL.....L. H 97 A 3 L 98 O 3 
+ 4  4  0 ...W.....W.....AA...HOL...HOLF..H.LF F 97 A 3 L 98 O 3 
+ 4  4  0 ..HW....HW.FAAH..F....L....OL....OL. L 98 H 97 O 2 A 4 
+ 4  4  0 ...W....HW.F..HAAF..HOL....OL.....L. H 98 A 3 L 98 O 3 
+ 4  4  0 ..H.....HWLFAAHWLF....L....O.....O.. W 3 H 97 O 2 A 4 
+ 4  4  0 .....F...WLFAA.WL...H.L...HO....HO.. A 4 W 3 O 2 F 99 
+ 4  4  0 ..H.....H.LFAAHWLF...WL....O.....O.. W 2 H 97 O 2 A 4 
+ 4  4  0 ...W.....WL.AAH.L...H.L...HO.F...O.F H 99 F 97 O 2 A 4 
+ 4  4  0 ..HW....HWL.AAH.L.....L....O.F...O.F H 97 F 97 O 2 A 4 
+ 4  4  0 .........W...AAW.F..H.LF..HOL...HOL. F 99 W 3 O 2 L 98 
+ 4  4  0 ...W.....W....AA.F..HOLF..HOL...H.L. A 4 O 3 L 98 F 99 
+ 4  4  0 ..HWL...HWLFAAH.LF...O.....O........ O 3 H 97 A 4 L 99 
+ 4  4  0 .........W...AAW....H.L...HOLF..HOLF F 97 W 3 O 2 L 98 
+ 4  4  0 ...WL....WL.AAHOL...HO....H..F.....F H 99 F 97 A 4 L 99 
+ 4  4  0 ...W.....WLFAAH.LF..H.L...HO.....O.. H 95 H 95 O 2 A 4 
+ 4  4  0 ...W.F...W.FAAHO....HOL...H.L.....L. F 99 L 98 H 99 A 4 
+ 4  4  0 ...W.....W..AAHO....HOLF..H.LF....L. F 98 L 98 H 99 A 4 
+ 4  4  0 ...WL...HWL.AAHOL...HO.......F.....F H 98 F 97 A 4 L 99 
+ 4  4  0 ..HWL...HWL.AAHOL....O.......F.....F H 97 F 97 A 4 L 99 
+ 4  4  0 ..HWL...HWLFAAH.LF.........O.....O.. O 2 H 97 A 4 L 99 
+ 4  4  0 ...W....HWL.AAH.L...H.L....O.F...O.F H 98 F 97 O 2 A 4 
+ 4  4  0 ...WLF...WLFAA.OL...HO....H.....H... F 93 F 93 A 4 L 99 
+ 4  4  0 ..HWLF..HWLFAAHOL....O.............. F 99 H 97 A 4 L 99 
+ 4  4  0 ...W.....W..AA.OL...HOL...H.LF..H..F L 97 F 97 A 4 L 97 
+ 4  4  0 ...WL....WL.AA..L...H.....HO.F..HO.F O 2 F 97 A 4 L 99 
+ 4  4  0 .............AAW....HWL...HOLF..HOLF F 97 W 2 O 2 L 98 
+ 4  4  0 ....L....WL..AAWL...H.....HO.F..HO.F F 97 L 99 W 3 O 2 
+ 4  4  0 .........WL..AAWL...HOL...HO.F..H..F O 1 F 97 W 3 O 1 
+ 4  4  0 .........WL.AA.WL...H.L...HO.F..HO.F A 4 F 97 W 3 O 2 
+ 4  4  0 .........WL..AAWLF..H.LF..HO....HO.. F 95 F 95 W 3 O 2 
+ 4  4  0 .........W...AAWL...H.L...HOLF..HO.F L 99 F 97 W 3 O 2 
+ 4  4  0 ...W.....WL..AA.L...H.L...HO.F..HO.F W 2 F 97 W 2 O 2 
+ 4  4  0 ..........L..AAWL...HWL...HO.F..HO.F W 2 F 97 W 2 O 2 
+ 4  4  0 ....LF...WLF.AAWL...H.....HO....HO.. F 99 L 99 W 3 O 2 
+ 4  4  0 ....L....WL..AAWLF..H..F..HO....HO.. F 99 L 99 W 3 O 2 
+ 4  4  0 .........W.F.AAWLF..H.L...HOL...HO.. L 97 L 97 W 3 O 2 
+ 4  4  0 ....L....WL..AAWL...H..F..HO.F..HO.. F 98 L 99 W 3 O 2 
+ 4  4  0 ...WL....WLF.AA.LF..H.....HO....HO.. W 2 L 99 W 2 O 2 
+ 4  4  0 ....L.....LF.AAWLF..HW....HO....HO.. W 2 L 99 W 2 O 2 
+ 4  4  0 .............AAW.F..HWLF..HOL...HOL. F 99 W 2 O 2 L 98 
+ 4  4  0 .........WL.AA.WL...H.LF..HO.F..HO.. A 4 W 3 O 2 F 98 
+ 4  4  0 ....L....WLFAA.WLF..H.....HO....HO.. A 4 L 99 W 3 O 2 
+ 4  4  0 ..........LFAAHWLF..HWL...HO.....O.. H 99 W 2 O 2 A 4 
+ 4  4  0 ..........LF.AAWLF..HWL...HO....HO.. L 96 W 2 O 2 L 96 
+ 4  4  0 ..........L..AAWL...HWLF..HO.F..HO.. W 2 W 2 O 2 F 98 
+ 4  4  0 ...........FAA.W.F..HWL...HOL...HOL. A 4 W 2 O 2 L 98 
+ 4  4  0 .....F.....F.AAW....HWL...HOL...HOL. F 99 W 2 O 2 L 98 
+ 4  4  0 ...WL....WL.AA..L...HO....HO.F..H..F O 3 F 97 A 4 L 99 
+ 4  4  0 .............AAW....HWLF..HOLF..HOL. F 98 W 2 O 2 L 98 
+ 4  4  0 ...WL....WL.AA..LF..H..F..HO....HO.. A 4 L 99 O 2 F 99 
+ 4  4  0 .........W...AAWL...H.LF..HOLF..HO.. L 99 W 3 O 2 F 98 
+ 4  4  0 ...W....HW.FAAH..F..HOL....OL.....L. L 98 O 3 H 98 A 4 
+ 4  4  0 .........W...AAW....H.LF..HOLF..HOL. L 98 W 3 O 2 F 98 
+ 4  4  0 ..HWL...HWL.AAHOLF...O.F............ F 99 H 97 A 4 L 99 
+ 4  4  0 ..HWL...HWL.AAHOL....O.F.....F...... F 98 H 97 A 4 L 99 
+ 4  4  0 ...W.F...WLFAAHOL...HOL...H......... H 95 F 99 H 95 A 4 
+ 4  4  0 .............AAWL...HWL...HOLF..HO.F F 97 W 2 L 99 O 2 
+ 4  4  0 .............AAWL...HWLF..HOLF..HO.. F 98 W 2 L 99 O 2 
+ 4  4  0 .............AAWLF..HWLF..HOL...HO.. F 99 W 2 L 99 O 2 
+ 4  4  0 .....F.....F.AAWL...HWL...HOL...HO.. F 99 W 2 L 99 O 2 
+ 4  4  0 ...........FAA.WLF..HWL...HOL...HO.. A 4 W 2 L 99 O 2 
+ 4  4  0 ..HW.F..HWLFAAH.L....OL....O........ O 3 F 99 H 97 A 4 
+ 4  4  0 ..HW.F..HWLFAAH.L.....L....O.....O.. O 2 F 99 H 97 A 4 
+ 4  4  0 .....F...W.F.AAWL...HOL...HOL...H... F 99 W 3 L 99 O 3 
+ 4  4  0 ..........L.AA.WLF..HWLF..HO....HO.. A 4 W 2 O 2 F 99 
+ 4  4  0 ...W.....W....AAL...HOLF..HOLF..H... A 4 F 98 L 99 O 3 
+ 4  4  0 ..HW....HW..AAHO.....OL.....LF....LF F 97 L 98 H 97 A 4 
+ 4  4  0 ..HW....HW..AAHO.....OLF....LF....L. F 98 L 98 H 97 A 4 
+ 4  4  0 ..HW....HW..AAHO.F...OLF....L.....L. F 99 L 98 H 97 A 4 
+ 4  4  0 ..HW.F..HW.FAAHO.....OL.....L.....L. F 99 L 98 H 97 A 4 
+ 4  4  0 ..HW....HW.FAAH..F...OL....OL.....L. O 3 L 98 H 97 A 4 
+ 4  4  0 ...W....HW.FAAHO.F..HOL.....L.....L. H 96 L 98 H 96 A 4 
+ 4  4  0 ...W.....W.FAA.O.F..HOL...H.L...H.L. H 94 L 98 H 94 A 4 
+ 4  4  0 ...W.....WL...AAL...HOLF..HO.F..H... F 98 F 98 A 4 O 3 
+ 4  4  0 ...W.....WL...AAL...HOL...HO.F..H..F F 97 F 97 A 4 O 3 
+ 4  4  0 ...WL....WL...AALF..HO.F..HO....H... L 99 F 99 A 4 O 3 
+ 4  4  0 ...W.....W....AALF..HOLF..HOL...H... L 99 F 99 A 4 O 3 
+ 4  4  0 ..HW....HW..AAHOLF...OLF....L....... L 99 F 99 H 97 A 4 
+ 4  4  0 ...W.F...W.F.AA.L...H.L...HOL...HO.. F 99 L 97 O 2 L 97 
+ 4  4  0 ..HW.F..HW.FAAHOL....OL.....L....... L 99 F 99 H 97 A 4 
+ 4  4  0 .....F...WLF.AAWL...HOL...HO....H... F 97 F 97 W 3 O 3 
+ 4  4  0 ...W.....W..AA..L...HOLF..HOLF..H... A 4 F 98 L 99 O 3 
+ 4  4  0 ...W....HW..AAHO....HOL.....LF....LF L 98 F 97 H 98 A 4 
+ 4  4  0 ...W.....W....AA.F..H.LF..HOL...HOL. F 99 A 4 O 2 L 98 
+ 4  4  0 ...W.....W....AA....H.LF..HOLF..HOL. F 98 A 4 O 2 L 98 
+ 4  4  0 ...W.....W....AA....H.L...HOLF..HOLF F 97 A 4 O 2 L 98 
+ 4  4  0 ...W.....W.F..AALF..H.L...HOL...HO.. L 97 A 4 O 2 L 97 
+ 4  4  0 ..HW....HWL.AAH.LF....LF...O.....O.. O 2 F 99 H 97 A 4 
+ 4  4  0 ....L....WL..AAWLF..HO.F..HO....H... L 99 F 99 W 3 O 3 
+ 4  4  0 ...W.....W....AAL...HOL...HOLF..H..F F 97 L 99 A 4 O 3 
+ 4  4  0 .........W...AAWLF..HOLF..HOL...H... L 99 F 99 W 3 O 3 
+ 4  4  0 ...W.F...W.F..AA....H.L...HOL...HOL. L 98 A 4 O 2 F 99 
+ 4  4  0 ...W.F...W.F..AAL...H.L...HOL...HO.. L 99 A 4 O 2 F 99 
+ 4  4  0 ...WLF...WLF..AAL...H.....HO....HO.. L 99 A 4 O 2 F 99 
+ 4  4  0 ...W.....WL...AAL...H.L...HO.F..HO.F F 95 A 4 O 2 F 95 
+ 4  4  0 ...W.....WL...AALF..H.LF..HO....HO.. F 97 A 4 O 2 F 97 
+ 4  4  0 ...WL....WL...AAL...HO....HO.F..H..F F 97 L 99 A 4 O 3 
+ 4  4  0 ...WL....WL...AAL...HO.F..HO.F..H... F 98 L 99 A 4 O 3 
+ 4  4  0 ...WLF...WLF..AAL...HO....HO....H... F 99 L 99 A 4 O 3 
+ 4  4  0 ...WL....WLF..AALF..H.....HO....HO.. O 2 L 99 A 4 O 2 
+ 4  4  0 .........W...AAW.F..HOLF..HOL...H.L. L 98 F 99 W 3 O 3 
+ 4  4  0 ...WL....WL...AAL...H..F..HO.F..HO.. L 99 A 4 O 2 F 98 
+ 4  4  0 ...W.F...W.FAA......H.L...HOL...HOL. F 99 A 4 O 2 L 98 
+ 4  4  0 ...W.....W..AA...F..H.LF..HOL...HOL. F 99 A 4 O 2 L 98 
+ 4  4  0 ...W....HW.FAAH..F..H.L....OL....OL. H 98 A 4 O 2 L 98 
+ 4  4  0 ...W.....W..AA......H.LF..HOLF..HOL. F 98 A 4 O 2 L 98 
+ 4  4  0 ...W.....W..AA......H.L...HOLF..HOLF F 97 A 4 O 2 L 98 
+ 4  4  0 ...W.....WLFAA..LF..HOL...HO....H... W 2 A 4 W 2 O 3 
+ 4  4  0 .........W.FAA.W.F..HOL...HOL...H.L. L 98 A 4 W 3 O 3 
+ 4  4  0 ....L....WLFAA.WLF..HO....HO....H... L 99 A 4 W 3 O 3 
+ 4  4  0 .........WL.AA.WL...HOL...HO.F..H..F F 97 A 4 W 3 O 3 
+ 4  4  0 .........WL.AA.WL...HOLF..HO.F..H... F 98 A 4 W 3 O 3 
+ 4  4  0 ...WL....WLFAAH.LF..HO....HO........ O 3 H 99 A 4 L 99 
+ 4  4  0 ..H.....HWLFAAHWLF...OL....O........ H 97 A 4 W 3 O 3 
+ 4  4  0 .........WLFAAHWLF..HOL...HO........ H 99 A 4 W 3 O 3 
+ 4  4  0 .....F...WLFAA.WL...HOL...HO....H... F 99 A 4 W 3 O 3 
+ 4  4  0 ...W.....W.FAAH..F..H.L...HOL....OL. H 99 A 4 O 2 L 98 
+ 4  4  0 ...W.....W.FAA..LF..H.L...HOL...HO.. L 97 A 4 O 2 L 97 
+ 4  4  0 .........W.FAA.W.F..H.L...HOL...HOL. W 3 A 4 O 2 L 98 
+ 4  4  0 ...W.F...W.F....AA..H.L...HOL...HOL. A 2 F 99 O 2 L 98 
+ 4  4  0 ....L....WL..AAWL...HO.F..HO.F..H... L 99 F 98 W 3 O 3 
+ 4  4  0 ...W.F...W.F..AAL...HOL...HOL...H... F 99 L 99 A 4 O 3 
+ 4  4  0 .........W...AAWL...HOLF..HOLF..H... L 99 F 98 W 3 O 3 
+ 4  4  0 .........W...AAW....HOLF..HOLF..H.L. L 98 F 98 W 3 O 3 
+ 4  4  0 ...W.....WL..AA.L...HOLF..HO.F..H... W 2 F 98 W 2 O 3 
+ 4  4  0 ...W.F...W.FAA......HOL...HOL...H.L. L 98 O 3 A 4 F 99 
+ 4  4  0 ...W.F...WLFAAH.L...HOL...HO........ H 99 O 3 A 4 F 99 
+ 4  4  0 ...W....HW..AAHOL...HOL.....LF.....F L 99 F 97 H 98 A 4 
+ 4  4  0 ...W.F...W.F..AA....HOL...HOL...H.L. L 98 F 99 A 4 O 3 
+ 4  4  0 ...W....HWL.AAH.L...HOL....O.F.....F O 3 F 97 H 98 A 4 
+ 4  4  0 ...W.....W......AA..H.L...HOLF..HOLF A 2 F 97 O 2 L 98 
+ 4  4  0 ...W.....WL.AAH.LF..HOLF..HO........ F 99 O 3 H 99 A 4 
+ 4  4  0 ...W.....WL.AAH.L...HOLF..HO.F...... F 98 O 3 H 99 A 4 
+ 4  4  0 ...W.....W...AA.L...HOL...HOLF..H..F F 97 F 97 L 99 O 3 
+ 4  4  0 ...W.....WL.AAH.L...HOL...HO.F.....F F 97 O 3 H 99 A 4 
+ 4  4  0 ...WL....WL..AA.L...HO.F..HO.F..H... L 97 F 98 L 97 O 3 
+ 4  4  0 ...W.....W...AA.....HOLF..HOLF..H.L. L 98 F 98 L 98 O 3 
+ 4  4  0 ..HW....HW..AAHOL....OL.....LF.....F L 99 F 97 H 97 A 4 
+ 4  4  0 ..HW....HWL.AAH.L....OL....O.F.....F O 3 F 97 H 97 A 4 
+ 4  4  0 ...W.....WL.AAHOL...HOL...H..F.....F H 95 F 97 H 95 A 4 
+ 4  4  0 ..HW....HWL.AAH.L.....LF...O.F...O.. F 98 H 97 O 2 A 4 
+ 4  4  0 ...W.....W..AA..L...H.L...HOLF..HO.F L 99 F 97 O 2 A 4 
+ 4  4  0 ...W.....W.FAAH..F..HOL...HOL.....L. L 98 O 3 H 99 A 4 
+ 4  4  0 ..........L.AA.WL...HWL...HO.F..HO.F W 2 F 97 O 2 A 4 
+ 4  4  0 ....L....WL..AAWL...HO....HO.F..H..F W 3 L 99 F 97 O 3 
+ 4  4  0 ....LF....LF.AAWL...HW....HO....HO.. W 2 O 2 F 99 L 99 
+ 4  4  0 ...WL....WL..AA.L...H.....HO.F..HO.F F 95 O 2 F 95 L 99 
+ 4  4  0 ...WLF...WLFAA..L...H.....HO....HO.. A 4 O 2 F 99 L 99 
+ 4  4  0 ....L.....L..AAWLF..HW.F..HO....HO.. L 99 W 2 O 2 F 99 
+ 4  4  0 ....L.....L..AAWL...HW.F..HO.F..HO.. W 2 O 2 F 98 L 99 
+ 4  4  0 ...W.....W...AA.L...H.LF..HOLF..HO.. L 97 O 2 F 98 L 97 
+ 4  4  0 ...WL....WL.AA..L...H..F..HO.F..HO.. A 4 O 2 F 98 L 99 
+ 4  4  0 ..HW....HW..AAHOL....OLF....LF...... H 97 F 98 L 99 A 4 
+ 4  4  0 ...W....HW..AAHOL...HOLF....LF...... H 98 F 98 L 99 A 4 
+ 4  4  0 ...WL....WL.AAHOLF..HO.F..H......... H 99 F 99 A 4 L 99 
+ 4  4  0 ...W....HW..AAHOLF..HOLF....L....... F 99 H 98 L 99 A 4 
+ 4  4  0 ...W.....W...AA..F..H.LF..HOL...HOL. L 96 L 96 O 2 F 99 
+ 4  4  0 ...WL...HWL.AAHOLF..HO.F............ H 98 F 99 A 4 L 99 
+ 4  4  0 ...WL....WL.AA..LF..HO.F..HO....H... O 3 F 99 A 4 L 99 
+ 4  4  0 ...W....HW.FAAH.LF..HOL....OL....... O 3 H 98 L 99 A 4 
+ 4  4  0 ...W....HW.FAAH.LF..H.L....OL....O.. O 2 H 98 L 99 A 4 
+ 4  4  0 ...W.F..HW.FAAHOL...HOL.....L....... F 99 H 98 L 99 A 4 
+ 4  4  0 ...W.....W..AA..L...HOL...HOLF..H..F L 99 A 4 F 97 O 3 
+ 4  4  0 ...W.....W..AA......HOL...HOLF..H.LF L 98 A 4 F 97 O 3 
+ 4  4  0 ...WL....WL.AA..L...HO.F..HO.F..H... O 3 L 99 F 98 A 4 
+ 4  4  0 ...WL....WL.AAHOL...HO.F..H..F...... H 99 L 99 F 98 A 4 
+ 4  4  0 ...WL...HWL.AAHOL...HO.F.....F...... H 98 L 99 F 98 A 4 
+ 4  4  0 .........W...AAW....HOL...HOLF..H.LF F 97 L 98 W 3 O 3 
+ 4  4  0 .....F...W.F.AAW....HOL...HOL...H.L. F 99 L 98 W 3 O 3 
+ 4  4  0 ...W.....W.FAAH.LF..HOL...HOL....... L 99 O 3 H 99 A 4 
+ 4  4  0 ...W.....W...AA.....HOL...HOLF..H.LF F 97 O 3 L 98 F 97 
+ 4  4  0 ...W.....W..AA..LF..H.LF..HOL...HO.. A 4 L 99 O 2 F 99 
+ 4  4  0 ...W.....WL.AAH.L...H.LF..HO.F...O.. O 2 F 98 H 99 A 4 
+ 4  4  0 ...WLF...WLFAA..L...HO....HO....H... F 99 O 3 A 4 L 99 
+ 4  4  0 .........WL.AA.WLF..H.LF..HO....HO.. W 3 F 99 O 2 A 4 
+ 4  4  0 ...W.....W....AALF..H.LF..HOL...HO.. A 4 L 99 O 2 F 99 
+ 4  4  0 ...W.F..HW.FAAHO....HOL.....L.....L. H 98 L 98 A 4 F 99 
+ 4  4  0 .........W...AAWLF..H.LF..HOL...HO.. W 3 L 99 O 2 F 99 
+ 4  4  0 ...W.F...W.FAA.OL...HOL...H.L...H... L 97 L 97 A 4 F 99 
+ 4  4  0 ...W.....W....AAL...H.L...HOLF..HO.F A 4 O 2 L 99 F 97 
+ 4  4  0 ...W.....W..AA......HOLF..HOLF..H.L. O 3 A 4 L 98 F 98 
+ 4  4  0 ...W....HW..AAHO....HOLF....LF....L. H 98 A 4 L 98 F 98 
+ 4  4  0 ..HW....HWL.AAH.LF...OLF...O........ F 99 O 3 H 97 A 4 
+ 4  4  0 ..HW....HWL.AAH.L....OLF...O.F...... F 98 O 3 H 97 A 4 
+ 4  4  0 ..HW....HW.FAAH.LF...OL....OL....... L 99 O 3 H 97 A 4 
+ 4  4  0 ...W.F...W.FAA..L...HOL...HOL...H... A 4 O 3 L 99 F 99 
+ 4  4  0 ...W.....W......AA..H.LF..HOLF..HOL. A 2 L 98 O 2 F 98 
+ 4  4  0 ...W.....WL.AAH.LF..H.LF..HO.....O.. O 2 F 99 H 99 A 4 
+ 4  4  0 ...W....HWL.AAHOL...HOLF.....F...... H 96 F 98 H 96 A 4 
+ 4  4  0 ...WLF..HWLFAAHOL...HO.............. F 99 H 98 A 4 L 99 
+ 4  4  0 ...WL...HWLFAAH.LF..H......O.....O.. O 2 H 98 A 4 L 99 
+ 4  4  0 ...W.....WL.AA..L...HOLF..HO.F..H... F 96 O 3 A 4 F 96 
+ 4  4  0 ...W....HWL.AAHOLF..HOLF............ F 97 H 98 A 4 F 97 
+ 4  4  0 ...W.....W..AA..LF..HOLF..HOL...H... F 99 O 3 L 99 A 4 
+ 4  4  0 ...W.....W..AA..L...H.LF..HOLF..HO.. L 99 A 4 O 2 F 98 
+ 4  4  0 ...W.F...WLFAA..L...H.L...HO....HO.. F 95 A 4 O 2 F 95 
+ 4  4  0 ...W....HWL.AAH.L...H.LF...O.F...O.. H 98 A 4 O 2 F 98 
+ 4  4  0 ...W.F..HWLFAAH.L...H.L....O.....O.. O 2 H 98 A 4 F 99 
+ 4  4  0 ...W.....W..AA.OLF..HOLF..H.L...H... L 97 L 97 F 99 A 4 
+ 4  4  0 ...W.....W..AAHO.F..HOLF..H.L.....L. H 99 L 98 F 99 A 4 
+ 4  4  0 ...W....HWL.AAH.LF..HOLF...O........ H 98 O 3 F 99 A 4 
+ 4  4  0 ...W....HW..AAHO.F..HOLF....L.....L. H 98 L 98 F 99 A 4 
+ 4  4  0 ...W.....W..AAHOL...HOL...H.LF.....F F 97 H 99 L 99 A 4 
+ 4  4  0 ...W.F...W.FAAHOL...HOL...H.L....... F 99 H 99 L 99 A 4 
+ 4  4  0 ..HW....HW.FAAHOLF...OL.....L....... H 97 H 97 L 99 A 4 
+ 4  4  0 ...W.....W.FAAH.LF..H.L...HOL....O.. O 2 H 99 L 99 A 4 
+ 4  4  0 ...W.....W..AAHOL...HOLF..H.LF...... F 98 H 99 L 99 A 4 
+ 5  5  0 ...WL....WLFAA..LF..H.....HO....HO.. W 0 L 99 W 0 O 2 A 4 
+ 5  5  0 ........HWL.AAHWL...HOL....O.F.....F F 97 W 3 O 3 H 98 A 4 
+ 5  5  0 ........HW.FAAHWLF..HOL....OL....... L 99 W 3 O 3 H 98 A 4 
+ 5  5  0 .........WL.AAHWLF..HOLF..HO........ H 99 A 4 F 99 W 3 O 3 
+ 5  5  0 .........W.FAAHWLF..H.L...HOL....O.. L 99 H 99 W 3 O 2 A 4 
+ 5  5  0 .....F...WLFAAHWL...H.L...HO.....O.. F 99 H 99 W 3 O 2 A 4 
+ 5  5  0 ...W....HW..AAH..F..H.LF...OL....OL. L 98 H 98 F 99 O 2 A 4 
+ 5  5  0 .........WL.AAHWL...H.LF..HO.F...O.. F 98 H 99 W 3 O 2 A 4 
+ 5  5  0 ...WL...HWL.AAH.L...HO.....O.F.....F F 97 L 99 O 3 H 98 A 4 
+ 5  5  0 ........H..FAAHW.F..HWL....OL....OL. L 98 H 98 W 2 O 2 A 4 
+ 5  5  0 ........H.L.AAHWL...HWLF...O.F...O.. F 98 H 98 W 2 O 2 A 4 
+ 5  5  0 ...W.....W..AAH.LF..HOLF..HOL....... O 3 L 99 F 99 H 99 A 4 
+ 5  5  0 ....L.....L.AA.WL...HW....HO.F..HO.F F 97 L 99 W 2 O 2 A 4 
+ 5  5  0 ........HW.FAAHWLF..H.L....OL....O.. H 98 L 99 W 3 O 2 A 4 
+ 5  5  0 ...W....HWLFAAH.LF..H.L....O.....O.. W 0 H 98 W 0 O 2 A 4 
+ 5  5  0 ..HW.F..HW.FAAH.L.....L....OL....O.. F 99 L 99 H 97 O 2 A 4 
+ 5  5  0 ...W.....W..AAH..F..HOLF..HOL.....L. H 99 A 4 O 3 L 98 F 99 
+ 5  5  0 ...WL....WL.AAH.LF..H..F..HO.....O.. F 99 O 2 H 99 A 4 L 99 
+ 5  5  0 .....F..HWLFAAHWL...HOL....O........ W 3 F 99 O 3 H 98 A 4 
+ 5  5  0 .........W..AA.WLF..HOLF..HOL...H... L 99 A 4 F 99 W 3 O 3 
+ 5  5  0 ..H.....H..FAAHWLF...WL....OL....O.. W 2 L 99 H 97 O 2 A 4 
+ 5  5  0 ...WL....WL.AAH.L...H..F..HO.F...O.. F 98 O 2 H 99 A 4 L 99 
+ 5  5  0 ...WLF...WLFAAH.L...HO....HO........ O 3 F 99 H 99 A 4 L 99 
+ 5  5  0 .........W..AA.WL...HOL...HOLF..H..F A 4 F 97 W 3 L 99 O 3 
+ 5  5  0 ...W....HW..AAH.LF..H.LF...OL....O.. L 99 H 98 F 99 O 2 A 4 
+ 5  5  0 ....LF....LFAA.WL...HW....HO....HO.. F 99 L 99 W 2 O 2 A 4 
+ 5  5  0 ........HWL.AAHWLF..H.LF...O.....O.. W 3 H 98 F 99 O 2 A 4 
+ 5  5  0 .........WL.AAHWL...H.L...HO.F...O.F F 97 H 99 W 3 O 2 A 4 
+ 5  5  0 ...W.....W..AAH.....H.L...HOLF...OLF O 2 H 99 A 4 F 97 L 98 
+ 5  5  0 ........HWLFAAHWLF..H.L....O.....O.. O 2 W 3 O 2 H 98 A 4 
+ 5  5  0 ...WL...HWL.AAH.LF..HO.F...O........ F 99 L 99 O 3 H 98 A 4 
+ 5  5  0 ...WLF...WLFAAH.L...H.....HO.....O.. F 99 O 2 H 99 A 4 L 99 
+ 5  5  0 ..HW....HW..AAH..F...OLF...OL.....L. H 97 A 4 O 3 L 98 F 99 
+ 5  5  0 .........W..AA.W.F..HOLF..HOL...H.L. L 98 A 4 F 99 W 3 O 3 
+ 5  5  0 ...W....HW..AAH.L...HOLF...OLF...... L 99 F 98 O 3 H 98 A 4 
+ 5  5  0 ..H.....HWL.AAHWLF...OLF...O........ H 97 A 4 F 99 W 3 O 3 
+ 5  5  0 ...WL....WL.AAH.L...H.....HO.F...O.F F 97 O 2 H 99 A 4 L 99 
+ 5  5  0 ....L.....LFAAHWLF..HW....HO.....O.. H 99 L 99 W 2 O 2 A 4 
+ 5  5  0 ....L....WLFAAHWLF..H.....HO.....O.. L 99 H 99 W 3 O 2 A 4 
+ 5  5  0 .....F...W.FAA.WL...HOL...HOL...H... F 99 A 4 W 3 L 99 O 3 
+ 5  5  0 ....L.....L.AA.WL...HW.F..HO.F..HO.. F 98 L 99 W 2 O 2 A 4 
+ 5  5  0 ........H.L.AAHWLF..HWLF...O.....O.. F 99 H 98 W 2 O 2 A 4 
+ 5  5  0 ...W.....W..AAH.LF..H.LF..HOL....O.. O 2 L 99 F 99 H 99 A 4 
+ 5  5  0 .....F...W.FAA.WL...H.L...HOL...HO.. F 99 L 99 W 3 O 2 A 4 
+ 5  5  0 .........W..AA.WLF..H.LF..HOL...HO.. F 99 L 99 W 3 O 2 A 4 
+ 5  5  0 .....F.....FAA.WL...HWL...HOL...HO.. L 99 F 99 W 2 O 2 A 4 
+ 5  5  0 ..H.....HW.FAAHWLF....L....OL....O.. W 3 L 99 H 97 O 2 A 4 
+ 5  5  0 ....L....WL.AA.WLF..HO.F..HO....H... L 99 A 4 F 99 W 3 O 3 
+ 5  5  0 .........W.FAAHWLF..HOL...HOL....... H 99 A 4 W 3 L 99 O 3 
+ 5  5  0 ..HW....HW..AAH.L.....L....OLF...O.F F 97 L 99 H 97 O 2 A 4 
+ 5  5  0 .....F..H.LFAAHWL...HWL....O.....O.. H 98 F 99 W 2 O 2 A 4 
+ 5  5  0 ..H..F..H.LFAAHWL....WL....O.....O.. H 97 F 99 W 2 O 2 A 4 
+ 5  5  0 ........HW.FAAHW.F..HOL....OL.....L. L 98 W 3 O 3 H 98 A 4 
+ 5  5  0 ..........L.AAHWL...HWLF..HO.F...O.. H 99 F 98 W 2 O 2 A 4 
+ 5  5  0 ........HWL.AAHWL...HOLF...O.F...... F 98 W 3 O 3 H 98 A 4 
+ 5  5  0 ............AA.WL...HWLF..HOLF..HO.. L 99 F 98 W 2 O 2 A 4 
+ 5  5  0 ....L.....L.AA.WLF..HW.F..HO....HO.. F 99 L 99 W 2 O 2 A 4 
+ 5  5  0 ....L...H.LFAAHWLF..HW.....O.....O.. L 99 H 98 W 2 O 2 A 4 
+ 5  5  0 ...WL...HWL.AAH.L...HO.F...O.F...... F 98 L 99 O 3 H 98 A 4 
+ 5  5  0 ...WL....WL...AAL...H.....HO.F..HO.F F 97 A 4 L 99 O 2 F 97 
+ 5  5  0 ..HW....HW..AAH.LF....LF...OL....O.. F 99 L 99 H 97 O 2 A 4 
+ 5  5  0 .........W..AA.WL...H.LF..HOLF..HO.. F 98 L 99 W 3 O 2 A 4 
+ 5  5  0 .........W..AA.WL...H.L...HOLF..HO.F F 97 L 99 W 3 O 2 A 4 
+ 5  5  0 .........W..AA.WL...HOLF..HOLF..H... F 98 A 4 W 3 L 99 O 3 
+ 5  5  0 ..H.....HW.FAAHWLF...OL....OL....... H 97 A 4 W 3 L 99 O 3 
+ 5  5  0 ............AA.W....HWLF..HOLF..HOL. L 98 F 98 W 2 O 2 A 4 
+ 5  5  0 ...W....HW..AAH..F..HOLF...OL.....L. H 98 A 4 O 3 L 98 F 99 
+ 5  5  0 ..HW....HW..AAH.L.....LF...OLF...O.. F 98 L 99 H 97 O 2 A 4 
+ 5  5  0 ........HWL.AAHWLF..HOLF...O........ H 98 A 4 F 99 W 3 O 3 
+ 5  5  0 ...W.....W..AAH.....HOL...HOLF....LF O 3 H 99 A 4 F 97 L 98 
+ 5  5  0 ...W.F..HW.FAAH.....HOL....OL.....L. L 98 F 99 O 3 H 98 A 4 
+ 5  5  0 .........WL.AAHWLF..H.LF..HO.....O.. F 99 H 99 W 3 O 2 A 4 
+ 5  5  0 ........H.L.AAHWL...HWL....O.F...O.F F 97 H 98 W 2 O 2 A 4 
+ 5  5  0 ....L...HWLFAAHWLF..HO.....O........ L 99 W 3 O 3 H 98 A 4 
+ 5  5  0 .........W.FAAHW.F..H.L...HOL....OL. L 98 H 99 W 3 O 2 A 4 
+ 5  5  0 .....F....LFAAHWL...HWL...HO.....O.. H 99 F 99 W 2 O 2 A 4 
+ 5  5  0 ...WL...HWL.AAH.LF..H..F...O.....O.. L 99 H 98 F 99 O 2 A 4 
+ 5  5  0 .....F.....FAA.W....HWL...HOL...HOL. L 98 F 99 W 2 O 2 A 4 
+ 5  5  0 ...W.F..HW.FAAH.L...HOL....OL....... L 99 F 99 O 3 H 98 A 4 
+ 5  5  0 ...W....HW..AAH.....HOLF...OLF....L. L 98 F 98 O 3 H 98 A 4 
+ 5  5  0 ...WLF..HWLFAAH.L...HO.....O........ L 99 F 99 O 3 H 98 A 4 
+ 5  5  0 ........H..FAAHWLF..HWL....OL....O.. L 99 H 98 W 2 O 2 A 4 
+ 5  5  0 ....LF...WLFAA.WL...HO....HO....H... A 4 W 3 O 3 F 99 L 99 
+ 5  5  0 ..H.....H.L.AAHWL....WLF...O.F...O.. H 97 F 98 W 2 O 2 A 4 
+ 5  5  0 ..H.L...H.LFAAHWLF...W.....O.....O.. H 97 L 99 W 2 O 2 A 4 

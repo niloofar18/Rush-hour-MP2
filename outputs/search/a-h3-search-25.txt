@@ -1,0 +1,84 @@
+ 4  0  4 ....FF......AA.GG.XH.CCCXH....XH.III
+ 5  1  4 FF..........AA.GG.XH.CCCXH....XH.III F 96 
+ 5  1  4 ..FF........AA.GG.XH.CCCXH....XH.III F 98 
+ 5  1  4 ....FF......AA.GG.XHCCC.XH....XH.III C 99 
+ 5  1  4 ....FF......AA.GG.XH.CCCXH....XHIII. I 99 
+ 5  1  4 ....FF......AA....XH.CCCXH....XH.III G 6 
+ 5  1  4 .FF.........AA.GG.XH.CCCXH....XH.III F 97 
+ 5  1  4 ....FF.......AAGG.XH.CCCXH....XH.III A 6 
+ 5  1  4 ...FF.......AA.GG.XH.CCCXH....XH.III F 99 
+ 6  2  4 FF..........AA.GG.XH.CCCXH....XHIII. I 99 F 96 
+ 6  2  4 ...FF.......AA.GG.XHCCC.XH....XH.III F 99 C 99 
+ 6  2  4 ....FF......AA.GG.XHCCC.XH....XHIII. I 99 C 99 
+ 6  2  4 ....FF......XAAGG.XH.CCCXH.....H.III X 99 A 6 
+ 6  2  4 ...FF.......AA....XH.CCCXH....XH.III G 6 F 99 
+ 6  2  4 .FF.........AA.GG.XHCCC.XH....XH.III F 97 C 99 
+ 6  2  4 ..FF........AA.GG.XHCCC.XH....XH.III C 99 F 98 
+ 6  2  4 ..FF........AA.GG.XH.CCCXH....XHIII. I 99 F 98 
+ 6  2  4 ..FF........AA....XH.CCCXH....XH.III G 6 F 98 
+ 6  2  4 ....FFX.....XAAGG.XH.CCC.H.....H.III X 98 A 6 
+ 6  2  4 X...FFX.....XAAGG..H.CCC.H.....H.III X 97 A 6 
+ 6  2  4 ..FF.........AAGG.XH.CCCXH....XH.III A 6 F 98 
+ 6  2  4 ....FF......AA....XH.CCCXH....XHIII. G 6 I 99 
+ 6  2  4 .FF.........AA....XH.CCCXH....XH.III G 6 F 97 
+ 6  2  4 ....FF.......AA...XH.CCCXH....XH.III G 6 A 6 
+ 6  2  4 ...FF........AAGG.XH.CCCXH....XH.III F 99 A 6 
+ 6  2  4 FF..........AA.GG.XHCCC.XH....XH.III C 99 F 96 
+ 6  2  4 .FF..........AAGG.XH.CCCXH....XH.III A 6 F 97 
+ 6  2  4 ....FF.......AAGG.XH.CCCXH....XHIII. A 6 I 99 
+ 6  2  4 FF..........AA....XH.CCCXH....XH.III G 6 F 96 
+ 6  2  4 ...FF.......AA.GG.XH.CCCXH....XHIII. F 99 I 99 
+ 6  2  4 .FF.........AA.GG.XH.CCCXH....XHIII. F 97 I 99 
+ 6  2  4 FF...........AAGG.XH.CCCXH....XH.III A 6 F 96 
+ 6  2  4 ....FF......AA....XHCCC.XH....XH.III G 6 C 99 
+ 6  2  4 ....FF.......AAGG.XHCCC.XH....XH.III A 6 C 99 
+ 7  3  4 FF..........AA.GG.XHCCC.XH....XHIII. C 99 I 99 F 96 
+ 7  3  4 ..FF........AA.GG.XHCCC.XH....XHIII. F 98 I 99 C 99 
+ 7  3  4 ....FF......AA....XHCCC.XH....XHIII. G 6 I 99 C 99 
+ 7  3  4 ..FF............AAXH.CCCXH....XH.III A 3 G 6 F 98 
+ 7  3  4 X...FFX.....XAA....H.CCC.H.....H.III G 6 X 97 A 6 
+ 7  3  4 X..FF.X.....XAAGG..H.CCC.H.....H.III F 99 X 97 A 6 
+ 7  3  4 X.FF..X.....XAAGG..H.CCC.H.....H.III F 98 X 97 A 6 
+ 7  3  4 XFF...X.....XAAGG..H.CCC.H.....H.III F 97 X 97 A 6 
+ 7  3  4 ...FF........AA...XH.CCCXH....XH.III G 6 F 99 A 6 
+ 7  3  4 ....FFX.....XAA...XH.CCC.H.....H.III G 6 X 98 A 6 
+ 7  3  4 X...FFX.....XAAGG..H.CCC.H.....HIII. I 99 X 97 A 6 
+ 7  3  4 ..FF..X.....XAAGG.XH.CCC.H.....H.III F 98 X 98 A 6 
+ 7  3  4 X...FFX.....XAAGG..HCCC..H.....H.III C 99 X 97 A 6 
+ 7  3  4 FF....X.....XAAGG.XH.CCC.H.....H.III F 96 X 98 A 6 
+ 7  3  4 .FF.............AAXH.CCCXH....XH.III A 3 G 6 F 97 
+ 7  3  4 ..FF.........AAGG.XHCCC.XH....XH.III A 6 C 99 F 98 
+ 7  3  4 FF...........AAGG.XHCCC.XH....XH.III A 6 C 99 F 96 
+ 7  3  4 ....FF......XAAGG.XHCCC.XH.....H.III C 99 X 99 A 6 
+ 7  3  4 .FF..........AAGG.XH.CCCXH....XHIII. I 99 A 6 F 97 
+ 7  3  4 ...FF.......XAAGG.XH.CCCXH.....H.III F 99 X 99 A 6 
+ 7  3  4 .FF..........AA...XH.CCCXH....XH.III G 6 A 6 F 97 
+ 7  3  4 .FF.........XAAGG.XH.CCCXH.....H.III F 97 X 99 A 6 
+ 7  3  4 ...FF.......AA....XH.CCCXH....XHIII. G 6 F 99 I 99 
+ 7  3  4 .FF.........AA.GG.XHCCC.XH....XHIII. F 97 I 99 C 99 
+ 7  3  4 ....FF.......AAGG.XHCCC.XH....XHIII. A 6 I 99 C 99 
+ 7  3  4 ...FF.......AA.GG.XHCCC.XH....XHIII. I 99 F 99 C 99 
+ 7  3  4 ...FF........AAGG.XHCCC.XH....XH.III A 6 F 99 C 99 
+ 7  3  4 ..FF........AA....XH.CCCXH....XHIII. G 6 I 99 F 98 
+ 7  3  4 FF...........AAGG.XH.CCCXH....XHIII. A 6 I 99 F 96 
+ 7  3  4 ..FF........AA....XHCCC.XH....XH.III G 6 C 99 F 98 
+ 7  3  4 .FF.........AA....XHCCC.XH....XH.III G 6 F 97 C 99 
+ 7  3  4 ...FF........AAGG.XH.CCCXH....XHIII. I 99 F 99 A 6 
+ 7  3  4 ...FF.X.....XAAGG.XH.CCC.H.....H.III F 99 X 98 A 6 
+ 7  3  4 ....FF..........AAXH.CCCXH....XHIII. A 3 G 6 I 99 
+ 7  3  4 ..FF.........AAGG.XH.CCCXH....XHIII. A 6 I 99 F 98 
+ 7  3  4 ....FF.......AA...XH.CCCXH....XHIII. G 6 A 6 I 99 
+ 7  3  4 ....FF......XAA...XH.CCCXH.....H.III G 6 X 99 A 6 
+ 7  3  4 FF..............AAXH.CCCXH....XH.III A 3 G 6 F 96 
+ 7  3  4 ...FF.......AA....XHCCC.XH....XH.III G 6 F 99 C 99 
+ 7  3  4 FF..........XAAGG.XH.CCCXH.....H.III F 96 X 99 A 6 
+ 7  3  4 ....FF......XAAGG.XH.CCCXH.....HIII. I 99 X 99 A 6 
+ 7  3  4 ...FF...........AAXH.CCCXH....XH.III A 3 G 6 F 99 
+ 7  3  4 ..FF.........AA...XH.CCCXH....XH.III G 6 A 6 F 98 
+ 7  3  4 .FF...X.....XAAGG.XH.CCC.H.....H.III F 97 X 98 A 6 
+ 7  3  4 FF..........AA....XHCCC.XH....XH.III G 6 C 99 F 96 
+ 7  3  4 FF..........AA....XH.CCCXH....XHIII. G 6 I 99 F 96 
+ 7  3  4 ..FF........XAAGG.XH.CCCXH.....H.III F 98 X 99 A 6 
+ 7  3  4 ....FFX.....XAAGG.XH.CCC.H.....HIII. I 99 X 98 A 6 
+ 7  3  4 ....FFX.....XAAGG.XHCCC..H.....H.III C 99 X 98 A 6 
+ 7  3  4 .FF..........AAGG.XHCCC.XH....XH.III A 6 F 97 C 99 

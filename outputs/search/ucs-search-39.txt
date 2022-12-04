@@ -1,0 +1,420 @@
+ 0  0  0 .............AAKQ....KQ.YYTF.L..TF.L
+ 1  1  0 ............AA.KQ....KQ.YYTF.L..TF.L A 99 
+ 1  1  0 .........K...AAKQ.....Q.YYTF.L..TF.L K 99 
+ 1  1  0 ..........Q..AAKQ....K..YYTF.L..TF.L Q 99 
+ 1  1  0 .............AAKQ....KQLYYTF.L..TF.. L 99 
+ 1  1  0 .............AAKQ...TKQ.YYTF.L...F.L T 99 
+ 1  1  0 ...K.....K...AA.Q.....Q.YYTF.L..TF.L K 98 
+ 1  1  0 .............AAK.....K..YYTFQL..TFQL Q 98 
+ 1  1  0 .....L.....L.AAKQ....KQ.YYTF....TF.. L 96 
+ 1  1  0 .............AAK.....KQ.YYTFQL..TF.L Q 99 
+ 2  2  0 ............AA.K.....KQ.YYTFQL..TF.L Q 99 A 99 
+ 2  2  0 .............AAK.....K.LYYTFQL..TFQ. Q 98 L 99 
+ 2  2  0 ....Q....KQ..AAK........YYTF.L..TF.L Q 98 K 99 
+ 2  2  0 .............AAKQL..TKQLYYTF.....F.. L 98 T 99 
+ 2  2  0 ....Q.....Q..AAK....TK..YYTF.L...F.L Q 98 T 99 
+ 2  2  0 .....L.....L.AAKQ...TKQ.YYTF.....F.. L 96 T 99 
+ 2  2  0 ...K.....K...AA.QL....QLYYTF....TF.. L 98 K 98 
+ 2  2  0 .........K..AA.KQ.....Q.YYTF.L..TF.L A 99 K 99 
+ 2  2  0 .........K...AAKQ...T.Q.YYTF.L...F.L K 99 T 99 
+ 2  2  0 ...K.....K...AA.Q....FQ.YYTF.L..T..L F 99 K 98 
+ 2  2  0 ...K.....K.L.AA.QL....Q.YYTF....TF.. L 97 K 98 
+ 2  2  0 ............AA.KQL...KQLYYTF....TF.. L 98 A 99 
+ 2  2  0 .........K...AAKQ.....QLYYTF.L..TF.. K 99 L 99 
+ 2  2  0 ...K.....K...AA.......Q.YYTFQL..TF.L Q 99 K 98 
+ 2  2  0 ...K.....K...AA.........YYTFQL..TFQL Q 98 K 98 
+ 2  2  0 ...K.....K....AAQ.....Q.YYTF.L..TF.L A 99 K 98 
+ 2  2  0 ..........Q..AAKQL...K.LYYTF....TF.. L 98 Q 99 
+ 2  2  0 ............AA.KQ...TKQ.YYTF.L...F.L T 99 A 99 
+ 2  2  0 .........K...AAK......Q.YYTFQL..TF.L Q 99 K 99 
+ 2  2  0 ............AATKQ...TKQ.YY.F.L...F.L T 98 A 99 
+ 2  2  0 ...K.....K...AAFQ....FQ.YYT..L..T..L F 98 K 98 
+ 2  2  0 ...KQ....KQ..AA.........YYTF.L..TF.L Q 98 K 98 
+ 2  2  0 ...K.....KQ..AA.Q.......YYTF.L..TF.L K 98 Q 99 
+ 2  2  0 .............AAK.....KQLYYTFQL..TF.. Q 99 L 99 
+ 2  2  0 ....Q.....Q.AA.K.....K..YYTF.L..TF.L Q 98 A 99 
+ 2  2  0 ....Q.....Q..AAK.....K.LYYTF.L..TF.. Q 98 L 99 
+ 2  2  0 ..........Q.AA.KQ....K..YYTF.L..TF.L Q 99 A 99 
+ 2  2  0 .........K...AAKQL....QLYYTF....TF.. L 98 K 99 
+ 2  2  0 ...........L.AAK.L...K..YYTFQ...TFQ. L 97 Q 98 
+ 2  2  0 .....L...K.L.AAKQ.....Q.YYTF....TF.. L 96 K 99 
+ 2  2  0 ...........L.AAKQL..TKQ.YYTF.....F.. L 97 T 99 
+ 2  2  0 .............AAK....TKQ.YYTFQL...F.L Q 99 T 99 
+ 2  2  0 .........K...AAK........YYTFQL..TFQL Q 98 K 99 
+ 2  2  0 .............AAKQ...TKQLYYTF.L...F.. T 99 L 99 
+ 2  2  0 .....L.....LAA.KQ....KQ.YYTF....TF.. L 96 A 99 
+ 2  2  0 ............AA.K.....K..YYTFQL..TFQL Q 98 A 99 
+ 2  2  0 ...........LAA.KQL...KQ.YYTF....TF.. L 97 A 99 
+ 2  2  0 ........T...AATKQ....KQ.YY.F.L...F.L T 97 A 99 
+ 2  2  0 .............AAKQL...KQLYYTF....TF.. L 94 L 94 
+ 2  2  0 ....QL....QL.AAK.....K..YYTF....TF.. Q 98 L 96 
+ 2  2  0 ...........L.AAKQL...KQ.YYTF....TF.. L 95 L 95 
+ 2  2  0 ..........Q..AAKQ....K.LYYTF.L..TF.. Q 99 L 99 
+ 2  2  0 ..........Q..AAKQ...TK..YYTF.L...F.L T 99 Q 99 
+ 2  2  0 ....Q.....Q..AAK.....K..YYTF.L..TF.L Q 96 Q 96 
+ 2  2  0 .....L.....L.AAK.....KQ.YYTFQ...TF.. L 96 Q 99 
+ 2  2  0 .............AAK.L...KQLYYTFQ...TF.. L 98 Q 99 
+ 2  2  0 ...........L.AAK.L...KQ.YYTFQ...TF.. L 97 Q 99 
+ 2  2  0 ...K.L...K.L.AA.Q.....Q.YYTF....TF.. L 96 K 98 
+ 2  2  0 .........K...AAKQ....FQ.YYTF.L..T..L F 99 K 99 
+ 3  3  0 ...........LAA.K.L...KQ.YYTFQ...TF.. L 97 Q 99 A 99 
+ 3  3  0 ...KQ....KQ..AA........LYYTF.L..TF.. K 98 Q 98 L 99 
+ 3  3  0 ...KQ....KQ..AA..L.....LYYTF....TF.. Q 98 L 98 K 98 
+ 3  3  0 ....Q...T.Q.AATK.....K..YY.F.L...F.L T 97 Q 98 A 99 
+ 3  3  0 ...K.....K..AA........Q.YYTFQL..TF.L K 98 Q 99 A 99 
+ 3  3  0 ...KQ....KQ.AA..........YYTF.L..TF.L K 98 Q 98 A 99 
+ 3  3  0 ..........Q.AA.KQ....K.LYYTF.L..TF.. L 99 Q 99 A 99 
+ 3  3  0 .........K...AAKQL...FQLYYTF....T... F 99 L 98 K 99 
+ 3  3  0 ...K.....K...AA.......QLYYTFQL..TF.. K 98 Q 99 L 99 
+ 3  3  0 ...K.L...KQL.AA.Q.......YYTF....TF.. L 96 K 98 Q 99 
+ 3  3  0 .....L....QL.AAKQ...TK..YYTF.....F.. Q 99 L 96 T 99 
+ 3  3  0 ...K.....KQ..AA.Q...T...YYTF.L...F.L T 99 K 98 Q 99 
+ 3  3  0 ...K.....KQ..AAFQ....F..YYT..L..T..L Q 99 F 98 K 98 
+ 3  3  0 ...K.L...K.L.AA.Q...T.Q.YYTF.....F.. K 98 L 96 T 99 
+ 3  3  0 ...K.....K..AA.FQ....FQ.YYT..L..T..L A 99 F 98 K 98 
+ 3  3  0 ............AATKQ...TKQ..YYF.L...F.L Y 99 T 98 A 99 
+ 3  3  0 ...KQ....KQ..AAF.....F..YYT..L..T..L Q 98 F 98 K 98 
+ 3  3  0 ............AATK....TK..YY.FQL...FQL Q 98 T 98 A 99 
+ 3  3  0 ...K.....K...AAF.....FQ.YYT.QL..T..L Q 99 F 98 K 98 
+ 3  3  0 ....Q.....QL.AAK.L..TK..YYTF.....F.. Q 98 L 97 T 99 
+ 3  3  0 ...K.....K..AAT.Q...T.Q.YY.F.L...F.L K 98 T 98 A 99 
+ 3  3  0 .........K.L.AAK.L....Q.YYTFQ...TF.. L 97 Q 99 K 99 
+ 3  3  0 .........K...AAK.....FQ.YYTFQL..T..L F 99 Q 99 K 99 
+ 3  3  0 .........K.L.AAKQL..T.Q.YYTF.....F.. L 97 K 99 T 99 
+ 3  3  0 .........KQ..AAKQL.....LYYTF....TF.. K 99 L 98 Q 99 
+ 3  3  0 ...K.....K...AA.Q....FQLYYTF.L..T... L 99 F 99 K 98 
+ 3  3  0 ...K.L...K.L..AAQ.....Q.YYTF....TF.. L 96 A 99 K 98 
+ 3  3  0 ...K.....K....AAQ...T.Q.YYTF.L...F.L T 99 A 99 K 98 
+ 3  3  0 ...K.....KQ...AAQ.......YYTF.L..TF.L Q 99 A 99 K 98 
+ 3  3  0 ...K.....K...AA.Q...T.QLYYTF.L...F.. K 98 T 99 L 99 
+ 3  3  0 .........K..AA.KQ.....QLYYTF.L..TF.. A 99 K 99 L 99 
+ 3  3  0 ...K.....K...AAFQ...TFQ.YYT..L.....L T 99 F 98 K 98 
+ 3  3  0 ........T...AATKQL...KQLYY.F.....F.. T 97 L 98 A 99 
+ 3  3  0 .............AAK.L..TK.LYYTFQ....FQ. Q 98 L 98 T 99 
+ 3  3  0 ....Q....KQ..AAK.......LYYTF.L..TF.. Q 98 K 99 L 99 
+ 3  3  0 ...K.....K......AA......YYTFQL..TFQL A 97 Q 98 K 98 
+ 3  3  0 .....L...K.LAA.KQ.....Q.YYTF....TF.. A 99 L 96 K 99 
+ 3  3  0 ...........L.AAK.L..TK..YYTFQ....FQ. T 99 L 97 Q 98 
+ 3  3  0 ............AA.K.L...K.LYYTFQ...TFQ. Q 98 L 98 A 99 
+ 3  3  0 ..........QL.AAKQL...K..YYTF....TF.. Q 95 L 97 Q 95 
+ 3  3  0 .........K...AAKQL..T.QLYYTF.....F.. K 99 L 98 T 99 
+ 3  3  0 .........K.L.AAK.L......YYTFQ...TFQ. K 99 L 97 Q 98 
+ 3  3  0 ...K.....K.L.AA..L......YYTFQ...TFQ. K 98 L 97 Q 98 
+ 3  3  0 .........K...AAKQ...T.QLYYTF.L...F.. T 99 K 99 L 99 
+ 3  3  0 ............AA.KQL..TKQLYYTF.....F.. A 99 L 98 T 99 
+ 3  3  0 ...........LAA.K.L...K..YYTFQ...TFQ. A 99 L 97 Q 98 
+ 3  3  0 .....L.....LAA.KQ...TKQ.YYTF.....F.. L 96 T 99 A 99 
+ 3  3  0 ..T.....T...AA.KQL...KQLYY.F.....F.. T 96 L 98 A 99 
+ 3  3  0 ...K.....K..AA..QL....QLYYTF....TF.. K 98 L 98 A 99 
+ 3  3  0 ...K.....K....AAQ.....QLYYTF.L..TF.. L 99 A 99 K 98 
+ 3  3  0 ....Q....KQ..AAK.L.....LYYTF....TF.. L 98 Q 98 K 99 
+ 3  3  0 ...K.....K.L.AA.QL...FQ.YYTF....T... F 99 L 97 K 98 
+ 3  3  0 ....Q....KQL.AAK.L......YYTF....TF.. L 97 Q 98 K 99 
+ 3  3  0 ...K.....K.L.AAFQL...FQ.YYT.....T... F 98 L 97 K 98 
+ 3  3  0 ...K.....K....AAQL....QLYYTF....TF.. L 98 A 99 K 98 
+ 3  3  0 ...K.....K.L.AA.QL..T.Q.YYTF.....F.. T 99 L 97 K 98 
+ 3  3  0 ...K.....KQL.AA.QL......YYTF....TF.. Q 99 L 97 K 98 
+ 3  3  0 ...KQ....KQL.AA..L......YYTF....TF.. Q 98 L 97 K 98 
+ 3  3  0 ...KQ....KQ..AA.....T...YYTF.L...F.L K 98 Q 98 T 99 
+ 3  3  0 ...K.....K.L.AA..L....Q.YYTFQ...TF.. Q 99 L 97 K 98 
+ 3  3  0 ...........LAA.KQL..TKQ.YYTF.....F.. L 97 T 99 A 99 
+ 3  3  0 ....Q....KQ..AAK....T...YYTF.L...F.L T 99 Q 98 K 99 
+ 3  3  0 .........K.L.AAKQL....Q.YYTF....TF.. K 97 L 97 K 97 
+ 3  3  0 ...K.....K.LAA..QL....Q.YYTF....TF.. A 99 L 97 K 98 
+ 3  3  0 ...K.....K.L..AAQL....Q.YYTF....TF.. A 99 L 97 K 98 
+ 3  3  0 .....L.....L.AAK....TKQ.YYTFQ....F.. Q 99 L 96 T 99 
+ 3  3  0 ...K.....K...AA.QL...FQLYYTF....T... L 98 F 99 K 98 
+ 3  3  0 ............AA.KQ...TKQLYYTF.L...F.. L 99 T 99 A 99 
+ 3  3  0 .....L.....L.AAK....TK..YYTFQ....FQ. Q 98 L 96 T 99 
+ 3  3  0 .........K...AAK......QLYYTFQL..TF.. L 99 Q 99 K 99 
+ 3  3  0 ............AATKQL..TKQLYY.F.....F.. L 98 T 98 A 99 
+ 3  3  0 ...K.L...K.L.AAFQ....FQ.YYT.....T... L 96 F 98 K 98 
+ 3  3  0 ....Q.....QLAA.K.L...K..YYTF....TF.. L 97 Q 98 A 99 
+ 3  3  0 ...K.....K....AA......Q.YYTFQL..TF.L Q 99 A 99 K 98 
+ 3  3  0 ...K.....K....AA........YYTFQL..TFQL Q 98 A 99 K 98 
+ 3  3  0 ..T.....T...AA.KQ....KQ.YY.F.L...F.L T 96 T 96 A 99 
+ 3  3  0 ...K.....K...AA.Q...TFQ.YYTF.L.....L T 99 F 99 K 98 
+ 3  3  0 ............AATKQ...TKQLYY.F.L...F.. L 99 T 98 A 99 
+ 3  3  0 ...K.....KQ..AA.Q....F..YYTF.L..T..L Q 99 F 99 K 98 
+ 3  3  0 .....L...KQL.AAKQ.......YYTF....TF.. Q 99 L 96 K 99 
+ 3  3  0 ...KQ....KQ..AA......F..YYTF.L..T..L Q 98 F 99 K 98 
+ 3  3  0 ...........LAATKQL..TKQ.YY.F.....F.. L 97 T 98 A 99 
+ 3  3  0 .....L.....LAATKQ...TKQ.YY.F.....F.. L 96 T 98 A 99 
+ 3  3  0 ...K.....K...AA......FQ.YYTFQL..T..L Q 99 F 99 K 98 
+ 3  3  0 ....Q....KQ.AA.K........YYTF.L..TF.L A 99 Q 98 K 99 
+ 3  3  0 ...K.....K...AA......F..YYTFQL..T.QL Q 98 F 99 K 98 
+ 3  3  0 .............AAK....TK.LYYTFQL...FQ. T 99 Q 98 L 99 
+ 3  3  0 ...K.....K..AA..Q....FQ.YYTF.L..T..L A 99 F 99 K 98 
+ 3  3  0 ...K.....K...AAFQ....FQLYYT..L..T... L 99 F 98 K 98 
+ 3  3  0 ...K.....K....AAQ....FQ.YYTF.L..T..L A 99 F 99 K 98 
+ 3  3  0 .....L...K.L.AAKQ...T.Q.YYTF.....F.. L 96 K 99 T 99 
+ 3  3  0 .........K...AAKQ...TFQ.YYTF.L.....L F 99 K 99 T 99 
+ 3  3  0 ..T..L..T..LAA.KQ....KQ.YY.F.....F.. T 96 L 96 A 99 
+ 3  3  0 .....L....QLAA.KQ....K..YYTF....TF.. Q 99 L 96 A 99 
+ 3  3  0 ....QL....QLAA.K.....K..YYTF....TF.. Q 98 L 96 A 99 
+ 3  3  0 .....L.....LAA.K.....KQ.YYTFQ...TF.. Q 99 L 96 A 99 
+ 3  3  0 .....L.....LAA.K.....K..YYTFQ...TFQ. Q 98 L 96 A 99 
+ 3  3  0 ...K.....K...AAFQL...FQLYYT.....T... L 98 F 98 K 98 
+ 3  3  0 .........K...AAK.L.....LYYTFQ...TFQ. Q 98 L 98 K 99 
+ 3  3  0 .........K..AA.KQL....QLYYTF....TF.. A 99 L 98 K 99 
+ 3  3  0 .........K...AAK....T.Q.YYTFQL...F.L Q 99 K 99 T 99 
+ 3  3  0 ...KQ....KQ.....AA......YYTF.L..TF.L A 97 Q 98 K 98 
+ 3  3  0 ..........QLAA.KQL...K..YYTF....TF.. L 97 Q 99 A 99 
+ 3  3  0 .........K...AAK....T...YYTFQL...FQL Q 98 K 99 T 99 
+ 3  3  0 ..........Q.AA.KQ...TK..YYTF.L...F.L T 99 Q 99 A 99 
+ 3  3  0 ..........Q.AATKQ...TK..YY.F.L...F.L T 98 Q 99 A 99 
+ 3  3  0 ...K.....K..AA..Q...T.Q.YYTF.L...F.L K 98 T 99 A 99 
+ 3  3  0 .........K...AAK.......LYYTFQL..TFQ. K 99 Q 98 L 99 
+ 3  3  0 ....Q.....Q.AA.K.L...K.LYYTF....TF.. L 98 Q 98 A 99 
+ 3  3  0 ........T.Q.AATKQ....K..YY.F.L...F.L T 97 Q 99 A 99 
+ 3  3  0 ..T.....T.Q.AA.KQ....K..YY.F.L...F.L T 96 Q 99 A 99 
+ 3  3  0 .........K..AA.KQ...T.Q.YYTF.L...F.L A 99 K 99 T 99 
+ 3  3  0 .........KQ.AA.KQ.......YYTF.L..TF.L K 99 Q 99 A 99 
+ 3  3  0 ...K.....K...AA........LYYTFQL..TFQ. K 98 Q 98 L 99 
+ 3  3  0 ...K.....KQ.AA..Q.......YYTF.L..TF.L K 98 Q 99 A 99 
+ 3  3  0 .........K.LAA.KQL....Q.YYTF....TF.. L 97 A 99 K 99 
+ 3  3  0 ..T.Q...T.Q.AA.K.....K..YY.F.L...F.L T 96 Q 98 A 99 
+ 3  3  0 ....Q.....Q.AATK....TK..YY.F.L...F.L Q 98 T 98 A 99 
+ 3  3  0 ...K.....K...AAF.....F..YYT.QL..T.QL Q 98 F 98 K 98 
+ 3  3  0 ............AA.K.....K.LYYTFQL..TFQ. A 99 Q 98 L 99 
+ 3  3  0 ....Q.....Q.AA.K....TK..YYTF.L...F.L A 99 Q 98 T 99 
+ 3  3  0 .........K..AA.KQ....FQ.YYTF.L..T..L F 99 A 99 K 99 
+ 3  3  0 ............AA.K....TKQ.YYTFQL...F.L T 99 Q 99 A 99 
+ 3  3  0 ...K.....K..AA..........YYTFQL..TFQL K 98 Q 98 A 99 
+ 3  3  0 ....QL....QL.AAK....TK..YYTF.....F.. L 96 Q 98 T 99 
+ 3  3  0 .........K..AA.K........YYTFQL..TFQL K 99 Q 98 A 99 
+ 3  3  0 ..T.....T...AA.K.....K..YY.FQL...FQL T 96 Q 98 A 99 
+ 3  3  0 ........T...AATK.....K..YY.FQL...FQL T 97 Q 98 A 99 
+ 3  3  0 ............AA.K....TK..YYTFQL...FQL T 99 Q 98 A 99 
+ 3  3  0 .........K..AATKQ...T.Q.YY.F.L...F.L T 98 A 99 K 99 
+ 3  3  0 ............AATK....TKQ.YY.FQL...F.L T 98 Q 99 A 99 
+ 3  3  0 ........TK..AATKQ.....Q.YY.F.L...F.L T 97 A 99 K 99 
+ 3  3  0 ....Q.....Q.AA.K.....K.LYYTF.L..TF.. L 99 Q 98 A 99 
+ 3  3  0 ...K.....K...AA..L....QLYYTFQ...TF.. Q 99 L 98 K 98 
+ 3  3  0 ...K.....K...AA..L.....LYYTFQ...TFQ. Q 98 L 98 K 98 
+ 3  3  0 ..T.....TK..AA.KQ.....Q.YY.F.L...F.L T 96 A 99 K 99 
+ 3  3  0 ........T...AATK.....KQ.YY.FQL...F.L T 97 Q 99 A 99 
+ 3  3  0 ..T.....T...AA.K.....KQ.YY.FQL...F.L T 96 Q 99 A 99 
+ 3  3  0 .........K..AA.K......Q.YYTFQL..TF.L Q 99 A 99 K 99 
+ 3  3  0 .............AAK....TKQLYYTFQL...F.. T 99 Q 99 L 99 
+ 3  3  0 ............AA.KQ....KQLYYTF.L..TF.. L 95 L 95 A 99 
+ 3  3  0 ...K.....K...AA.QL..T.QLYYTF.....F.. K 98 L 98 T 99 
+ 3  3  0 ............AA.K.....KQLYYTFQL..TF.. A 99 Q 99 L 99 
+ 3  3  0 ..........Q.AA.KQL...K.LYYTF....TF.. Q 99 L 98 A 99 
+ 3  3  0 ...K.....K......AA....Q.YYTFQL..TF.L A 97 Q 99 K 98 
+ 3  3  0 .....L...K.L.AAK........YYTFQ...TFQ. L 96 Q 98 K 99 
+ 3  3  0 .....L..T..LAATKQ....KQ.YY.F.....F.. T 97 L 96 A 99 
+ 3  3  0 ...........L.AAK.L..TKQ.YYTFQ....F.. L 97 Q 99 T 99 
+ 3  3  0 .............AAK....TK..YYTFQL...FQL Q 98 Q 98 T 99 
+ 3  3  0 ..........QL.AAKQL..TK..YYTF.....F.. Q 99 L 97 T 99 
+ 3  3  0 ....Q.....Q..AAK.L...K.LYYTF....TF.. Q 98 L 94 L 94 
+ 3  3  0 .....L....QL.AAKQ....K..YYTF....TF.. Q 97 Q 97 L 96 
+ 3  3  0 .....L.....L.AAK.....K..YYTFQ...TFQ. Q 94 Q 94 L 96 
+ 3  3  0 ....QL...KQL.AAK........YYTF....TF.. K 99 Q 98 L 96 
+ 3  3  0 ...KQL...KQL.AA.........YYTF....TF.. K 98 Q 98 L 96 
+ 3  3  0 ....Q.....Q..AAK....TK.LYYTF.L...F.. Q 98 T 99 L 99 
+ 3  3  0 ........T...AATKQ....KQLYY.F.L...F.. L 99 T 97 A 99 
+ 3  3  0 ...K.....KQ..AA.Q......LYYTF.L..TF.. K 98 Q 99 L 99 
+ 3  3  0 .........KQ..AAKQ......LYYTF.L..TF.. K 99 Q 99 L 99 
+ 3  3  0 ...KQ....KQ...AA........YYTF.L..TF.L Q 98 A 99 K 98 
+ 3  3  0 ..T.....T..LAA.KQL...KQ.YY.F.....F.. T 96 L 97 A 99 
+ 3  3  0 ........T..LAATKQL...KQ.YY.F.....F.. T 97 L 97 A 99 
+ 3  3  0 ..........Q..AAKQL..TK.LYYTF.....F.. L 98 T 99 Q 99 
+ 3  3  0 .........K...AAK.....F..YYTFQL..T.QL F 99 Q 98 K 99 
+ 3  3  0 .....L...K.L.AAKQ....FQ.YYTF....T... F 99 L 96 K 99 
+ 3  3  0 ....Q.....QL.AAK.L...K..YYTF....TF.. L 97 Q 96 Q 96 
+ 3  3  0 ...K.L...K.L.AA.......Q.YYTFQ...TF.. K 98 L 96 Q 99 
+ 3  3  0 .....L...K.L.AAK......Q.YYTFQ...TF.. K 99 L 96 Q 99 
+ 3  3  0 ............AA.K.L...KQLYYTFQ...TF.. A 99 L 98 Q 99 
+ 3  3  0 .........K...AAK.L....QLYYTFQ...TF.. K 99 L 98 Q 99 
+ 3  3  0 .............AAK.L...K.LYYTFQ...TFQ. Q 98 L 98 Q 98 
+ 3  3  0 .............AAK.L..TKQLYYTFQ....F.. T 99 L 98 Q 99 
+ 3  3  0 ...K.....K...AA.Q.....QLYYTF.L..TF.. L 93 L 93 K 98 
+ 3  3  0 ...K.L...K.L.AA.........YYTFQ...TFQ. Q 98 L 96 K 98 
+ 3  3  0 .........KQ..AAKQ...T...YYTF.L...F.L K 99 T 99 Q 99 
+ 3  3  0 ...K.L...K.L.AA.Q....FQ.YYTF....T... F 99 L 96 K 98 
+ 3  3  0 ...K.L...K.LAA..Q.....Q.YYTF....TF.. A 99 L 96 K 98 
+ 3  3  0 ....Q....KQ..AAK.....F..YYTF.L..T..L Q 98 F 99 K 99 
+ 3  3  0 .........KQ..AAKQ....F..YYTF.L..T..L Q 99 F 99 K 99 
+ 3  3  0 .........K.L.AAKQL...FQ.YYTF....T... L 97 F 99 K 99 
+ 3  3  0 .........K...AAKQ....FQLYYTF.L..T... L 99 F 99 K 99 
+ 4  4  0 ............AATKQ...TKQL.YYF.L...F.. L 99 Y 99 T 98 A 99 
+ 4  4  0 ............AATK....TK...YYFQL...FQL Y 99 Q 98 T 98 A 99 
+ 4  4  0 ...K.....KQ..AA.QL.....LYYTF....TF.. L 94 L 94 K 98 Q 99 
+ 4  4  0 ...K.....K..AAT.....T...YY.FQL...FQL K 98 Q 98 T 98 A 99 
+ 4  4  0 ............AATKQL..TKQL.YYF.....F.. L 98 Y 99 T 98 A 99 
+ 4  4  0 ..TK....TK..AA.FQ....FQ.YY...L.....L T 96 A 99 F 98 K 98 
+ 4  4  0 ...KQL...KQL..AA........YYTF....TF.. Q 98 L 96 A 99 K 98 
+ 4  4  0 ...K.....K..AA.F.....FQ.YYT.QL..T..L Q 99 A 99 F 98 K 98 
+ 4  4  0 ...K.L...KQL..AAQ.......YYTF....TF.. Q 99 L 96 A 99 K 98 
+ 4  4  0 ...K.....K...AA.Q...T.Q.YYTF.L...F.L L 92 K 98 L 92 T 99 
+ 4  4  0 ...K.L...K.L..AAQ...T.Q.YYTF.....F.. T 99 L 96 A 99 K 98 
+ 4  4  0 ...K.L...K.L.AAFQ...TFQ.YYT......... F 98 K 98 L 96 T 99 
+ 4  4  0 .........K...AAK.L..T..LYYTFQ....FQ. K 99 Q 98 L 98 T 99 
+ 4  4  0 ...K.L...KQL.AA.Q...T...YYTF.....F.. Q 99 K 98 L 96 T 99 
+ 4  4  0 ...K.....KQ...AAQ......LYYTF.L..TF.. L 99 Q 99 A 99 K 98 
+ 4  4  0 ...K.L...K.L.AA.....T.Q.YYTFQ....F.. Q 99 K 98 L 96 T 99 
+ 4  4  0 ...K.....K....AAQL..T.QLYYTF.....F.. L 98 T 99 A 99 K 98 
+ 4  4  0 ....Q.....Q..AAK.L..TK.LYYTF.....F.. Q 94 Q 94 L 98 T 99 
+ 4  4  0 ...K.....K...AAFQ...TFQLYYT..L...... F 98 K 98 T 99 L 99 
+ 4  4  0 ...KQ....KQ..AA.....T..LYYTF.L...F.. Q 98 K 98 T 99 L 99 
+ 4  4  0 ...K.....K.L.AAFQL..TFQ.YYT......... L 97 T 99 F 98 K 98 
+ 4  4  0 ....Q....KQ.AA.K.......LYYTF.L..TF.. A 99 Q 98 K 99 L 99 
+ 4  4  0 ...K.....KQ...AAQ...T...YYTF.L...F.L T 99 Q 99 A 99 K 98 
+ 4  4  0 ........T...AATKQL...KQL.YYF.....F.. Y 99 T 97 L 98 A 99 
+ 4  4  0 ...K....TK..AAT.QL....QLYY.F.....F.. K 98 T 97 L 98 A 99 
+ 4  4  0 ............AA.K.L..TK.LYYTFQ....FQ. A 99 Q 98 L 98 T 99 
+ 4  4  0 .........K..AA.KQ...T.QLYYTF.L...F.. T 99 A 99 K 99 L 99 
+ 4  4  0 ...K.....K...AA..L..T..LYYTFQ....FQ. K 98 Q 98 L 98 T 99 
+ 4  4  0 ........T...AATK.L...K.LYY.FQ....FQ. Q 98 T 97 L 98 A 99 
+ 4  4  0 ....Q...T.Q.AATK.L...K.LYY.F.....F.. Q 98 T 97 L 98 A 99 
+ 4  4  0 ........TK..AATKQL....QLYY.F.....F.. K 99 T 97 L 98 A 99 
+ 4  4  0 .........K..AA.KQ....FQLYYTF.L..T... F 99 A 99 K 99 L 99 
+ 4  4  0 ...KQ....KQ..AAF....TF..YYT..L.....L Q 98 T 99 F 98 K 98 
+ 4  4  0 ...K.....KQ..AA.Q...TF..YYTF.L.....L F 99 T 99 K 98 Q 99 
+ 4  4  0 ...K.....K..AA.FQ...TFQ.YYT..L.....L A 99 T 99 F 98 K 98 
+ 4  4  0 ...K.....K..AA..Q.....QLYYTF.L..TF.. K 98 A 99 K 98 L 99 
+ 4  4  0 ...K.....K...AA.....T.Q.YYTFQL...F.L Q 97 T 99 K 98 Q 97 
+ 4  4  0 ..T.....TK..AA.KQ.....QLYY.F.L...F.. T 96 A 99 K 99 L 99 
+ 4  4  0 ...K.....KQ...AAQ....F..YYTF.L..T..L F 99 Q 99 A 99 K 98 
+ 4  4  0 ...K.....KQ.AA..Q...T...YYTF.L...F.L A 99 T 99 K 98 Q 99 
+ 4  4  0 ..........Q..AAKQ...TK.LYYTF.L...F.. L 93 Q 99 L 93 T 99 
+ 4  4  0 ...K.....K...AA.....T..LYYTFQL...FQ. Q 98 K 98 T 99 L 99 
+ 4  4  0 ...K.....K...AA.....T.QLYYTFQL...F.. Q 99 K 98 T 99 L 99 
+ 4  4  0 ...K.....KQL..AAQL......YYTF....TF.. L 97 Q 99 A 99 K 98 
+ 4  4  0 .....L...KQL.AAKQ...T...YYTF.....F.. K 99 Q 99 L 96 T 99 
+ 4  4  0 ...K.....KQ...AAQL.....LYYTF....TF.. L 98 Q 99 A 99 K 98 
+ 4  4  0 .....L....QLAA.KQ...TK..YYTF.....F.. A 99 Q 99 L 96 T 99 
+ 4  4  0 ...K.....K..AA..Q.....Q.YYTF.L..TF.L T 96 K 98 T 96 A 99 
+ 4  4  0 ...K.L...KQL.AAFQ....F..YYT.....T... F 98 L 96 K 98 Q 99 
+ 4  4  0 ...K.....K.L..AAQL..T.Q.YYTF.....F.. L 97 T 99 A 99 K 98 
+ 4  4  0 ...K.....K....AA....T...YYTFQL...FQL Q 98 T 99 A 99 K 98 
+ 4  4  0 ...K.....K....AA....T.Q.YYTFQL...F.L Q 99 T 99 A 99 K 98 
+ 4  4  0 ...KQ....KQ...AA....T...YYTF.L...F.L Q 98 T 99 A 99 K 98 
+ 4  4  0 ...K.....K...AA.Q...TFQLYYTF.L...... F 99 K 98 T 99 L 99 
+ 4  4  0 ...K.L...KQLAA..Q.......YYTF....TF.. A 99 L 96 K 98 Q 99 
+ 4  4  0 ...K.L...K.L..AA........YYTFQ...TFQ. Q 98 L 96 A 99 K 98 
+ 4  4  0 ...K.....K..AA..Q....FQLYYTF.L..T... A 99 L 99 F 99 K 98 
+ 4  4  0 ..........Q.AATKQ...TK.LYY.F.L...F.. T 98 L 99 Q 99 A 99 
+ 4  4  0 ..T.....T.Q.AA.KQ....K.LYY.F.L...F.. T 96 L 99 Q 99 A 99 
+ 4  4  0 ..TK....TK..AA..Q.....Q.YY.F.L...F.L T 96 K 98 T 96 A 99 
+ 4  4  0 .........KQ..AAKQ.......YYTF.L..TF.L L 96 K 99 L 96 Q 99 
+ 4  4  0 .........KQ..AAKQL..T..LYYTF.....F.. T 99 K 99 L 98 Q 99 
+ 4  4  0 .........KQ.AA.KQL.....LYYTF....TF.. A 99 K 99 L 98 Q 99 
+ 4  4  0 ...K.....KQ.AA..Q......LYYTF.L..TF.. K 98 L 99 Q 99 A 99 
+ 4  4  0 ...K....TK..AAT.Q.....Q.YY.F.L...F.L T 97 K 98 T 97 A 99 
+ 4  4  0 ....Q....KQL.AAK.L..T...YYTF.....F.. Q 98 L 97 K 99 T 99 
+ 4  4  0 .........KQL.AAKQL..T...YYTF.....F.. Q 99 L 97 K 99 T 99 
+ 4  4  0 ...K.....K..AATFQ...TFQ.YY...L.....L F 98 K 98 T 98 A 99 
+ 4  4  0 ...KQ....KQ..AA......F.LYYTF.L..T... Q 98 L 99 F 99 K 98 
+ 4  4  0 ...K.....K..AAT.Q...TFQ.YY.F.L.....L F 99 K 98 T 98 A 99 
+ 4  4  0 ...K.L...K.LAAT.Q...T.Q.YY.F.....F.. L 96 K 98 T 98 A 99 
+ 4  4  0 ...K.....KQ.AA.FQ....F..YYT..L..T..L Q 99 A 99 F 98 K 98 
+ 4  4  0 ...K.....KQ.AAT.Q...T...YY.F.L...F.L Q 99 K 98 T 98 A 99 
+ 4  4  0 ....QL..T.QLAATK.....K..YY.F.....F.. L 96 T 97 Q 98 A 99 
+ 4  4  0 .........KQ..AAKQL...F.LYYTF....T... Q 99 F 99 L 98 K 99 
+ 4  4  0 ....Q...T.Q.AATK.....K...YYF.L...F.L Y 99 T 97 Q 98 A 99 
+ 4  4  0 .....L...K.L.AAK.....FQ.YYTFQ...T... L 96 F 99 Q 99 K 99 
+ 4  4  0 .....L.....LAATK....TK..YY.FQ....FQ. L 96 Q 98 T 98 A 99 
+ 4  4  0 ...K.....KQ..AA.Q....F.LYYTF.L..T... Q 99 L 99 F 99 K 98 
+ 4  4  0 ...KQ...TKQ.AAT.........YY.F.L...F.L K 98 T 97 Q 98 A 99 
+ 4  4  0 ...K.....KQ..AAFQ...TF..YYT..L.....L T 99 Q 99 F 98 K 98 
+ 4  4  0 ...KQ....KQ...AA.L.....LYYTF....TF.. A 99 Q 98 L 98 K 98 
+ 4  4  0 .........KQL.AAKQL......YYTF....TF.. Q 97 L 97 Q 97 K 99 
+ 4  4  0 ....Q.....Q.AATK....TK...YYF.L...F.L Q 98 Y 99 T 98 A 99 
+ 4  4  0 ...K....TK..AATFQ....FQ.YY...L.....L T 97 A 99 F 98 K 98 
+ 4  4  0 ...........LAATK.L..TKQ.YY.FQ....F.. T 98 L 97 Q 99 A 99 
+ 4  4  0 ..T.....T..LAA.K.L...KQ.YY.FQ....F.. T 96 L 97 Q 99 A 99 
+ 4  4  0 ...K.....K.LAA...L....Q.YYTFQ...TF.. K 98 L 97 Q 99 A 99 
+ 4  4  0 ...K.....K...AA......FQLYYTFQL..T... Q 99 L 99 F 99 K 98 
+ 4  4  0 .........K.L.AAK.L..T.Q.YYTFQ....F.. T 99 L 97 Q 99 K 99 
+ 4  4  0 ...KQ....KQ.....AA.....LYYTF.L..TF.. A 97 K 98 Q 98 L 99 
+ 4  4  0 ...KQ....KQ..AAF.L...F.LYYT.....T... F 98 Q 98 L 98 K 98 
+ 4  4  0 ...K.....K..AA.FQ....FQLYYT..L..T... L 99 A 99 F 98 K 98 
+ 4  4  0 .........K...AAKQL..TFQLYYTF........ T 99 F 99 L 98 K 99 
+ 4  4  0 ...K.....KQ..AAFQL...F.LYYT.....T... L 98 Q 99 F 98 K 98 
+ 4  4  0 ...K.....K...AAF....TFQ.YYT.QL.....L T 99 Q 99 F 98 K 98 
+ 4  4  0 .........K...AAK.....FQLYYTFQL..T... L 99 F 99 Q 99 K 99 
+ 4  4  0 ...........LAATK.L..TK..YY.FQ....FQ. L 97 Q 98 T 98 A 99 
+ 4  4  0 .........K...AAK.L...FQLYYTFQ...T... L 98 F 99 Q 99 K 99 
+ 4  4  0 .........K..AA.K.....FQ.YYTFQL..T..L A 99 F 99 Q 99 K 99 
+ 4  4  0 ...K.....K......AA....QLYYTFQL..TF.. A 97 K 98 Q 99 L 99 
+ 4  4  0 .........K..AATK....T...YY.FQL...FQL K 99 Q 98 T 98 A 99 
+ 4  4  0 .........K...AAK.L...F.LYYTFQ...T.Q. Q 98 F 99 L 98 K 99 
+ 4  4  0 ...KQ....KQ.AA.F.....F..YYT..L..T..L A 99 Q 98 F 98 K 98 
+ 4  4  0 ........T...AATKQ....KQ..YYF.L...F.L T 97 Y 99 T 97 A 99 
+ 4  4  0 ............AATK....TKQ..YYFQL...F.L Q 99 Y 99 T 98 A 99 
+ 4  4  0 ...K.....K..AA.FQL...FQLYYT.....T... L 98 A 99 F 98 K 98 
+ 4  4  0 ...K.....K..AA.F.....F..YYT.QL..T.QL Q 98 A 99 F 98 K 98 
+ 4  4  0 ...K.L...K.L..AAQ....FQ.YYTF....T... F 99 L 96 A 99 K 98 
+ 4  4  0 ...K.L...K.L.AA.Q...TFQ.YYTF........ F 99 K 98 L 96 T 99 
+ 4  4  0 ...KQL...KQL.AA.....T...YYTF.....F.. Q 98 K 98 L 96 T 99 
+ 4  4  0 ...K.....K....AAQ...T.QLYYTF.L...F.. L 99 T 99 A 99 K 98 
+ 4  4  0 ...K.L...K.LAA..Q...T.Q.YYTF.....F.. A 99 K 98 L 96 T 99 
+ 4  4  0 ...K.....KQ..AA.Q...T..LYYTF.L...F.. Q 99 K 98 T 99 L 99 
+ 4  4  0 ....Q....KQ..AAK.....F.LYYTF.L..T... F 99 Q 98 K 99 L 99 
+ 4  4  0 ....Q....KQ..AAK....T..LYYTF.L...F.. T 99 Q 98 K 99 L 99 
+ 4  4  0 ........T...AATK.L...KQLYY.FQ....F.. Q 99 T 97 L 98 A 99 
+ 4  4  0 ...K.....K...AAF....TF..YYT.QL....QL Q 98 T 99 F 98 K 98 
+ 4  4  0 .........KQ.AA.KQ......LYYTF.L..TF.. Q 99 A 99 K 99 L 99 
+ 4  4  0 ...K.....K...AA.....T...YYTFQL...FQL Q 96 T 99 K 98 Q 96 
+ 4  4  0 .........K..AA.K.......LYYTFQL..TFQ. Q 98 A 99 K 99 L 99 
+ 4  4  0 ...K.....K....AAQ....FQLYYTF.L..T... A 99 L 99 F 99 K 98 
+ 4  4  0 ........T.Q.AATKQ....K.LYY.F.L...F.. T 97 L 99 Q 99 A 99 
+ 4  4  0 ...K.....KQ..AA.QL..T..LYYTF.....F.. L 98 T 99 K 98 Q 99 
+ 4  4  0 .........K.L.AAK.L...FQ.YYTFQ...T... L 97 F 99 Q 99 K 99 
+ 4  4  0 ....Q...TKQ.AATK........YY.F.L...F.L K 99 T 97 Q 98 A 99 
+ 4  4  0 ...KQ....KQ....AAL.....LYYTF....TF.. A 98 Q 98 L 98 K 98 
+ 4  4  0 ........T..LAATK.L...KQ.YY.FQ....F.. T 97 L 97 Q 99 A 99 
+ 4  4  0 ...K.....K...AAF.L...FQLYYT.Q...T... L 98 Q 99 F 98 K 98 
+ 4  4  0 ...KQ....KQ..AA..L..T..LYYTF.....F.. T 99 Q 98 L 98 K 98 
+ 4  4  0 ..........Q.AA.KQ...TK.LYYTF.L...F.. T 99 L 99 Q 99 A 99 
+ 4  4  0 ...KQ....KQ..AA..L...F.LYYTF....T... F 99 Q 98 L 98 K 98 
+ 4  4  0 ....Q...T.Q.AATK.....K.LYY.F.L...F.. L 99 T 97 Q 98 A 99 
+ 4  4  0 ...K.....KQ..AAFQ....F.LYYT..L..T... L 99 Q 99 F 98 K 98 
+ 4  4  0 ...K.....KQL.AAFQL...F..YYT.....T... L 97 Q 99 F 98 K 98 
+ 4  4  0 ...K.....K.L.AAF.L...FQ.YYT.Q...T... L 97 Q 99 F 98 K 98 
+ 4  4  0 ...K.L...K.L.AAF.....FQ.YYT.Q...T... L 96 Q 99 F 98 K 98 
+ 4  4  0 ....Q.....QLAA.K.L..TK..YYTF.....F.. A 99 Q 98 L 97 T 99 
+ 4  4  0 ...K.....K..AAT.QL..T.QLYY.F.....F.. L 98 K 98 T 98 A 99 
+ 4  4  0 ...........LAATKQL..TKQ..YYF.....F.. L 97 Y 99 T 98 A 99 
+ 4  4  0 .........K..AATKQ...T.Q..YYF.L...F.L K 99 Y 99 T 98 A 99 
+ 4  4  0 ....Q....KQ..AAK.L...F.LYYTF....T... Q 98 F 99 L 98 K 99 
+ 4  4  0 ...K.L...K.LAA.FQ....FQ.YYT.....T... L 96 A 99 F 98 K 98 
+ 4  4  0 ...K.L...K.L.AA.....T...YYTFQ....FQ. Q 98 K 98 L 96 T 99 
+ 4  4  0 ...K.....K...AAFQL..TFQLYYT......... L 98 T 99 F 98 K 98 
+ 4  4  0 ...KQ....KQL.AA..L..T...YYTF.....F.. K 98 Q 98 L 97 T 99 
+ 4  4  0 ........T.Q.AATKQL...K.LYY.F.....F.. Q 99 T 97 L 98 A 99 
+ 4  4  0 .........K.LAA.K.L....Q.YYTFQ...TF.. A 99 L 97 Q 99 K 99 
+ 4  4  0 .........K..AA.K......QLYYTFQL..TF.. Q 99 A 99 K 99 L 99 
+ 4  4  0 ...K.....K..AA..Q...T.QLYYTF.L...F.. A 99 K 98 T 99 L 99 
+ 4  4  0 ...K.....K....AAQ...TFQ.YYTF.L.....L F 99 T 99 A 99 K 98 
+ 4  4  0 .........K..AA.KQL...FQLYYTF....T... A 99 F 99 L 98 K 99 
+ 4  4  0 .........K.L.AAK.L..T...YYTFQ....FQ. Q 98 L 97 K 99 T 99 
+ 4  4  0 .........K...AAK....TFQ.YYTFQL.....L T 99 F 99 Q 99 K 99 
+ 4  4  0 ..T.....T...AA.KQ....KQ..YYF.L...F.L T 96 Y 99 T 96 A 99 
+ 4  4  0 ...KQ....KQ.AA...L.....LYYTF....TF.. A 99 Q 98 L 98 K 98 
+ 4  4  0 ...K.....K.LAA.FQL...FQ.YYT.....T... L 97 A 99 F 98 K 98 
+ 4  4  0 ............AATK....TK.LYY.FQL...FQ. L 99 Q 98 T 98 A 99 
+ 4  4  0 ...K.....K..AAT.Q...T.Q..YYF.L...F.L K 98 Y 99 T 98 A 99 
+ 4  4  0 ....Q...T.QLAATK.L...K..YY.F.....F.. L 97 T 97 Q 98 A 99 
+ 4  4  0 ...KQ....KQ..AAF.....F.LYYT..L..T... L 99 Q 98 F 98 K 98 
+ 4  4  0 ...K.....K..AAT.Q...T.QLYY.F.L...F.. L 99 K 98 T 98 A 99 
+ 4  4  0 ..........Q.AATKQ...TK...YYF.L...F.L Q 99 Y 99 T 98 A 99 
+ 4  4  0 ...K.L...K.L..AA......Q.YYTFQ...TF.. Q 99 L 96 A 99 K 98 
+ 4  4  0 ...K.....K.LAAT.QL..T.Q.YY.F.....F.. L 97 K 98 T 98 A 99 
+ 4  4  0 .........K..AATKQ...T.QLYY.F.L...F.. T 98 A 99 K 99 L 99 
+ 4  4  0 ............AATK.L..TK.LYY.FQ....FQ. L 98 Q 98 T 98 A 99 
+ 4  4  0 .....L.....LAATKQ...TKQ..YYF.....F.. L 96 Y 99 T 98 A 99 
+ 4  4  0 ...........LAA.K.L..TKQ.YYTFQ....F.. T 99 L 97 Q 99 A 99 
+ 4  4  0 ...KQ....KQL.AAF.L...F..YYT.....T... L 97 Q 98 F 98 K 98 
+ 4  4  0 ...KQ....KQ.AAT.....T...YY.F.L...F.L Q 98 K 98 T 98 A 99 
+ 4  4  0 ...K.....K..AAT.....T.Q.YY.FQL...F.L Q 99 K 98 T 98 A 99 
+ 4  4  0 ........TK..AATKQ.....QLYY.F.L...F.. T 97 A 99 K 99 L 99 
+ 4  4  0 .........K.LAA.KQL..T.Q.YYTF.....F.. A 99 L 97 K 99 T 99 
+ 4  4  0 ...K.....KQL.AA.QL..T...YYTF.....F.. L 97 T 99 K 98 Q 99 
+ 4  4  0 ...K.....K...AAF.....FQLYYT.QL..T... L 99 Q 99 F 98 K 98 
+ 4  4  0 ...KQL...KQL.AAF.....F..YYT.....T... L 96 Q 98 F 98 K 98 
+ 4  4  0 ...K.L...KQL.AA.Q....F..YYTF....T... F 99 L 96 K 98 Q 99 
+ 4  4  0 ...K.....K...AA......F.LYYTFQL..T.Q. Q 98 L 99 F 99 K 98 
+ 4  4  0 .........K.L.AAKQL..TFQ.YYTF........ F 99 L 97 K 99 T 99 

@@ -1,0 +1,1645 @@
+ 0  0  0 ...TUU...T.C.AAT.CMM..OO.VV....HHH..
+ 1  1  0 ....UU.....C.AAT.CMM.TOO.VVT...HHH.. T 98 
+ 1  1  0 ...TUU...T.CAA.T.CMM..OO.VV....HHH.. A 99 
+ 1  1  0 ...TUU...T.C.AAT.CMM.OO..VV....HHH.. O 99 
+ 1  1  0 ...TUU...T.C.AAT.CMM..OO.VV...HHH... H 99 
+ 1  1  0 ...TUU...T.C.AAT.C.MM.OO.VV....HHH.. M 99 
+ 1  1  0 ...TUU...T.C.AAT.CMM..OOVV.....HHH.. V 99 
+ 1  1  0 ....UU...T.C.AAT.CMM.TOO.VV....HHH.. T 99 
+ 1  1  0 ...TUU...T.C.AAT.CMM..OO..VV...HHH.. V 99 
+ 1  1  0 ...TUU...T.C.AAT.CMM..OO.VV......HHH H 98 
+ 1  1  0 ...TUU...T.C.AAT.C..MMOO.VV....HHH.. M 98 
+ 1  1  0 ...TUU...T.C.AAT.CMM..OO...VV..HHH.. V 98 
+ 1  1  0 ...TUU...T.C.AAT.CMM..OO.VV.....HHH. H 99 
+ 1  1  0 ...TUU...T.C.AAT.CMM..OO....VV.HHH.. V 97 
+ 1  1  0 ...TUU...T.C.AAT.CMMOO...VV....HHH.. O 98 
+ 2  2  0 UU.........C.AAT.CMM.TOO.VVT...HHH.. U 96 T 98 
+ 2  2  0 ...TUU...T.CAA.T.CMM..OO...VV..HHH.. V 98 A 99 
+ 2  2  0 ...TUU...T.C.AAT.C.MM.OO...VV..HHH.. V 98 M 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM..OO..VV....HHH. H 99 V 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM..OO...VV....HHH V 98 H 98 
+ 2  2  0 ...TUU...T.C.AAT.CMMOO...VV......HHH O 98 H 98 
+ 2  2  0 ...TUU...T.C.AAT.CMM..OO....VV...HHH V 97 H 98 
+ 2  2  0 ...TUU...T.C.AAT.C..MMOO.VV.....HHH. H 99 M 98 
+ 2  2  0 ...TUU...T.CAA.T.CMMOO...VV....HHH.. O 98 A 99 
+ 2  2  0 ...TUU...T.CAA.T.CMM..OO....VV.HHH.. V 97 A 99 
+ 2  2  0 ...TUU...T.CAA.T.C.MM.OO.VV....HHH.. M 99 A 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM.OO..VV...HHH... H 99 O 99 
+ 2  2  0 ...TUU...T.CAA.T.CMM..OO.VV...HHH... A 99 H 99 
+ 2  2  0 ...TUU...T.C.AAT.CMMOO....VV...HHH.. O 98 V 99 
+ 2  2  0 ....UU...T.C.AAT.CMM.TOO.VV...HHH... T 99 H 99 
+ 2  2  0 ....UU.....C.AAT.CMM.TOO.VVT....HHH. H 99 T 98 
+ 2  2  0 ....UU...T.C.AAT.CMM.TOO..VV...HHH.. V 99 T 99 
+ 2  2  0 ....UU...T.C.AAT.C.MMTOO.VV....HHH.. M 99 T 99 
+ 2  2  0 ....UU...T.CAA.T.CMM.TOO.VV....HHH.. A 99 T 99 
+ 2  2  0 ...UU....T.C.AAT.CMM.TOO.VV....HHH.. U 99 T 99 
+ 2  2  0 ....UU...T.C.AAT.CMM.TOO...VV..HHH.. V 98 T 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM.OO....VV..HHH.. V 98 O 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM..OO....VVHHH... V 97 H 99 
+ 2  2  0 ...TUU...T.C.AAT.C.MMOO..VV....HHH.. M 99 O 99 
+ 2  2  0 ...TUU...T.C.AAT.C.MM.OO.VV...HHH... H 99 M 99 
+ 2  2  0 ...TUU...T.C.AAT.C..MMOO..VV...HHH.. V 99 M 98 
+ 2  2  0 ...TUU...T...AAT.CMM.OOC.VV....HHH.. C 99 O 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM..OOVV......HHH. H 99 V 99 
+ 2  2  0 ....UU...T.C.AAT.CMM.TOO....VV.HHH.. V 97 T 99 
+ 2  2  0 ...TUU...T...AAT..MM.OOC.VV..C.HHH.. C 98 O 99 
+ 2  2  0 ....UU.....C.AAT.CMM.TOOVV.T...HHH.. T 98 V 99 
+ 2  2  0 ...TUU...T.C.AAT.C.MM.OO....VV.HHH.. V 97 M 99 
+ 2  2  0 ...TUU...T.C.AAT.C..MMOO.VV......HHH H 98 M 98 
+ 2  2  0 ....UU.....C.AAT.C.MMTOO.VVT...HHH.. M 99 T 98 
+ 2  2  0 .UU........C.AAT.CMM.TOO.VVT...HHH.. U 97 T 98 
+ 2  2  0 ....UU.....C.AA..CMM.TOO.VVT..HHHT.. T 97 H 99 
+ 2  2  0 ...TUU...T.CAA.T.CMM..OO.VV......HHH H 98 A 99 
+ 2  2  0 ....UU...T.C.AAT.CMM.TOO.VV.....HHH. H 99 T 99 
+ 2  2  0 ....UU...T.C.AAT.CMM.TOO.VV......HHH H 98 T 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM.OO..VV.....HHH. H 99 O 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM..OO...VV.HHH... V 98 H 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM.OO..VV......HHH H 98 O 99 
+ 2  2  0 ...TUU...T.C.AAT.C.MM.OOVV.....HHH.. V 99 M 99 
+ 2  2  0 ...TUU...T.C.AAT.C..MMOO....VV.HHH.. V 97 M 98 
+ 2  2  0 ...TUU...T.C.AAT.CMM.OO...VV...HHH.. V 99 O 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM..OO...VV...HHH. H 99 V 98 
+ 2  2  0 ....UU...T.C.AAT.CMM.TOOVV.....HHH.. T 99 V 99 
+ 2  2  0 ...TUU...T.CAA.T.CMM..OOVV.....HHH.. V 99 A 99 
+ 2  2  0 ...TUU...T.C.AAT.CMMOO...VV.....HHH. O 98 H 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM..OO....VV..HHH. V 97 H 99 
+ 2  2  0 ...TUU...T.CAA.T.CMM..OO..VV...HHH.. A 99 V 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM.OO.VV.....HHH.. O 99 V 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM..OO..VV..HHH... V 99 H 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM..OOVV.......HHH H 98 V 99 
+ 2  2  0 ..UU.......C.AAT.CMM.TOO.VVT...HHH.. U 98 T 98 
+ 2  2  0 UU.......T.C.AAT.CMM.TOO.VV....HHH.. U 96 T 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM.OO.....VV.HHH.. V 97 O 99 
+ 2  2  0 ....UU.....C.AAT.CMM.TOO.VVT.....HHH H 98 T 98 
+ 2  2  0 ....UU.....CAA.T.CMM.TOO.VVT...HHH.. A 99 T 98 
+ 2  2  0 ...TUU...T.C.AAT.C.MM.OO.VV......HHH H 98 M 99 
+ 2  2  0 ...TUU...T.C.AAT.CMMOO......VV.HHH.. O 98 V 97 
+ 2  2  0 ...TUU...T.C.AAT.C.MM.OO..VV...HHH.. V 99 M 99 
+ 2  2  0 ...TUU...T.CAA.T.CMM.OO..VV....HHH.. A 99 O 99 
+ 2  2  0 ...TUU...T.CAA.T.C..MMOO.VV....HHH.. A 99 M 98 
+ 2  2  0 ...TUU...T...AAT..MMOO...VV..C.HHH.C C 97 O 98 
+ 2  2  0 ...TUU...T.C.AAT.CMMOO.....VV..HHH.. O 98 V 98 
+ 2  2  0 ...TUU...T...AAT..MM.OO..VV..C.HHH.C C 97 O 99 
+ 2  2  0 ....UU.....C.AAT.CMM.TOO...TVV.HHH.. T 98 V 97 
+ 2  2  0 ..UU.....T.C.AAT.CMM.TOO.VV....HHH.. U 98 T 99 
+ 2  2  0 ...TUU...T.C.AAT.C..MMOO...VV..HHH.. V 98 M 98 
+ 2  2  0 ...TUU...T.C.AAT.CMMOO...VV...HHH... O 98 H 99 
+ 2  2  0 ....UU.....C.AAT.CMM.TOO.VVT..HHH... T 98 H 99 
+ 2  2  0 ...TUU...T.C.AAT.C.MM.OO.VV.....HHH. H 99 M 99 
+ 2  2  0 ...TUU...T.C.AAT.CMM..OO..VV.....HHH H 98 V 99 
+ 2  2  0 ...TUU...T...AAT..MMOO.C.VV..C.HHH.. C 98 O 98 
+ 2  2  0 ...TUU...T.C.AAT.CMM..OOVV....HHH... H 99 V 99 
+ 2  2  0 ...TUU...T.CAA.T.CMM..OO.VV.....HHH. H 99 A 99 
+ 2  2  0 ...TUU...T.C.AAT.C..MMOOVV.....HHH.. M 98 V 99 
+ 2  2  0 .UU......T.C.AAT.CMM.TOO.VV....HHH.. U 97 T 99 
+ 2  2  0 ...TUU...T.C.AAT.C..MMOO.VV...HHH... M 98 H 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MM.OO...VV...HHH. H 99 V 98 M 99 
+ 3  3  0 ..UU.....T.C.AAT.C.MMTOO.VV....HHH.. U 98 M 99 T 99 
+ 3  3  0 ...TUU...T.C.AAT.C..MMOOVV.......HHH V 99 H 98 M 98 
+ 3  3  0 ....UU...T.C.AAT.C.MMTOO..VV...HHH.. M 99 V 99 T 99 
+ 3  3  0 ....UU.....C.AAT.C.MMTOO.VVT.....HHH H 98 M 99 T 98 
+ 3  3  0 ..UU.....T.C.AAT.CMM.TOO..VV...HHH.. U 98 V 99 T 99 
+ 3  3  0 ..UU.......C.AAT.CMM.TOO.VVT....HHH. U 98 H 99 T 98 
+ 3  3  0 .UU........C.AAT.CMM.TOO.VVT..HHH... H 99 U 97 T 98 
+ 3  3  0 ...TUU...T.C.AAT.CMMOO..VV.......HHH V 99 O 98 H 98 
+ 3  3  0 ...TUU...T.C.AAT.C..MMOO....VV..HHH. V 97 H 99 M 98 
+ 3  3  0 ...TUU...T.CAA.T.CMM..OO...VV...HHH. H 99 V 98 A 99 
+ 3  3  0 UU.......T.C.AAT.CMM.TOO.VV...HHH... U 96 T 99 H 99 
+ 3  3  0 ....UU.....C.AA..CMM.TOOVV.T..HHHT.. V 99 T 97 H 99 
+ 3  3  0 ...UU......C.AA..CMM.TOO.VVT..HHHT.. U 99 T 97 H 99 
+ 3  3  0 ....UU.....C..AA.CMM.TOO.VVT..HHHT.. A 99 T 97 H 99 
+ 3  3  0 ....UU.....C...AACMM.TOO.VVT..HHHT.. A 98 T 97 H 99 
+ 3  3  0 ...TUU...T...AAT.CMMOO.C..VV...HHH.. C 99 O 98 V 99 
+ 3  3  0 ...TUU...T.CAA.T.CMM..OOVV....HHH... V 99 A 99 H 99 
+ 3  3  0 ...TUU...T.CAA.T.C..MMOO...VV..HHH.. M 98 V 98 A 99 
+ 3  3  0 ...TUU...T.CAA.T.C.MM.OO.VV.....HHH. H 99 M 99 A 99 
+ 3  3  0 ...TUU...T.CAA.T.CMMOO...VV...HHH... O 98 A 99 H 99 
+ 3  3  0 ...TUU...T.CAA.T.C..MMOO.VV...HHH... M 98 A 99 H 99 
+ 3  3  0 UU.........C.AAT.CMM.TOO.VVT....HHH. U 96 H 99 T 98 
+ 3  3  0 ...TUU...T.CAA.T.C.MM.OO..VV...HHH.. V 99 M 99 A 99 
+ 3  3  0 ....UU.....CAA.T.CMM.TOO.VVT..HHH... T 98 A 99 H 99 
+ 3  3  0 .UU......T.C.AAT.CMM.TOO..VV...HHH.. U 97 V 99 T 99 
+ 3  3  0 ...TUU...T.C.AAT.CMM.OO.VV....HHH... V 99 H 99 O 99 
+ 3  3  0 ...TUU...T.C.AAT.CMM.OO...VV..HHH... V 99 H 99 O 99 
+ 3  3  0 .UU........CAA.T.CMM.TOO.VVT...HHH.. A 99 U 97 T 98 
+ 3  3  0 .UU..C.....C.AAT..MM.TOO.VVT...HHH.. C 99 U 97 T 98 
+ 3  3  0 .UUT.....T.C.AAT.CMM..OO.VV....HHH.. T 96 U 97 T 96 
+ 3  3  0 ...TUU...T...AAT..MM.OO..VV..CHHH..C C 97 H 99 O 99 
+ 3  3  0 .UU......T.C.AAT.CMM.TOO.VV.....HHH. U 97 H 99 T 99 
+ 3  3  0 ...TUU...T.CAA.T.CMM..OO..VV.....HHH V 99 H 98 A 99 
+ 3  3  0 ...TUU...T.CAA.T.CMM.OO.....VV.HHH.. O 99 V 97 A 99 
+ 3  3  0 ....UU.....CAA.T.C.MMTOO.VVT...HHH.. A 99 M 99 T 98 
+ 3  3  0 ...UU......C.AAT.C.MMTOO.VVT...HHH.. U 99 M 99 T 98 
+ 3  3  0 ....UU...T.C.AAT.CMM.TOOVV.......HHH V 99 H 98 T 99 
+ 3  3  0 ....UU...T.CAA.T.CMM.TOO.VV.....HHH. H 99 A 99 T 99 
+ 3  3  0 ....UU.....CAA.T.CMM.TOO...TVV.HHH.. T 98 V 97 A 99 
+ 3  3  0 ...TUU...T.CAA.T.CMMOO..VV.....HHH.. V 99 O 98 A 99 
+ 3  3  0 ...TUU...T.CAA.T.CMMOO....VV...HHH.. V 99 O 98 A 99 
+ 3  3  0 ...TUU...T..AA.T.CMMOO.C.VV....HHH.. C 99 O 98 A 99 
+ 3  3  0 ....UU...T.C.AAT.CMM.TOO..VV..HHH... H 99 V 99 T 99 
+ 3  3  0 .UU......T.C.AAT.C.MMTOO.VV....HHH.. U 97 M 99 T 99 
+ 3  3  0 ....UU.....C.AAT.C.MMTOO...TVV.HHH.. T 98 V 97 M 99 
+ 3  3  0 ....UU.....CAA.T.CMM.TOOVV.T...HHH.. A 99 T 98 V 99 
+ 3  3  0 ...UU......C.AAT.CMM.TOOVV.T...HHH.. U 99 T 98 V 99 
+ 3  3  0 ...TUU...T.C.AAT.CMM.OO.....VV..HHH. V 97 H 99 O 99 
+ 3  3  0 ...TUU...T.CAA.T.CMM.OO..VV.....HHH. A 99 H 99 O 99 
+ 3  3  0 ....UU...T.C.AAT.CMM.TOO...VV...HHH. H 99 V 98 T 99 
+ 3  3  0 ...TUU...T.C.AAT.C..MMOO...VV.HHH... M 98 V 98 H 99 
+ 3  3  0 ...TUU...T.C.AAT.CMMOO.....VV.HHH... O 98 V 98 H 99 
+ 3  3  0 UU.......T.C.AAT.CMM.TOO....VV.HHH.. U 96 V 97 T 99 
+ 3  3  0 ..UU.......C.AAT.C.MMTOO.VVT...HHH.. U 98 M 99 T 98 
+ 3  3  0 ..UU.....T.C.AAT.CMM.TOO.VV......HHH U 98 H 98 T 99 
+ 3  3  0 ....UU.....C.AAT.CMM.TOO...TVV...HHH T 98 V 97 H 98 
+ 3  3  0 ...TUU...T.CAA.T.CMM..OO....VV...HHH A 99 V 97 H 98 
+ 3  3  0 ...TUU...T.C.AAT.C.MM.OO..VV..HHH... V 99 H 99 M 99 
+ 3  3  0 ...TUU...T...AAT.CMMOO.C.VV......HHH C 99 O 98 H 98 
+ 3  3  0 ....UU...T.C.AAT.C.MMTOO.VV...HHH... T 99 H 99 M 99 
+ 3  3  0 ...UU....T.C.AAT.CMM.TOO.VV.....HHH. H 99 U 99 T 99 
+ 3  3  0 ...TUU...T...AAT..MMOO.C.VV..C...HHH C 98 O 98 H 98 
+ 3  3  0 ...TUU...T.C.AAT.C.MMOO...VV...HHH.. V 99 M 99 O 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MMOO..VV...HHH... H 99 M 99 O 99 
+ 3  3  0 ...TUU...T...AAT..MM.OO..VV..C..HHHC C 97 H 99 O 99 
+ 3  3  0 ...TUU...T.CAA.T.C.MMOO..VV....HHH.. A 99 M 99 O 99 
+ 3  3  0 ...TUU...T...AAT...MMOO..VV..C.HHH.C C 97 M 99 O 99 
+ 3  3  0 ....UU.....C.AA..CMM.TOO...TVVHHHT.. T 97 V 97 H 99 
+ 3  3  0 UU.........CAA.T.CMM.TOO.VVT...HHH.. A 99 U 96 T 98 
+ 3  3  0 ...TUU...T...AAT.CMM.OOCVV.....HHH.. V 99 C 99 O 99 
+ 3  3  0 ...TUU...T...AAT..MM.OO....VVC.HHH.C C 97 V 98 O 99 
+ 3  3  0 ...TUU...T...AAT..MM.OOC..VV.C.HHH.. V 99 C 98 O 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MM.OO....VV...HHH H 98 V 97 M 99 
+ 3  3  0 ...TUU...T.CAA.T.C.MM.OO....VV.HHH.. M 99 V 97 A 99 
+ 3  3  0 ...UU....T.C.AAT.CMM.TOO...VV..HHH.. V 98 U 99 T 99 
+ 3  3  0 ...UUC...T.C.AAT..MM.TOO.VV....HHH.. C 99 U 99 T 99 
+ 3  3  0 ...TUU...T.CAA.T.C..MMOO.VV......HHH A 99 H 98 M 98 
+ 3  3  0 ...TUU...T..AA.T..MM.OOC.VV..C.HHH.. A 99 C 98 O 99 
+ 3  3  0 ....UU...T.CAA.T.CMM.TOO..VV...HHH.. V 99 A 99 T 99 
+ 3  3  0 ...UU....T.CAA.T.CMM.TOO.VV....HHH.. U 99 A 99 T 99 
+ 3  3  0 ....UU.....C.AAT.CMM.TOOVV.T....HHH. H 99 T 98 V 99 
+ 3  3  0 ....UU...T.CAA.T.CMM.TOO...VV..HHH.. V 98 A 99 T 99 
+ 3  3  0 ...TUU...T...AAT..MMOO....VV.C.HHH.C C 97 O 98 V 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MM.OOVV......HHH. M 99 H 99 V 99 
+ 3  3  0 ....UU.....C.AAT.C.MMTOO.VVT....HHH. M 99 H 99 T 98 
+ 3  3  0 ...TUU...T.C.AAT.C..MMOO..VV.....HHH H 98 V 99 M 98 
+ 3  3  0 .UU........C.AA..CMM.TOO.VVT..HHHT.. U 97 T 97 H 99 
+ 3  3  0 ....UU...T.C.AAT.C.MMTOO...VV..HHH.. T 99 V 98 M 99 
+ 3  3  0 ...TUU...T.C.AAT.CMMOO..VV......HHH. O 98 H 99 V 99 
+ 3  3  0 ...TUU...T.C.AAT.C..MMOO..VV....HHH. V 99 H 99 M 98 
+ 3  3  0 UU.........C.AA..CMM.TOO.VVT..HHHT.. U 96 T 97 H 99 
+ 3  3  0 ...TUU...T.C.AAT.C..MMOOVV......HHH. V 99 H 99 M 98 
+ 3  3  0 ..UU.....T.CAA.T.CMM.TOO.VV....HHH.. U 98 A 99 T 99 
+ 3  3  0 ...TUU...T.C.AAT.CMMOO......VV...HHH O 98 V 97 H 98 
+ 3  3  0 .UU........C.AAT.CMM.TOO.VVT.....HHH H 98 U 97 T 98 
+ 3  3  0 ....UU.....CAA.T.CMM.TOO.VVT.....HHH T 98 H 98 A 99 
+ 3  3  0 ....UU.....C.AAT.C.MMTOOVV.T...HHH.. T 98 V 99 M 99 
+ 3  3  0 ...TUU...T...AAT..MM.OOC.VV..C..HHH. H 99 C 98 O 99 
+ 3  3  0 ...TUU...T.CAA.T.C.MM.OO.VV......HHH H 98 M 99 A 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MMOO.....VV.HHH.. V 97 M 99 O 99 
+ 3  3  0 ..UU.....T.C.AAT.CMM.TOO...VV..HHH.. U 98 V 98 T 99 
+ 3  3  0 ...TUU...T.CAA.T.CMMOO...VV......HHH A 99 O 98 H 98 
+ 3  3  0 UU...C.....C.AAT..MM.TOO.VVT...HHH.. C 99 U 96 T 98 
+ 3  3  0 ...TUU...T.C.AAT.CMM.OO....VV....HHH V 98 H 98 O 99 
+ 3  3  0 ...TUU...T...AAT..MM.OOC.VV..C...HHH C 98 H 98 O 99 
+ 3  3  0 ...TUU...T.C.AAT.CMM.OO.VV.......HHH V 99 H 98 O 99 
+ 3  3  0 ...TUU...T.CAA.T.CMM..OO..VV..HHH... V 99 A 99 H 99 
+ 3  3  0 .UU......T.C.AAT.CMM.TOO.VV...HHH... U 97 T 99 H 99 
+ 3  3  0 ....UU.....C.AAT.C.MMTOO.VVT..HHH... T 98 H 99 M 99 
+ 3  3  0 ...TUU...T.C.AAT.C..MMOO..VV..HHH... H 99 V 99 M 98 
+ 3  3  0 UU.......T.C.AAT.CMM.TOO.VV......HHH U 96 H 98 T 99 
+ 3  3  0 ....UU...T.C.AAT.CMM.TOO....VV..HHH. H 99 V 97 T 99 
+ 3  3  0 ...TUU...T.CAA.T.CMM..OO..VV....HHH. A 99 H 99 V 99 
+ 3  3  0 ..UU.......C.AAT.CMM.TOOVV.T...HHH.. U 98 T 98 V 99 
+ 3  3  0 ...TUU...T.C.AAT.CMMOO....VV....HHH. O 98 H 99 V 99 
+ 3  3  0 ....UU...T.C.AAT.CMM.TOO....VVHHH... H 99 V 97 T 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MM.OO...VV.HHH... M 99 V 98 H 99 
+ 3  3  0 ....UU...T.C.AAT.CMM.TOO...VV....HHH T 99 V 98 H 98 
+ 3  3  0 ...TUU...T.C.AAT.CMMOO......VVHHH... O 98 V 97 H 99 
+ 3  3  0 ....UU.....CAA.T.CMM.TOO.VVT....HHH. A 99 H 99 T 98 
+ 3  3  0 ...TUU...T.C.AAT.C..MMOO...VV...HHH. V 98 H 99 M 98 
+ 3  3  0 ...TUU...T.C.AAT.C..MMOO....VVHHH... H 99 V 97 M 98 
+ 3  3  0 ...TUU...T.CAA.T.CMM.OO...VV...HHH.. A 99 V 99 O 99 
+ 3  3  0 ..UU.....T.C.AAT.CMM.TOO....VV.HHH.. U 98 V 97 T 99 
+ 3  3  0 ...TUU...T.CAA.T.CMMOO......VV.HHH.. V 97 O 98 A 99 
+ 3  3  0 ..UU.....T.C.AAT.CMM.TOO.VV...HHH... U 98 T 99 H 99 
+ 3  3  0 ..UU.....T.C.AAT.CMM.TOOVV.....HHH.. U 98 T 99 V 99 
+ 3  3  0 ..UU.......C.AAT.CMM.TOO.VVT..HHH... H 99 U 98 T 98 
+ 3  3  0 ...TUU...T.C.AAT.CMM.OO.....VV...HHH O 99 V 97 H 98 
+ 3  3  0 ...TUU...T.CAA.T.CMMOO...VV.....HHH. H 99 O 98 A 99 
+ 3  3  0 ...TUU...T.C.AAT.CMM.OO....VV.HHH... H 99 V 98 O 99 
+ 3  3  0 ...TUU...T.C.AAT.CMMOO.....VV...HHH. V 98 O 98 H 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MM.OO....VV..HHH. H 99 V 97 M 99 
+ 3  3  0 ....UU...T.C.AAT.CMM.TOOVV....HHH... V 99 T 99 H 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MM.OO..VV....HHH. M 99 H 99 V 99 
+ 3  3  0 ...TUU...T.CAA.T.C..MMOO..VV...HHH.. A 99 V 99 M 98 
+ 3  3  0 ...TUU...T...AAT..MM.OOC...VVC.HHH.. V 98 C 98 O 99 
+ 3  3  0 ...TUU...T...AAT.CMMOO.C.VV.....HHH. C 99 O 98 H 99 
+ 3  3  0 ...TUU...T.CAA.T.C.MM.OO...VV..HHH.. A 99 V 98 M 99 
+ 3  3  0 ...TUU...T...AAT.CMMOO.C....VV.HHH.. C 99 O 98 V 97 
+ 3  3  0 .UU........C.AAT.CMM.TOO.VVT....HHH. U 97 H 99 T 98 
+ 3  3  0 ...TUU...T..AA.T..MMOO...VV..C.HHH.C C 97 O 98 A 99 
+ 3  3  0 ...TUU...T...AAT..MM.OO.VV...C.HHH.C C 97 O 99 V 99 
+ 3  3  0 UU.......T.C.AAT.CMM.TOOVV.....HHH.. U 96 T 99 V 99 
+ 3  3  0 ...TUU...T.CAA.T.C..MMOOVV.....HHH.. M 98 V 99 A 99 
+ 3  3  0 ....UU...T.C.AAT.CMM.TOO..VV....HHH. T 99 H 99 V 99 
+ 3  3  0 ...TUU...T...AAT..MMOO..VV...C.HHH.C V 99 C 97 O 98 
+ 3  3  0 ...TUU...T.CAA.T.CMM..OO...VV.HHH... V 98 A 99 H 99 
+ 3  3  0 .UU......T.C.AAT.CMM.TOO...VV..HHH.. U 97 V 98 T 99 
+ 3  3  0 ...TUU...T...AAT.CMMOO.C...VV..HHH.. C 99 O 98 V 98 
+ 3  3  0 ....UU.....CAA...CMM.TOO.VVT..HHHT.. T 97 A 99 H 99 
+ 3  3  0 ..UU.......C.AA..CMM.TOO.VVT..HHHT.. U 98 T 97 H 99 
+ 3  3  0 ....UU.....C.AAT.CMM.TOOVV.T..HHH... H 99 T 98 V 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MMOO..VV.....HHH. H 99 M 99 O 99 
+ 3  3  0 ....UU...T.C.AAT.C.MMTOO.VV......HHH H 98 M 99 T 99 
+ 3  3  0 ...TUU...T...AAT..MMOO.C...VVC.HHH.. C 98 O 98 V 98 
+ 3  3  0 ..UU.......C.AAT.CMM.TOO.VVT.....HHH U 98 H 98 T 98 
+ 3  3  0 ...TUU...T.CAA.T.CMM.OO..VV......HHH O 99 H 98 A 99 
+ 3  3  0 ...TUU...T.CAA.T.CMM..OO...VV....HHH V 98 H 98 A 99 
+ 3  3  0 UU.......T.C.AAT.CMM.TOO.VV.....HHH. U 96 H 99 T 99 
+ 3  3  0 ...TUU...T...AAT.CMM.OOC....VV.HHH.. C 99 V 97 O 99 
+ 3  3  0 ...UU......C.AAT.CMM.TOO...TVV.HHH.. U 99 T 98 V 97 
+ 3  3  0 ....UU...T.C.AAT.CMM.TOO....VV...HHH H 98 V 97 T 99 
+ 3  3  0 ...TUU...T...AAT.CMM.OOC.VV......HHH H 98 C 99 O 99 
+ 3  3  0 ...TUU...T.C.AAT.CMMOO.....VV....HHH O 98 V 98 H 98 
+ 3  3  0 ...TUU...T.C.AAT.CMMOO..VV....HHH... V 99 O 98 H 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MM.OOVV....HHH... V 99 H 99 M 99 
+ 3  3  0 ...TUU...T...AAT..MM.OO...VV.C.HHH.C C 97 V 99 O 99 
+ 3  3  0 .UU......T.CAA.T.CMM.TOO.VV....HHH.. U 97 A 99 T 99 
+ 3  3  0 ...TUU...T.CAA.T.C..MMOO.VV.....HHH. A 99 H 99 M 98 
+ 3  3  0 ...TUU...T.C.AAT.CMM.OO....VV...HHH. H 99 V 98 O 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MM.OO...VV....HHH M 99 V 98 H 98 
+ 3  3  0 ...TUU...T...AAT..MMOO.C.VV..C..HHH. H 99 C 98 O 98 
+ 3  3  0 ...TUU...T.C.AAT.CMMOO....VV.....HHH V 99 O 98 H 98 
+ 3  3  0 ...TUU...T.C.AAT.CMMOO....VV..HHH... H 99 O 98 V 99 
+ 3  3  0 ...TUU...T...AAT..MMOO.CVV...C.HHH.. V 99 C 98 O 98 
+ 3  3  0 ...TUU...T.C.AAT.CMM.OO...VV....HHH. V 99 H 99 O 99 
+ 3  3  0 ...TUU...T...AAT..MM.OOCVV...C.HHH.. V 99 C 98 O 99 
+ 3  3  0 ...TUU...T...AAT.CMM.OOC...VV..HHH.. V 98 C 99 O 99 
+ 3  3  0 ...TUU...T.C.AAT.CMM.OO...VV.....HHH V 99 H 98 O 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MM.OO....VVHHH... H 99 V 97 M 99 
+ 3  3  0 ...TUU...T.C.AAT.C..MMOOVV....HHH... M 98 H 99 V 99 
+ 3  3  0 ...TUU...T.C.AAT.C..MMOO....VV...HHH H 98 V 97 M 98 
+ 3  3  0 ...TUU...T.CAA.T.CMM..OOVV......HHH. V 99 H 99 A 99 
+ 3  3  0 UU.........C.AAT.CMM.TOO...TVV.HHH.. U 96 T 98 V 97 
+ 3  3  0 UU.........C.AAT.CMM.TOOVV.T...HHH.. V 99 U 96 T 98 
+ 3  3  0 .UU........C.AAT.CMM.TOO...TVV.HHH.. U 97 T 98 V 97 
+ 3  3  0 ...TUU...T.CAA.T.CMM..OO....VV..HHH. H 99 V 97 A 99 
+ 3  3  0 ...TUU...T.C.AAT.C.MM.OOVV.......HHH V 99 H 98 M 99 
+ 3  3  0 ..UU.......C.AAT.CMM.TOO...TVV.HHH.. U 98 T 98 V 97 
+ 3  3  0 ...TUU...T.C.AAT.CMMOO......VV..HHH. H 99 O 98 V 97 
+ 3  3  0 ...TUU...T.C.AAT.C.MM.OO..VV.....HHH H 98 V 99 M 99 
+ 3  3  0 ....UU...T.C.AAT.C.MMTOO.VV.....HHH. H 99 M 99 T 99 
+ 3  3  0 ...TUU...T...AAT..MMOO.C.VV..CHHH... C 98 O 98 H 99 
+ 3  3  0 ...TUU...T.C.AAT.CMM.OO.VV......HHH. O 99 H 99 V 99 
+ 3  3  0 UU.......T.C.AAT.CMM.TOO...VV..HHH.. U 96 V 98 T 99 
+ 3  3  0 .UU..C...T.C.AAT..MM.TOO.VV....HHH.. C 99 U 97 T 99 
+ 3  3  0 .UU......T.C.AAT.CMM.TOO....VV.HHH.. V 97 U 97 T 99 
+ 3  3  0 .UU......T.C.AAT.CMM.TOO.VV......HHH H 98 U 97 T 99 
+ 3  3  0 .UU......T.C.AAT.CMM.TOOVV.....HHH.. V 99 U 97 T 99 
+ 3  3  0 ...UU......C.AAT.CMM.TOO.VVT..HHH... U 99 T 98 H 99 
+ 3  3  0 UU.........C.AAT.CMM.TOO.VVT..HHH... U 96 T 98 H 99 
+ 3  3  0 ...TUU...T.C.AAT.C..MMOO...VV....HHH M 98 V 98 H 98 
+ 4  4  0 ...TUU...T.C.AAT.C.MMOO....VV...HHH. O 99 H 99 V 98 M 99 
+ 4  4  0 ..UU.....T.C.AAT.C.MMTOOVV.....HHH.. V 99 U 98 M 99 T 99 
+ 4  4  0 ..UU.....T.C.AAT.CMM.TOO..VV....HHH. H 99 U 98 V 99 T 99 
+ 4  4  0 UU.......T.CAA.T.CMM.TOO...VV..HHH.. U 96 V 98 A 99 T 99 
+ 4  4  0 ...TUU...T...AAT..MMOO....VV.CHHH..C H 99 C 97 O 98 V 99 
+ 4  4  0 ....UU.....C...AAC.MMTOO.VVT..HHHT.. M 99 A 98 T 97 H 99 
+ 4  4  0 ..UU.......C...AACMM.TOO.VVT..HHHT.. U 98 A 98 T 97 H 99 
+ 4  4  0 ..UU.....T.C.AAT.C.MMTOO.VV.....HHH. H 99 U 98 M 99 T 99 
+ 4  4  0 ...UUC.....C.AA...MM.TOO.VVT..HHHT.. C 99 U 99 T 97 H 99 
+ 4  4  0 .UU......T.CAA.T.CMM.TOO...VV..HHH.. U 97 V 98 A 99 T 99 
+ 4  4  0 .UU........C.AA..C.MMTOO.VVT..HHHT.. M 99 U 97 T 97 H 99 
+ 4  4  0 .UU........CAA...CMM.TOO.VVT..HHHT.. A 99 U 97 T 97 H 99 
+ 4  4  0 .UU..C.....C.AA...MM.TOO.VVT..HHHT.. C 99 U 97 T 97 H 99 
+ 4  4  0 ...UU......C.AA..CMM.TOOVV.T..HHHT.. U 99 V 99 T 97 H 99 
+ 4  4  0 ....UU.....C.AA..C.MMTOOVV.T..HHHT.. M 99 V 99 T 97 H 99 
+ 4  4  0 ....UU...T.C.AAT.C.MMTOOVV......HHH. T 99 M 99 H 99 V 99 
+ 4  4  0 ..UU.......C.AA..CMM.TOOVV.T..HHHT.. U 98 V 99 T 97 H 99 
+ 4  4  0 ....UU...T.C.AAT.C.MMTOO..VV.....HHH H 98 M 99 V 99 T 99 
+ 4  4  0 ...TUU...T...AAT..MM..OO..VV.C.HHH.C O 96 C 97 O 96 V 99 
+ 4  4  0 UU.......T.C.AAT.CMM.TOOVV....HHH... V 99 U 96 T 99 H 99 
+ 4  4  0 ...TUU...T.CAA.T.C..MMOOVV......HHH. A 99 V 99 H 99 M 98 
+ 4  4  0 ....UU.....C...AACMM.TOOVV.T..HHHT.. V 99 A 98 T 97 H 99 
+ 4  4  0 UU.......T.CAA.T.CMM.TOO.VV...HHH... A 99 U 96 T 99 H 99 
+ 4  4  0 UU...C...T.C.AAT..MM.TOO.VV...HHH... C 99 U 96 T 99 H 99 
+ 4  4  0 ...TUU...T...AAT.CMMOO.CVV......HHH. C 99 O 98 H 99 V 99 
+ 4  4  0 ...TUU...T.C.AAT.C.MMOO.VV......HHH. O 99 M 99 H 99 V 99 
+ 4  4  0 ...UU....T.CAA.T.CMM.TOO.VV......HHH H 98 U 99 A 99 T 99 
+ 4  4  0 ...UU....T.CAA.T.CMM.TOOVV.....HHH.. V 99 U 99 A 99 T 99 
+ 4  4  0 ...TUU...T.CAA.T.CMMOO.....VV...HHH. O 98 H 99 V 98 A 99 
+ 4  4  0 ...UU....T.CAA.T.C.MMTOO.VV....HHH.. M 99 U 99 A 99 T 99 
+ 4  4  0 ...UU....T.CAA.T.CMM.TOO....VV.HHH.. V 97 U 99 A 99 T 99 
+ 4  4  0 ..UU.C...T.CAA.T..MM.TOO.VV....HHH.. C 99 U 98 A 99 T 99 
+ 4  4  0 ...UU......C..AA.CMM.TOO.VVT..HHHT.. A 99 U 99 T 97 H 99 
+ 4  4  0 ...UUC...T.C.AAT..MM.TOO..VV...HHH.. V 99 C 99 U 99 T 99 
+ 4  4  0 ...UUC...T.C.AAT...MMTOO.VV....HHH.. M 99 C 99 U 99 T 99 
+ 4  4  0 ...UUC...T.C.AAT..MM.TOO....VV.HHH.. V 97 C 99 U 99 T 99 
+ 4  4  0 ..UU.......CAA.T.CMM.TOO.VVT.....HHH U 98 T 98 H 98 A 99 
+ 4  4  0 ....UU...T.CAA.T.C.MMTOO....VV.HHH.. T 99 M 99 V 97 A 99 
+ 4  4  0 .UU........C.AAT.CMM.TOOVV.T.....HHH V 99 H 98 U 97 T 98 
+ 4  4  0 ...TUU...T...AAT.C.MMOOCVV.....HHH.. M 99 V 99 C 99 O 99 
+ 4  4  0 ...TUU...T.CAA.T.C..MMOO...VV....HHH H 98 M 98 V 98 A 99 
+ 4  4  0 ...TUU...T..AA.T.CMM.OOCVV.....HHH.. A 99 V 99 C 99 O 99 
+ 4  4  0 UU.T.....T.CAA.T.CMM..OO.VV....HHH.. T 96 A 99 U 96 T 96 
+ 4  4  0 ...UU......C.AA..CMM.TOO...TVVHHHT.. U 99 T 97 V 97 H 99 
+ 4  4  0 ...TUU...T...AAT..MM..OO.VV..C..HHHC O 98 C 97 H 99 O 98 
+ 4  4  0 ..UU.......C.AA..CMM.TOO...TVVHHHT.. U 98 T 97 V 97 H 99 
+ 4  4  0 ...TUU...T...AAT.C.MMOOC.VV...HHH... C 99 H 99 M 99 O 99 
+ 4  4  0 ...TUU...T...AAT..MM.OOCVV...C..HHH. V 99 H 99 C 98 O 99 
+ 4  4  0 ..UU.....T.C.AAT.CMM.TOO...VV.HHH... H 99 U 98 V 98 T 99 
+ 4  4  0 ...TUU...T...AAT.CMMOO.C..VV..HHH... H 99 C 99 O 98 V 99 
+ 4  4  0 ..UU.C.....C.AAT..MM.TOO.VVT....HHH. C 99 U 98 H 99 T 98 
+ 4  4  0 ...TUU...T.C.AAT.C.MMOO...VV.....HHH H 98 V 99 M 99 O 99 
+ 4  4  0 .UU........C.AA..CMM.TOO...TVVHHHT.. U 97 T 97 V 97 H 99 
+ 4  4  0 ...TUU...T.CAA.T.C.MM.OOVV.......HHH V 99 H 98 M 99 A 99 
+ 4  4  0 UU.........C.AA..CMM.TOO...TVVHHHT.. U 96 T 97 V 97 H 99 
+ 4  4  0 ...TUU...T...AAT..MMOO.C..VV.C...HHH V 99 C 98 O 98 H 98 
+ 4  4  0 ..UU.....T.CAA.T.CMM.TOO..VV...HHH.. A 99 U 98 V 99 T 99 
+ 4  4  0 ...TUU...T...AAT..MMOO.C...VVC...HHH V 98 C 98 O 98 H 98 
+ 4  4  0 UU.........C.AAT.CMM.TOOVV.T....HHH. V 99 U 96 H 99 T 98 
+ 4  4  0 ....UU...T.C.AAT.C.MMTOO...VV.HHH... V 98 T 99 H 99 M 99 
+ 4  4  0 ....UU...T.CAA.T.C.MMTOO.VV...HHH... A 99 T 99 H 99 M 99 
+ 4  4  0 ...UU....T.C.AAT.C.MMTOO.VV...HHH... U 99 T 99 H 99 M 99 
+ 4  4  0 UU.......T.C.AAT.C.MMTOO.VV...HHH... U 96 T 99 H 99 M 99 
+ 4  4  0 UU...C.....C.AAT..MM.TOO.VVT.....HHH H 98 C 99 U 96 T 98 
+ 4  4  0 UU.........C.AAT.C.MMTOO.VVT..HHH... U 96 T 98 H 99 M 99 
+ 4  4  0 ....UU...T.CAA.T.CMM.TOO....VV...HHH T 99 A 99 V 97 H 98 
+ 4  4  0 UU...C.....C.AAT..MM.TOOVV.T...HHH.. V 99 C 99 U 96 T 98 
+ 4  4  0 .UU......T.C.AAT.C.MMTOO....VV.HHH.. V 97 U 97 M 99 T 99 
+ 4  4  0 UU...C.....C.AAT...MMTOO.VVT...HHH.. M 99 C 99 U 96 T 98 
+ 4  4  0 ..UU.C...T.C.AAT..MM.TOO.VV......HHH C 99 U 98 H 98 T 99 
+ 4  4  0 UU.T.....T.C.AAT.CMM..OO....VV.HHH.. T 98 U 96 V 97 T 98 
+ 4  4  0 .UU..C.....C.AAT...MMTOO.VVT...HHH.. M 99 C 99 U 97 T 98 
+ 4  4  0 UU.......T.C.AAT.CMM.TOO..VV.....HHH V 99 U 96 H 98 T 99 
+ 4  4  0 .UUT.....T.C.AAT.CMM..OOVV.....HHH.. V 99 T 96 U 97 T 96 
+ 4  4  0 ...UU....T.C.AAT.C.MMTOO..VV...HHH.. U 99 M 99 V 99 T 99 
+ 4  4  0 UU.......T.C.AAT.CMM.TOO...VV...HHH. U 96 H 99 V 98 T 99 
+ 4  4  0 ...TUU...T.CAA.T.CMM.OO....VV....HHH A 99 V 98 H 98 O 99 
+ 4  4  0 ...TUU...T..AA.T.CMM.OOC.VV.....HHH. C 99 A 99 H 99 O 99 
+ 4  4  0 UU.......T.C.AAT.C.MMTOO..VV...HHH.. U 96 M 99 V 99 T 99 
+ 4  4  0 .UU......T.C.AAT.CMM.TOOVV......HHH. V 99 U 97 H 99 T 99 
+ 4  4  0 ...TUU...T.CAA.T.CMM.OO.....VVHHH... H 99 O 99 V 97 A 99 
+ 4  4  0 ...TUU...T...AAT.CMM.OOC....VV..HHH. C 99 V 97 H 99 O 99 
+ 4  4  0 ...UU......C.AAT.C.MMTOO.VVT.....HHH H 98 U 99 M 99 T 98 
+ 4  4  0 ...UU......C.AAT.C.MMTOOVV.T...HHH.. M 99 U 99 T 98 V 99 
+ 4  4  0 ...TUU...T.CAA.T.CMM.OO.VV......HHH. V 99 A 99 H 99 O 99 
+ 4  4  0 .UU......T.C.AAT.C.MMTOO.VV......HHH H 98 U 97 M 99 T 99 
+ 4  4  0 UU.T.....T.C.AAT.CMM..OO.VV......HHH T 98 U 96 H 98 T 98 
+ 4  4  0 ...UU....T.C.AAT.CMM.TOOVV.......HHH U 99 V 99 H 98 T 99 
+ 4  4  0 ...UU......C.AAT.C.MMTOO...TVV.HHH.. U 99 T 98 V 97 M 99 
+ 4  4  0 ....UU.....CAA.T.CMM.TOO...TVV..HHH. H 99 T 98 V 97 A 99 
+ 4  4  0 .UU..C.....C.AAT..MM.TOOVV.T...HHH.. V 99 C 99 U 97 T 98 
+ 4  4  0 ..UU.......C.AAT.C.MMTOO...TVV.HHH.. U 98 T 98 V 97 M 99 
+ 4  4  0 ...TUU...T.CAA.T.CMMOO..VV.......HHH H 98 V 99 O 98 A 99 
+ 4  4  0 ...UU....T.C.AAT.CMM.TOO..VV..HHH... U 99 H 99 V 99 T 99 
+ 4  4  0 ...TUU...T...AAT..MM.OOCVV...CHHH... C 98 V 99 H 99 O 99 
+ 4  4  0 .UU......T.C.AAT.CMM.TOO....VVHHH... U 97 H 99 V 97 T 99 
+ 4  4  0 ..UU.......CAA.T.CMM.TOOVV.T...HHH.. A 99 U 98 T 98 V 99 
+ 4  4  0 .UUT.....T.C.AAT.CMM..OO.VV...HHH... T 98 U 97 T 98 H 99 
+ 4  4  0 ..UU.....T.C.AAT.CMM.TOO....VV..HHH. U 98 H 99 V 97 T 99 
+ 4  4  0 ...TUU...T..AA.T.CMMOO.C..VV...HHH.. C 99 V 99 O 98 A 99 
+ 4  4  0 ...TUU...T.CAA.T.C.MM.OO..VV..HHH... M 99 V 99 A 99 H 99 
+ 4  4  0 ....UU...T.CAA.T.CMM.TOOVV......HHH. V 99 H 99 A 99 T 99 
+ 4  4  0 ....UU.....C.AAT.C.MMTOO...TVVHHH... H 99 T 98 V 97 M 99 
+ 4  4  0 ...TUU...T..AA.T..MMOO.C..VV.C.HHH.. C 98 V 99 O 98 A 99 
+ 4  4  0 ...TUU...T...AAT...MMOOC.VV..C...HHH M 99 C 98 H 98 O 99 
+ 4  4  0 ...TUU...T..AA.T..MMOO.CVV...C.HHH.. C 98 V 99 O 98 A 99 
+ 4  4  0 ...TUU...T...AAT.CMM.OOC...VV....HHH C 99 V 98 H 98 O 99 
+ 4  4  0 UU.T.C...T.C.AAT..MM..OO.VV....HHH.. T 96 C 99 U 96 T 96 
+ 4  4  0 ....UU.....CAA.T.CMM.TOOVV.T.....HHH H 98 A 99 T 98 V 99 
+ 4  4  0 ..UU.......CAA.T.CMM.TOO...TVV.HHH.. U 98 T 98 V 97 A 99 
+ 4  4  0 UU.......T.CAA.T.CMM.TOO..VV...HHH.. U 96 V 99 A 99 T 99 
+ 4  4  0 .UU........CAA.T.CMM.TOO...TVV.HHH.. U 97 T 98 V 97 A 99 
+ 4  4  0 .UU......T.C.AAT.CMM.TOO...VV....HHH U 97 T 99 V 98 H 98 
+ 4  4  0 ..UU.....T.CAA.T.CMM.TOO.VV.....HHH. U 98 H 99 A 99 T 99 
+ 4  4  0 ...UU......CAA.T.CMM.TOO.VVT....HHH. U 99 A 99 H 99 T 98 
+ 4  4  0 ....UU.....CAA.T.C.MMTOOVV.T...HHH.. V 99 A 99 M 99 T 98 
+ 4  4  0 ..UU.......CAA.T.C.MMTOO.VVT...HHH.. U 98 A 99 M 99 T 98 
+ 4  4  0 ...TUU...T..AA.T..MMOO.C.VV..C...HHH C 98 A 99 O 98 H 98 
+ 4  4  0 ..UU.C...T.C.AAT..MM.TOO...VV..HHH.. C 99 U 98 V 98 T 99 
+ 4  4  0 ..UU.......C.AAT.CMM.TOO...TVV...HHH U 98 T 98 V 97 H 98 
+ 4  4  0 .UU........C.AAT.CMM.TOO...TVV...HHH U 97 T 98 V 97 H 98 
+ 4  4  0 ....UU.....CAA.T.C.MMTOO.VVT.....HHH T 98 H 98 M 99 A 99 
+ 4  4  0 ....UU.....C.AAT.C.MMTOOVV.T.....HHH V 99 H 98 M 99 T 98 
+ 4  4  0 .UU..C.....C.AAT..MM.TOO.VVT..HHH... H 99 C 99 U 97 T 98 
+ 4  4  0 .UU..C...T.C.AAT..MM.TOO.VV.....HHH. C 99 U 97 H 99 T 99 
+ 4  4  0 ...TUU...T.CAA.T.C..MMOO....VV...HHH M 98 A 99 V 97 H 98 
+ 4  4  0 ...TUU...T...AAT.C.MMOOC..VV...HHH.. C 99 V 99 M 99 O 99 
+ 4  4  0 ...TUU...T.C.AAT.C.MMOO.....VVHHH... V 97 H 99 M 99 O 99 
+ 4  4  0 ....UU.....CAA.T.C.MMTOO...TVV.HHH.. M 99 T 98 V 97 A 99 
+ 4  4  0 ...TUU...T..AA.T..MM.OO..VV..CHHH..C A 99 C 97 H 99 O 99 
+ 4  4  0 ...TUU...T.CAA.T.C.MMOO..VV...HHH... H 99 A 99 M 99 O 99 
+ 4  4  0 ..UU.C...T.C.AAT...MMTOO.VV....HHH.. C 99 U 98 M 99 T 99 
+ 4  4  0 .UUT.....T.C.AAT.CMM.OO..VV....HHH.. O 99 T 96 U 97 T 96 
+ 4  4  0 .UUT.....T.C.AAT.C.MM.OO.VV....HHH.. M 99 T 96 U 97 T 96 
+ 4  4  0 ...TUU...T.CAA.T.C.MMOO.VV.....HHH.. V 99 A 99 M 99 O 99 
+ 4  4  0 ...TUU...T...AAT...MMOO..VV..C..HHHC H 99 C 97 M 99 O 99 
+ 4  4  0 ...UUC.....C.AAT..MM.TOO.VVT...HHH.. U 95 C 99 U 95 T 98 
+ 4  4  0 ...TUU...T...AAT...MM.OO.VV..C.HHH.C O 98 C 97 M 99 O 98 
+ 4  4  0 ....UU.....C..AA.CMM.TOO...TVVHHHT.. A 99 T 97 V 97 H 99 
+ 4  4  0 ...UUC...T.CAA.T..MM.TOO.VV....HHH.. A 99 C 99 U 99 T 99 
+ 4  4  0 .UU......T.CAA.T.C.MMTOO.VV....HHH.. A 99 U 97 M 99 T 99 
+ 4  4  0 .UU..C.....CAA.T..MM.TOO.VVT...HHH.. C 99 A 99 U 97 T 98 
+ 4  4  0 ...TUU...T..AA.T.C.MMOOC.VV....HHH.. C 99 A 99 M 99 O 99 
+ 4  4  0 ...TUU...T...AAT..MM.OO...VV.C..HHHC V 99 C 97 H 99 O 99 
+ 4  4  0 ...TUU...T.CAA.T.CMM.OO...VV..HHH... A 99 V 99 H 99 O 99 
+ 4  4  0 ...TUU...T..AA.T...MMOO..VV..C.HHH.C C 97 A 99 M 99 O 99 
+ 4  4  0 UU...C.....CAA.T..MM.TOO.VVT...HHH.. C 99 A 99 U 96 T 98 
+ 4  4  0 ...TUU...T...AAT...MMOO....VVC.HHH.C M 99 C 97 V 98 O 99 
+ 4  4  0 ...TUU...T..AA.T..MM.OO....VVC.HHH.C A 99 C 97 V 98 O 99 
+ 4  4  0 ....UU.....C..AA.CMM.TOOVV.T..HHHT.. V 99 A 99 T 97 H 99 
+ 4  4  0 ...TUU...T.CAA.T.CMMOO......VV..HHH. V 97 H 99 O 98 A 99 
+ 4  4  0 ...TUU...T...AAT.CMMOO.CVV.......HHH V 99 C 99 O 98 H 98 
+ 4  4  0 ...TUU...T...AAT..MM..OO...VVC.HHH.C O 98 C 97 V 98 O 98 
+ 4  4  0 ....UU.....C...AACMM.TOO...TVVHHHT.. A 98 T 97 V 97 H 99 
+ 4  4  0 ...TUU...T...AAT..MMOO.....VVCHHH..C C 97 O 98 V 98 H 99 
+ 4  4  0 ..UU.C...T.C.AAT..MM.TOOVV.....HHH.. C 99 U 98 T 99 V 99 
+ 4  4  0 ...TUU...T..AA.T..MM..OO.VV..C.HHH.C O 96 C 97 O 96 A 99 
+ 4  4  0 ...TUU...T.C.AAT.C.MMOO.VV.......HHH M 99 V 99 H 98 O 99 
+ 4  4  0 ..UU.......C.AAT.CMM.TOOVV.T..HHH... H 99 U 98 T 98 V 99 
+ 4  4  0 ...TUU...T..AA.T.CMMOO.C.VV...HHH... C 99 O 98 A 99 H 99 
+ 4  4  0 ....UU...T.C.AAT.C.MMTOO...VV...HHH. M 99 H 99 V 98 T 99 
+ 4  4  0 ...TUU...T.CAA.T.C.MM.OO...VV...HHH. V 98 H 99 M 99 A 99 
+ 4  4  0 ....UU...T.C.AAT.C.MMTOO....VV..HHH. M 99 H 99 V 97 T 99 
+ 4  4  0 ....UU...T.CAA.T.CMM.TOO..VV..HHH... H 99 V 99 A 99 T 99 
+ 4  4  0 .UU........CAA.T.CMM.TOO.VVT..HHH... U 97 T 98 A 99 H 99 
+ 4  4  0 ...TUU...T.CAA.T.C.MM.OO....VV..HHH. V 97 H 99 M 99 A 99 
+ 4  4  0 ..UU.......C.AAT.C.MMTOO.VVT....HHH. H 99 U 98 M 99 T 98 
+ 4  4  0 UU.........C...AACMM.TOO.VVT..HHHT.. U 96 A 98 T 97 H 99 
+ 4  4  0 ....UU.....C..AA.C.MMTOO.VVT..HHHT.. M 99 A 99 T 97 H 99 
+ 4  4  0 .UU........C...AACMM.TOO.VVT..HHHT.. U 97 A 98 T 97 H 99 
+ 4  4  0 ....UU...T.C.AAT.C.MMTOO..VV..HHH... V 99 T 99 H 99 M 99 
+ 4  4  0 ..UU.C.....C.AA...MM.TOO.VVT..HHHT.. C 99 U 98 T 97 H 99 
+ 4  4  0 ..UU.....T.C.AAT.C.MMTOO...VV..HHH.. V 98 U 98 M 99 T 99 
+ 4  4  0 ..UU.......CAA...CMM.TOO.VVT..HHHT.. U 98 T 97 A 99 H 99 
+ 4  4  0 .UUT.....T.C.AAT.C..MMOO.VV....HHH.. M 98 T 96 U 97 T 96 
+ 4  4  0 .UUT.....T.C.AAT.CMMOO...VV....HHH.. O 98 T 96 U 97 T 96 
+ 4  4  0 ...TUU...T..AA.T..MM.OOC.VV..CHHH... H 99 A 99 C 98 O 99 
+ 4  4  0 ...UU....T.C.AAT.CMM.TOO...VV....HHH H 98 V 98 U 99 T 99 
+ 4  4  0 .UUT.C...T.C.AAT..MM..OO.VV....HHH.. T 96 C 99 U 97 T 96 
+ 4  4  0 ...TUU...T...AAT..MM.OOC...VVC...HHH C 98 V 98 H 98 O 99 
+ 4  4  0 ...TUU...T..AA.T..MM.OOCVV...C.HHH.. V 99 A 99 C 98 O 99 
+ 4  4  0 ...TUU...T..AA.T..MMOO..VV...C.HHH.C C 97 V 99 O 98 A 99 
+ 4  4  0 ...TUU...T...AAT...MMOOC.VV..CHHH... C 98 H 99 M 99 O 99 
+ 4  4  0 ....UU.....C.AA..C.MMTOO...TVVHHHT.. M 99 T 97 V 97 H 99 
+ 4  4  0 ..UU.....T.C.AAT.C.MMTOO.VV......HHH M 99 U 98 H 98 T 99 
+ 4  4  0 ...TUU...T...AAT..MMOO.C...VVC..HHH. H 99 C 98 O 98 V 98 
+ 4  4  0 ...TUU...T...AAT..MM..OO.VV..CHHH..C O 98 C 97 H 99 O 98 
+ 4  4  0 ...UU....T.C.AAT.C.MMTOO.VV.....HHH. M 99 H 99 U 99 T 99 
+ 4  4  0 .UU........C.AAT.C.MMTOOVV.T...HHH.. U 97 T 98 V 99 M 99 
+ 4  4  0 ..UU.......C.AAT.C.MMTOO.VVT.....HHH H 98 U 98 M 99 T 98 
+ 4  4  0 ....UU...T.CAA.T.C.MMTOO.VV.....HHH. T 99 H 99 M 99 A 99 
+ 4  4  0 .UU......T.C.AAT.CMM.TOO..VV....HHH. H 99 U 97 V 99 T 99 
+ 4  4  0 UU.......T.C.AAT.C.MMTOOVV.....HHH.. M 99 U 96 T 99 V 99 
+ 4  4  0 UU.......T.C.AAT.CMM.TOO....VV..HHH. H 99 U 96 V 97 T 99 
+ 4  4  0 ...UUC...T.C.AAT..MM.TOO.VV......HHH H 98 C 99 U 99 T 99 
+ 4  4  0 ...UU......C.AAT.CMM.TOO...TVV..HHH. H 99 U 99 T 98 V 97 
+ 4  4  0 ....UU.....CAA.T.CMM.TOO...TVVHHH... H 99 T 98 V 97 A 99 
+ 4  4  0 .UU........C.AAT.C.MMTOO.VVT..HHH... M 99 H 99 U 97 T 98 
+ 4  4  0 ...TUU...T.CAA.T.CMMOO....VV.....HHH O 98 V 99 H 98 A 99 
+ 4  4  0 .UU........CAA.T.CMM.TOOVV.T...HHH.. V 99 A 99 U 97 T 98 
+ 4  4  0 ..UU.....T.C.AAT.CMM.TOO...VV...HHH. U 98 H 99 V 98 T 99 
+ 4  4  0 ....UU.....CAA.T.CMM.TOOVV.T..HHH... T 98 V 99 A 99 H 99 
+ 4  4  0 ...TUU...T..AA.T..MMOO.C...VVC.HHH.. A 99 C 98 O 98 V 98 
+ 4  4  0 ...TUU...T...AAT.CMM.OOC..VV.....HHH V 99 H 98 C 99 O 99 
+ 4  4  0 ...UU......CAA.T.CMM.TOO.VVT.....HHH U 99 T 98 H 98 A 99 
+ 4  4  0 ...UU......CAA.T.C.MMTOO.VVT...HHH.. U 99 A 99 M 99 T 98 
+ 4  4  0 ...TUU...T.CAA.T.C..MMOO....VVHHH... V 97 M 98 A 99 H 99 
+ 4  4  0 ...TUU...T.CAA.T.C..MMOO..VV.....HHH A 99 H 98 V 99 M 98 
+ 4  4  0 ...TUU...T..AA.T..MM.OO..VV..C..HHHC C 97 A 99 H 99 O 99 
+ 4  4  0 ...TUU...T.CAA.T.C.MMOO..VV......HHH H 98 A 99 M 99 O 99 
+ 4  4  0 .UU..C...T.C.AAT..MM.TOO..VV...HHH.. C 99 U 97 V 99 T 99 
+ 4  4  0 ...TUU...T.CAA.T.C.MMOO.....VV.HHH.. O 99 M 99 V 97 A 99 
+ 4  4  0 ...TUU...T.CAA.T.C.MMOO....VV..HHH.. V 98 A 99 M 99 O 99 
+ 4  4  0 .UU......T.CAA.T.CMM.TOO.VV......HHH H 98 U 97 A 99 T 99 
+ 4  4  0 ...TUU...T.CAA.T.CMM.OO...VV....HHH. V 99 A 99 H 99 O 99 
+ 4  4  0 ...TUU...T...AAT..MMOO..VV...C..HHHC C 97 O 98 H 99 V 99 
+ 4  4  0 ...TUU...T.CAA.T.C..MMOO....VV..HHH. A 99 V 97 H 99 M 98 
+ 4  4  0 ....UU...T.CAA.T.CMM.TOO..VV.....HHH H 98 V 99 A 99 T 99 
+ 4  4  0 ....UU...T.CAA.T.CMM.TOO...VV.HHH... H 99 V 98 A 99 T 99 
+ 4  4  0 ...TUU...T.C.AAT.C.MMOO.VV....HHH... V 99 H 99 M 99 O 99 
+ 4  4  0 .UU........C.AAT.CMM.TOOVV.T..HHH... U 97 H 99 T 98 V 99 
+ 4  4  0 ....UU...T.CAA.T.C.MMTOO...VV..HHH.. A 99 T 99 V 98 M 99 
+ 4  4  0 ...TUU...T.CAA.T.CMMOO.....VV.HHH... V 98 O 98 A 99 H 99 
+ 4  4  0 .UUT.....T.C.AAT.CMM..OO.VV.....HHH. T 96 U 97 H 99 T 96 
+ 4  4  0 ...TUU...T..AA.T.CMM.OOC....VV.HHH.. C 99 O 99 V 97 A 99 
+ 4  4  0 ...TUU...T..AA.T.CMM.OOC..VV...HHH.. C 99 A 99 V 99 O 99 
+ 4  4  0 ..UU.....T.C.AAT.CMM.TOO..VV..HHH... V 99 U 98 T 99 H 99 
+ 4  4  0 ...TUU...T.C.AAT.C.MMOO....VV....HHH M 99 V 98 H 98 O 99 
+ 4  4  0 ...TUU...T..AA.T..MMOO.C.VV..C..HHH. A 99 H 99 C 98 O 98 
+ 4  4  0 ...TUU...T.CAA.T.CMMOO....VV..HHH... A 99 H 99 O 98 V 99 
+ 4  4  0 ..UU.....T.CAA.T.CMM.TOO...VV..HHH.. U 98 V 98 A 99 T 99 
+ 4  4  0 ...TUU...T...AAT..MMOO.CVV...CHHH... H 99 V 99 C 98 O 98 
+ 4  4  0 ...TUU...T...AAT.CMMOO.CVV.....HHH.. C 97 V 99 C 97 O 98 
+ 4  4  0 ...TUU...T...AAT.CMM.OOC..VV....HHH. C 99 V 99 H 99 O 99 
+ 4  4  0 ...TUU...T...AAT..MMOO.C..VV.C..HHH. V 99 H 99 C 98 O 98 
+ 4  4  0 ...TUU...T...AAT..MM.OOCVV...C...HHH H 98 V 99 C 98 O 99 
+ 4  4  0 ...TUU...T...AAT...MMOOCVV...C.HHH.. M 99 V 99 C 98 O 99 
+ 4  4  0 UU.......T.C.AAT.C.MMTOO.VV......HHH M 99 U 96 H 98 T 99 
+ 4  4  0 ...TUU...T.CAA.T.CMM.OO.....VV...HHH H 98 O 99 V 97 A 99 
+ 4  4  0 UU...C.....C.AAT..MM.TOO.VVT..HHH... H 99 C 99 U 96 T 98 
+ 4  4  0 UU.........C.AAT.C.MMTOO.VVT....HHH. U 96 M 99 H 99 T 98 
+ 4  4  0 ...TUU...T..AA.T.CMM.OOC.VV......HHH C 99 O 99 H 98 A 99 
+ 4  4  0 .UUT.....T.C.AAT.CMM..OO..VV...HHH.. T 98 U 97 V 99 T 98 
+ 4  4  0 ...TUU...T.CAA.T.C.MM.OO...VV....HHH M 99 V 98 H 98 A 99 
+ 4  4  0 ...UU......CAA.T.CMM.TOO...TVV.HHH.. A 99 U 99 T 98 V 97 
+ 4  4  0 ...UU....T.C.AAT.CMM.TOO....VV...HHH U 99 H 98 V 97 T 99 
+ 4  4  0 ...TUU...T.C.AAT.C.MMOO...VV....HHH. H 99 V 99 M 99 O 99 
+ 4  4  0 ...TUU...T...AAT.CMM.OOCVV....HHH... H 99 V 99 C 99 O 99 
+ 4  4  0 ...TUU...T...AAT..MM.OOC..VV.CHHH... H 99 V 99 C 98 O 99 
+ 4  4  0 ....UU.....C.AAT.C.MMTOO...TVV...HHH T 98 H 98 V 97 M 99 
+ 4  4  0 ...TUU...T.CAA.T.C.MM.OOVV....HHH... M 99 V 99 A 99 H 99 
+ 4  4  0 ...TUU...T..AA.T.CMM.OOC...VV..HHH.. A 99 V 98 C 99 O 99 
+ 4  4  0 UU.......T.CAA.T.CMM.TOO.VV.....HHH. U 96 H 99 A 99 T 99 
+ 4  4  0 ...UU......C.AAT.CMM.TOOVV.T....HHH. U 99 H 99 T 98 V 99 
+ 4  4  0 ...TUU...T...AAT.CMMOO.C..VV.....HHH V 99 C 99 O 98 H 98 
+ 4  4  0 ...TUU...T.CAA.T.CMM.OO...VV.....HHH A 99 V 99 H 98 O 99 
+ 4  4  0 ...TUU...T...AAT..MM.OOC...VVC..HHH. V 98 H 99 C 98 O 99 
+ 4  4  0 ...TUU...T...AAT.C.MMOOC.VV......HHH M 99 H 98 C 99 O 99 
+ 4  4  0 ...TUU...T.CAA.T.C.MM.OO....VVHHH... A 99 H 99 V 97 M 99 
+ 4  4  0 ...TUU...T.CAA.T.C..MMOOVV....HHH... A 99 M 98 H 99 V 99 
+ 4  4  0 ....UU.....C.AAT.C.MMTOOVV.T..HHH... H 99 T 98 V 99 M 99 
+ 4  4  0 ...TUU...T...AAT.C.MMOOC...VV..HHH.. M 99 V 98 C 99 O 99 
+ 4  4  0 .UU......T.CAA.T.CMM.TOO..VV...HHH.. V 99 U 97 A 99 T 99 
+ 4  4  0 UU.........C.AAT.C.MMTOOVV.T...HHH.. M 99 V 99 U 96 T 98 
+ 4  4  0 .UU........C.AAT.CMM.TOOVV.T...HHH.. U 95 V 99 U 95 T 98 
+ 4  4  0 UU.........C.AAT.CMM.TOO...TVV...HHH H 98 U 96 T 98 V 97 
+ 4  4  0 UU.........C.AAT.C.MMTOO...TVV.HHH.. M 99 U 96 T 98 V 97 
+ 4  4  0 UU.........CAA.T.CMM.TOO...TVV.HHH.. A 99 U 96 T 98 V 97 
+ 4  4  0 UU...C.....C.AAT..MM.TOO...TVV.HHH.. C 99 U 96 T 98 V 97 
+ 4  4  0 .UU........C.AAT.CMM.TOO...TVV..HHH. H 99 U 97 T 98 V 97 
+ 4  4  0 .UU..C.....C.AAT..MM.TOO...TVV.HHH.. C 99 U 97 T 98 V 97 
+ 4  4  0 ...TUU...T...AAT..MM.OOC..VV.C...HHH H 98 V 99 C 98 O 99 
+ 4  4  0 UU.........C.AAT.CMM.TOO...TVVHHH... H 99 U 96 T 98 V 97 
+ 4  4  0 ..UU.......C.AAT.CMM.TOO...TVV..HHH. H 99 U 98 T 98 V 97 
+ 4  4  0 ....UU...T.C.AAT.C.MMTOOVV.......HHH T 99 V 99 H 98 M 99 
+ 4  4  0 ...TUU...T.CAA.T.C.MM.OO..VV.....HHH A 99 H 98 V 99 M 99 
+ 4  4  0 .UU......T.C.AAT.C.MMTOO.VV.....HHH. U 97 H 99 M 99 T 99 
+ 4  4  0 ..UU.......C.AAT.CMM.TOOVV.T.....HHH V 99 U 98 H 98 T 98 
+ 4  4  0 .UU........CAA.T.CMM.TOO.VVT....HHH. A 99 U 97 H 99 T 98 
+ 4  4  0 ...TUU...T...AAT.CMM.OOC.VV.....HHH. H 97 H 97 C 99 O 99 
+ 4  4  0 ...TUU...T...AAT..MMOO...VV..CHHH..C C 97 C 97 O 98 H 99 
+ 4  4  0 ...TUU...T..AA.T..MMOO.C.VV..CHHH... A 99 C 98 O 98 H 99 
+ 4  4  0 ...TUU...T...AAT..MM.OOC.VV..CHHH... O 97 C 98 O 97 H 99 
+ 4  4  0 ...TUU...T...AAT..MMOO.C...VVCHHH... V 98 C 98 O 98 H 99 
+ 4  4  0 ...TUU...T...AAT.CMMOO.C.VV...HHH... C 97 C 97 O 98 H 99 
+ 4  4  0 UU.........C.AAT.CMM.TOOVV.T..HHH... H 99 V 99 U 96 T 98 
+ 4  4  0 ...TUU...T...AAT.CMM.OOCVV......HHH. C 99 O 99 H 99 V 99 
+ 4  4  0 ....UU...T.CAA.T.CMM.TOO....VV..HHH. T 99 H 99 V 97 A 99 
+ 4  4  0 ...TUU...T.CAA.T.CMM.OO.....VV..HHH. V 97 A 99 H 99 O 99 
+ 4  4  0 UU.T.....T.C.AAT.CMM..OOVV.....HHH.. T 98 U 96 T 98 V 99 
+ 4  4  0 UU.T.....T.C.AAT.CMM..OO...VV..HHH.. T 98 U 96 V 98 T 98 
+ 4  4  0 UU.......T.C.AAT.CMM.TOO...VV.HHH... H 99 U 96 V 98 T 99 
+ 4  4  0 UU.......T.C.AAT.C.MMTOO...VV..HHH.. M 99 U 96 V 98 T 99 
+ 4  4  0 UU.......T.C.AAT.CMM.TOO..VV...HHH.. V 97 U 96 V 97 T 99 
+ 4  4  0 ...TUU...T.CAA.T.CMM..OO....VVHHH... H 97 H 97 V 97 A 99 
+ 4  4  0 ...TUU...T...AAT.CMM.OOC...VV.HHH... H 99 V 98 C 99 O 99 
+ 4  4  0 ..UU.C...T.C.AAT..MM.TOO.VV....HHH.. U 96 C 99 U 96 T 99 
+ 4  4  0 .UU......T.C.AAT.CMM.TOO....VV..HHH. H 99 V 97 U 97 T 99 
+ 4  4  0 .UU......T.C.AAT.CMM.TOOVV....HHH... H 99 V 99 U 97 T 99 
+ 4  4  0 .UU......T.C.AAT.CMM.TOO..VV.....HHH V 99 H 98 U 97 T 99 
+ 4  4  0 .UU......T.C.AAT.C.MMTOOVV.....HHH.. M 99 V 99 U 97 T 99 
+ 4  4  0 ...UU....T.C.AAT.CMM.TOOVV.....HHH.. U 95 V 99 U 95 T 99 
+ 4  4  0 .UUT.....T.C.AAT.CMM..OO.VV......HHH T 98 H 98 U 97 T 98 
+ 4  4  0 ...UU....T.C.AAT.CMM.TOO.VV......HHH U 95 H 98 U 95 T 99 
+ 4  4  0 .UU..C...T.CAA.T..MM.TOO.VV....HHH.. A 99 C 99 U 97 T 99 
+ 4  4  0 .UU..C...T.C.AAT..MM.TOOVV.....HHH.. V 99 C 99 U 97 T 99 
+ 4  4  0 .UU..C...T.C.AAT..MM.TOO.VV...HHH... H 99 C 99 U 97 T 99 
+ 4  4  0 .UU..C...T.C.AAT...MMTOO.VV....HHH.. M 99 C 99 U 97 T 99 
+ 4  4  0 .UU......T.C.AAT.CMM.TOO....VV...HHH V 97 H 98 U 97 T 99 
+ 4  4  0 UU...C...T.C.AAT..MM.TOO.VV....HHH.. U 96 C 99 U 96 T 99 
+ 4  4  0 .UUT.....T.C.AAT.CMM..OO....VV.HHH.. T 98 V 97 U 97 T 98 
+ 4  4  0 .UU........C.AAT.C.MMTOO...TVV.HHH.. M 99 U 97 T 98 V 97 
+ 4  4  0 ...TUU...T...AAT..MMOO.C..VV.CHHH... C 98 H 99 O 98 V 99 
+ 4  4  0 ...UU......C.AAT.CMM.TOO.VVT...HHH.. H 98 U 99 T 98 H 98 
+ 4  4  0 ...UUC.....C.AAT..MM.TOO.VVT..HHH... C 99 U 99 T 98 H 99 
+ 4  4  0 ...UU....T.C.AAT.CMM.TOO.VV...HHH... T 97 U 99 T 97 H 99 
+ 4  4  0 ...TUU...T...AAT...MMOO...VV.C.HHH.C M 99 C 97 V 99 O 99 
+ 4  4  0 .UU......T.CAA.T.CMM.TOO....VV.HHH.. V 97 U 97 A 99 T 99 
+ 4  4  0 UU.........CAA.T.CMM.TOOVV.T...HHH.. A 99 V 99 U 96 T 98 
+ 4  4  0 ...TUU...T.CAA.T.CMM..OOVV.......HHH H 98 V 99 H 98 A 99 
+ 4  4  0 ...TUU...T.CAA.T.C.MM.OOVV......HHH. M 99 V 99 H 99 A 99 
+ 4  4  0 ....UU...T.C.AAT.C.MMTOO..VV....HHH. H 99 M 99 V 99 T 99 
+ 4  4  0 ..UU.......C.AA..C.MMTOO.VVT..HHHT.. M 99 U 98 T 97 H 99 
+ 4  4  0 ...UU....T.C.AAT.CMM.TOO....VV.HHH.. U 95 V 97 U 95 T 99 
+ 4  4  0 ....UU.....CAA.T.C.MMTOO.VVT..HHH... M 99 T 98 A 99 H 99 
+ 4  4  0 ...UU......C.AAT.C.MMTOO.VVT..HHH... M 99 U 99 T 98 H 99 
+ 4  4  0 ...UU......C.AAT.CMM.TOOVV.T..HHH... V 99 U 99 T 98 H 99 
+ 4  4  0 UU.T.....T.C.AAT.CMM..OO.VV...HHH... T 96 U 96 T 96 H 99 
+ 4  4  0 UU.........C.AAT.CMM.TOO.VVT.....HHH H 96 U 96 T 98 H 96 
+ 4  4  0 UU.........C..AA.CMM.TOO.VVT..HHHT.. A 99 U 96 T 97 H 99 
+ 4  4  0 ...TUU...T...AAT.CMM.OOC..VV...HHH.. C 95 C 95 V 99 O 99 
+ 4  4  0 ..UU.....T.CAA.T.C.MMTOO.VV....HHH.. A 99 U 98 M 99 T 99 
+ 4  4  0 ...TUU...T.CAA.T.CMMOO..VV......HHH. O 98 V 99 H 99 A 99 
+ 4  4  0 ...TUU...T...AAT.CMMOO.C....VV..HHH. C 99 H 99 O 98 V 97 
+ 4  4  0 UU.........CAA.T.CMM.TOO.VVT..HHH... U 96 T 98 A 99 H 99 
+ 4  4  0 ....UU.....CAA.T.CMM.TOOVV.T....HHH. T 98 V 99 H 99 A 99 
+ 4  4  0 ...UUC.....C.AAT..MM.TOOVV.T...HHH.. C 99 U 99 T 98 V 99 
+ 4  4  0 ....UU...T.C.AAT.C.MMTOO....VVHHH... T 99 H 99 V 97 M 99 
+ 4  4  0 .UUT.....T.CAA.T.CMM..OO.VV....HHH.. A 99 T 96 U 97 T 96 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOO....VV..HHH. H 99 V 97 U 99 A 99 T 99 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOOVV....HHH... H 99 C 99 U 98 T 99 V 99 
+ 5  5  0 ....UU......AA.T..MM.TOO.VVT.C.HHH.C T 98 O 96 C 97 O 96 A 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO.....VVCHHH..C A 99 C 97 O 98 V 98 H 99 
+ 5  5  0 .UUT.....T.CAA.T.CMM..OO...VV..HHH.. T 98 U 97 V 98 A 99 T 98 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOOVV....HHH... H 99 V 99 U 98 M 99 T 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOO...VV....HHH H 98 U 96 V 98 A 99 T 99 
+ 5  5  0 ..UU.C.....C...AA.MM.TOO.VVT..HHHT.. C 99 U 98 A 98 T 97 H 99 
+ 5  5  0 ..UU.......C.AAT.C.MMTOOVV.T....HHH. V 99 H 99 U 98 M 99 T 98 
+ 5  5  0 ...UU......C...AAC.MMTOO.VVT..HHHT.. U 99 M 99 A 98 T 97 H 99 
+ 5  5  0 UU.........C...AAC.MMTOO.VVT..HHHT.. M 99 U 96 A 98 T 97 H 99 
+ 5  5  0 UU...C.....C...AA.MM.TOO.VVT..HHHT.. C 99 U 96 A 98 T 97 H 99 
+ 5  5  0 UU.......T.CAA.T.C.MMTOO...VV..HHH.. M 99 U 96 V 98 A 99 T 99 
+ 5  5  0 UU...C...T.CAA.T..MM.TOO...VV..HHH.. C 99 U 96 V 98 A 99 T 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOO...VV...HHH. H 99 U 97 V 98 A 99 T 99 
+ 5  5  0 .UU..C.....C....AAMM.TOO.VVT..HHHT.. A 97 C 99 U 97 T 97 H 99 
+ 5  5  0 ...TUU...T...AAT..MM..OO..VV.C..HHHC H 99 O 96 C 97 O 96 V 99 
+ 5  5  0 ...UUC...T.C.AAT..MM.TOOVV.....HHH.. V 93 V 93 C 99 U 99 T 99 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOO...VV..HHH.. U 93 U 93 V 98 A 99 T 99 
+ 5  5  0 ....UU.....C..AA.C.MMTOOVV.T..HHHT.. V 99 M 99 A 99 T 97 H 99 
+ 5  5  0 ....UU.....C.AA..C.MMTOO.VVT..HHHT.. A 98 M 99 A 98 T 97 H 99 
+ 5  5  0 UU.T.....T.CAA.T.CMM..OO...VV..HHH.. T 98 U 96 V 98 A 99 T 98 
+ 5  5  0 .UU......T.CAA.T.CMM.TOO...VV.HHH... H 99 U 97 V 98 A 99 T 99 
+ 5  5  0 .UU........CAA...CMM.TOOVV.T..HHHT.. V 99 A 99 U 97 T 97 H 99 
+ 5  5  0 .UU........CAA...C.MMTOO.VVT..HHHT.. M 99 A 99 U 97 T 97 H 99 
+ 5  5  0 ...UUC.....C....AAMM.TOO.VVT..HHHT.. A 97 C 99 U 99 T 97 H 99 
+ 5  5  0 ..UU.......C..AA.C.MMTOO.VVT..HHHT.. U 98 M 99 A 99 T 97 H 99 
+ 5  5  0 .UU........C..AA.C.MMTOO.VVT..HHHT.. U 97 M 99 A 99 T 97 H 99 
+ 5  5  0 UU.........C..AA.C.MMTOO.VVT..HHHT.. U 96 M 99 A 99 T 97 H 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOO...VV....HHH H 98 U 97 V 98 A 99 T 99 
+ 5  5  0 ...UU......C..AA.C.MMTOO.VVT..HHHT.. U 99 M 99 A 99 T 97 H 99 
+ 5  5  0 .UU........C...AACMM.TOOVV.T..HHHT.. V 99 U 97 A 98 T 97 H 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO.VV......HHH. A 99 O 99 M 99 H 99 V 99 
+ 5  5  0 ...TUU...T..AA.T..MM..OO.VV..CHHH..C H 99 O 96 C 97 O 96 A 99 
+ 5  5  0 ...UUC...T.C.AAT...MMTOO.VV......HHH H 98 M 99 C 99 U 99 T 99 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOOVV......HHH. H 99 V 99 U 98 M 99 T 99 
+ 5  5  0 .UU........C...AAC.MMTOO.VVT..HHHT.. M 99 U 97 A 98 T 97 H 99 
+ 5  5  0 .UU........C..AA.CMM.TOO.VVT..HHHT.. A 97 U 97 A 97 T 97 H 99 
+ 5  5  0 .UU..C.....C...AA.MM.TOO.VVT..HHHT.. C 99 U 97 A 98 T 97 H 99 
+ 5  5  0 ...UU......C...AACMM.TOO.VVT..HHHT.. U 95 U 95 A 98 T 97 H 99 
+ 5  5  0 .UU..C.....CAA....MM.TOO.VVT..HHHT.. C 99 A 99 U 97 T 97 H 99 
+ 5  5  0 ...TUU...T...AAT.CMMOO.C....VVHHH... H 99 C 99 V 97 O 98 V 97 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOO...VV...HHH. V 98 H 99 U 98 M 99 T 99 
+ 5  5  0 ...UU......CAA...CMM.TOOVV.T..HHHT.. A 99 U 99 V 99 T 97 H 99 
+ 5  5  0 ...TUU...T...AAT..MM..OO..VV.CHHH..C H 99 O 96 C 97 O 96 V 99 
+ 5  5  0 UU.......T.C.AAT.C.MMTOO..VV..HHH... U 96 V 99 T 99 H 99 M 99 
+ 5  5  0 UU...C...T.C.AAT..MM.TOOVV....HHH... C 99 V 99 U 96 T 99 H 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOOVV.....HHH.. U 97 V 99 U 97 M 99 T 99 
+ 5  5  0 ...UU......C.AA..C.MMTOOVV.T..HHHT.. M 99 U 99 V 99 T 97 H 99 
+ 5  5  0 ...UU......C..AA.CMM.TOOVV.T..HHHT.. A 99 U 99 V 99 T 97 H 99 
+ 5  5  0 ...UUC.....C.AA...MM.TOOVV.T..HHHT.. C 99 U 99 V 99 T 97 H 99 
+ 5  5  0 ...UU......C...AACMM.TOOVV.T..HHHT.. A 98 U 99 V 99 T 97 H 99 
+ 5  5  0 ....UU.....C...AAC.MMTOOVV.T..HHHT.. A 98 M 99 V 99 T 97 H 99 
+ 5  5  0 ....UU.....CAA...C.MMTOOVV.T..HHHT.. A 99 M 99 V 99 T 97 H 99 
+ 5  5  0 ....UU...T.C.AAT.C.MMTOOVV.....HHH.. H 98 T 99 M 99 H 98 V 99 
+ 5  5  0 UU.......T.C.AAT.C.MMTOOVV....HHH... M 99 V 99 U 96 T 99 H 99 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOO..VV....HHH. V 99 H 99 U 98 M 99 T 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOO..VV..HHH... A 99 V 99 T 99 H 99 M 99 
+ 5  5  0 .UU......T.C.AAT.C.MMTOO..VV..HHH... U 97 V 99 T 99 H 99 M 99 
+ 5  5  0 ..UU.C...T.C.AAT...MMTOOVV.....HHH.. C 99 V 99 U 98 M 99 T 99 
+ 5  5  0 ..UU.C...T.CAA.T..MM.TOO.VV.....HHH. H 99 C 99 U 98 A 99 T 99 
+ 5  5  0 ..UU.....T.CAA.T.C.MMTOOVV.....HHH.. A 99 V 99 U 98 M 99 T 99 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOO..VV..HHH... U 98 V 99 T 99 H 99 M 99 
+ 5  5  0 ..UU.C.....C....AAMM.TOO.VVT..HHHT.. A 97 C 99 U 98 T 97 H 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO..VV..HHH... U 99 V 99 T 99 H 99 M 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO....VV.CHHH..C A 99 H 99 C 97 O 98 V 99 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOO..VV....HHH. C 99 H 99 U 98 V 99 T 99 
+ 5  5  0 ...UU....T.C.AAT.CMM.TOO..VV....HHH. U 97 H 99 U 97 V 99 T 99 
+ 5  5  0 ...TUU...T...AAT.CMMOO.C...VV.HHH... C 95 C 95 O 98 V 98 H 99 
+ 5  5  0 ...UUC...T.C.AAT...MMTOO...VV..HHH.. V 98 M 99 C 99 U 99 T 99 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOO..VV...HHH.. V 97 C 99 U 98 T 99 V 97 
+ 5  5  0 ...UUC...T.C.AAT...MMTOO.VV.....HHH. H 99 M 99 C 99 U 99 T 99 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOOVV.......HHH H 98 V 99 U 98 M 99 T 99 
+ 5  5  0 UU.......T.C.AAT.CMM.TOOVV.......HHH H 96 V 99 U 96 T 99 H 96 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOO..VV...HHH.. V 97 V 97 U 98 M 99 T 99 
+ 5  5  0 UU.......T.C.AAT.CMM.TOO..VV..HHH... V 97 V 97 U 96 T 99 H 99 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOO....VV.HHH.. V 95 V 95 U 98 M 99 T 99 
+ 5  5  0 ....UU.....CAA...C.MMTOO.VVT..HHHT.. A 97 M 99 A 97 T 97 H 99 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOO....VV.HHH.. V 95 C 99 U 98 T 99 V 95 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOO...VV.HHH... H 99 V 98 U 98 M 99 T 99 
+ 5  5  0 ..UU.....T.CAA.T.C.MMTOO...VV..HHH.. A 99 V 98 U 98 M 99 T 99 
+ 5  5  0 ..UU.C...T.C.AAT...MMTOO...VV..HHH.. C 99 V 98 U 98 M 99 T 99 
+ 5  5  0 .UU......T.C.AAT.C.MMTOO...VV..HHH.. U 97 V 98 U 97 M 99 T 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO...VV..HHH.. U 97 V 98 U 97 M 99 T 99 
+ 5  5  0 ..UU.......CAA...CMM.TOOVV.T..HHHT.. V 99 U 98 T 97 A 99 H 99 
+ 5  5  0 ..UU.......CAA...C.MMTOO.VVT..HHHT.. M 99 U 98 T 97 A 99 H 99 
+ 5  5  0 ..UU.......C..AA.CMM.TOO.VVT..HHHT.. A 97 U 98 T 97 A 97 H 99 
+ 5  5  0 ..UU.C.....CAA....MM.TOO.VVT..HHHT.. C 99 U 98 T 97 A 99 H 99 
+ 5  5  0 UU.........CAA...CMM.TOO.VVT..HHHT.. U 96 U 96 T 97 A 99 H 99 
+ 5  5  0 ...UU......CAA...CMM.TOO.VVT..HHHT.. U 97 U 97 T 97 A 99 H 99 
+ 5  5  0 ..UU.......CAA.T.CMM.TOO.VVT..HHH... T 96 U 98 T 96 A 99 H 99 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOO.VV...HHH... T 95 U 98 T 95 A 99 H 99 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOO...VV....HHH H 98 V 98 U 98 M 99 T 99 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOO..VV....HHH. A 99 H 99 U 98 V 99 T 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOOVV....HHH... A 99 V 99 U 96 T 99 H 99 
+ 5  5  0 ...UUC...T.C.AAT..MM.TOO...VV..HHH.. V 96 V 96 C 99 U 99 T 99 
+ 5  5  0 ...TUU...T..AA.T..MM..OOVV...C.HHH.C V 99 O 96 C 97 O 96 A 99 
+ 5  5  0 UU...C...T.C.AAT..MM.TOOVV.....HHH.. U 96 C 99 U 96 T 99 V 99 
+ 5  5  0 ....UU...T.CAA.T.CMM.TOO....VV.HHH.. U 98 V 97 U 98 A 99 T 99 
+ 5  5  0 ..UU.....T.C.AAT.CMM.TOOVV....HHH... T 97 H 99 U 98 T 97 V 99 
+ 5  5  0 ...UUC...T.C.AAT..MM.TOO....VV..HHH. H 99 V 97 C 99 U 99 T 99 
+ 5  5  0 ..UU.C...T.CAA.T..MM.TOO.VV......HHH H 98 C 99 U 98 A 99 T 99 
+ 5  5  0 ..UU.C.....C.AAT..MM.TOO.VVT...HHH.. U 94 U 94 C 99 U 94 T 98 
+ 5  5  0 ...TUU...T...AAT.C.MMOOC.VV.....HHH. C 95 H 99 C 95 M 99 O 99 
+ 5  5  0 ..UU.C...T.CAA.T..MM.TOO...VV..HHH.. V 98 C 99 U 98 A 99 T 99 
+ 5  5  0 ..UU.C...T.CAA.T..MM.TOO....VV.HHH.. V 97 C 99 U 98 A 99 T 99 
+ 5  5  0 ..UU.C...T.CAA.T..MM.TOO.VV...HHH... H 99 C 99 U 98 A 99 T 99 
+ 5  5  0 ...UUC.....C..AA..MM.TOO.VVT..HHHT.. C 99 A 99 U 99 T 97 H 99 
+ 5  5  0 ...TUU...T.CAA.T.CMM.OO.VV.....HHH.. M 98 V 99 A 99 M 98 O 99 
+ 5  5  0 ...TUU...T.C.AAT.C.MMOO.VV.....HHH.. A 98 V 99 A 98 M 99 O 99 
+ 5  5  0 ...TUU...T..AA.T.C.MMOOCVV.....HHH.. C 99 V 99 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T..AA.T...MMOOCVV...C.HHH.. C 98 V 99 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T..AA.T...MMOO.VV...C.HHH.C C 97 V 99 A 99 M 99 O 99 
+ 5  5  0 .UUT.....T.C.AAT.C.MM.OO.VV......HHH H 98 M 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C.MM.OOVV.....HHH.. V 99 M 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C.MM.OO..VV...HHH.. V 99 M 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C.MM.OO...VV..HHH.. V 98 M 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C.MM.OO....VV.HHH.. V 97 M 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C.MMOO..VV....HHH.. O 99 M 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.CAA.T.C.MM.OO.VV....HHH.. A 99 M 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C..MMOO.VV...HHH... H 99 M 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C..MMOO.VV.....HHH. H 99 M 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C..MMOO.VV......HHH H 98 M 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C..MMOOVV.....HHH.. V 99 M 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C..MMOO..VV...HHH.. V 99 M 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C..MMOO...VV..HHH.. V 98 M 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C..MMOO....VV.HHH.. V 97 M 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.CAA.T.C..MMOO.VV....HHH.. A 99 M 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.C...T.C.AAT....MMOO.VV....HHH.. C 99 M 98 T 96 U 97 T 96 
+ 5  5  0 UU.T.....T.C.AAT.C..MMOO.VV....HHH.. U 96 M 98 T 96 U 96 T 96 
+ 5  5  0 .UUT.C...T.C.AAT...MM.OO.VV....HHH.. C 99 M 99 T 96 U 97 T 96 
+ 5  5  0 UU.T.....T.C.AAT.C.MM.OO.VV....HHH.. U 96 M 99 T 96 U 96 T 96 
+ 5  5  0 .UU........C.AAT.C.MMTOO.VVT...HHH.. T 94 M 99 T 94 U 97 T 94 
+ 5  5  0 .UUT.....T.C.AAT.CMMOO...VV...HHH... H 99 O 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.CMMOO...VV.....HHH. H 99 O 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.CMMOO...VV......HHH H 98 O 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.CMMOO..VV.....HHH.. V 99 O 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.CMMOO....VV...HHH.. V 99 O 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.CMMOO.....VV..HHH.. V 98 O 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.CMMOO......VV.HHH.. V 97 O 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.CAA.T.CMMOO...VV....HHH.. A 99 O 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.C...T.C.AAT..MMOO...VV....HHH.. C 99 O 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T...AAT.CMMOO.C.VV....HHH.. C 99 O 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T...AAT..MMOO.C.VV..C.HHH.. C 98 O 98 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T...AAT..MMOO...VV..C.HHH.C C 97 O 98 T 96 U 97 T 96 
+ 5  5  0 UU.T.....T.C.AAT.CMMOO...VV....HHH.. U 96 O 98 T 96 U 96 T 96 
+ 5  5  0 .UUT.....T.CAA.T.CMM.OO..VV....HHH.. A 99 O 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.C...T.C.AAT..MM.OO..VV....HHH.. C 99 O 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T...AAT.CMM.OOC.VV....HHH.. C 99 O 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T...AAT..MM.OOC.VV..C.HHH.. C 98 O 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T...AAT..MM.OO..VV..C.HHH.C C 97 O 99 T 96 U 97 T 96 
+ 5  5  0 UU.T.....T.C.AAT.CMM.OO..VV....HHH.. U 96 O 99 T 96 U 96 T 96 
+ 5  5  0 ..UU.C...T.C.AAT...MMTOO.VV.....HHH. H 99 C 99 U 98 M 99 T 99 
+ 5  5  0 ..UU.C...T.C.AAT...MMTOO.VV......HHH H 98 C 99 U 98 M 99 T 99 
+ 5  5  0 ..UU.C...T.C.AAT...MMTOO..VV...HHH.. V 99 C 99 U 98 M 99 T 99 
+ 5  5  0 ..UU.C...T.C.AAT...MMTOO....VV.HHH.. V 97 C 99 U 98 M 99 T 99 
+ 5  5  0 ..UU.C...T.CAA.T...MMTOO.VV....HHH.. A 99 C 99 U 98 M 99 T 99 
+ 5  5  0 UU...C...T.C.AAT...MMTOO.VV....HHH.. U 96 C 99 U 96 M 99 T 99 
+ 5  5  0 ..UU.C.....C.AAT...MMTOO.VVT...HHH.. T 98 C 99 U 98 M 99 T 98 
+ 5  5  0 ...TUU...T..AA.T.C.MMOOC.VV...HHH... C 99 H 99 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T..AA.T...MMOOC.VV..CHHH... C 98 H 99 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T..AA.T...MMOO..VV..CHHH..C C 97 H 99 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOC.VV...HHH... C 95 A 99 C 95 H 99 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OOC.VV..C..HHH. H 97 H 97 A 99 C 98 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OOCVV...CHHH... V 99 H 99 A 99 C 98 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OOC..VV.CHHH... V 99 H 99 A 99 C 98 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OOC...VVCHHH... V 98 H 99 A 99 C 98 O 99 
+ 5  5  0 ...TUU...T.C.AAT.C.MMOO...VV..HHH... V 95 V 95 H 99 M 99 O 99 
+ 5  5  0 ...TUU...T.C.AAT.CMM.OO.....VVHHH... M 98 V 97 H 99 M 98 O 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO.....VVHHH... A 99 V 97 H 99 M 99 O 99 
+ 5  5  0 ...TUU...T...AAT.C.MMOOC....VVHHH... C 99 V 97 H 99 M 99 O 99 
+ 5  5  0 ..UU.....T.C.AAT.CMM.TOO...VV....HHH U 96 U 96 T 99 V 98 H 98 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OO...VV....HHH T 98 U 97 T 98 V 98 H 98 
+ 5  5  0 ...UU....T.C.AAT.CMM.TOO...VV...HHH. H 97 H 97 V 98 U 99 T 99 
+ 5  5  0 ...UU....T.C.AAT.CMM.TOO...VV.HHH... H 95 H 95 V 98 U 99 T 99 
+ 5  5  0 ...UU....T.C.AAT.CMM.TOO..VV.....HHH V 97 H 98 V 97 U 99 T 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO...VV....HHH M 99 H 98 V 98 U 99 T 99 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOO...VV....HHH A 99 H 98 V 98 U 99 T 99 
+ 5  5  0 ...UUC...T.C.AAT..MM.TOO...VV....HHH C 99 H 98 V 98 U 99 T 99 
+ 5  5  0 .UU........CAA.T.C.MMTOO...TVV.HHH.. M 99 U 97 T 98 V 97 A 99 
+ 5  5  0 .UU..C.....CAA.T..MM.TOO...TVV.HHH.. C 99 U 97 T 98 V 97 A 99 
+ 5  5  0 .UUT.....T.CAA.T.CMM..OO....VV.HHH.. T 96 U 97 T 96 V 97 A 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOOVV.....HHH.. V 97 U 96 V 97 A 99 T 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOO....VV.HHH.. V 97 U 96 V 97 A 99 T 99 
+ 5  5  0 UU.......T.CAA.T.C.MMTOO..VV...HHH.. M 99 U 96 V 99 A 99 T 99 
+ 5  5  0 UU...C...T.CAA.T..MM.TOO..VV...HHH.. C 99 U 96 V 99 A 99 T 99 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOO..VV...HHH.. U 93 U 93 V 99 A 99 T 99 
+ 5  5  0 UU.T.....T.CAA.T.CMM..OO..VV...HHH.. T 98 U 96 V 99 A 99 T 98 
+ 5  5  0 UU.T.C...T.C.AAT..MMOO...VV....HHH.. O 98 T 96 C 99 U 96 T 96 
+ 5  5  0 UU.T.C...T.C.AAT...MM.OO.VV....HHH.. M 99 T 96 C 99 U 96 T 96 
+ 5  5  0 UU.T.C...T.C.AAT....MMOO.VV....HHH.. M 98 T 96 C 99 U 96 T 96 
+ 5  5  0 UU.T.C...T.CAA.T..MM..OO.VV....HHH.. A 99 T 96 C 99 U 96 T 96 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OO.VV....HHH.. C 98 T 96 C 98 U 96 T 96 
+ 5  5  0 .UUT.C...T.C.AAT..MM..OO.VV...HHH... H 99 T 96 C 99 U 97 T 96 
+ 5  5  0 .UUT.C...T.C.AAT..MM..OO.VV.....HHH. H 99 T 96 C 99 U 97 T 96 
+ 5  5  0 .UUT.C...T.C.AAT..MM..OO.VV......HHH H 98 T 96 C 99 U 97 T 96 
+ 5  5  0 .UUT.C...T.C.AAT..MM..OOVV.....HHH.. V 99 T 96 C 99 U 97 T 96 
+ 5  5  0 .UUT.C...T.C.AAT..MM..OO..VV...HHH.. V 99 T 96 C 99 U 97 T 96 
+ 5  5  0 .UUT.C...T.C.AAT..MM..OO...VV..HHH.. V 98 T 96 C 99 U 97 T 96 
+ 5  5  0 .UUT.C...T.C.AAT..MM..OO....VV.HHH.. V 97 T 96 C 99 U 97 T 96 
+ 5  5  0 .UUT.C...T.CAA.T..MM..OO.VV....HHH.. A 99 T 96 C 99 U 97 T 96 
+ 5  5  0 ...TUU...T...AAT.C.MMOOC...VV....HHH M 99 C 99 V 98 H 98 O 99 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOC...VV....HHH A 99 C 99 V 98 H 98 O 99 
+ 5  5  0 ...TUU...T...AAT..MM.OOC...VVCHHH... H 95 C 98 V 98 H 95 O 99 
+ 5  5  0 ...TUU...T...AAT...MMOOC...VVC...HHH M 99 C 98 V 98 H 98 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OOC...VVC...HHH A 99 C 98 V 98 H 98 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OOCVV...C..HHH. H 99 V 99 A 99 C 98 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OOCVV...C...HHH H 98 V 99 A 99 C 98 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OOC..VV.C.HHH.. V 97 V 97 A 99 C 98 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OOC...VVC.HHH.. V 96 V 96 A 99 C 98 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OO.VV...C.HHH.C C 97 V 99 A 99 C 97 O 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.CVV.....HHH.. C 97 C 97 V 99 O 98 A 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO..VV...CHHH..C H 99 C 97 V 99 O 98 A 99 
+ 5  5  0 ...TUU...T...AAT...MMOOC.VV..C.HHH.. H 98 C 98 H 98 M 99 O 99 
+ 5  5  0 ...TUU...T...AAT...MMOOC.VV..C..HHH. H 97 C 98 H 97 M 99 O 99 
+ 5  5  0 ...TUU...T...AAT...MMOOCVV...CHHH... V 99 C 98 H 99 M 99 O 99 
+ 5  5  0 ...TUU...T...AAT...MMOOC..VV.CHHH... V 99 C 98 H 99 M 99 O 99 
+ 5  5  0 ...TUU...T...AAT...MMOOC...VVCHHH... V 98 C 98 H 99 M 99 O 99 
+ 5  5  0 ...TUU...T...AAT...MMOO..VV..CHHH..C C 97 C 97 H 99 M 99 O 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO..VV...C..HHHC H 99 C 97 V 99 O 98 A 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO....VV.C.HHH.C V 97 C 97 V 97 O 98 A 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO.....VVC.HHH.C V 96 C 97 V 96 O 98 A 99 
+ 5  5  0 ...TUU...T...AAT...MMOOCVV...C...HHH V 99 M 99 C 98 H 98 O 99 
+ 5  5  0 ...TUU...T...AAT...MMOOC..VV.C...HHH V 99 M 99 C 98 H 98 O 99 
+ 5  5  0 ...TUU...T..AA.T...MMOOC.VV..C...HHH A 99 M 99 C 98 H 98 O 99 
+ 5  5  0 ...TUU...T.C.AAT.C.MMOO..VV......HHH C 96 M 99 C 96 H 98 O 99 
+ 5  5  0 ....UU.....CAA...C.MMTOO...TVVHHHT.. A 99 M 99 T 97 V 97 H 99 
+ 5  5  0 ....UU.....C..AA.C.MMTOO...TVVHHHT.. A 99 M 99 T 97 V 97 H 99 
+ 5  5  0 ....UU.....C...AAC.MMTOO...TVVHHHT.. A 98 M 99 T 97 V 97 H 99 
+ 5  5  0 ...UU......C.AA..C.MMTOO...TVVHHHT.. U 99 M 99 T 97 V 97 H 99 
+ 5  5  0 ..UU.......C.AA..C.MMTOO...TVVHHHT.. U 98 M 99 T 97 V 97 H 99 
+ 5  5  0 .UU........C.AA..C.MMTOO...TVVHHHT.. U 97 M 99 T 97 V 97 H 99 
+ 5  5  0 UU.........C.AA..C.MMTOO...TVVHHHT.. U 96 M 99 T 97 V 97 H 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOOVV......HHH. M 99 V 99 H 99 A 99 T 99 
+ 5  5  0 ....UU...T.C.AAT.CMM.TOOVV......HHH. A 98 V 99 H 99 A 98 T 99 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOOVV......HHH. U 99 V 99 H 99 A 99 T 99 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOOVV......HHH. U 98 V 99 H 99 A 99 T 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOOVV......HHH. U 97 V 99 H 99 A 99 T 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOOVV......HHH. U 96 V 99 H 99 A 99 T 99 
+ 5  5  0 ..UU.....T.C.AAT.CMM.TOOVV......HHH. V 93 U 98 H 99 V 93 T 99 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOO....VV..HHH. M 99 U 98 H 99 V 97 T 99 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOO....VV..HHH. A 99 U 98 H 99 V 97 T 99 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOO....VV..HHH. C 99 U 98 H 99 V 97 T 99 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OO..VV..HHH... V 99 T 98 U 97 T 98 H 99 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OO...VV.HHH... V 98 T 98 U 97 T 98 H 99 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OO....VVHHH... V 97 T 98 U 97 T 98 H 99 
+ 5  5  0 .UUT.....T.C.AAT.CMM.OO..VV...HHH... O 99 T 98 U 97 T 98 H 99 
+ 5  5  0 .UUT.....T.C.AAT.C.MM.OO.VV...HHH... M 99 T 98 U 97 T 98 H 99 
+ 5  5  0 .UUT.....T.CAA.T.CMM..OO.VV...HHH... A 99 T 98 U 97 T 98 H 99 
+ 5  5  0 .UU..C.....C.AAT..MM.TOOVV.T.....HHH H 98 V 99 C 99 U 97 T 98 
+ 5  5  0 .UU..C.....C.AAT...MMTOOVV.T...HHH.. M 99 V 99 C 99 U 97 T 98 
+ 5  5  0 .UU..C.....CAA.T..MM.TOOVV.T...HHH.. A 99 V 99 C 99 U 97 T 98 
+ 5  5  0 ..UU.C.....C.AAT..MM.TOOVV.T...HHH.. U 96 V 99 C 99 U 96 T 98 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO....VV.HHH.. T 97 U 99 T 97 V 97 M 99 
+ 5  5  0 .UU..C...T.C.AAT...MMTOO.VV......HHH C 99 H 98 U 97 M 99 T 99 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOO.VV...HHH... H 95 M 99 U 98 H 95 T 99 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOO..VV.....HHH V 99 M 99 U 98 H 98 T 99 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOO....VV...HHH V 97 M 99 U 98 H 98 T 99 
+ 5  5  0 ..UU.....T.CAA.T.C.MMTOO.VV......HHH A 99 M 99 U 98 H 98 T 99 
+ 5  5  0 .UU........C.AAT.C.MMTOO.VVT.....HHH T 98 H 98 U 97 M 99 T 98 
+ 5  5  0 ..UU.C...T.CAA.T..MM.TOO..VV...HHH.. C 99 A 99 U 98 V 99 T 99 
+ 5  5  0 ..UU.....T.CAA.T.C.MMTOO..VV...HHH.. M 99 A 99 U 98 V 99 T 99 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOO....VV.HHH.. V 97 A 99 U 98 V 97 T 99 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOO..VV.....HHH H 98 A 99 U 98 V 99 T 99 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOO..VV..HHH... H 99 A 99 U 98 V 99 T 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO.C...VVC..HHH. A 99 H 99 C 98 O 98 V 98 
+ 5  5  0 ...TUU...T...AAT.CMMOO.C...VV...HHH. C 97 H 99 C 97 O 98 V 98 
+ 5  5  0 ...TUU...T...AAT..MMOO.....VVC..HHHC C 97 H 99 C 97 O 98 V 98 
+ 5  5  0 ...TUU...T..AA.T..MM.OO.VV...C..HHHC C 97 V 99 A 99 H 99 O 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO.VV......HHH H 96 U 99 T 99 H 96 M 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO....VVHHH... V 97 U 99 T 99 H 99 M 99 
+ 5  5  0 ...UU......C.AAT.C.MMTOOVV.T.....HHH H 98 M 99 U 99 T 98 V 99 
+ 5  5  0 .UU........C.AAT.C.MMTOOVV.T..HHH... H 99 U 97 T 98 V 99 M 99 
+ 5  5  0 .UU........C.AAT.C.MMTOOVV.T....HHH. H 99 U 97 T 98 V 99 M 99 
+ 5  5  0 .UU........C.AAT.C.MMTOOVV.T.....HHH H 98 U 97 T 98 V 99 M 99 
+ 5  5  0 .UU........CAA.T.C.MMTOOVV.T...HHH.. A 99 U 97 T 98 V 99 M 99 
+ 5  5  0 ..UU.......C.AAT.C.MMTOOVV.T...HHH.. U 96 U 96 T 98 V 99 M 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOO....VVHHH... A 99 U 97 H 99 V 97 T 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO..VV....HHH. V 99 M 99 H 99 U 99 T 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO...VV...HHH. V 98 M 99 H 99 U 99 T 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO....VV..HHH. V 97 M 99 H 99 U 99 T 99 
+ 5  5  0 ...UU....T.CAA.T.C.MMTOO.VV.....HHH. A 99 M 99 H 99 U 99 T 99 
+ 5  5  0 ...UU......C.AAT.C.MMTOO.VVT....HHH. T 98 M 99 H 99 U 99 T 98 
+ 5  5  0 ...UU......CAA.T.C.MMTOO.VVT.....HHH A 99 H 98 U 99 M 99 T 98 
+ 5  5  0 ...UUC.....C.AAT...MMTOO.VVT.....HHH C 99 H 98 U 99 M 99 T 98 
+ 5  5  0 ..UU.......C.AAT.C.MMTOO.VVT..HHH... H 95 H 95 U 98 M 99 T 98 
+ 5  5  0 ..UU.......C.AAT.C.MMTOOVV.T.....HHH V 99 H 98 U 98 M 99 T 98 
+ 5  5  0 ..UU.......CAA.T.C.MMTOO.VVT.....HHH A 99 H 98 U 98 M 99 T 98 
+ 5  5  0 ..UU.C.....C.AAT...MMTOO.VVT.....HHH C 99 H 98 U 98 M 99 T 98 
+ 5  5  0 UU.........C.AAT.C.MMTOO.VVT.....HHH U 96 H 98 U 96 M 99 T 98 
+ 5  5  0 ...TUU...T...AAT.C.MMOOC....VV..HHH. M 99 C 99 V 97 H 99 O 99 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOC....VV..HHH. A 99 C 99 V 97 H 99 O 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOO.VV....HHH.. H 98 T 99 H 98 M 99 A 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOO.VV......HHH H 98 T 99 H 98 M 99 A 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOO..VV....HHH. V 99 T 99 H 99 M 99 A 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOO...VV...HHH. V 98 T 99 H 99 M 99 A 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOO....VV..HHH. V 97 T 99 H 99 M 99 A 99 
+ 5  5  0 ..UU.....T.CAA.T.C.MMTOO.VV.....HHH. U 98 T 99 H 99 M 99 A 99 
+ 5  5  0 .UU......T.CAA.T.C.MMTOO.VV.....HHH. U 97 T 99 H 99 M 99 A 99 
+ 5  5  0 UU.......T.CAA.T.C.MMTOO.VV.....HHH. U 96 T 99 H 99 M 99 A 99 
+ 5  5  0 ....UU.....CAA.T.C.MMTOO.VVT....HHH. T 98 T 98 H 99 M 99 A 99 
+ 5  5  0 .UU......T.C.AAT.CMM.TOO...VV...HHH. V 96 V 96 U 97 H 99 T 99 
+ 5  5  0 .UU......T.C.AAT.CMM.TOO..VV..HHH... H 97 H 97 U 97 V 99 T 99 
+ 5  5  0 .UU......T.C.AAT.C.MMTOO..VV....HHH. M 99 H 99 U 97 V 99 T 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOO..VV....HHH. A 99 H 99 U 97 V 99 T 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOO..VV....HHH. C 99 H 99 U 97 V 99 T 99 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OO..VV....HHH. T 98 H 99 U 97 V 99 T 98 
+ 5  5  0 .UU......T.C.AAT.C.MMTOOVV......HHH. M 99 V 99 U 97 H 99 T 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOOVV......HHH. C 99 V 99 U 97 H 99 T 99 
+ 5  5  0 ...UU....T.C.AAT.CMM.TOOVV......HHH. U 95 V 99 U 95 H 99 T 99 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OOVV......HHH. T 98 V 99 U 97 H 99 T 98 
+ 5  5  0 .UU........C.AAT.CMM.TOOVV.T....HHH. T 98 V 99 U 97 H 99 T 98 
+ 5  5  0 UU.......T.C.AAT.C.MMTOOVV......HHH. H 99 M 99 U 96 T 99 V 99 
+ 5  5  0 UU.......T.C.AAT.C.MMTOOVV.......HHH H 98 M 99 U 96 T 99 V 99 
+ 5  5  0 UU.......T.C.AAT.C.MMTOO.VV....HHH.. V 98 M 99 U 96 T 99 V 98 
+ 5  5  0 UU.......T.C.AAT.C.MMTOO....VV.HHH.. V 95 M 99 U 96 T 99 V 95 
+ 5  5  0 UU.......T.CAA.T.C.MMTOOVV.....HHH.. A 99 M 99 U 96 T 99 V 99 
+ 5  5  0 UU...C...T.C.AAT...MMTOOVV.....HHH.. C 99 M 99 U 96 T 99 V 99 
+ 5  5  0 UU.T.....T.C.AAT.C.MM.OOVV.....HHH.. T 98 M 99 U 96 T 98 V 99 
+ 5  5  0 UU...C...T.C.AAT...MMTOO..VV...HHH.. C 99 U 96 M 99 V 99 T 99 
+ 5  5  0 .UU......T.C.AAT.C.MMTOO..VV...HHH.. U 95 U 95 M 99 V 99 T 99 
+ 5  5  0 UU.T.....T.C.AAT.C.MM.OO..VV...HHH.. T 98 U 96 M 99 V 99 T 98 
+ 5  5  0 .UU..C.....C.AAT...MMTOO.VVT..HHH... H 99 M 99 C 99 U 97 T 98 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOCVV......HHH. V 99 C 99 A 99 H 99 O 99 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOC..VV....HHH. V 99 C 99 A 99 H 99 O 99 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOC...VV...HHH. V 98 C 99 A 99 H 99 O 99 
+ 5  5  0 ...TUU...T..AA.T.C.MMOOC.VV.....HHH. M 99 C 99 A 99 H 99 O 99 
+ 5  5  0 .UU..C.....CAA.T...MMTOO.VVT...HHH.. A 99 M 99 C 99 U 97 T 98 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO....VV....HHH M 99 A 99 V 98 H 98 O 99 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OOVV....HHH... H 99 V 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OOVV.......HHH H 98 V 99 T 96 U 97 T 96 
+ 5  5  0 UU.......T.C.AAT.CMM.TOOVV......HHH. V 95 U 96 H 99 V 95 T 99 
+ 5  5  0 ...UUC...T.C.AAT...MMTOO..VV...HHH.. C 99 U 99 M 99 V 99 T 99 
+ 5  5  0 .UUT.....T.C.AAT.CMM.OO.VV.....HHH.. O 99 V 99 T 96 U 97 T 96 
+ 5  5  0 UU.......T.C.AAT.C.MMTOO...VV...HHH. M 99 U 96 H 99 V 98 T 99 
+ 5  5  0 UU.......T.C.AAT.CMM.TOO....VVHHH... H 97 H 97 U 96 V 97 T 99 
+ 5  5  0 UU.......T.C.AAT.CMM.TOO..VV....HHH. V 95 H 99 U 96 V 95 T 99 
+ 5  5  0 UU.......T.C.AAT.C.MMTOO....VV..HHH. M 99 H 99 U 96 V 97 T 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOO....VV..HHH. A 99 H 99 U 96 V 97 T 99 
+ 5  5  0 UU...C...T.C.AAT..MM.TOO....VV..HHH. C 99 H 99 U 96 V 97 T 99 
+ 5  5  0 ...UU....T.C.AAT.CMM.TOO....VV..HHH. U 93 H 99 U 93 V 97 T 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OO....VV..HHH. T 98 H 99 U 96 V 97 T 98 
+ 5  5  0 UU.......T.CAA.T.CMM.TOO...VV...HHH. A 99 U 96 H 99 V 98 T 99 
+ 5  5  0 UU...C...T.C.AAT..MM.TOO...VV...HHH. C 99 U 96 H 99 V 98 T 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OO...VV...HHH. T 98 U 96 H 99 V 98 T 98 
+ 5  5  0 ...UU....T.C.AAT.CMM.TOO..VV...HHH.. M 98 U 99 M 98 V 99 T 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO..VV.....HHH H 98 U 99 M 99 V 99 T 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOO..VV.....HHH A 99 V 99 U 96 H 98 T 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OO..VV.....HHH T 98 V 99 U 96 H 98 T 98 
+ 5  5  0 UU.......T.C.AAT.C.MMTOO..VV.....HHH H 98 U 96 M 99 V 99 T 99 
+ 5  5  0 UU.......T.C.AAT.C.MMTOO..VV....HHH. H 99 U 96 M 99 V 99 T 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM.OO.....VV.HHH.. O 99 T 98 U 96 V 97 T 98 
+ 5  5  0 ...TUU...T.CAA.T.CMM.OO....VV.HHH... V 96 H 99 O 99 V 96 A 99 
+ 5  5  0 UU.T.....T.C.AAT.C.MM.OO....VV.HHH.. M 99 T 98 U 96 V 97 T 98 
+ 5  5  0 ...TUU...T.CAA.T.CMM.OO.VV....HHH... V 93 H 99 O 99 V 93 A 99 
+ 5  5  0 UU.T.....T.CAA.T.CMM..OO....VV.HHH.. A 99 T 98 U 96 V 97 T 98 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOC....VVHHH... C 99 H 99 O 99 V 97 A 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OO..VV...HHH.. V 95 T 98 U 96 V 95 T 98 
+ 5  5  0 ...TUU...T...AAT.CMM.OOC....VVHHH... H 97 C 99 V 97 H 97 O 99 
+ 5  5  0 ...UU......C.AAT.C.MMTOOVV.T....HHH. H 99 M 99 U 99 T 98 V 99 
+ 5  5  0 ...UU......C.AAT.C.MMTOOVV.T..HHH... H 99 M 99 U 99 T 98 V 99 
+ 5  5  0 ....UU.....C.AAT.CMM.TOOVV.T.....HHH A 98 H 98 A 98 T 98 V 99 
+ 5  5  0 ...TUU...T.CAA.T.CMM.OO.VV.......HHH H 98 V 99 A 99 H 98 O 99 
+ 5  5  0 .UU......T.C.AAT.C.MMTOO...VV....HHH V 98 H 98 U 97 M 99 T 99 
+ 5  5  0 .UU......T.C.AAT.C.MMTOO..VV.....HHH V 99 H 98 U 97 M 99 T 99 
+ 5  5  0 ..UU.C.....C.AAT..MM.TOOVV.T..HHH... C 99 H 99 U 98 T 98 V 99 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOOVV.......HHH V 99 C 99 U 98 H 98 T 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OOVV.......HHH V 99 T 98 U 96 H 98 T 98 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOO...VV....HHH V 98 C 99 U 98 H 98 T 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM.OO..VV......HHH O 99 T 98 U 96 H 98 T 98 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OO....VV...HHH V 97 T 98 U 96 H 98 T 98 
+ 5  5  0 ...UUC...T.C.AAT..MM.TOOVV.......HHH C 99 U 99 V 99 H 98 T 99 
+ 5  5  0 UU.T.C...T.C.AAT..MM..OO.VV......HHH C 99 T 98 U 96 H 98 T 98 
+ 5  5  0 ...UUC...T.C.AAT..MM.TOO.VV.....HHH. H 97 H 97 C 99 U 99 T 99 
+ 5  5  0 ...UUC...T.C.AAT..MM.TOO.VV...HHH... H 95 H 95 C 99 U 99 T 99 
+ 5  5  0 ...UUC...T.C.AAT..MM.TOO..VV.....HHH V 99 H 98 C 99 U 99 T 99 
+ 5  5  0 ...UUC...T.C.AAT..MM.TOO....VV...HHH V 97 H 98 C 99 U 99 T 99 
+ 5  5  0 ...UUC...T.CAA.T..MM.TOO.VV......HHH A 99 H 98 C 99 U 99 T 99 
+ 5  5  0 UU...C...T.C.AAT..MM.TOO.VV......HHH U 96 H 98 C 99 U 96 T 99 
+ 5  5  0 ...UUC.....C.AAT..MM.TOO.VVT.....HHH T 98 H 98 C 99 U 99 T 98 
+ 5  5  0 ...UUC.....C.AAT...MMTOO.VVT...HHH.. U 93 M 99 C 99 U 93 T 98 
+ 5  5  0 .UU......T.C.AAT.C.MMTOO....VV...HHH V 97 H 98 U 97 M 99 T 99 
+ 5  5  0 UU.T.....T.CAA.T.CMM..OO.VV......HHH A 99 T 98 U 96 H 98 T 98 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOOVV.......HHH A 99 U 99 V 99 H 98 T 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOOVV.......HHH M 99 U 99 V 99 H 98 T 99 
+ 5  5  0 .UU..C...T.C.AAT...MMTOO....VV.HHH.. C 99 V 97 U 97 M 99 T 99 
+ 5  5  0 ....UU...T.C.AAT.C.MMTOO....VV.HHH.. U 94 V 97 U 94 M 99 T 99 
+ 5  5  0 ...UU......C.AAT.C.MMTOO...TVVHHH... H 99 U 99 T 98 V 97 M 99 
+ 5  5  0 ...UU......CAA.T.C.MMTOO...TVV.HHH.. A 99 U 99 T 98 V 97 M 99 
+ 5  5  0 UU...C.....C.AAT..MM.TOOVV.T.....HHH H 98 V 99 C 99 U 96 T 98 
+ 5  5  0 UU...C.....CAA.T..MM.TOOVV.T...HHH.. A 99 V 99 C 99 U 96 T 98 
+ 5  5  0 UU.........CAA.T.CMM.TOO...TVV..HHH. U 96 H 99 T 98 V 97 A 99 
+ 5  5  0 ...UU......C.AAT.CMM.TOO...TVVHHH... H 97 H 97 U 99 T 98 V 97 
+ 5  5  0 ...UU......C.AAT.CMM.TOO...TVV...HHH H 98 H 98 U 99 T 98 V 97 
+ 5  5  0 ...UU......C.AAT.C.MMTOO...TVV..HHH. M 99 H 99 U 99 T 98 V 97 
+ 5  5  0 ...UU......CAA.T.CMM.TOO...TVV..HHH. A 99 H 99 U 99 T 98 V 97 
+ 5  5  0 ...UUC.....C.AAT..MM.TOO...TVV..HHH. C 99 H 99 U 99 T 98 V 97 
+ 5  5  0 ....UU.....C.AAT.CMM.TOO...TVV..HHH. U 98 H 99 U 98 T 98 V 97 
+ 5  5  0 ...UUC.....C.AAT...MMTOO...TVV.HHH.. C 99 U 99 T 98 V 97 M 99 
+ 5  5  0 .UU......T.CAA.T.C.MMTOO.VV......HHH A 99 H 98 U 97 M 99 T 99 
+ 5  5  0 ...UU......C.AAT.C.MMTOO...TVV...HHH H 98 U 99 T 98 V 97 M 99 
+ 5  5  0 UU...C.....C.AAT..MM.TOOVV.T....HHH. H 99 V 99 C 99 U 96 T 98 
+ 5  5  0 UU...C.....C.AAT...MMTOOVV.T...HHH.. M 99 V 99 C 99 U 96 T 98 
+ 5  5  0 .UU........CAA.T.CMM.TOO...TVV..HHH. U 97 H 99 T 98 V 97 A 99 
+ 5  5  0 ....UU.....CAA.T.C.MMTOO...TVV..HHH. M 99 H 99 T 98 V 97 A 99 
+ 5  5  0 ....UU.....CAA.T.CMM.TOO...TVV...HHH H 96 H 96 T 98 V 97 A 99 
+ 5  5  0 ....UU.....CAA.T.C.MMTOO...TVVHHH... M 99 H 99 T 98 V 97 A 99 
+ 5  5  0 ....UU.....C.AAT.CMM.TOO...TVVHHH... A 98 H 99 T 98 V 97 A 98 
+ 5  5  0 ...UU......CAA.T.CMM.TOO...TVVHHH... U 99 H 99 T 98 V 97 A 99 
+ 5  5  0 ..UU.......CAA.T.CMM.TOO...TVVHHH... U 98 H 99 T 98 V 97 A 99 
+ 5  5  0 .UU........CAA.T.CMM.TOO...TVVHHH... U 97 H 99 T 98 V 97 A 99 
+ 5  5  0 UU.........CAA.T.CMM.TOO...TVVHHH... U 96 H 99 T 98 V 97 A 99 
+ 5  5  0 ....UU...T.CAA.T.CMM.TOO....VVHHH... T 97 H 99 T 97 V 97 A 99 
+ 5  5  0 ....UU.....CAA...CMM.TOO...TVVHHHT.. T 97 H 99 T 97 V 97 A 99 
+ 5  5  0 ...UU......C.AAT.CMM.TOOVV.T.....HHH T 98 U 99 V 99 H 98 T 98 
+ 5  5  0 ..UU.......CAA.T.CMM.TOO...TVV..HHH. U 98 H 99 T 98 V 97 A 99 
+ 5  5  0 UU.T.C...T.C.AAT..MM..OOVV.....HHH.. T 96 V 99 C 99 U 96 T 96 
+ 5  5  0 ..UU.......C.AAT.C.MMTOO...TVV..HHH. H 99 U 98 T 98 V 97 M 99 
+ 5  5  0 ..UU.......C.AAT.C.MMTOO...TVV...HHH H 98 U 98 T 98 V 97 M 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOO....VV...HHH M 99 T 99 A 99 V 97 H 98 
+ 5  5  0 .UU..C.....C.AAT..MM.TOOVV.T..HHH... H 99 V 99 C 99 U 97 T 98 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOO....VV...HHH U 98 T 99 A 99 V 97 H 98 
+ 5  5  0 ..UU.......C.AAT.C.MMTOO...TVVHHH... H 99 U 98 T 98 V 97 M 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOO....VV...HHH U 96 T 99 A 99 V 97 H 98 
+ 5  5  0 UU.........CAA.T.C.MMTOO.VVT..HHH... A 99 U 96 T 98 H 99 M 99 
+ 5  5  0 ..UU.......CAA.T.C.MMTOO...TVV.HHH.. A 99 U 98 T 98 V 97 M 99 
+ 5  5  0 .UU........C.AAT.C.MMTOO.VVT....HHH. H 97 M 99 H 97 U 97 T 98 
+ 5  5  0 .UU........CAA.T.C.MMTOO.VVT..HHH... A 99 M 99 H 99 U 97 T 98 
+ 5  5  0 .UU......T.C.AAT.C.MMTOO.VV...HHH... T 97 M 99 H 99 U 97 T 97 
+ 5  5  0 UU.........C.AA..C.MMTOO.VVT..HHHT.. T 97 U 96 T 97 H 99 M 99 
+ 5  5  0 ...TUU...T.CAA.T.CMMOO....VV....HHH. H 97 O 98 V 99 H 97 A 99 
+ 5  5  0 ...TUU...T.CAA.T.CMMOO......VV...HHH V 97 O 98 V 97 H 98 A 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.C..VV.....HHH C 99 O 98 V 99 H 98 A 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO.C..VV.C...HHH C 98 O 98 V 99 H 98 A 99 
+ 5  5  0 ....UU.....CAA.T.C.MMTOOVV.T.....HHH M 99 H 98 A 99 T 98 V 99 
+ 5  5  0 .UU........C..AA.CMM.TOO...TVVHHHT.. A 99 U 97 T 97 V 97 H 99 
+ 5  5  0 ..UU.C.....C.AAT..MM.TOO.VVT.....HHH U 94 H 98 C 99 U 94 T 98 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOO....VVHHH... V 97 A 99 T 99 H 99 M 99 
+ 5  5  0 .UU........CAA.T.CMM.TOOVV.T..HHH... H 99 V 99 A 99 U 97 T 98 
+ 5  5  0 .UU........CAA.T.CMM.TOOVV.T....HHH. H 99 V 99 A 99 U 97 T 98 
+ 5  5  0 .UU........CAA.T.CMM.TOOVV.T.....HHH H 98 V 99 A 99 U 97 T 98 
+ 5  5  0 ...UU......CAA.T.CMM.TOOVV.T...HHH.. U 95 V 99 A 99 U 95 T 98 
+ 5  5  0 .UUT.....T.CAA.T.CMM..OOVV.....HHH.. T 96 V 99 A 99 U 97 T 96 
+ 5  5  0 ..UU.......CAA.T.CMM.TOOVV.T....HHH. H 99 A 99 U 98 T 98 V 99 
+ 5  5  0 ...UU....T.CAA.T.C.MMTOO.VV...HHH... U 99 A 99 T 99 H 99 M 99 
+ 5  5  0 ..UU.C.....CAA.T..MM.TOOVV.T...HHH.. C 99 A 99 U 98 T 98 V 99 
+ 5  5  0 .UU......T.CAA.T.C.MMTOO.VV...HHH... U 97 A 99 T 99 H 99 M 99 
+ 5  5  0 ..UU.......CAA.T.C.MMTOOVV.T...HHH.. M 99 A 99 U 98 T 98 V 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MM.OO.VV...HHH... T 98 A 99 T 98 H 99 M 99 
+ 5  5  0 ..UU.....T.C.AAT.CMM.TOO.VV.....HHH. V 96 U 98 H 99 V 96 T 99 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOO...VV...HHH. A 99 U 98 H 99 V 98 T 99 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOO...VV...HHH. C 99 U 98 H 99 V 98 T 99 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOO..VV..HHH... A 99 U 99 H 99 V 99 T 99 
+ 5  5  0 ..UU.C.....C.AAT...MMTOO.VVT....HHH. M 99 C 99 U 98 H 99 T 98 
+ 5  5  0 .UU........CAA...CMM.TOO...TVVHHHT.. A 99 U 97 T 97 V 97 H 99 
+ 5  5  0 ..UU.....T.C.AAT.CMM.TOO....VV...HHH H 98 U 98 H 98 V 97 T 99 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOOVV.....HHH.. T 97 A 99 U 98 T 97 V 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO.CVV...C...HHH C 98 H 98 V 99 O 98 A 99 
+ 5  5  0 ..UU.....T.C.AAT.CMM.TOO....VVHHH... H 97 U 98 H 97 V 97 T 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO...VV..HHH... O 99 M 99 V 99 A 99 H 99 
+ 5  5  0 ....UU.....CAA.T.C.MMTOOVV.T..HHH... M 99 T 98 V 99 A 99 H 99 
+ 5  5  0 ...UU......CAA.T.CMM.TOOVV.T..HHH... U 99 T 98 V 99 A 99 H 99 
+ 5  5  0 ..UU.......CAA.T.CMM.TOOVV.T..HHH... U 98 T 98 V 99 A 99 H 99 
+ 5  5  0 UU.........CAA.T.CMM.TOOVV.T..HHH... U 96 T 98 V 99 A 99 H 99 
+ 5  5  0 ....UU...T.CAA.T.CMM.TOOVV....HHH... T 97 T 97 V 99 A 99 H 99 
+ 5  5  0 ....UU.....CAA...CMM.TOOVV.T..HHHT.. T 97 T 97 V 99 A 99 H 99 
+ 5  5  0 ....UU...T.CAA.T.CMM.TOOVV.......HHH H 98 V 99 H 98 A 99 T 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO.C..VV.C..HHH. H 99 C 98 V 99 O 98 A 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO.C..VV.CHHH... H 99 C 98 V 99 O 98 A 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO.C...VVCHHH... H 99 A 99 C 98 O 98 V 98 
+ 5  5  0 ...TUU...T..AA.T..MMOO.C...VVC...HHH H 98 A 99 C 98 O 98 V 98 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.C...VV..HHH.. C 97 A 99 C 97 O 98 V 98 
+ 5  5  0 ...TUU...T.CAA.T.CMMOO.....VV..HHH.. C 96 A 99 C 96 O 98 V 98 
+ 5  5  0 UU.........C.AAT.C.MMTOO...TVVHHH... U 96 H 99 T 98 V 97 M 99 
+ 5  5  0 .UU........C.AAT.C.MMTOO...TVVHHH... U 97 H 99 T 98 V 97 M 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO.CVV...C..HHH. H 99 C 98 V 99 O 98 A 99 
+ 5  5  0 UU.T.C...T.C.AAT..MM..OO.VV...HHH... H 99 T 96 C 99 U 96 T 96 
+ 5  5  0 UU.T.C...T.C.AAT..MM..OO....VV.HHH.. V 97 T 96 C 99 U 96 T 96 
+ 5  5  0 ....UU...T.C.AAT.CMM.TOO...VV.HHH... M 98 V 98 T 99 H 99 M 98 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO...VV.HHH... U 99 V 98 T 99 H 99 M 99 
+ 5  5  0 UU.T.C...T.C.AAT..MM..OO...VV..HHH.. V 98 T 96 C 99 U 96 T 96 
+ 5  5  0 ...TUU...T...AAT.CMM.OOC..VV..HHH... H 95 V 99 H 95 C 99 O 99 
+ 5  5  0 ...TUU...T...AAT.CMM.OOCVV.......HHH V 97 V 97 H 98 C 99 O 99 
+ 5  5  0 ...TUU...T...AAT.CMM.OOC....VV...HHH V 97 V 97 H 98 C 99 O 99 
+ 5  5  0 ...TUU...T...AAT.C.MMOOC..VV.....HHH M 99 V 99 H 98 C 99 O 99 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOC..VV.....HHH A 99 V 99 H 98 C 99 O 99 
+ 5  5  0 .UU......T.C.AAT.C.MMTOO...VV.HHH... U 97 V 98 T 99 H 99 M 99 
+ 5  5  0 UU.T.C...T.C.AAT..MM..OO..VV...HHH.. V 99 T 96 C 99 U 96 T 96 
+ 5  5  0 ..UU.......C.AAT.CMM.TOOVV.T....HHH. U 94 V 99 U 94 H 99 T 98 
+ 5  5  0 UU.........CAA.T.CMM.TOOVV.T.....HHH U 96 H 98 A 99 T 98 V 99 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOCVV....HHH... H 99 A 99 V 99 C 99 O 99 
+ 5  5  0 ..UU.C.....CAA.T..MM.TOO...TVV.HHH.. C 99 U 98 T 98 V 97 A 99 
+ 5  5  0 .UU......T.C.AAT.CMM.TOO...VV.HHH... H 95 U 97 T 99 V 98 H 95 
+ 5  5  0 UU.......T.CAA.T.CMM.TOO..VV....HHH. H 99 U 96 V 99 A 99 T 99 
+ 5  5  0 UU.........CAA...CMM.TOO...TVVHHHT.. A 99 U 96 T 97 V 97 H 99 
+ 5  5  0 UU.........C...AACMM.TOO...TVVHHHT.. A 98 U 96 T 97 V 97 H 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OO....VVHHH... T 94 U 96 T 94 V 97 H 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO.VV.......HHH O 99 V 99 H 98 M 99 A 99 
+ 5  5  0 ...TUU...T.CAA.T.C..MMOOVV.......HHH M 98 V 99 H 98 M 98 A 99 
+ 5  5  0 ..UU.C.....CAA.T..MM.TOO.VVT.....HHH C 99 U 98 T 98 H 98 A 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOOVV.......HHH T 99 V 99 H 98 M 99 A 99 
+ 5  5  0 ...TUU...T.C.AAT.C.MMOO.....VV...HHH V 97 H 98 V 97 M 99 O 99 
+ 5  5  0 ..UU.......CAA.T.CMM.TOO.VVT...HHH.. H 96 U 98 T 98 H 96 A 99 
+ 5  5  0 ...UUC.....C.AAT..MM.TOO.VVT....HHH. U 97 C 99 U 97 H 99 T 98 
+ 5  5  0 ..UU.......CAA.T.C.MMTOO.VVT....HHH. H 99 U 98 A 99 M 99 T 98 
+ 5  5  0 ...UU......CAA.T.CMM.TOO.VVT...HHH.. H 96 U 99 T 98 H 96 A 99 
+ 5  5  0 ...UU......CAA.T.CMM.TOOVV.T.....HHH V 99 U 99 T 98 H 98 A 99 
+ 5  5  0 ...UUC.....CAA.T..MM.TOO.VVT.....HHH C 99 U 99 T 98 H 98 A 99 
+ 5  5  0 .UU........CAA.T.CMM.TOO.VVT.....HHH U 97 U 97 T 98 H 98 A 99 
+ 5  5  0 UU.........CAA.T.CMM.TOO.VVT.....HHH U 96 U 96 T 98 H 98 A 99 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOO...VV.HHH... C 99 H 99 U 98 V 98 T 99 
+ 5  5  0 ..UU.......CAA.T.C.MMTOO.VVT..HHH... H 99 U 98 A 99 M 99 T 98 
+ 5  5  0 ..UU.......CAA.T.CMM.TOOVV.T.....HHH U 98 H 98 A 99 T 98 V 99 
+ 5  5  0 ..UU.C.....CAA.T...MMTOO.VVT...HHH.. C 99 U 98 A 99 M 99 T 98 
+ 5  5  0 ...TUU...T...AAT.C.MMOOCVV....HHH... V 99 C 99 H 99 M 99 O 99 
+ 5  5  0 ...TUU...T...AAT.C.MMOOC...VV.HHH... V 98 C 99 H 99 M 99 O 99 
+ 5  5  0 ...UU......CAA.T.C.MMTOO.VVT..HHH... H 99 U 99 A 99 M 99 T 98 
+ 5  5  0 ...UU......CAA.T.C.MMTOO.VVT....HHH. H 99 U 99 A 99 M 99 T 98 
+ 5  5  0 ...UU......CAA.T.C.MMTOOVV.T...HHH.. V 99 U 99 A 99 M 99 T 98 
+ 5  5  0 ...UUC.....CAA.T...MMTOO.VVT...HHH.. C 99 U 99 A 99 M 99 T 98 
+ 5  5  0 .UU........CAA.T.C.MMTOO.VVT...HHH.. U 97 U 97 A 99 M 99 T 98 
+ 5  5  0 UU.........CAA.T.C.MMTOO.VVT...HHH.. U 96 U 96 A 99 M 99 T 98 
+ 5  5  0 UU.........CAA.T.C.MMTOOVV.T...HHH.. U 96 V 99 A 99 M 99 T 98 
+ 5  5  0 ...UUC...T.CAA.T..MM.TOO....VV.HHH.. A 99 V 97 C 99 U 99 T 99 
+ 5  5  0 ...UUC.....CAA.T..MM.TOO.VVT....HHH. C 99 U 99 A 99 H 99 T 98 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOOVV.....HHH.. T 97 V 99 A 99 M 99 T 97 
+ 5  5  0 .UU........CAA.T.CMM.TOO...TVV...HHH A 99 U 97 T 98 V 97 H 98 
+ 5  5  0 .UU........C.AAT.C.MMTOO...TVV...HHH M 99 U 97 T 98 V 97 H 98 
+ 5  5  0 .UU..C.....C.AAT..MM.TOO...TVV...HHH C 99 U 97 T 98 V 97 H 98 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO.VV....HHH.. C 98 M 99 C 98 U 99 T 99 
+ 5  5  0 ...UUC...T.C.AAT..MM.TOO..VV..HHH... H 99 V 99 C 99 U 99 T 99 
+ 5  5  0 .UU........CAA.T.C.MMTOO.VVT.....HHH U 97 T 98 H 98 M 99 A 99 
+ 5  5  0 ...TUU...T...AAT..MM..OO...VVC..HHHC V 98 O 98 C 97 H 99 O 98 
+ 5  5  0 ...TUU...T...AAT...MM.OO.VV..C..HHHC M 99 O 98 C 97 H 99 O 98 
+ 5  5  0 ...TUU...T..AA.T..MM..OO.VV..C..HHHC A 99 O 98 C 97 H 99 O 98 
+ 5  5  0 ....UU.......AAT..MM.TOO.VVT.C..HHHC T 98 O 98 C 97 H 99 O 98 
+ 5  5  0 UU.T.....T.CAA.T.CMMOO...VV....HHH.. O 98 T 96 A 99 U 96 T 96 
+ 5  5  0 UU.T.....T.CAA.T.C..MMOO.VV....HHH.. M 98 T 96 A 99 U 96 T 96 
+ 5  5  0 .UU..C.....C.AAT..MM.TOO.VVT....HHH. H 97 H 97 C 99 U 97 T 98 
+ 5  5  0 ...TUU...T...AAT...MMOO.VV...C..HHHC V 99 H 99 C 97 M 99 O 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.CVV....HHH... V 99 C 99 O 98 A 99 H 99 
+ 5  5  0 .UU..C...T.CAA.T..MM.TOO.VV.....HHH. A 99 C 99 U 97 H 99 T 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.C.VV......HHH H 96 C 99 O 98 A 99 H 96 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOO.VV.....HHH. U 96 C 99 U 96 H 99 T 99 
+ 5  5  0 .UU..C.....CAA.T..MM.TOO.VVT..HHH... A 99 H 99 C 99 U 97 T 98 
+ 5  5  0 ...TUU...T.CAA.T.C..MMOO....VV.HHH.. H 98 V 97 M 98 A 99 H 98 
+ 5  5  0 ...TUU...T.CAA.T.C..MMOO...VV.HHH... V 96 V 96 M 98 A 99 H 99 
+ 5  5  0 ...TUU...T.CAA.T.C..MMOO..VV..HHH... H 95 A 99 H 95 V 99 M 98 
+ 5  5  0 ...TUU...T...AAT.C.MMOOCVV......HHH. H 99 M 99 V 99 C 99 O 99 
+ 5  5  0 ...TUU...T...AAT.C.MMOOC.VV....HHH.. V 98 M 99 V 98 C 99 O 99 
+ 5  5  0 ..UU.C.....C.AAT..MM.TOO.VVT..HHH... U 96 H 99 C 99 U 96 T 98 
+ 5  5  0 ..UU.....T.CAA.T.C.MMTOO....VV.HHH.. U 98 T 99 M 99 V 97 A 99 
+ 5  5  0 UU.......T.CAA.T.C.MMTOO....VV.HHH.. U 96 T 99 M 99 V 97 A 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOO...VV....HHH C 99 U 97 T 99 V 98 H 98 
+ 5  5  0 ...TUU...T..AA.T...MMOO....VVC.HHH.C V 98 C 97 A 99 M 99 O 99 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOO.VV.....HHH. T 97 U 99 A 99 H 99 T 97 
+ 5  5  0 ...TUU...T..AA.T..MM.OO.VV...CHHH..C V 99 A 99 C 97 H 99 O 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO.VV....HHH... V 99 H 99 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OO..VV..C.HHH.C H 98 C 97 A 99 H 98 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OO...VV.C..HHHC V 99 C 97 A 99 H 99 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OO....VVC..HHHC V 98 C 97 A 99 H 99 O 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO...VV..C..HHHC O 98 C 97 A 99 H 99 O 98 
+ 5  5  0 ...TUU...T..AA.T...MMOO..VV..C..HHHC M 99 C 97 A 99 H 99 O 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO..VV.....HHH. H 97 H 97 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO...VV.....HHH V 99 H 98 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO.....VV...HHH V 97 H 98 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T..AA.T.C.MMOOC.VV......HHH C 99 H 98 A 99 M 99 O 99 
+ 5  5  0 .UUT.....T.C.AAT.CMM.OO..VV......HHH H 98 O 99 T 96 U 97 T 96 
+ 5  5  0 .UUT.....T.C.AAT.CMM.OO..VV.....HHH. H 99 O 99 T 96 U 97 T 96 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOO..VV..HHH... H 99 C 99 U 97 V 99 T 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOO..VV.....HHH H 98 C 99 U 97 V 99 T 99 
+ 5  5  0 .UU..C...T.C.AAT...MMTOO..VV...HHH.. M 99 C 99 U 97 V 99 T 99 
+ 5  5  0 .UU..C...T.CAA.T..MM.TOO..VV...HHH.. A 99 C 99 U 97 V 99 T 99 
+ 5  5  0 UU...C...T.C.AAT..MM.TOO..VV...HHH.. U 96 C 99 U 96 V 99 T 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MM.OOVV.....HHH.. O 98 V 99 A 99 M 99 O 98 
+ 5  5  0 .UUT.....T.C.AAT.CMM.OO.....VV.HHH.. V 97 O 99 T 96 U 97 T 96 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO.....VV..HHH. H 99 O 99 M 99 V 97 A 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO...VV...HHH.. V 95 O 99 M 99 V 95 A 99 
+ 5  5  0 ...TUU...T..AA.T.C.MMOOC....VV.HHH.. C 99 O 99 M 99 V 97 A 99 
+ 5  5  0 ...TUU...T..AA.T...MMOO...VV.C.HHH.C V 99 C 97 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T...AAT...MMOO...VV.C..HHHC V 99 H 99 C 97 M 99 O 99 
+ 5  5  0 ...UUC...T.CAA.T...MMTOO.VV....HHH.. C 99 M 99 U 99 A 99 T 99 
+ 5  5  0 ...TUU...T...AAT...MM.OOVV...C.HHH.C V 99 O 98 C 97 M 99 O 98 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO....VV.HHH... H 99 V 98 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO....VV...HHH. H 99 V 98 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T.CAA.T.CMM.OO....VV..HHH.. M 98 V 98 A 99 M 98 O 99 
+ 5  5  0 ...TUU...T.C.AAT.C.MMOO....VV..HHH.. A 98 V 98 A 98 M 99 O 99 
+ 5  5  0 ...TUU...T..AA.T.C.MMOOC...VV..HHH.. C 99 V 98 A 99 M 99 O 99 
+ 5  5  0 ...TUU...T..AA.T...MMOOC...VVC.HHH.. C 98 V 98 A 99 M 99 O 99 
+ 5  5  0 .UU......T.CAA.T.C.MMTOOVV.....HHH.. V 99 A 99 U 97 M 99 T 99 
+ 5  5  0 ...UU....T.C.AAT.CMM.TOOVV....HHH... U 93 V 99 U 93 T 99 H 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.C...VV...HHH. C 99 O 98 H 99 V 98 A 99 
+ 5  5  0 .UU..C.....CAA.T..MM.TOO.VVT....HHH. H 99 C 99 A 99 U 97 T 98 
+ 5  5  0 ...TUU...T..AA.T..MMOO.....VVC..HHHC C 97 O 98 H 99 V 98 A 99 
+ 5  5  0 ...TUU...T.C.AAT.C.MMOO.....VV..HHH. V 97 O 99 H 99 V 97 M 99 
+ 5  5  0 .UU..C...T.CAA.T...MMTOO.VV....HHH.. C 99 A 99 U 97 M 99 T 99 
+ 5  5  0 ...UU....T.CAA.T.C.MMTOO.VV......HHH M 99 H 98 U 99 A 99 T 99 
+ 5  5  0 UU.......T.CAA.T.C.MMTOO.VV....HHH.. U 96 A 99 U 96 M 99 T 99 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOO..VV.....HHH V 99 H 98 U 99 A 99 T 99 
+ 5  5  0 .UU......T.CAA.T.C.MMTOO....VV.HHH.. V 97 A 99 U 97 M 99 T 99 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOO....VV...HHH V 97 H 98 U 99 A 99 T 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOO.VV.....HHH. H 97 H 97 U 97 A 99 T 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOO.VV...HHH... H 95 H 95 U 97 A 99 T 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOOVV.......HHH V 99 H 98 U 97 A 99 T 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOO..VV.....HHH V 99 H 98 U 97 A 99 T 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOO....VV...HHH V 97 H 98 U 97 A 99 T 99 
+ 5  5  0 .UU..C...T.CAA.T..MM.TOO.VV......HHH C 99 H 98 U 97 A 99 T 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOO.VV......HHH U 96 H 98 U 96 A 99 T 99 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOO.VV......HHH U 96 H 98 U 96 A 99 T 99 
+ 5  5  0 ....UU...T.CAA.T.CMM.TOO.VV......HHH U 94 H 98 U 94 A 99 T 99 
+ 5  5  0 .UUT.....T.CAA.T.CMM..OO.VV......HHH T 98 H 98 U 97 A 99 T 98 
+ 5  5  0 ...TUU...T...AAT..MMOO....VV.C..HHHC O 98 V 99 C 97 H 99 O 98 
+ 5  5  0 ...TUU...T...AAT...MMOOCVV...C..HHH. C 98 O 99 M 99 H 99 V 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.CVV......HHH. A 99 C 99 O 98 H 99 V 99 
+ 5  5  0 ...TUU...T...AAT..MMOO..VV...CHHH..C H 97 C 97 O 98 H 97 V 99 
+ 5  5  0 ...TUU...T...AAT..MM..OOVV...C..HHHC O 96 C 97 O 96 H 99 V 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MMOO...VV....HHH. M 99 V 99 A 99 H 99 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OOC..VV.C..HHH. C 98 V 99 A 99 H 99 O 99 
+ 5  5  0 UU...C...T.C.AAT..MM.TOO...VV.HHH... V 98 C 99 U 96 T 99 H 99 
+ 5  5  0 UU...C...T.C.AAT...MMTOO.VV...HHH... M 99 C 99 U 96 T 99 H 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OO...VV.CHHH..C C 97 A 99 V 99 H 99 O 99 
+ 5  5  0 ...TUU...T..AA.T...MMOOC.VV..C.HHH.. C 98 C 98 A 99 M 99 O 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOO...VV.HHH... V 98 A 99 U 96 T 99 H 99 
+ 5  5  0 UU.......T.CAA.T.C.MMTOO.VV...HHH... M 99 A 99 U 96 T 99 H 99 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOO.VV...HHH... U 93 A 99 U 93 T 99 H 99 
+ 5  5  0 UU.T.....T.CAA.T.CMM..OO.VV...HHH... T 98 A 99 U 96 T 98 H 99 
+ 5  5  0 ..UU.......C...AACMM.TOOVV.T..HHHT.. U 98 V 99 A 98 T 97 H 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OO....VVCHHH..C H 99 A 99 C 97 V 98 O 99 
+ 5  5  0 UU.........C...AACMM.TOOVV.T..HHHT.. U 96 V 99 A 98 T 97 H 99 
+ 5  5  0 ..UU.C.....CAA.T..MM.TOO.VVT...HHH.. U 94 C 99 A 99 U 94 T 98 
+ 5  5  0 ...UU....T.CAA.T.C.MMTOO....VV.HHH.. M 99 V 97 U 99 A 99 T 99 
+ 5  5  0 ...TUU...T.CAA.T.C..MMOO...VV...HHH. V 96 A 99 V 96 H 99 M 98 
+ 5  5  0 ..UU.......C..AA.CMM.TOOVV.T..HHHT.. U 98 V 99 A 99 T 97 H 99 
+ 5  5  0 UU.........C..AA.CMM.TOOVV.T..HHHT.. U 96 V 99 A 99 T 97 H 99 
+ 5  5  0 ...TUU...T...AAT...MMOOC...VVC..HHH. C 98 O 99 H 99 V 98 M 99 
+ 5  5  0 ...TUU...T..AA.T..MM..OO...VVC.HHH.C O 98 A 99 C 97 V 98 O 98 
+ 5  5  0 ...UUC.....CAA.T..MM.TOO.VVT...HHH.. U 93 C 99 A 99 U 93 T 98 
+ 5  5  0 ...TUU...T..AA.T...MM.OO.VV..C.HHH.C O 98 C 97 A 99 M 99 O 98 
+ 5  5  0 ...UU....T.CAA.T.C.MMTOOVV.....HHH.. V 99 M 99 U 99 A 99 T 99 
+ 5  5  0 ...TUU...T.CAA.T.CMMOO......VVHHH... H 97 V 97 H 97 O 98 A 99 
+ 5  5  0 ...TUU...T...AAT..MM..OOVV...C.HHH.C O 96 V 97 C 97 O 96 V 97 
+ 5  5  0 ...UUC...T.CAA.T..MM.TOO...VV..HHH.. V 98 A 99 C 99 U 99 T 99 
+ 5  5  0 ..UU.......C...AACMM.TOO...TVVHHHT.. U 98 A 98 T 97 V 97 H 99 
+ 5  5  0 ...UU....T.CAA.T.C.MMTOO..VV...HHH.. V 99 M 99 U 99 A 99 T 99 
+ 5  5  0 ..UU.......C..AA.CMM.TOO...TVVHHHT.. U 98 A 99 T 97 V 97 H 99 
+ 5  5  0 ...TUU...T...AAT....MMOO..VV.C.HHH.C M 98 O 96 C 97 O 96 V 99 
+ 5  5  0 ...UU......C..AA.CMM.TOO...TVVHHHT.. U 99 A 99 T 97 V 97 H 99 
+ 5  5  0 ....UU...T...AAT..MM.TOO..VV.C.HHH.C T 99 O 96 C 97 O 96 V 99 
+ 5  5  0 ...UU......C...AACMM.TOO...TVVHHHT.. U 99 A 98 T 97 V 97 H 99 
+ 5  5  0 ...TUU...T...AAT..MM..OO...VVCHHH..C H 99 O 98 C 97 V 98 O 98 
+ 5  5  0 ...TUU...T...AAT..MM..OO.VV..C.HHH.C V 96 O 98 C 97 V 96 O 98 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOO..VV.....HHH A 99 H 98 M 99 V 99 T 99 
+ 5  5  0 ...TUU...T.CAA.T.C..MMOO..VV....HHH. V 95 A 99 V 95 H 99 M 98 
+ 5  5  0 .UU........C...AACMM.TOO...TVVHHHT.. U 97 A 98 T 97 V 97 H 99 
+ 5  5  0 ..UU.......C.AA..C.MMTOOVV.T..HHHT.. M 99 U 98 V 99 T 97 H 99 
+ 5  5  0 ...TUU...T...AAT...MM.OO..VV.C.HHH.C V 99 O 98 C 97 M 99 O 98 
+ 5  5  0 ....UU...T...AAT..MM.TOO...VVC.HHH.C T 99 O 98 C 97 V 98 O 98 
+ 5  5  0 ..UU.C.....C.AA...MM.TOOVV.T..HHHT.. C 99 U 98 V 99 T 97 H 99 
+ 5  5  0 ....UU...T...AAT...MMTOO.VV..C.HHH.C T 99 O 98 C 97 M 99 O 98 
+ 5  5  0 ...TUU...T...AAT..MMOO.....VVC.HHH.C H 98 C 97 O 98 V 98 H 98 
+ 5  5  0 ...TUU...T...AAT....MMOO.VV..C.HHH.C M 98 O 98 C 97 M 98 O 98 
+ 5  5  0 ...TUU...T.CAA.T.C.MM.OO...VV.HHH... H 97 V 98 H 97 M 99 A 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.C..VV..HHH... V 99 C 99 O 98 A 99 H 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.C.VV.....HHH. H 97 C 99 O 98 A 99 H 97 
+ 5  5  0 UU.........C.AA..C.MMTOOVV.T..HHHT.. U 96 M 99 V 99 T 97 H 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.C....VVHHH... V 97 C 99 O 98 A 99 H 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.C...VV.HHH... V 98 C 99 O 98 A 99 H 99 
+ 5  5  0 ....UU...T.CAA.T.CMM.TOO.VV...HHH... V 98 H 99 V 98 A 99 T 99 
+ 5  5  0 ....UU...T.CAA.T.CMM.TOO..VV....HHH. H 97 H 97 V 99 A 99 T 99 
+ 5  5  0 ....UU...T.CAA.T.CMM.TOO...VV....HHH V 98 H 98 V 98 A 99 T 99 
+ 5  5  0 ....UU...T.CAA.T.CMM.TOO...VV...HHH. H 97 H 97 V 98 A 99 T 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOO...VV.HHH... M 99 H 99 V 98 A 99 T 99 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOO...VV.HHH... U 99 H 99 V 98 A 99 T 99 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOO...VV.HHH... U 98 H 99 V 98 A 99 T 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOO..VV..HHH... U 97 H 99 V 99 A 99 T 99 
+ 5  5  0 .UU......T.C.AAT.C.MMTOO....VV..HHH. U 97 M 99 H 99 V 97 T 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MM.OO..VV....HHH. V 97 V 97 H 99 M 99 A 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO...VV..CHHH..C C 97 C 97 O 98 A 99 H 99 
+ 5  5  0 ...TUU...T.CAA.T.C.MM.OO....VV...HHH H 98 V 97 H 98 M 99 A 99 
+ 5  5  0 UU...C...T.C.AAT..MM.TOO.VV.....HHH. H 97 C 99 U 96 T 99 H 97 
+ 5  5  0 ...TUU...T..AA.T..MM..OO..VV.C.HHH.C V 99 O 96 C 97 O 96 A 99 
+ 5  5  0 ...TUU...T...AAT...MMOO.VV...CHHH..C C 97 V 99 H 99 M 99 O 99 
+ 5  5  0 ...TUU...T...AAT.C.MMOOCVV.......HHH C 99 M 99 V 99 H 98 O 99 
+ 5  5  0 ..UU.C...T.CAA.T..MM.TOOVV.....HHH.. A 99 C 99 U 98 T 99 V 99 
+ 5  5  0 ...TUU...T..AA.T....MMOO.VV..C.HHH.C M 98 O 96 C 97 O 96 A 99 
+ 5  5  0 ....UU...T..AA.T..MM.TOO.VV..C.HHH.C T 99 O 96 C 97 O 96 A 99 
+ 5  5  0 ..UU.......C...AAC.MMTOO.VVT..HHHT.. M 99 U 98 A 98 T 97 H 99 
+ 5  5  0 ..UU.......CAA.T.CMM.TOO...TVV...HHH A 99 U 98 T 98 V 97 H 98 
+ 5  5  0 .UU........C.AA..CMM.TOOVV.T..HHHT.. T 97 U 97 H 99 T 97 V 99 
+ 5  5  0 .UU......T.CAA.T.C.MMTOO...VV..HHH.. U 97 A 99 T 99 V 98 M 99 
+ 5  5  0 ...UU....T.CAA.T.C.MMTOO...VV..HHH.. U 99 A 99 T 99 V 98 M 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOO..VV...HHH.. V 97 A 99 T 99 V 97 M 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOO...VV....HHH H 98 A 99 T 99 V 98 M 99 
+ 5  5  0 ...TUU...T.CAA.T.CMMOO..VV....HHH... V 95 V 95 O 98 A 99 H 99 
+ 5  5  0 ...TUU...T.CAA.T.CMMOO.....VV....HHH H 96 V 98 O 98 A 99 H 96 
+ 5  5  0 ...UUC...T.C.AAT..MM.TOO..VV....HHH. H 99 V 99 C 99 U 99 T 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OO.VV.....HHH. U 96 T 96 U 96 H 99 T 96 
+ 5  5  0 .UUT.....T.CAA.T.CMM..OO.VV.....HHH. A 99 T 96 U 97 H 99 T 96 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OO....VV..HHH. V 97 T 96 U 97 H 99 T 96 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OO...VV...HHH. V 98 T 96 U 97 H 99 T 96 
+ 5  5  0 .UUT.....T.C.AAT.C.MM.OO.VV.....HHH. M 99 T 96 U 97 H 99 T 96 
+ 5  5  0 ...TUU...T...AAT.CMMOO.C..VV....HHH. H 97 H 97 C 99 O 98 V 99 
+ 5  5  0 ...UUC...T.C.AAT...MMTOO.VV...HHH... H 99 M 99 C 99 U 99 T 99 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOOVV....HHH... H 99 V 99 U 99 A 99 T 99 
+ 5  5  0 ...UUC.....C.AAT...MMTOOVV.T...HHH.. C 99 M 99 U 99 T 98 V 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOOVV......HHH. V 99 M 99 H 99 U 99 T 99 
+ 5  5  0 .UU......T.C.AAT.C.MMTOO....VVHHH... M 99 U 97 H 99 V 97 T 99 
+ 5  5  0 UU.T.....T.C.AAT.C..MMOO....VV.HHH.. M 98 T 98 U 96 V 97 T 98 
+ 5  5  0 ...TUU...T...AAT..MM..OOVV...CHHH..C V 99 O 98 C 97 H 99 O 98 
+ 5  5  0 ...TUU...T...AAT...MM.OO.VV..CHHH..C M 99 O 98 C 97 H 99 O 98 
+ 5  5  0 ....UU...T...AAT..MM.TOO.VV..CHHH..C T 99 O 98 C 97 H 99 O 98 
+ 5  5  0 ...TUU...T...AAT....MMOO.VV..CHHH..C M 98 O 98 C 97 H 99 O 98 
+ 5  5  0 ....UU.......AAT..MM.TOO.VVT.CHHH..C T 98 O 98 C 97 H 99 O 98 
+ 5  5  0 ....UU.......AA...MM.TOO.VVT.CHHHT.C T 97 O 98 C 97 H 99 O 98 
+ 5  5  0 ...UU....T.C.AAT.CMM.TOO....VVHHH... U 95 U 95 H 99 V 97 T 99 
+ 5  5  0 ..UU.......CAA...CMM.TOO...TVVHHHT.. A 99 U 98 T 97 V 97 H 99 
+ 5  5  0 ...UUC.....C.AAT..MM.TOO...TVV.HHH.. T 98 V 97 C 99 U 99 T 98 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOCVV.......HHH H 98 A 99 V 99 C 99 O 99 
+ 5  5  0 ...UUC.....C.AA...MM.TOO...TVVHHHT.. C 99 U 99 T 97 V 97 H 99 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOC....VV...HHH H 98 C 99 O 99 V 97 A 99 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOC.VV....HHH.. V 94 C 99 O 99 V 94 A 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.C....VV.HHH.. O 98 C 99 O 98 V 97 A 99 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOC..VV..HHH... H 99 C 99 A 99 V 99 O 99 
+ 5  5  0 ...TUU...T..AA.T.C.MMOOC..VV...HHH.. M 99 C 99 A 99 V 99 O 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OO...VV.C.HHH.C C 97 C 97 A 99 V 99 O 99 
+ 5  5  0 ..UU.C.....C.AAT..MM.TOOVV.T....HHH. V 99 C 99 U 98 H 99 T 98 
+ 5  5  0 ...TUU...T..AA.T..MMOO.CVV...CHHH... A 99 H 99 V 99 C 98 O 98 
+ 5  5  0 ...TUU...T...AAT.CMMOO.C.VV....HHH.. V 98 C 97 V 98 C 97 O 98 
+ 5  5  0 ...TUU...T...AAT.CMMOO.CVV....HHH... C 97 H 99 V 99 C 97 O 98 
+ 5  5  0 ...TUU...T...AAT..MMOO.C..VV.C.HHH.. H 98 V 99 H 98 C 98 O 98 
+ 5  5  0 ...TUU...T...AAT..MMOO.CVV...C...HHH O 98 H 98 V 99 C 98 O 98 
+ 5  5  0 ...TUU...T...AAT...MMOOC..VV.C.HHH.. V 97 M 99 V 97 C 98 O 99 
+ 5  5  0 ...TUU...T...AAT...MMOOC...VVC.HHH.. V 96 M 99 V 96 C 98 O 99 
+ 5  5  0 ...TUU...T...AAT...MMOO.VV...C.HHH.C C 97 M 99 V 99 C 97 O 99 
+ 5  5  0 ...TUU...T...AAT..MMOO.CVV...C..HHH. V 97 V 97 H 99 C 98 O 98 
+ 5  5  0 ...TUU...T...AAT..MM.OOC..VV.C..HHH. O 97 V 99 H 99 C 98 O 97 
+ 5  5  0 UU.T.....T.C.AAT.CMMOO......VV.HHH.. O 98 T 98 U 96 V 97 T 98 
+ 5  5  0 UU.......T.C.AAT.C.MMTOO....VVHHH... V 97 U 96 T 99 H 99 M 99 
+ 5  5  0 UU.......T.C.AAT.C.MMTOO...VV....HHH V 98 M 99 U 96 H 98 T 99 
+ 5  5  0 UU.......T.C.AAT.C.MMTOO....VV...HHH V 97 M 99 U 96 H 98 T 99 
+ 5  5  0 UU.......T.CAA.T.C.MMTOO.VV......HHH A 99 M 99 U 96 H 98 T 99 
+ 5  5  0 UU...C...T.C.AAT...MMTOO.VV......HHH C 99 M 99 U 96 H 98 T 99 
+ 5  5  0 UU.T.....T.C.AAT.C.MM.OO.VV......HHH T 98 M 99 U 96 H 98 T 98 
+ 5  5  0 UU.......T.C.AAT.C.MMTOO...VV.HHH... V 98 U 96 T 99 H 99 M 99 
+ 5  5  0 UU.T.....T.C.AAT.C.MM.OO.VV...HHH... T 98 U 96 T 98 H 99 M 99 
+ 5  5  0 ....UU...T.CAA.T.C.MMTOOVV....HHH... V 99 A 99 T 99 H 99 M 99 
+ 5  5  0 UU...C.....C.AAT..MM.TOO.VVT....HHH. H 97 H 97 C 99 U 96 T 98 
+ 5  5  0 UU.........C.AAT.C.MMTOO.VVT...HHH.. H 98 U 96 M 99 H 98 T 98 
+ 5  5  0 UU.........C.AAT.C.MMTOOVV.T....HHH. V 99 U 96 M 99 H 99 T 98 
+ 5  5  0 UU.........CAA.T.C.MMTOO.VVT....HHH. A 99 U 96 M 99 H 99 T 98 
+ 5  5  0 UU...C.....C.AAT...MMTOO.VVT....HHH. C 99 U 96 M 99 H 99 T 98 
+ 5  5  0 UU.T.....T.C.AAT.C.MM.OO.VV.....HHH. T 96 U 96 M 99 H 99 T 96 
+ 5  5  0 UU...C.....C.AAT..MM.TOOVV.T..HHH... V 99 H 99 C 99 U 96 T 98 
+ 5  5  0 UU...C.....C.AAT...MMTOO.VVT..HHH... M 99 H 99 C 99 U 96 T 98 
+ 5  5  0 UU...C.....CAA.T..MM.TOO.VVT..HHH... A 99 H 99 C 99 U 96 T 98 
+ 5  5  0 UU...C.....C.AA...MM.TOO.VVT..HHHT.. T 97 H 99 C 99 U 96 T 97 
+ 5  5  0 UU...C.....C.AAT...MMTOO.VVT.....HHH H 98 M 99 C 99 U 96 T 98 
+ 5  5  0 .UU..C.....C.AAT...MMTOO.VVT.....HHH H 98 M 99 C 99 U 97 T 98 
+ 5  5  0 ...TUU...T..AA.T..MM.OOC.VV..C...HHH C 98 C 98 O 99 H 98 A 99 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OO..VV.....HHH H 98 T 98 U 97 V 99 T 98 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OO...VV..HHH.. V 98 T 98 U 97 V 98 T 98 
+ 5  5  0 .UUT.....T.C.AAT.CMM.OO...VV...HHH.. O 99 T 98 U 97 V 99 T 98 
+ 5  5  0 UU...C...T.C.AAT..MM.TOO..VV.....HHH C 99 V 99 U 96 H 98 T 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.CVV.......HHH C 99 H 98 V 99 O 98 A 99 
+ 5  5  0 .UU......T.C.AAT.C.MMTOOVV.......HHH V 99 H 98 U 97 M 99 T 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOO...VV...HHH. V 98 C 99 U 97 H 99 T 99 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOO..VV.....HHH V 99 C 99 U 98 H 98 T 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OO...VV....HHH V 98 T 98 U 96 H 98 T 98 
+ 5  5  0 UU.T.....T.C.AAT.C..MMOO.VV......HHH M 98 T 98 U 96 H 98 T 98 
+ 5  5  0 ...UU......CAA.T.CMM.TOO...TVV...HHH H 98 A 99 U 99 T 98 V 97 
+ 5  5  0 ...UUC.....CAA.T..MM.TOO...TVV.HHH.. C 99 A 99 U 99 T 98 V 97 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOO....VV...HHH M 99 U 99 H 98 V 97 T 99 
+ 5  5  0 UU.......T.C.AAT.CMM.TOO....VV...HHH U 96 U 96 H 98 V 97 T 99 
+ 5  5  0 .UU..C.....C.AAT..MM.TOO.VVT.....HHH U 95 H 98 C 99 U 95 T 98 
+ 5  5  0 ...TUU...T...AAT.C.MMOOC..VV....HHH. C 99 H 99 V 99 M 99 O 99 
+ 5  5  0 ...TUU...T...AAT.CMM.OOC.VV...HHH... V 98 H 99 V 98 C 99 O 99 
+ 5  5  0 ...TUU...T...AAT..MM.OO.VV...CHHH..C C 97 H 99 V 99 C 97 O 99 
+ 5  5  0 ...TUU...T...AAT...MMOOC..VV.C..HHH. C 98 H 99 V 99 M 99 O 99 
+ 5  5  0 ..UU.C.....C.AAT...MMTOO...TVV.HHH.. C 99 U 98 T 98 V 97 M 99 
+ 5  5  0 ...TUU...T...AAT..MM.OO...VV.CHHH..C C 97 H 99 V 99 C 97 O 99 
+ 5  5  0 .UU..C.....C.AAT..MM.TOOVV.T....HHH. H 99 V 99 C 99 U 97 T 98 
+ 5  5  0 ....UU...T.CAA.T.CMM.TOOVV.....HHH.. H 98 V 99 H 98 A 99 T 99 
+ 5  5  0 ....UU.....C.AAT.C.MMTOO...TVV..HHH. H 97 T 98 H 97 V 97 M 99 
+ 5  5  0 ....UU.....CAA.T.C.MMTOO...TVV...HHH A 99 T 98 H 98 V 97 M 99 
+ 5  5  0 UU.........C.AAT.C.MMTOO...TVV...HHH U 96 T 98 H 98 V 97 M 99 
+ 5  5  0 ....UU...T.C.AAT.C.MMTOO....VV...HHH T 97 T 97 H 98 V 97 M 99 
+ 5  5  0 UU.T.C...T.C.AAT..MM..OO.VV.....HHH. H 99 T 96 C 99 U 96 T 96 
+ 5  5  0 ...TUU...T..AA.T.CMM.OOC...VV.HHH... H 99 A 99 V 98 C 99 O 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOO.VV....HHH.. H 98 U 96 H 98 A 99 T 99 
+ 5  5  0 ...UU......CAA.T.CMM.TOOVV.T....HHH. A 99 U 99 H 99 T 98 V 99 
+ 5  5  0 ...UUC.....C.AAT..MM.TOOVV.T....HHH. C 99 U 99 H 99 T 98 V 99 
+ 5  5  0 UU...C...T.CAA.T..MM.TOO.VV.....HHH. C 99 U 96 H 99 A 99 T 99 
+ 5  5  0 UU.T.....T.CAA.T.CMM..OO.VV.....HHH. T 98 U 96 H 99 A 99 T 98 
+ 5  5  0 UU.........CAA.T.CMM.TOO.VVT....HHH. T 98 U 96 H 99 A 99 T 98 
+ 5  5  0 UU.T.C...T.C.AAT..MM.OO..VV....HHH.. O 99 T 96 C 99 U 96 T 96 
+ 5  5  0 ...TUU...T...AAT.CMMOO.C...VV....HHH V 98 V 98 C 99 O 98 H 98 
+ 5  5  0 ...TUU...T...AAT.CMMOO.C....VV...HHH V 97 V 97 C 99 O 98 H 98 
+ 5  5  0 UU...C.....C.AA...MM.TOO...TVVHHHT.. C 99 U 96 T 97 V 97 H 99 
+ 5  5  0 ...TUU...T..AA.T..MM.OOC..VV.C...HHH C 98 A 99 V 99 H 98 O 99 
+ 5  5  0 ....UU.....CAA.T.C.MMTOOVV.T....HHH. H 99 V 99 A 99 M 99 T 98 
+ 5  5  0 ...TUU...T..AA.T..MM.OOC...VVC..HHH. A 99 V 98 H 99 C 98 O 99 
+ 5  5  0 ...TUU...T...AAT.CMM.OOC...VV...HHH. C 97 V 98 H 99 C 97 O 99 
+ 5  5  0 ...TUU...T...AAT..MM.OO....VVC..HHHC C 97 V 98 H 99 C 97 O 99 
+ 5  5  0 ...TUU...T...AAT.C.MMOOC....VV...HHH V 97 M 99 H 98 C 99 O 99 
+ 5  5  0 .UUT.....T.C.AAT.CMM..OO....VV...HHH T 96 U 97 T 96 V 97 H 98 
+ 5  5  0 ...UUC...T.C.AAT...MMTOOVV.....HHH.. V 99 M 99 C 99 U 99 T 99 
+ 5  5  0 UU.........CAA.T.C.MMTOO.VVT.....HHH U 96 T 98 H 98 M 99 A 99 
+ 5  5  0 ...TUU...T...AAT....MMOO.VV..C..HHHC M 98 O 98 C 97 H 99 O 98 
+ 5  5  0 UU.T.....T.CAA.T.CMM..OOVV.....HHH.. V 99 T 96 A 99 U 96 T 96 
+ 5  5  0 UU.T.....T.CAA.T.CMM.OO..VV....HHH.. O 99 T 96 A 99 U 96 T 96 
+ 5  5  0 ....UU.....C.AAT.C.MMTOOVV.T....HHH. H 97 H 97 T 98 V 99 M 99 
+ 5  5  0 ..UU.......C.AAT.C.MMTOOVV.T..HHH... U 98 H 99 T 98 V 99 M 99 
+ 5  5  0 UU.........C.AAT.C.MMTOOVV.T..HHH... U 96 H 99 T 98 V 99 M 99 
+ 5  5  0 ....UU...T.C.AAT.C.MMTOOVV....HHH... T 97 H 99 T 97 V 99 M 99 
+ 5  5  0 UU.........C.AAT.C.MMTOOVV.T.....HHH U 96 V 99 H 98 M 99 T 98 
+ 5  5  0 ...TUU...T...AAT.C.MMOOC...VV...HHH. H 99 M 99 V 98 C 99 O 99 
+ 5  5  0 ...TUU...T...AAT.C.MMOOC....VV.HHH.. V 97 M 99 V 97 C 99 O 99 
+ 5  5  0 ...UUC...T.CAA.T..MM.TOO..VV...HHH.. A 99 V 99 C 99 U 99 T 99 
+ 5  5  0 .UUT.....T.C.AAT.CMM.OO....VV..HHH.. V 98 O 99 T 96 U 97 T 96 
+ 5  5  0 .UU......T.CAA.T.C.MMTOO..VV...HHH.. V 99 A 99 U 97 M 99 T 99 
+ 5  5  0 ...UUC...T.CAA.T..MM.TOO.VV.....HHH. H 99 A 99 C 99 U 99 T 99 
+ 5  5  0 ...TUU...T.CAA.T.CMM.OO..VV...HHH... V 98 A 99 V 98 H 99 O 99 
+ 5  5  0 UU...C...T.C.AAT..MM.TOO..VV..HHH... V 99 C 99 U 96 T 99 H 99 
+ 5  5  0 .UU..C.....CAA.T..MM.TOO.VVT.....HHH H 98 C 99 A 99 U 97 T 98 
+ 5  5  0 UU...C...T.CAA.T..MM.TOO.VV...HHH... A 99 C 99 U 96 T 99 H 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOO....VVHHH... V 97 A 99 U 96 T 99 H 99 
+ 5  5  0 UU...C.....CAA.T..MM.TOO.VVT.....HHH H 98 C 99 A 99 U 96 T 98 
+ 5  5  0 ...TUU...T...AAT...MMOO....VVC..HHHC H 99 M 99 C 97 V 98 O 99 
+ 5  5  0 ..UU.C.....C.AAT..MM.TOO...TVV..HHH. C 99 H 99 U 98 T 98 V 97 
+ 5  5  0 ....UU...T.C.AAT.C.MMTOO...VV....HHH V 96 T 99 V 96 H 98 M 99 
+ 5  5  0 UU.........C.AAT.CMM.TOO...TVV..HHH. U 96 H 99 U 96 T 98 V 97 
+ 5  5  0 ..UU.......C.AAT.CMM.TOO...TVVHHH... U 94 H 99 U 94 T 98 V 97 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OOVV....HHH... T 98 V 99 U 96 T 98 H 99 
+ 5  5  0 ...UUC...T.C.AAT..MM.TOO....VVHHH... H 99 V 97 C 99 U 99 T 99 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.C....VV..HHH. C 99 V 97 H 99 O 98 A 99 
+ 5  5  0 ...TUU...T...AAT...MM.OO...VVC.HHH.C M 99 O 98 C 97 V 98 O 98 
+ 5  5  0 ...TUU...T...AAT....MMOO...VVC.HHH.C M 98 O 98 C 97 V 98 O 98 
+ 5  5  0 ...TUU...T...AAT..MM.OO....VVCHHH..C O 97 C 97 O 97 V 98 H 99 
+ 5  5  0 .UU......T.C.AAT.C.MMTOO...VV...HHH. V 98 U 97 H 99 M 99 T 99 
+ 5  5  0 .UU..C...T.C.AAT...MMTOO.VV.....HHH. C 99 U 97 H 99 M 99 T 99 
+ 5  5  0 UU.......T.C.AAT.C.MMTOO.VV.....HHH. U 96 U 96 H 99 M 99 T 99 
+ 5  5  0 ..UU.C.....C.AAT..MM.TOOVV.T.....HHH C 99 V 99 U 98 H 98 T 98 
+ 5  5  0 UU.........C.AAT.CMM.TOOVV.T.....HHH U 96 V 99 U 96 H 98 T 98 
+ 5  5  0 ..UU.....T.C.AAT.CMM.TOOVV.......HHH T 97 V 99 U 98 H 98 T 97 
+ 5  5  0 .UU........C.AA..C.MMTOOVV.T..HHHT.. U 97 M 99 V 99 T 97 H 99 
+ 5  5  0 .UU..C.....C.AA....MMTOO.VVT..HHHT.. C 99 M 99 U 97 T 97 H 99 
+ 5  5  0 .UU........CAA.T.C.MMTOO.VVT....HHH. M 99 A 99 U 97 H 99 T 98 
+ 5  5  0 ..UU.......CAA.T.CMM.TOO.VVT....HHH. U 96 A 99 U 96 H 99 T 98 
+ 5  5  0 ...UU......CAA...CMM.TOO...TVVHHHT.. A 99 U 99 T 97 V 97 H 99 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOOVV......HHH. H 99 C 99 U 98 T 99 V 99 
+ 5  5  0 ...TUU...T.C.AAT.C.MMOO....VV.HHH... V 96 V 96 H 99 M 99 O 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOO....VVHHH... C 99 U 97 H 99 V 97 T 99 
+ 5  5  0 ...TUU...T.C.AAT.CMMOO..VV.....HHH.. C 96 C 96 V 99 C 96 O 98 
+ 5  5  0 ...UUC...T.C.AAT...MMTOO....VV.HHH.. M 99 V 97 C 99 U 99 T 99 
+ 5  5  0 ..UU.....T.CAA.T.CMM.TOO...VV....HHH H 98 U 98 V 98 A 99 T 99 
+ 5  5  0 ..UU.C.....C.AA...MM.TOO...TVVHHHT.. C 99 U 98 T 97 V 97 H 99 
+ 5  5  0 .UU..C...T.CAA.T..MM.TOO...VV..HHH.. C 99 U 97 V 98 A 99 T 99 
+ 5  5  0 .UU..C.....C.AA...MM.TOO...TVVHHHT.. C 99 U 97 T 97 V 97 H 99 
+ 5  5  0 ...TUU...T..AA.T..MMOO.C.VV..C.HHH.. H 98 A 99 H 98 C 98 O 98 
+ 5  5  0 ...TUU...T...AAT..MMOO...VV..C..HHHC H 97 C 97 C 97 O 98 H 97 
+ 5  5  0 ..UU.....T.C.AAT.CMM.TOO..VV.....HHH H 96 V 99 U 98 T 99 H 96 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOO..VV..HHH... C 99 V 99 U 98 T 99 H 99 
+ 5  5  0 UU.........C.AA..CMM.TOOVV.T..HHHT.. T 97 H 99 V 99 U 96 T 97 
+ 5  5  0 ...TUU...T...AAT..MM.OO.VV...C..HHHC C 97 C 97 O 99 H 99 V 99 
+ 5  5  0 UU.........CAA.T.CMM.TOOVV.T....HHH. A 99 V 99 U 96 H 99 T 98 
+ 5  5  0 .UU......T.CAA.T.CMM.TOO....VV..HHH. U 97 T 99 H 99 V 97 A 99 
+ 5  5  0 ...TUU...T.CAA.T.CMM.OO....VV...HHH. V 96 V 96 A 99 H 99 O 99 
+ 5  5  0 UU...C.....CAA.T...MMTOO.VVT...HHH.. A 99 M 99 C 99 U 96 T 98 
+ 5  5  0 UU.T.....T.C.AAT.C..MMOOVV.....HHH.. M 98 T 98 U 96 T 98 V 99 
+ 5  5  0 UU.T.....T.C.AAT.CMMOO..VV.....HHH.. O 98 T 98 U 96 T 98 V 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM.OO.VV.....HHH.. O 99 T 98 U 96 T 98 V 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OOVV......HHH. H 99 T 98 U 96 T 98 V 99 
+ 5  5  0 UU.T.....T.C.AAT.C..MMOO...VV..HHH.. M 98 T 98 U 96 V 98 T 98 
+ 5  5  0 UU.T.....T.C.AAT.CMMOO.....VV..HHH.. O 98 T 98 U 96 V 98 T 98 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OO...VV.HHH... H 99 T 98 U 96 V 98 T 98 
+ 5  5  0 UU.T.....T.C.AAT.CMM.OO....VV..HHH.. O 99 T 98 U 96 V 98 T 98 
+ 5  5  0 UU.......T.C.AAT.CMM.TOO...VV....HHH H 96 H 96 U 96 V 98 T 99 
+ 5  5  0 UU.T.....T.C.AAT.C.MM.OO...VV..HHH.. T 98 M 99 U 96 V 98 T 98 
+ 5  5  0 UU...C...T.C.AAT...MMTOO...VV..HHH.. C 99 M 99 U 96 V 98 T 99 
+ 5  5  0 ...UU....T.C.AAT.C.MMTOOVV....HHH... V 99 U 99 T 99 H 99 M 99 
+ 5  5  0 .UU..C.....C.AAT...MMTOO.VVT....HHH. H 99 M 99 C 99 U 97 T 98 
+ 5  5  0 UU...C.....CAA.T..MM.TOO.VVT....HHH. H 99 C 99 A 99 U 96 T 98 
+ 5  5  0 UU.........CAA.T.CMM.TOO...TVV...HHH H 98 A 99 U 96 T 98 V 97 
+ 5  5  0 UU...C...T.C.AAT..MM.TOO....VV.HHH.. T 97 C 99 U 96 T 97 V 97 
+ 5  5  0 .UU........C.AAT.CMM.TOO...TVVHHH... U 95 H 99 U 95 T 98 V 97 
+ 5  5  0 UU.T.....T.C.AAT.CMMOO...VV......HHH O 98 T 98 U 96 H 98 T 98 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOO....VV...HHH V 97 C 99 U 98 H 98 T 99 
+ 5  5  0 UU.......T.CAA.T.CMM.TOO..VV..HHH... V 99 A 99 U 96 T 99 H 99 
+ 5  5  0 UU.........C.AAT.C.MMTOO...TVV..HHH. H 99 M 99 U 96 T 98 V 97 
+ 5  5  0 .UU........C..AA.CMM.TOOVV.T..HHHT.. U 97 V 99 A 99 T 97 H 99 
+ 5  5  0 UU...C.....C.AAT..MM.TOO...TVV...HHH H 98 C 99 U 96 T 98 V 97 
+ 5  5  0 ..UU.C.....C.AAT..MM.TOO...TVV.HHH.. U 94 C 99 U 94 T 98 V 97 
+ 5  5  0 UU...C.....C.AAT..MM.TOO...TVV..HHH. H 99 C 99 U 96 T 98 V 97 
+ 5  5  0 UU...C.....C.AAT..MM.TOO...TVVHHH... H 99 C 99 U 96 T 98 V 97 
+ 5  5  0 .UU........C.AAT.C.MMTOO...TVV..HHH. M 99 H 99 U 97 T 98 V 97 
+ 5  5  0 UU...C.....CAA.T..MM.TOO...TVV.HHH.. A 99 C 99 U 96 T 98 V 97 
+ 5  5  0 .UU..C.....C.AAT..MM.TOO...TVV..HHH. C 99 H 99 U 97 T 98 V 97 
+ 5  5  0 UU...C.....C.AAT...MMTOO...TVV.HHH.. M 99 C 99 U 96 T 98 V 97 
+ 5  5  0 ..UU.C.....CAA.T..MM.TOO.VVT....HHH. A 99 C 99 U 98 H 99 T 98 
+ 5  5  0 .UU......T.C.AAT.C.MMTOOVV....HHH... M 99 H 99 V 99 U 97 T 99 
+ 5  5  0 ....UU...T.C.AAT.CMM.TOO..VV.....HHH U 94 V 99 H 98 U 94 T 99 
+ 5  5  0 .UU..C...T.C.AAT...MMTOOVV.....HHH.. V 99 M 99 C 99 U 97 T 99 
+ 5  5  0 .UU..C...T.C.AAT...MMTOO.VV...HHH... H 99 M 99 C 99 U 97 T 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOOVV....HHH... V 99 H 99 C 99 U 97 T 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOO.VV......HHH H 96 H 96 C 99 U 97 T 99 
+ 5  5  0 .UU..C...T.C.AAT...MMTOO...VV..HHH.. V 98 M 99 C 99 U 97 T 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOO...VV.HHH... V 98 H 99 C 99 U 97 T 99 
+ 5  5  0 ..UU.C...T.C.AAT..MM.TOO.VV...HHH... U 96 H 99 C 99 U 96 T 99 
+ 5  5  0 .UU..C...T.CAA.T..MM.TOO.VV...HHH... A 99 H 99 C 99 U 97 T 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOO...VV..HHH.. V 96 V 96 C 99 U 97 T 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOOVV.......HHH H 98 V 99 C 99 U 97 T 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOO....VV.HHH.. V 95 V 95 C 99 U 97 T 99 
+ 5  5  0 .UU..C...T.CAA.T..MM.TOOVV.....HHH.. A 99 V 99 C 99 U 97 T 99 
+ 5  5  0 UU...C...T.CAA.T..MM.TOO.VV....HHH.. U 96 A 99 C 99 U 96 T 99 
+ 5  5  0 UU.........CAA.T.C.MMTOO...TVV.HHH.. A 99 M 99 U 96 T 98 V 97 
+ 5  5  0 .UU......T.C.AAT.CMM.TOOVV.......HHH V 93 V 93 H 98 U 97 T 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOO....VV...HHH C 99 V 97 H 98 U 97 T 99 
+ 5  5  0 .UU..C...T.C.AAT..MM.TOO....VV..HHH. C 99 H 99 V 97 U 97 T 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOOVV....HHH... A 99 H 99 V 99 U 97 T 99 
+ 5  5  0 UU...C...T.C.AAT..MM.TOO...VV..HHH.. V 98 U 96 C 99 U 96 T 99 
+ 5  5  0 ..UU.....T.CAA.T.C.MMTOO.VV...HHH... U 98 A 99 T 99 H 99 M 99 
+ 5  5  0 .UU..C.....C.AAT...MMTOO...TVV.HHH.. M 99 C 99 U 97 T 98 V 97 
+ 5  5  0 UU.........C..AA.CMM.TOO...TVVHHHT.. A 99 U 96 T 97 V 97 H 99 
+ 5  5  0 ..UU.C.....C.AAT..MM.TOO...TVV...HHH C 99 U 98 T 98 V 97 H 98 
+ 5  5  0 ...UU......C.AAT.CMM.TOO.VVT....HHH. H 97 H 97 U 99 T 98 H 97 
+ 5  5  0 ...UU......C.AAT.CMM.TOO.VVT.....HHH H 96 H 96 U 99 T 98 H 96 
+ 5  5  0 ....UU...T...AAT..MM.TOO.VV..C..HHHC T 99 O 98 C 97 H 99 O 98 
+ 5  5  0 UU.T.....T.CAA.T.C.MM.OO.VV....HHH.. M 99 T 96 A 99 U 96 T 96 
+ 5  5  0 ...UUC.....C.AAT..MM.TOOVV.T..HHH... V 99 C 99 U 99 T 98 H 99 
+ 5  5  0 ...UUC.....C.AAT...MMTOO.VVT..HHH... M 99 C 99 U 99 T 98 H 99 
+ 5  5  0 ...UUC.....CAA.T..MM.TOO.VVT..HHH... A 99 C 99 U 99 T 98 H 99 
+ 5  5  0 ...TUU...T...AAT.C.MMOOC..VV..HHH... H 99 C 99 V 99 M 99 O 99 
+ 5  5  0 ..UU.C...T.C.AAT...MMTOO.VV...HHH... H 99 C 99 U 98 M 99 T 99 
+ 5  5  0 ...UUC...T.CAA.T..MM.TOOVV.....HHH.. V 99 A 99 C 99 U 99 T 99 
+ 5  5  0 ...TUU...T...AAT...MMOO...VV.CHHH..C H 99 M 99 C 97 V 99 O 99 
+ 5  5  0 .UU......T.CAA.T.CMM.TOOVV.....HHH.. V 93 V 93 U 97 A 99 T 99 
+ 5  5  0 .UU..C...T.CAA.T..MM.TOO....VV.HHH.. C 99 V 97 U 97 A 99 T 99 
+ 5  5  0 ....UU.......AAT...MMTOO.VVT.C.HHH.C T 98 O 98 C 97 M 99 O 98 
+ 5  5  0 ...UU....T.CAA.T.CMM.TOO....VVHHH... H 99 V 97 U 99 A 99 T 99 
+ 5  5  0 ..UU.C.....C.AA....MMTOO.VVT..HHHT.. C 99 M 99 U 98 T 97 H 99 
+ 5  5  0 ...UU......C.AA..C.MMTOO.VVT..HHHT.. U 97 M 99 U 97 T 97 H 99 
+ 5  5  0 .UU..C.....C.AAT..MM.TOO...TVVHHH... H 99 C 99 U 97 T 98 V 97 
+ 5  5  0 ...TUU...T..AA.T.CMMOO.C..VV....HHH. H 99 C 99 V 99 O 98 A 99 
+ 5  5  0 ...TUU...T...AAT...MMOO....VVCHHH..C H 99 M 99 C 97 V 98 O 99 
+ 5  5  0 UU.T.....T.C.AAT.C..MMOO.VV...HHH... M 98 T 96 U 96 T 96 H 99 
+ 5  5  0 UU.T.....T.C.AAT.CMMOO...VV...HHH... O 98 T 96 U 96 T 96 H 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM.OO..VV...HHH... O 99 T 96 U 96 T 96 H 99 
+ 5  5  0 UU.T.....T.C.AAT.CMM..OO..VV..HHH... V 99 T 96 U 96 T 96 H 99 
+ 5  5  0 UU...C.....C..AA..MM.TOO.VVT..HHHT.. C 99 A 99 U 96 T 97 H 99 
+ 5  5  0 ...UUC...T.CAA.T..MM.TOO.VV...HHH... H 99 A 99 C 99 U 99 T 99 
+ 5  5  0 UU...C...T.C.AAT..MM.TOO....VVHHH... V 97 C 99 U 96 T 99 H 99 
+ 5  5  0 ...UU......CAA.T.CMM.TOO.VVT..HHH... U 93 U 93 T 98 A 99 H 99 
+ 5  5  0 ...UUC.....CAA.T..MM.TOOVV.T...HHH.. A 99 C 99 U 99 T 98 V 99 
+ 5  5  0 ...UUC.....C.AAT..MM.TOOVV.T.....HHH H 98 C 99 U 99 T 98 V 99 
+ 5  5  0 ..UU.....T.C.AAT.C.MMTOO....VVHHH... U 98 T 99 H 99 V 97 M 99 
+ 5  5  0 .UUT.....T.CAA.T.CMM..OO..VV...HHH.. V 99 A 99 T 96 U 97 T 96 
+ 6  6  0 ...UU......C...AAC.MMTOOVV.T..HHHT.. V 99 U 99 M 99 A 98 T 97 H 99 
+ 6  6  0 ...UU....T.CAA.T.CMM.TOO..VV....HHH. V 95 H 99 V 95 U 99 A 99 T 99 
+ 6  6  0 .UU......T.CAA.T.C.MMTOO...VV...HHH. M 99 H 99 U 97 V 98 A 99 T 99 
+ 6  6  0 UU..........AA.T..MM.TOO.VVT.C.HHH.C U 96 T 98 O 96 C 97 O 96 A 99 
+ 6  6  0 .UUT.....T.CAA.T.CMM..OO...VV...HHH. T 98 H 99 U 97 V 98 A 99 T 98 
+ 6  6  0 .UUT.....T.CAA.T.CMM..OO...VV....HHH H 98 T 98 U 97 V 98 A 99 T 98 
+ 6  6  0 .UUT.....T.CAA.T.CMM.OO....VV..HHH.. O 99 T 98 U 97 V 98 A 99 T 98 
+ 6  6  0 ..UU.C.....C.AAT...MMTOOVV.T....HHH. C 99 V 99 H 99 U 98 M 99 T 98 
+ 6  6  0 ...UU.......AA.T..MM.TOO.VVT.C.HHH.C U 99 T 98 O 96 C 97 O 96 A 99 
+ 6  6  0 UU.T.....T.CAA.T.CMM..OO...VV....HHH T 98 H 98 U 96 V 98 A 99 T 98 
+ 6  6  0 UU...C...T.CAA.T..MM.TOO...VV....HHH H 98 C 99 U 96 V 98 A 99 T 99 
+ 6  6  0 UU.T.....T.CAA.T.C.MM.OO...VV..HHH.. T 98 M 99 U 96 V 98 A 99 T 98 
+ 6  6  0 ..UU.C...T.C.AAT...MMTOOVV....HHH... M 99 H 99 C 99 U 98 T 99 V 99 
+ 6  6  0 UU...C...T.CAA.T..MM.TOO...VV.HHH... H 99 C 99 U 96 V 98 A 99 T 99 
+ 6  6  0 UU.......T.CAA.T.C.MMTOO...VV...HHH. H 99 M 99 U 96 V 98 A 99 T 99 
+ 6  6  0 .UUT.C...T.CAA.T..MM..OO...VV..HHH.. C 99 T 98 U 97 V 98 A 99 T 98 
+ 6  6  0 ....UU......AA.T...MMTOO.VVT.C.HHH.C M 99 T 98 O 96 C 97 O 96 A 99 
+ 6  6  0 ...UU....T.CAA.T.CMM.TOO...VV...HHH. U 95 H 99 U 95 V 98 A 99 T 99 
+ 6  6  0 UU.........CAA...C.MMTOO.VVT..HHHT.. A 95 M 99 U 96 A 95 T 97 H 99 
+ 6  6  0 UU...C.....C....AAMM.TOO.VVT..HHHT.. A 97 C 99 U 96 A 97 T 97 H 99 
+ 6  6  0 .UU..C...T.CAA.T..MM.TOO...VV...HHH. C 99 H 99 U 97 V 98 A 99 T 99 
+ 6  6  0 UU.T.C...T.CAA.T..MM..OO...VV..HHH.. T 98 C 99 U 96 V 98 A 99 T 98 
+ 6  6  0 ....UU......AA.T..MM.TOO.VVT.C..HHHC H 99 T 98 O 96 C 97 O 96 A 99 
+ 6  6  0 ..UU.C...T.C.AAT..MM.TOO....VVHHH... V 95 H 99 C 99 U 98 T 99 V 95 
+ 6  6  0 ...UU....T.CAA.T.C.MMTOO....VV..HHH. M 99 H 99 V 97 U 99 A 99 T 99 
+ 6  6  0 ...UUC.....C...AA..MMTOO.VVT..HHHT.. C 99 U 99 M 99 A 98 T 97 H 99 
+ 6  6  0 ..UU.C...T.CAA.T..MM.TOOVV....HHH... A 99 H 99 C 99 U 98 T 99 V 99 
+ 6  6  0 .UUT.....T.CAA.T.C..MMOO...VV..HHH.. M 98 T 98 U 97 V 98 A 99 T 98 
+ 6  6  0 UU.......T.CAA.T.C.MMTOO...VV....HHH M 99 H 98 U 96 V 98 A 99 T 99 
+ 6  6  0 UU...C...T.CAA.T..MM.TOO...VV...HHH. H 99 C 99 U 96 V 98 A 99 T 99 
+ 6  6  0 ..UU.....T.CAA.T.C.MMTOOVV....HHH... A 99 H 99 V 99 U 98 M 99 T 99 
+ 6  6  0 ..UU........AA.T..MM.TOO.VVT.C.HHH.C U 98 T 98 O 96 C 97 O 96 A 99 
+ 6  6  0 UU.......T.CAA.T.CMM.TOOVV.......HHH V 95 H 98 U 96 V 95 A 99 T 99 
+ 6  6  0 ...UU......CAA...C.MMTOO.VVT..HHHT.. A 95 U 99 M 99 A 95 T 97 H 99 
+ 6  6  0 UU...C...T.CAA.T...MMTOO...VV..HHH.. C 99 M 99 U 96 V 98 A 99 T 99 
+ 6  6  0 ....UU......AA.T..MM.TOOVV.T.C.HHH.C V 99 T 98 O 96 C 97 O 96 A 99 
+ 6  6  0 ...UUC...T.CAA.T..MM.TOO....VV..HHH. C 99 H 99 V 97 U 99 A 99 T 99 
+ 6  6  0 ....UU.......AAT..MM.TOO.VVT.C.HHH.C A 98 T 98 O 96 C 97 O 96 A 98 
+ 6  6  0 ...UUC...T.C.AAT..MM.TOOVV....HHH... U 97 H 99 C 99 U 97 T 99 V 99 
+ 6  6  0 .UUT.....T.CAA.T.CMMOO.....VV..HHH.. O 98 T 98 U 97 V 98 A 99 T 98 
+ 6  6  0 .UU.........AA.T..MM.TOO.VVT.C.HHH.C U 97 T 98 O 96 C 97 O 96 A 99 
+ 6  6  0 .UUT.....T.CAA.T.C.MM.OO...VV..HHH.. M 99 T 98 U 97 V 98 A 99 T 98 
+ 6  6  0 UU...C...T.CAA.T..MM.TOOVV.....HHH.. V 95 C 99 U 96 V 95 A 99 T 99 
+ 6  6  0 ...TUU...T..AA.T..MM..OO...VVCHHH..C O 96 A 99 C 97 O 96 V 98 H 99 
+ 6  6  0 UU.......T.CAA.T.C.MMTOO...VV.HHH... H 99 M 99 U 96 V 98 A 99 T 99 
+ 6  6  0 UU...C...T.CAA.T..MM.TOO....VV.HHH.. V 97 C 99 U 96 V 97 A 99 T 99 
+ 6  6  0 UU...C.....C...AA..MMTOO.VVT..HHHT.. C 99 M 99 U 96 A 98 T 97 H 99 
+ 6  6  0 ....UU......AA.T..MM.TOO.VVT.CHHH..C H 99 T 98 O 96 C 97 O 96 A 99 
+ 6  6  0 .UUT.....T.CAA.T.CMM..OO...VV.HHH... H 99 T 98 U 97 V 98 A 99 T 98 
+ 6  6  0 ..UU.......CAA.T.C.MMTOOVV.T....HHH. A 99 V 99 H 99 U 98 M 99 T 98 
+ 6  6  0 UU.........C...AAC.MMTOOVV.T..HHHT.. V 99 M 99 U 96 A 98 T 97 H 99 

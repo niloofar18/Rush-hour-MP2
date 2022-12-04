@@ -1,0 +1,1405 @@
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ...GG.....MM
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ...GG.....MM A 99 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ...GG.....MM I 99 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ.GG.......MM G 6 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ...GG....MM. M 99 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJGG........MM G 5 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ...GG.....MM I 98 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ....GG....MM G 7 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ...GG...MM.. M 98 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ...GG..MM... M 97 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ...GG.....MM O 99 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ...GG.MM.... M 96 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ..GG......MM G 7 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ...GG.....MM O 99 A 99 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ...GG....MM. M 99 A 99 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ..GG......MM G 7 I 99 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ.GG......MM. M 99 G 6 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ...GG.MM.... M 96 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ..GG......MM G 7 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ.GG.......MM G 6 I 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ....GG....MM G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ....GG.....MM J 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ...GG.....MM I 99 A 99 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJGG........MM G 5 I 99 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ.....GG.....MM J 98 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ...GG.....MM O 99 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ....GG....MM G 7 I 99 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ...GG.....MM O 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ...GG.....MM I 98 A 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ....GG.....MM J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ...GG....MM. M 99 I 99 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ...GG.....MM A 99 I 98 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJGG.....MM... M 97 G 5 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ.....GG.....MM J 98 I 99 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJGG....MM.... M 96 G 5 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ...GG.....MM O 99 I 99 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJGG........MM O 99 G 5 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJGG........MM I 98 G 5 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ...GG.....MM O 98 I 99 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJGG.I......MM I 99 G 5 
+ 3  0  3 ....T..YY.T..AA.T.OO..JJGG.I.....IMM I 98 G 5 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ..GG.....MM. G 7 M 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ...GG...MM.. M 98 I 98 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ...GG.MM.... M 96 O 99 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJGG.......MM. G 5 M 99 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ...GG...MM.. M 98 A 99 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ....GG...MM. G 7 M 99 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ...GG....MM. O 99 M 99 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ...GG..MM... M 97 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ...GG....MM. I 98 M 99 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJGG......MM.. M 98 G 5 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ.GG.....MM.. M 98 G 6 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ...GG.MM.... M 96 A 99 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ.GG....MM... M 97 G 6 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ.GG...MM.... M 96 G 6 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ..GG......MM G 7 A 99 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ....GG..MM.. M 98 G 7 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ.GG.......MM O 99 G 6 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ..GG..MM.... G 7 M 96 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ..GG......MM G 7 O 99 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ.GG.......MM G 6 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ.GG.......MM I 98 G 6 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ..GG...MM... G 7 M 97 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJ.GGI......MM I 99 G 6 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ...GG..MM... O 99 M 97 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ..GG....MM.. G 7 M 98 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJGG........MM G 5 A 99 
+ 3  0  3 ....T..YY.T..AA.T.OO..JJ.GGI.....IMM I 98 G 6 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ...GG...MM.. O 99 M 98 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ....GG.MM... M 97 G 7 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ...GG...MM.. M 98 I 99 
+ 3  0  3 ....T..YY.T..AAIT.OO.IJJ....GGMM.... M 96 G 7 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ....GG....MM G 7 A 99 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ...GG..MM... M 97 I 99 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ....GG....MM O 99 G 7 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJ...IGG....MM I 99 G 7 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ...GG.MM.... M 96 I 99 
+ 3  0  3 ....T..YY.T..AA.T.OO..JJ...IGG...IMM I 98 G 7 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ...GG..MM... M 97 I 98 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ...GG....MM. M 99 O 99 A 99 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ..GG.....MM. M 99 G 7 I 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ.GG...MM.... G 6 M 96 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ...GG......MM J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ...GG....MM. M 99 O 99 I 98 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ...GG...MM.. M 98 O 98 I 99 
+ 3  0  3 ....T..YY.T..AA.T.OO.JJ....IGG...IMM J 99 I 98 G 7 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ....GG......MM J 98 G 7 I 98 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJGG....MM.... O 99 M 96 G 5 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJGG.I..MM.... I 99 M 96 G 5 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ..GG......MM O 99 G 7 I 98 
+ 3  0  3 ....T..YY.T..AA.T.OO..JJGG.I..MM.I.. I 98 M 96 G 5 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJGG....MM.... A 99 M 96 G 5 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ..GG......MM O 98 G 7 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ.....GG..MM... M 97 J 98 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ.....GG.MM.... M 96 J 98 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT....GG.....MM T 2 J 98 I 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ..GG..MM.... G 7 M 96 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ..GG......MM A 99 G 7 I 98 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJGG.....MM... O 99 M 97 G 5 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ..GG......MM A 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJGG.....MM... I 98 M 97 G 5 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJGG.I...MM... I 99 M 97 G 5 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJGG....MM.... G 5 M 96 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ..GG.....MM. M 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ....GG...MM. M 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ.....GG....MM. M 99 J 98 I 98 
+ 3  0  3 ....T..YY.T..AA.T.OO..JJGG.I...MMI.. I 98 M 97 G 5 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJGG.....MM... A 99 M 97 G 5 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ....GGMM.... G 7 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ...GG...MM.. M 98 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ...GG..MM... M 97 A 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ....GG.MM.... J 99 M 96 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ.GG.....MM.. M 98 G 6 I 99 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ.GG.......MM G 6 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJGG........MM G 5 A 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ.....GG.MM.... J 98 M 96 I 98 
+ 3  0  3 ....T..YY.T..AA.T.OOJJ.....IGG...IMM J 98 I 98 G 7 
+ 3  0  3 ....T..YY.T..AA.T...OOJJ...IGG...IMM O 98 I 98 G 7 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ...GG.MM.... O 99 M 96 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ....GG....MM. M 99 J 99 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJGG.......MM. M 99 G 5 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ.....GG....MM. J 98 M 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ...GG....MM. O 99 M 99 I 99 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ...GG.MM.... O 98 M 96 I 98 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ...GG....MM. O 98 M 99 I 99 
+ 3  0  3 ....T..YY.T...AAT.OO..JJ...IGG...IMM A 99 I 98 G 7 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ...GG...MM.. M 98 I 99 A 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ....GG...MM.. M 98 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ....GG..MM... M 97 J 99 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ...GG.MM.... A 99 M 96 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ....GG.MM.... M 96 J 99 I 99 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJ...IGG....MM A 99 I 99 G 7 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ...GG.MM.... A 99 M 96 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ....GG...MM. M 99 G 7 I 99 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ...GG...MM.. M 98 O 98 I 98 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ....GG.....MM O 99 J 99 I 99 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ...GG....MM. M 99 A 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJGG.......MM. M 99 I 98 G 5 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJ...IGG....MM I 99 O 99 G 7 
+ 3  0  3 ....T..YY.T..AA.T..OO.JJ...IGG...IMM I 98 O 99 G 7 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ...GG..MM... M 97 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ.GG.......MM G 6 I 98 A 99 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ.GG......MM. O 99 M 99 G 6 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ...GG....MM. M 99 O 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJGG........MM G 5 I 98 A 99 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJ...IGG....MM I 99 G 7 A 99 
+ 3  0  3 ....T..YY.T.AA..T.OO..JJ...IGG...IMM I 98 G 7 A 99 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ.GG......MM. I 99 M 99 G 6 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ.GG......MM. I 98 M 99 G 6 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ...GG..MM... M 97 O 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ...GG...MM.. M 98 I 98 A 99 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ.GG.......MM G 6 O 98 I 98 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJ...IGGMM.... I 99 M 96 G 7 
+ 3  0  3 ....T..YY.T..AA.T.OO..JJ...IGGMM.I.. I 98 M 96 G 7 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJ.GGI.....MM. I 99 M 99 G 6 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJGG........MM G 5 O 98 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ..GG....MM.. M 98 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ....GG....MM. M 99 J 99 I 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ...GG.....MM A 99 O 98 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ..GG...MM... M 97 G 7 I 99 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ...GG.....MM A 99 O 98 I 98 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJ...IGG.MM... I 99 M 97 G 7 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ....GG..MM.. M 98 G 7 I 99 
+ 3  0  3 ....T..YY.T..AA.T.OO..JJ...IGG.MMI.. I 98 M 97 G 7 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ..GG..MM.... M 96 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ....GG.MM... M 97 G 7 I 99 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJGG.......MM. M 99 O 99 G 5 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ....GGMM.... M 96 G 7 I 99 
+ 3  0  3 ....T..YY.T..AA.T.OO.JJ..GGI.....IMM J 99 I 98 G 6 
+ 3  0  3 ....T..YY.T..AA.T.OOJJ...GGI.....IMM J 98 I 98 G 6 
+ 3  0  3 ....T..YY.T..AA.T...OOJJ.GGI.....IMM O 98 I 98 G 6 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ...GG......MM J 99 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ.....GG...MM.. M 98 J 98 I 99 
+ 3  0  3 ....T..YY.T...AAT.OO..JJ.GGI.....IMM A 99 I 98 G 6 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ....GG......MM J 98 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ.....GG....MM J 99 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ......GG....MM J 98 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ..GG......MM O 99 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ....GG....MM O 99 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ...GG...MM.. M 98 O 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ....GG....MM O 98 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ..GG......MM O 98 G 7 I 99 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ....GG.MM... G 7 O 99 M 97 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ...GG...MM.. M 98 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ...GG..MM... M 97 O 99 I 98 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJ.GGI......MM A 99 I 99 G 6 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ..GG......MM A 99 G 7 I 99 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ.GG.......MM G 6 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJGG........MM G 5 O 99 I 98 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ..GG.....MM. G 7 M 99 A 99 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJGG.I.....MM. M 99 I 99 G 5 
+ 3  0  3 ....T..YY.T..AA.T.OOJJ..GG.I.....IMM J 98 I 98 G 5 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ.GG......MM. G 6 M 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ...GG.....MM A 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ.....GG...MM.. M 98 J 98 I 98 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJ.GGI......MM I 99 G 6 A 99 
+ 3  0  3 ....T..YY.T.AA..T.OO..JJ.GGI.....IMM I 98 G 6 A 99 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJGG.......MM. G 5 M 99 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ.....GG..MM... M 97 J 98 I 98 
+ 3  0  3 ....T..YY.T..AA.T.OO.JJ.GG.I.....IMM J 99 I 98 G 5 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ..GG...MM... M 97 G 7 O 99 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ...GG.......MM G 6 J 98 I 98 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ....GG...MM. G 7 M 99 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ..GG........MM G 5 J 98 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ...GG....MM. I 99 M 99 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ.....GG.....MM A 99 J 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ...GG....MM. I 98 M 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ.....GG.....MM A 99 J 98 I 98 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJ.GGI......MM I 99 O 99 G 6 
+ 3  0  3 ....T..YY.T..AA.T..OO.JJ.GGI.....IMM I 98 O 99 G 6 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT....GG.....MM T 2 J 98 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJGG......MM.. M 98 G 5 I 99 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ....GG..MM.. O 99 M 98 G 7 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJGG.....MM... M 97 G 5 I 99 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJ...IGG..MM.. I 99 M 98 G 7 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ...GG...MM.. M 98 O 99 A 99 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJGG....MM.... M 96 G 5 I 99 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ...GG..MM... M 97 O 99 A 99 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJ.GGI..MM.... I 99 M 96 G 6 
+ 3  0  3 ....T..YY.T..AA.T.OO..JJ.GGI..MM.I.. I 98 M 96 G 6 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ...GG.MM.... M 96 O 99 A 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ.GG........MM J 99 G 5 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ..GG........MM J 98 G 5 I 99 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ.GG....MM... O 99 M 97 G 6 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ.GG....MM... I 98 M 97 G 6 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ..GG......MM G 7 O 99 A 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJGG........MM O 99 G 5 I 99 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJ.GGI...MM... I 99 M 97 G 6 
+ 3  0  3 ....T..YY.T..AA.T.OO..JJ.GGI...MMI.. I 98 M 97 G 6 
+ 3  0  3 ....T..YYIT..AAIT...OOJJGG........MM O 98 G 5 I 99 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ.GG.......MM G 6 O 99 A 99 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ..GG..MM.... G 7 M 96 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ...GG..MM... M 97 I 99 A 99 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ.GG...MM.... G 6 M 96 A 99 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ....GGMM.... G 7 M 96 A 99 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJGG........MM G 5 O 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ...GG.MM.... M 96 I 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJGG........MM G 5 I 99 A 99 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ....GG....MM G 7 O 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ....GG....MM G 7 I 99 A 99 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ.GG.....MM.. O 99 M 98 G 6 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJ.GGI....MM.. I 99 M 98 G 6 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ....GG.....MM J 99 I 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ.....GG.....MM J 98 I 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ...GG.....MM O 98 I 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ...GG.....MM I 99 O 99 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ...GG.....MM I 98 O 99 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ....GG...MM.. M 98 J 99 I 98 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ..GG...MM... G 7 M 97 A 99 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ.GG....MM... G 6 M 97 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ....GG..MM... M 97 J 99 I 98 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ....GG.MM... G 7 M 97 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ..GG.......MM G 6 J 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ.GG........MM G 5 J 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ....GG.....MM O 99 J 99 I 98 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ....GG...MM. O 99 G 7 M 99 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJ...IGG...MM. I 99 G 7 M 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ....GG.....MM A 99 J 99 I 98 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ..GG....MM.. G 7 M 98 A 99 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ....GG.....MM A 99 J 99 I 98 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ.GG.....MM.. G 6 M 98 A 99 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJGG......MM.. G 5 M 98 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ....GG..MM.. M 98 G 7 I 98 
+ 3  0  3 ....T..YY.T.AA.IT.OO.IJJ....GG..MM.. G 7 M 98 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ....GG.MM... M 97 G 7 I 98 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ..GG..MM.... G 7 M 96 O 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ.....GG....MM J 99 G 7 I 98 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ.GG...MM.... G 6 M 96 O 99 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ....GGMM.... G 7 M 96 O 99 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ......GG....MM J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ....GG....MM O 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ.GG.....MM.. G 6 M 98 I 98 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ..GG....MM.. M 98 G 7 O 99 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ....GG....MM O 98 G 7 I 98 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJ..GG.....MM. O 99 G 7 M 99 
+ 3  0  3 ....T..YY.T..AA.T...OOJJGG.I.....IMM O 98 I 98 G 5 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ....GG....MM A 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ....GG....MM A 99 G 7 I 98 
+ 3  0  3 ....T..YY.T.AA..T.OO..JJGG.I.....IMM A 99 I 98 G 5 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ.GG....MM... M 97 G 6 I 99 
+ 3  0  3 ....T..YY.T...AAT.OO..JJGG.I.....IMM A 99 I 98 G 5 
+ 3  0  3 ....T..YY.T..AA.T.OO.IJJGG.I....MM.. M 98 I 99 G 5 
+ 3  0  3 ....T..YYIT..AAIT.OO..JJ.GG...MM.... M 96 G 6 I 99 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJGG.I......MM A 99 I 99 G 5 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJGG.I......MM A 99 I 99 G 5 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ...GG..MM... M 97 O 98 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ..GG.......MM J 99 G 6 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ...GG.MM.... M 96 O 98 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ...GG.......MM J 98 G 6 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ.GG.......MM O 99 G 6 I 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJGG......MM.. M 98 I 98 G 5 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ.GG.......MM O 98 G 6 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ.GG.......MM A 99 G 6 I 99 
+ 3  0  3 ....T..YY.T..AAIT..OOIJJGG......MM.. M 98 O 99 G 5 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ..GG....MM.. M 98 G 7 I 98 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJGG.I......MM I 99 O 99 G 5 
+ 3  0  3 ...IT..YYIT..AA.T.OO..JJ..GG...MM... M 97 G 7 I 98 
+ 3  0  3 ....T..YY.T..AA.T..OO.JJGG.I.....IMM I 98 O 99 G 5 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ...GG..MM... M 97 O 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ...GG.MM.... M 96 O 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ....GG..MM.. G 7 M 98 O 98 I 99 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ..GG....MM.. M 98 O 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ..GG....MM.. M 98 A 99 G 7 I 98 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJ...IGG..MM.. M 98 A 99 I 99 G 7 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJ.GGI...MM... M 97 A 99 I 99 G 6 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJ.GGI..MM.... M 96 A 99 I 99 G 6 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ...GG...MM.. A 99 M 98 O 98 I 99 
+ 3  0  3 ....T..YY.T...AAT..OOIJJ.GGI......MM O 99 A 99 I 99 G 6 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ.GG......MM. G 6 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ...GG.....MM. M 99 J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJGG.......MM. G 5 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ..GG.....MM. G 7 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ.GG....MM... G 6 M 97 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ....GG...MM. G 7 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ....GG..MM... J 99 M 97 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ....GG....MM. J 99 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJGG......MM.. G 5 M 98 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ....GG..MM.. G 7 M 98 O 99 I 98 
+ 3  0  3 ....T..YY.T.AA..T.OO.JJ....IGG...IMM A 99 J 99 I 98 G 7 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ....GG...MM.. J 99 M 98 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ...GG....MM. A 99 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ...GG....MM.. M 98 J 99 G 7 I 98 
+ 3  0  3 ....T..YY.T..AA.T..OOJJ....IGG...IMM O 99 J 99 I 98 G 7 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ...GG...MM... M 97 J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ....GG.MM... I 98 G 7 O 99 M 97 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ....GG.MM... A 99 G 7 O 99 M 97 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ...GG..MM.... M 96 J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ....GG.....MM. M 99 J 98 G 7 I 98 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ..GG......MM A 99 O 98 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ....GG....MM A 99 O 98 G 7 I 99 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ...GG......MM O 99 J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ...GG......MM A 99 J 99 G 7 I 98 
+ 3  0  3 ....T..YY.T..AA.T.OO.JJ.GG.I..MM.I.. J 99 I 98 M 96 G 5 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ..GG.....MM. M 99 O 98 G 7 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ....GG..MM.... G 7 M 96 J 98 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ..GG.....MM. M 99 A 99 G 7 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ....GG....MM A 99 O 99 G 7 I 99 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ...GG......MM A 99 J 99 G 7 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ..GG......MM A 99 O 99 G 7 I 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ..GG...MM.... J 99 G 6 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ......GG....MM A 99 J 98 G 7 I 99 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ...GG...MM.... J 98 G 6 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ.....GG....MM A 99 J 99 G 7 I 99 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ.GG...MM.... O 99 G 6 M 96 I 98 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ.GG...MM.... O 98 G 6 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ....GG......MM A 99 J 98 G 7 I 99 
+ 3  0  3 .......YYI...AAIT.OOJJT...GGT.....MM T 1 J 98 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ..GG......MM.. G 5 M 98 J 98 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ.GG...MM.... A 99 G 6 M 96 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ...GG...MM.... G 6 M 96 J 98 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ......GGMM.... G 7 M 96 J 98 I 99 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ.GG...MM.... A 99 G 6 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ...GG......MM A 99 J 99 G 7 I 99 
+ 3  0  3 .......YY....AA.T.OOJJT..GGIT....IMM T 1 J 98 I 98 G 6 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ..GG....MM.... G 5 M 96 J 98 I 99 
+ 3  0  3 ....T..YY.T..AA.T..OOJJ..GGI.....IMM O 99 J 99 I 98 G 6 
+ 3  0  3 ....T..YY.T.AA..T.OO.JJ..GGI.....IMM A 99 J 99 I 98 G 6 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ...GG.....MM. J 99 M 99 G 7 I 99 
+ 3  0  3 ....T..YY.T...AAT.OO.JJ..GGI.....IMM A 99 J 99 I 98 G 6 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ....GG.....MM. J 98 M 99 G 7 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT....GG....MM. M 99 T 2 J 98 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ..GG.....MM. O 99 M 99 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ..GG.....MM. O 98 M 99 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ.....GG.MM.... A 99 M 96 J 98 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ....GGMM.... O 99 M 96 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ....GGMM.... O 98 M 96 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ..GG.....MM. A 99 M 99 G 7 I 99 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJ...IGG...MM. M 99 A 99 I 99 G 7 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ..GG.....MM. G 7 M 99 O 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ....GGMM.... A 99 M 96 G 7 I 99 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ.GG......MM. G 6 M 99 O 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ..GG.....MM. M 99 A 99 G 7 I 98 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJGG.......MM. G 5 M 99 O 99 A 99 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJGG.I.....MM. I 99 M 99 O 99 G 5 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ....GG...MM. G 7 M 99 O 99 A 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ....GG.MM... O 99 M 97 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ....GG.MM... O 98 M 97 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ...GG....MM. I 99 M 99 O 99 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ...GG....MM. I 98 M 99 O 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ....GG.MM... A 99 M 97 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ..GG..MM.... O 99 M 96 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ..GG..MM.... O 98 M 96 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ..GG..MM.... A 99 M 96 G 7 I 99 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ.GG......MM. M 99 G 6 A 99 I 98 
+ 3  0  3 ....T..YY.T..AA.T.OO.JJ....IGG.MMI.. J 99 I 98 M 97 G 7 
+ 3  0  3 ....T..YY.T..AA.T.OOJJ.....IGG.MMI.. J 98 I 98 M 97 G 7 
+ 3  0  3 ....T..YY.T..AA.T..OO.JJ...IGG.MMI.. O 99 I 98 M 97 G 7 
+ 3  0  3 ....T..YY.T..AA.T...OOJJ...IGG.MMI.. O 98 I 98 M 97 G 7 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJGG.......MM. M 99 G 5 A 99 I 98 
+ 3  0  3 ....T..YY.T.AA..T.OO..JJ...IGG.MMI.. A 99 I 98 M 97 G 7 
+ 3  0  3 ....T..YY.T...AAT.OO..JJ...IGG.MMI.. A 99 I 98 M 97 G 7 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ......GG..MM.. J 98 M 98 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ....GG..MM.. O 99 M 98 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ....GG...MM. G 7 O 99 M 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ.GG......MM. G 6 O 99 M 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ..GG...MM... O 99 M 97 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ..GG...MM... O 98 M 97 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ..GG...MM... A 99 M 97 G 7 I 99 
+ 3  0  3 ....T..YY.T...AAT..OO.JJ...IGG...IMM O 99 A 99 I 98 G 7 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ....GG...MM. G 7 O 98 M 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ.GG......MM. G 6 O 98 M 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ....GG....MM. A 99 M 99 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ...GG....MM.. G 7 M 98 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ...GG...MM... G 7 M 97 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ....GG....MM.. J 98 M 98 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ..GG....MM.. O 99 M 98 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ.GG......MM.. G 5 M 98 J 99 I 99 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJ.GGI.....MM. A 99 I 99 M 99 G 6 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJ.GGI.....MM. A 99 I 99 M 99 G 6 
+ 3  0  3 ....T..YY.T..AA.T.OOJJ.....IGGMM.I.. J 98 I 98 M 96 G 7 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJ...IGG.MM... M 97 A 99 I 99 G 7 
+ 3  0  3 ....T..YY.T...AAT..OOIJJ...IGG....MM O 99 A 99 I 99 G 7 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ...GG......MM G 7 O 99 J 99 I 99 
+ 3  0  3 ....T..YY.T..AA.T..OO.JJ...IGGMM.I.. O 99 I 98 M 96 G 7 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ....GG....MM G 7 A 99 O 98 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ..GG.......MM J 99 G 6 O 99 I 98 
+ 3  0  3 ....T..YY.T..AA.T...OOJJ...IGGMM.I.. O 98 I 98 M 96 G 7 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJ...IGGMM.... M 96 A 99 I 99 G 7 
+ 3  0  3 ....T..YY.T.AA..T.OO..JJ...IGGMM.I.. A 99 I 98 M 96 G 7 
+ 3  0  3 ....T..YY.T...AAT.OO..JJ...IGGMM.I.. A 99 I 98 M 96 G 7 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ....GG...MM.. J 99 M 98 I 98 A 99 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJ...IGG...MM. M 99 I 99 O 99 G 7 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ.....GG...MM.. J 98 M 98 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ...GG...MM.. O 99 M 98 I 98 A 99 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJ...IGG..MM.. M 98 I 99 O 99 G 7 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ.GG....MM... G 6 M 97 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ.GG......MM. M 99 G 6 I 98 A 99 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ.GG....MM... G 6 M 97 O 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ.GG.....MM.. M 98 G 6 I 98 A 99 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ....GG.MM... G 7 M 97 O 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJGG......MM.. M 98 G 5 I 98 A 99 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJ...IGG...MM. M 99 I 99 G 7 A 99 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJ...IGG..MM.. M 98 I 99 G 7 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ.GG......MM. A 99 I 99 M 99 G 6 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJ...IGG.MM... M 97 I 99 G 7 A 99 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJ...IGGMM.... M 96 I 99 G 7 A 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ..GG......MM. J 99 I 99 M 99 G 6 
+ 3  0  3 ....T..YY.T..AA.T.OO.JJ....IGGMM.I.. J 99 I 98 M 96 G 7 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ.GG........MM J 99 G 5 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ..GG........MM J 98 G 5 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJGG........MM O 99 G 5 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ....GG..MM.. G 7 M 98 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJGG........MM O 98 G 5 I 98 A 99 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ.GG......MM. G 6 M 99 O 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ...GG....MM. A 99 M 99 O 98 I 98 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJ.GGI.....MM. I 99 O 99 M 99 G 6 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ..GG.......MM J 99 G 6 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ...GG.......MM J 98 G 6 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ.GG.......MM O 99 G 6 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ....GG....MM G 7 A 99 O 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ.GG.......MM O 98 G 6 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ....GG.MM... G 7 M 97 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ....GG..MM... J 99 M 97 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ.....GG..MM... J 98 M 97 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ...GG..MM... O 99 M 97 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ...GG..MM... O 98 M 97 I 98 A 99 
+ 3  0  3 ....T..YY.T.AA..T..OO.JJ...IGG...IMM A 99 I 98 O 99 G 7 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJ...IGG.MM... M 97 I 99 O 99 G 7 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJ...IGGMM.... M 96 I 99 O 99 G 7 
+ 3  0  3 ....T..YY.T.AA..T.OOJJ...GGI.....IMM A 99 J 98 I 98 G 6 
+ 3  0  3 ....T..YY.T.AA..T...OOJJ.GGI.....IMM A 99 O 98 I 98 G 6 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJ...IGG....MM A 99 I 99 O 99 G 7 
+ 3  0  3 ....T..YY.T...AAT...OOJJ.GGI.....IMM A 99 O 98 I 98 G 6 
+ 3  0  3 .......YY.T..AA.T.OOJJT..GGI.....IMM T 2 J 98 I 98 G 6 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJGG.......MM. O 98 M 99 I 98 G 5 
+ 3  0  3 ....T..YY.T...AAT.OOJJ...GGI.....IMM A 99 J 98 I 98 G 6 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJGG.......MM. A 99 M 99 I 98 G 5 
+ 3  0  3 ....T..YY.T...AAT..OO.JJ.GGI.....IMM O 99 A 99 I 98 G 6 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ...GG....MM. O 98 M 99 A 99 I 98 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ..GG.......MM G 6 O 99 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ.GG........MM G 5 O 99 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ.....GG....MM G 7 O 99 J 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ....GG.....MM A 99 O 99 J 99 I 99 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ.GG.....MM.. G 6 M 98 O 98 I 98 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJGG......MM.. G 5 M 98 O 98 I 98 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ....GG..MM.. G 7 M 98 O 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ...GG...MM.. A 99 M 98 O 98 I 98 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJGG......MM.. G 5 M 98 O 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ.....GG...MM. J 99 M 99 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ....GG.MM.... O 99 M 96 J 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ....GG.MM.... A 99 M 96 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ..GG....MM... G 6 M 97 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ.GG.....MM... G 5 M 97 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ.....GG.MM... G 7 M 97 J 99 I 99 
+ 3  0  3 ....T..YY.T.AA..T.OOJJ..GG.I.....IMM A 99 J 98 I 98 G 5 
+ 3  0  3 .......YY.T..AA.T.OOJJT.GG.I.....IMM T 2 J 98 I 98 G 5 
+ 3  0  3 ....T..YY.T...AAT.OOJJ..GG.I.....IMM A 99 J 98 I 98 G 5 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ....GG..MM... O 99 M 97 J 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ....GG..MM... A 99 M 97 J 99 I 99 
+ 3  0  3 .......YY....AA.T.OOJJT.GG.IT....IMM T 1 J 98 I 98 G 5 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ.....GG..MM.. G 7 M 98 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ....GG...MM.. O 99 M 98 J 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ..GG....MM.. G 7 M 98 I 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ....GG....MM G 7 A 99 O 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJGG......MM.. G 5 M 98 I 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ....GG..MM.. G 7 M 98 I 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ....GG.....MM J 99 A 99 O 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ....GG...MM.. J 99 M 98 I 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ.....GG...MM.. J 98 M 98 I 99 A 99 
+ 3  0  3 ....T..YY.T.AA..T..OO.JJ.GGI.....IMM O 99 I 98 G 6 A 99 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ...GG...MM.. O 99 M 98 I 99 A 99 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJ.GGI....MM.. M 98 I 99 G 6 A 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ...GG....MM. A 99 O 98 M 99 I 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ...GG.MM.... A 99 O 98 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ...GG.MM.... A 99 O 98 M 96 I 98 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ....GG....MM. J 99 O 99 M 99 I 99 
+ 3  0  3 .......YYI...AAIT.OOJJT..GG.T.....MM T 1 J 98 G 6 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ...GG......MM. G 6 J 98 M 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ......GG...MM. G 7 J 98 M 99 I 99 
+ 3  0  3 .......YY.T..AA.T.OOJJT....IGG...IMM T 2 J 98 I 98 G 7 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ.....GG.MM.... A 99 J 98 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ.....GG.MM.... A 99 J 98 M 96 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT....GG.MM.... T 2 J 98 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ....GG...MM. A 99 M 99 G 7 I 99 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJ.GGI....MM.. M 98 A 99 I 99 G 6 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ...GG..MM.... G 7 M 96 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ..GG...MM.... G 6 M 96 J 99 I 99 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ.GG.....MM.. G 6 M 98 O 99 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ.GG....MM.... G 5 M 96 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ.....GGMM.... G 7 M 96 J 99 I 99 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ.GG........MM J 99 G 5 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ..GG........MM J 98 G 5 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJGG........MM O 99 G 5 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJGG........MM O 98 G 5 A 99 I 98 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ.GG....MM... G 6 M 97 O 99 A 99 
+ 3  0  3 ....T..YY.T..AA.T..OO.JJ.GGI..MM.I.. O 99 I 98 M 96 G 6 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ..GG.......MM J 99 G 6 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ...GG.......MM J 98 G 6 A 99 I 98 
+ 3  0  3 ....T..YY.T..AA.T.OOJJ...GGI..MM.I.. J 98 I 98 M 96 G 6 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ.GG.......MM O 99 G 6 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ.GG.......MM O 98 G 6 A 99 I 98 
+ 3  0  3 ....T..YY.T..AA.T.OO.JJ..GGI..MM.I.. J 99 I 98 M 96 G 6 
+ 3  0  3 ....T..YY.T.AA..T.OO..JJGG.I...MMI.. A 99 I 98 M 97 G 5 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ.GG......MM.. G 5 M 98 J 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ.....GG..MM.. G 7 M 98 J 99 I 98 
+ 3  0  3 ....T..YY.T...AAT.OO..JJGG.I...MMI.. A 99 I 98 M 97 G 5 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ...GG......MM. G 6 M 99 J 98 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ..GG.......MM. G 5 M 99 J 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ....GG.....MM J 99 I 98 O 99 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ.....GG....MM. A 99 M 99 J 98 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ.....GG....MM. A 99 M 99 J 98 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT....GG....MM. T 2 M 99 J 98 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ.....GG...MM. J 99 M 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ......GG...MM. J 98 M 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ....GG...MM. O 98 M 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ....GG...MM. A 99 M 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ....GG....MM I 98 G 7 O 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ....GG...MM. A 99 M 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ.....GG....MM G 7 A 99 J 99 I 98 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJGG.I......MM I 99 G 5 O 99 A 99 
+ 3  0  3 ....T..YY.T.AA..T..OO.JJGG.I.....IMM I 98 G 5 O 99 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ.GG....MM.... J 99 G 5 M 96 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ..GG....MM.... J 98 G 5 M 96 I 98 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJGG....MM.... O 98 G 5 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ.GG...MM.... I 99 G 6 M 96 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ.GG....MM... G 6 M 97 I 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ...GG..MM... O 98 M 97 I 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJGG....MM.... A 99 G 5 M 96 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ.....GG....MM G 7 O 99 J 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ.....GG....MM G 7 A 99 J 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ.GG.......MM I 99 G 6 O 99 A 99 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJGG.I...MM... A 99 I 99 M 97 G 5 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJGG.I...MM... A 99 I 99 M 97 G 5 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJGG........MM A 99 O 98 G 5 I 99 
+ 3  0  3 ....T..YY.T..AA.T.OO.JJ..GGI...MMI.. J 99 I 98 M 97 G 6 
+ 3  0  3 ....T..YY.T..AA.T.OOJJ...GGI...MMI.. J 98 I 98 M 97 G 6 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ.GG.....MM... J 99 I 98 M 97 G 5 
+ 3  0  3 ....T..YY.T..AA.T...OOJJ.GGI...MMI.. O 98 I 98 M 97 G 6 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ..GG.....MM... J 98 I 98 M 97 G 5 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJGG.....MM... O 98 I 98 M 97 G 5 
+ 3  0  3 ....T..YY.T.AA..T.OO..JJ.GGI...MMI.. A 99 I 98 M 97 G 6 
+ 3  0  3 ....T..YY.T...AAT.OO..JJ.GGI...MMI.. A 99 I 98 M 97 G 6 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJGG.....MM... A 99 I 98 M 97 G 5 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJGG.....MM... A 99 I 98 M 97 G 5 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ..GG....MM.. M 98 A 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ..GG...MM... M 97 A 99 G 7 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJGG........MM A 99 O 99 G 5 I 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ..GG....MM... J 99 I 98 M 97 G 6 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJGG.....MM... I 99 O 99 M 97 G 5 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJGG.....MM... I 98 O 99 M 97 G 5 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ.GG....MM... I 99 O 99 M 97 G 6 
+ 3  0  3 ....T..YY.T..AA.T..OO.JJ.GGI...MMI.. I 98 O 99 M 97 G 6 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJGG.I...MM... I 99 O 99 M 97 G 5 
+ 3  0  3 ....T..YY.T..AA.T..OO.JJGG.I...MMI.. I 98 O 99 M 97 G 5 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJGG.....MM... A 99 O 99 M 97 G 5 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ..GG........MM A 99 J 98 G 5 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ..GG...MM... M 97 A 99 G 7 I 98 
+ 3  0  3 .......YYI...AAIT.OOJJT.GG..T.....MM T 1 J 98 G 5 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ.GG........MM A 99 J 99 G 5 I 99 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ..GG..MM.... G 7 M 96 O 99 A 99 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ.GG...MM.... G 6 M 96 O 99 A 99 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ....GGMM.... G 7 M 96 O 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ...GG.MM.... I 99 M 96 O 99 A 99 
+ 3  0  3 ....T..YY.T..AA.T...OOJJ.GGI..MM.I.. O 98 I 98 M 96 G 6 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ..GG..MM.... A 99 G 7 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ..GG..MM.... A 99 G 7 M 96 I 98 
+ 3  0  3 ....T..YY.T.AA..T.OO..JJ.GGI..MM.I.. A 99 I 98 M 96 G 6 
+ 3  0  3 ....T..YY.T...AAT.OO..JJ.GGI..MM.I.. A 99 I 98 M 96 G 6 
+ 3  0  3 .......YYIT..AAIT.OOJJT....GG...MM.. M 98 T 2 J 98 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT...GG......MM G 7 T 2 J 98 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT..GG.......MM G 6 T 2 J 98 I 99 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ...GG..MM... I 99 M 97 O 99 A 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT.GG........MM G 5 T 2 J 98 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJGG....MM.... O 98 M 96 G 5 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT.....GG....MM G 7 T 2 J 98 I 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT....GG.....MM A 99 T 2 J 98 I 99 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ..GG....MM.. G 7 M 98 O 99 A 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT....GG.MM.... T 2 M 96 J 98 I 99 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ.GG.....MM.. G 6 M 98 O 99 A 99 
+ 3  0  3 ....T..YY.T.AA..T...OOJJGG.I.....IMM A 99 O 98 I 98 G 5 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJGG......MM.. G 5 M 98 O 99 A 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ....GG...MM... G 7 M 97 J 98 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ...GG....MM... G 6 M 97 J 98 I 99 
+ 3  0  3 ....T..YY.T...AAT...OOJJGG.I.....IMM A 99 O 98 I 98 G 5 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ..GG.....MM... G 5 M 97 J 98 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ......GG.MM... G 7 M 97 J 98 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ.....GG..MM... A 99 M 97 J 98 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJGG.....MM... O 98 M 97 G 5 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT....GG..MM... T 2 M 97 J 98 I 99 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ..GG....MM.. M 98 O 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ..GG...MM... M 97 O 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ..GG..MM.... M 96 O 98 G 7 I 98 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ....GG..MM.. A 99 O 99 M 98 G 7 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ..GG......MM A 99 O 98 G 7 I 98 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJ.GGI...MM... M 97 I 99 O 99 G 6 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJ.GGI..MM.... M 96 I 99 O 99 G 6 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ..GG......MM A 99 O 98 G 7 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJGG....MM.... I 99 A 99 M 96 G 5 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJGG....MM.... I 98 A 99 M 96 G 5 
+ 3  0  3 ...I...YYIT...AAT.OOJJT....GG.....MM T 2 A 99 J 98 I 98 
+ 3  0  3 ....T..YY.T..AA.T.OOJJ..GG.I..MM.I.. J 98 I 98 M 96 G 5 
+ 3  0  3 ....T..YY.T..AA.T...OOJJGG.I..MM.I.. O 98 I 98 M 96 G 5 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT....GG.....MM T 2 A 99 J 98 I 98 
+ 3  0  3 ....T..YY.T.AA..T.OO..JJGG.I..MM.I.. A 99 I 98 M 96 G 5 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT..GG.......MM T 2 G 6 J 98 I 98 
+ 3  0  3 ....T..YY.T...AAT..OOIJJGG.I......MM O 99 A 99 I 99 G 5 
+ 3  0  3 ...I...YYI...AA.T.OOJJT..GG.T.....MM T 1 G 6 J 98 I 98 
+ 3  0  3 ....T..YY.T...AAT.OO..JJGG.I..MM.I.. A 99 I 98 M 96 G 5 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ..GG...MM... M 97 O 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ..GG..MM.... M 96 O 99 G 7 I 98 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJ..GG...MM... A 99 M 97 G 7 O 99 
+ 3  0  3 ....T..YY.T..AA.T..OOJJ.GG.I.....IMM O 99 J 99 I 98 G 5 
+ 3  0  3 ....T..YY.T.AA..T.OO.JJ.GG.I.....IMM A 99 J 99 I 98 G 5 
+ 3  0  3 ....T..YY.T...AAT.OO.JJ.GG.I.....IMM A 99 J 99 I 98 G 5 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ..GG......MM A 99 O 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ...GG....MM... G 6 M 97 J 98 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ......GG.MM... G 7 M 97 J 98 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ..GG......MM A 99 O 99 G 7 I 98 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJGG.I..MM.... A 99 I 99 M 96 G 5 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT....GG..MM... T 2 M 97 J 98 I 98 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJGG.I..MM.... A 99 I 99 M 96 G 5 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJGG....MM.... I 99 O 99 M 96 G 5 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJGG....MM.... I 98 O 99 M 96 G 5 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJGG.I..MM.... I 99 O 99 M 96 G 5 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJ.GGI...MM... M 97 I 99 G 6 A 99 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJ.GGI..MM.... M 96 I 99 G 6 A 99 
+ 3  0  3 ....T..YY.T..AA.T..OO.JJGG.I..MM.I.. I 98 O 99 M 96 G 5 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJ.GGI......MM O 99 I 99 G 6 A 99 
+ 3  0  3 ....T..YY.T.AA.IT..OOIJJGG....MM.... A 99 O 99 M 96 G 5 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ....GG....MM.. M 98 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ....GG...MM... M 97 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ...GG.....MM.. G 6 M 98 J 98 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ....GG..MM.... M 96 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ..GG......MM.. G 5 M 98 J 98 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ......GG..MM.. G 7 M 98 J 98 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT....GG...MM.. T 2 M 98 J 98 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ......GG..MM.. A 99 G 7 M 98 J 98 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT.....GG..MM.. T 2 G 7 M 98 J 98 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT.GG......MM.. T 2 G 5 M 98 J 98 I 98 
+ 3  0  3 ...I...YYI...AA.T.OOJJT.GG..T...MM.. T 1 G 5 M 98 J 98 I 98 
+ 3  0  3 ...I...YYI...AA...OOJJT.GG..T...MMT. T 0 G 5 M 98 J 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ.GG........MM O 99 J 99 G 5 I 98 A 99 
+ 3  0  3 ....T..YY.T...AAT..OOIJJ...IGG..MM.. O 99 M 98 A 99 I 99 G 7 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ....GG....MM.. J 98 M 98 A 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ...GG....MM.. J 99 M 98 A 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ..GG....MM.. O 98 M 98 A 99 G 7 I 98 
+ 3  0  3 ....T..YY.T...AAT..OOIJJ.GGI.....MM. M 99 O 99 A 99 I 99 G 6 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ..GG......MM. J 99 G 6 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ...GG...MM... G 7 J 99 M 97 O 99 I 98 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJGG......MM.. O 98 M 98 G 5 I 98 A 99 
+ 3  0  3 ....T..YY.T...AAT..OOIJJ.GGI....MM.. M 98 O 99 A 99 I 99 G 6 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ.GG.....MM.. O 98 M 98 G 6 I 98 A 99 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ.GG....MM... A 99 G 6 M 97 O 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ..GG......MM. J 99 M 99 G 6 I 98 A 99 
+ 3  0  3 ...I...YYI...AA.T.OOJJT...GGT.MM.... T 1 M 96 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ....GG....MM. A 99 J 99 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ...GG......MM. J 98 M 99 G 6 I 98 A 99 
+ 3  0  3 ...I...YYI...AA...OOJJT...GGT.MM..T. T 0 M 96 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ.GG......MM. O 98 M 99 G 6 I 98 A 99 
+ 3  0  3 ....T..YY.T.AA..T..OOJJ....IGG...IMM O 99 A 99 J 99 I 98 G 7 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJ...IGG..MM.. A 99 M 98 I 99 O 99 G 7 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ.GG.....MM.. G 6 O 99 M 98 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ...GG.....MM.. G 6 J 98 M 98 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ..GG......MM.. G 5 J 98 M 98 I 98 A 99 
+ 3  0  3 ....T..YY.T...AAT..OOJJ....IGG...IMM A 99 O 99 J 99 I 98 G 7 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ......GG..MM.. G 7 J 98 M 98 I 98 A 99 
+ 3  0  3 ...I...YYI...AA...OOJJT..GG.T...MMT. T 0 G 6 M 98 J 98 I 98 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ....GGMM.... M 96 A 99 O 98 G 7 I 99 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT....GG...MM.. T 2 J 98 M 98 I 98 A 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ..GG.....MM. M 99 A 99 O 98 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ....GG.MM... M 97 A 99 O 98 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ..GG.....MM.. G 6 J 99 M 98 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ.GG......MM.. G 5 J 99 M 98 I 98 A 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ....GG...MM. M 99 A 99 O 98 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ.....GG..MM.. G 7 J 99 M 98 I 98 A 99 
+ 3  0  3 ....T..YY.T.AA..T...OOJJ...IGGMM.I.. A 99 O 98 I 98 M 96 G 7 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ..GG...MM... M 97 A 99 O 98 G 7 I 99 
+ 3  0  3 ....T..YY.T...AAT...OOJJ...IGGMM.I.. A 99 O 98 I 98 M 96 G 7 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ..GG.......MM A 99 J 99 G 6 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ..GG.......MM A 99 J 99 G 6 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ....GG..MM.. M 98 G 7 A 99 O 98 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ....GG.MM... M 97 G 7 A 99 O 98 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ....GGMM.... M 96 G 7 A 99 O 98 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ....GG...MM. M 99 A 99 O 99 G 7 I 99 
+ 3  0  3 ....T..YY.T..AA.T..OOJJ....IGGMM.I.. J 99 O 99 I 98 M 96 G 7 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ....GG..MM.. M 98 A 99 O 99 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ......GG...MM. M 99 A 99 J 98 G 7 I 99 
+ 3  0  3 ....T..YY.T.AA..T..OO.JJ...IGGMM.I.. A 99 O 99 I 98 M 96 G 7 
+ 3  0  3 ....T..YY.T...AAT..OO.JJ...IGGMM.I.. A 99 O 99 I 98 M 96 G 7 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ..GG.....MM. M 99 A 99 O 99 G 7 I 99 
+ 3  0  3 ....T..YY.T...AAT..OOIJJ...IGG.MM... O 99 M 97 A 99 I 99 G 7 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ.....GG...MM. M 99 A 99 J 99 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ.....GG..MM.. M 98 A 99 J 99 G 7 I 99 
+ 3  0  3 ....T..YY.T.AA..T.OOJJ.....IGGMM.I.. A 99 J 98 I 98 M 96 G 7 
+ 3  0  3 ....T..YY.T...AAT.OOJJ.....IGGMM.I.. A 99 J 98 I 98 M 96 G 7 
+ 3  0  3 .......YYI...AAIT.OOJJT...GGT....MM. M 99 T 1 J 98 G 7 I 99 
+ 3  0  3 .......YY...AA..T.OOJJT..GGIT....IMM A 99 T 1 J 98 I 98 G 6 
+ 3  0  3 .......YY.T..AA.T.OOJJT....IGGMM.I.. T 2 J 98 I 98 M 96 G 7 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ....GG.....MM. M 99 A 99 J 98 G 7 I 99 
+ 3  0  3 .......YYI...AAIT.OOJJT...GGT...MM.. M 98 T 1 J 98 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ...GG.....MM. M 99 A 99 J 99 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ.GG......MM.. O 99 G 5 M 98 J 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ.GG......MM.. A 99 G 5 M 98 J 99 I 99 
+ 3  0  3 .......YY.....AAT.OOJJT..GGIT....IMM A 99 T 1 J 98 I 98 G 6 
+ 3  0  3 .......YYIT..AAIT.OOJJT...GG....MM.. T 2 J 98 M 98 G 7 I 99 
+ 3  0  3 .......YYI...AAI..OOJJT...GGT...MMT. T 0 J 98 M 98 G 7 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT..GG......MM. G 6 M 99 T 2 J 98 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT.GG.......MM. G 5 M 99 T 2 J 98 I 99 
+ 3  0  3 ....T..YY.T.AA..T...OOJJ...IGG.MMI.. A 99 O 98 I 98 M 97 G 7 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ...GG....MM.. O 99 G 7 M 98 J 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ.GG......MM. A 99 G 6 O 98 M 99 I 99 
+ 3  0  3 ....T..YY.T...AAT..OOIJJ...IGG...MM. O 99 M 99 A 99 I 99 G 7 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ...GG...MM... J 99 O 99 M 97 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ..GG......MM. J 99 G 6 O 99 M 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ....GG....MM. J 99 I 99 M 99 O 99 A 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT.....GG..MM.. T 2 J 98 M 98 G 7 I 99 
+ 3  0  3 ....T..YY.T...AAT..OO.JJ...IGG.MMI.. A 99 O 99 I 98 M 97 G 7 
+ 3  0  3 ....T..YY.T.AA..T.OOJJ.....IGG.MMI.. A 99 J 98 I 98 M 97 G 7 
+ 3  0  3 ....T..YY.T...AAT.OOJJ.....IGG.MMI.. A 99 J 98 I 98 M 97 G 7 
+ 3  0  3 .......YY.T..AA.T.OOJJT....IGG.MMI.. T 2 J 98 I 98 M 97 G 7 
+ 3  0  3 ....T..YY.T..AA.T..OOJJ....IGG.MMI.. O 99 J 99 I 98 M 97 G 7 
+ 3  0  3 ....T..YY.T.AA..T.OO.JJ....IGG.MMI.. A 99 J 99 I 98 M 97 G 7 
+ 3  0  3 ....T..YY.T...AAT.OO.JJ....IGG.MMI.. A 99 J 99 I 98 M 97 G 7 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ..GG......MM. J 99 M 99 G 6 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ...GG......MM. J 98 M 99 G 6 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ.GG......MM. O 98 M 99 G 6 A 99 I 98 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ...GG..MM.... J 99 O 99 M 96 G 7 I 99 
+ 3  0  3 ....T..YY.T...AAT...OOJJ...IGG.MMI.. A 99 O 98 I 98 M 97 G 7 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ.....GG...MM. J 99 G 7 O 99 M 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ.....GG.MM... J 99 O 99 M 97 G 7 I 99 
+ 3  0  3 ...IT..YYIT...AAT...OOJJGG.......MM. O 98 M 99 G 5 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ..GG.......MM. J 98 M 99 G 5 A 99 I 98 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJ...IGG...MM. I 99 G 7 M 99 O 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ.GG.......MM. J 99 M 99 G 5 A 99 I 98 
+ 3  0  3 ....T..YY.T...AAT..OOIJJGG.I.....MM. A 99 I 99 M 99 O 99 G 5 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJGG.I.....MM. I 99 G 5 M 99 O 99 A 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ.....GG..MM.. J 99 O 99 M 98 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ.....GGMM.... J 99 O 99 M 96 G 7 I 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT....GG.MM.... T 2 A 99 M 96 J 98 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ..GG......MM. G 6 A 99 M 99 J 99 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT.....GG...MM. G 7 M 99 T 2 J 98 I 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT....GG....MM. A 99 M 99 T 2 J 98 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ.GG.......MM. G 5 A 99 M 99 J 99 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT...GG.....MM. T 2 J 98 M 99 G 7 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ...GG.....MM. O 99 J 99 M 99 G 7 I 99 
+ 3  0  3 ....T..YY.T.AA..T..OOJJ..GGI.....IMM A 99 O 99 J 99 I 98 G 6 
+ 3  0  3 ....T..YY.T...AAT..OOJJ..GGI.....IMM A 99 O 99 J 99 I 98 G 6 
+ 3  0  3 ....T..YY.T...AAT..OOIJJ...IGGMM.... M 96 O 99 A 99 I 99 G 7 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ....GG...MM. M 99 G 7 A 99 O 98 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ..GG....MM.... A 99 G 5 M 96 J 98 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT.GG....MM.... T 2 G 5 M 96 J 98 I 99 
+ 3  0  3 .......YYI...AAIT.OOJJT.GG..T.MM.... T 1 G 5 M 96 J 98 I 99 
+ 3  0  3 .......YYI...AAI..OOJJT.GG..T.MM..T. T 0 G 5 M 96 J 98 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ...GG....MM.. M 98 A 99 J 99 G 7 I 99 
+ 3  0  3 ....T..YY.T...AAT.OO.JJ....IGGMM.I.. J 99 A 99 I 98 M 96 G 7 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ...GG...MM... M 97 A 99 J 99 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ...GG..MM.... M 96 A 99 J 99 G 7 I 99 
+ 3  0  3 ....T..YY.T.AA..T.OO.JJ....IGGMM.I.. J 99 A 99 I 98 M 96 G 7 
+ 3  0  3 .......YYIT..AAIT.OOJJT.....GGMM.... T 2 G 7 M 96 J 98 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ...GG...MM.... A 99 G 6 M 96 J 98 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT..GG...MM.... T 2 G 6 M 96 J 98 I 99 
+ 3  0  3 .......YYI...AAIT.OOJJT..GG.T.MM.... T 1 G 6 M 96 J 98 I 99 
+ 3  0  3 .......YYI...AAI..OOJJT..GG.T.MM..T. T 0 G 6 M 96 J 98 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ..GG......MM.. A 99 G 5 M 98 J 98 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT.GG......MM.. T 2 G 5 M 98 J 98 I 99 
+ 3  0  3 .......YYI...AAIT.OOJJT.GG..T...MM.. T 1 G 5 M 98 J 98 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ..GG....MM... J 99 G 6 M 97 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ.GG....MM... O 98 G 6 M 97 I 98 A 99 
+ 3  0  3 .......YYI...AAI..OOJJT.GG..T...MMT. T 0 G 5 M 98 J 98 I 99 
+ 3  0  3 .......YYI...AAIT.OOJJT...GGT..MM... M 97 T 1 J 98 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ...GG....MM... J 98 G 6 M 97 I 98 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ....GG....MM.. M 98 A 99 J 98 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ....GG...MM... M 97 A 99 J 98 G 7 I 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT...GG......MM T 2 A 99 J 98 G 7 I 99 
+ 3  0  3 .......YYI..AA.IT.OOJJT...GGT.....MM T 1 A 99 J 98 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ.GG...MM.... A 99 O 98 G 6 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ.GG...MM.... A 99 O 98 G 6 M 96 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ.GG...MM.... A 99 O 99 G 6 M 96 I 98 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ....GG.MM... A 99 G 7 M 97 O 98 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ.GG...MM.... A 99 O 99 G 6 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ.....GG.MM... M 97 A 99 J 99 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJGG.....MM... M 97 O 99 G 5 I 98 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ.....GGMM.... M 96 A 99 J 99 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ...GG...MM.... A 99 J 98 G 6 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ...GG...MM.... A 99 J 98 G 6 M 96 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT..GG...MM.... T 2 J 98 G 6 M 96 I 98 
+ 3  0  3 ...I...YYI...AA.T.OOJJT..GG.T.MM.... T 1 J 98 G 6 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ...GG......MM. J 98 A 99 I 99 M 99 G 6 
+ 3  0  3 ...I...YYI...AA...OOJJT..GG.T.MM..T. T 0 J 98 G 6 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ......GG..MM.. M 98 A 99 J 98 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ......GG.MM... M 97 A 99 J 98 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ......GGMM.... M 96 A 99 J 98 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ..GG.......MM. M 99 J 98 G 5 I 98 A 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT.....GG....MM T 2 A 99 J 98 G 7 I 99 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ..GG...MM.... O 99 J 99 G 6 M 96 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ..GG...MM.... A 99 J 99 G 6 M 96 I 98 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJ...IGGMM.... O 99 M 96 I 99 G 7 A 99 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ..GG...MM.... A 99 J 99 G 6 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ..GG....MM.. M 98 A 99 O 99 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ.GG.....MM... M 97 J 99 G 5 I 98 A 99 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ..GG...MM... M 97 A 99 O 99 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ..GG..MM.... M 96 A 99 O 99 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ.GG.......MM. M 99 J 99 G 5 I 98 A 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ...GG......MM J 99 A 99 O 99 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJGG.......MM. M 99 O 98 G 5 I 98 A 99 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ....GGMM.... M 96 A 99 O 99 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ.....GG....MM J 99 A 99 O 99 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJGG.....MM... M 97 O 98 G 5 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJGG....MM.... M 96 O 98 G 5 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ....GG..MM.. O 98 G 7 M 98 I 98 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ....GG..MM.... A 99 G 7 M 96 J 98 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT...GG..MM.... T 2 G 7 M 96 J 98 I 99 
+ 3  0  3 .......YYI...AAIT.OOJJT...GGT.MM.... T 1 G 7 M 96 J 98 I 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ....GG...MM. G 7 A 99 M 99 O 98 I 98 
+ 3  0  3 .......YYI...AAI..OOJJT...GGT.MM..T. T 0 G 7 M 96 J 98 I 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ..GG.....MM. A 99 M 99 O 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ..GG.....MM. A 99 M 99 O 98 G 7 I 98 
+ 3  0  3 ....T..YY.T..AA.T..OOJJ.GG.I..MM.I.. O 99 J 99 I 98 M 96 G 5 
+ 3  0  3 ....T..YY.T.AA..T.OO.JJ.GG.I..MM.I.. A 99 J 99 I 98 M 96 G 5 
+ 3  0  3 ....T..YY.T...AAT.OO.JJ.GG.I..MM.I.. A 99 J 99 I 98 M 96 G 5 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ...GG......MM A 99 O 99 J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ...GG......MM A 99 O 99 J 99 G 7 I 98 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ..GG..MM.... M 96 A 99 O 98 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ....GGMM.... M 96 G 7 A 99 O 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ....GG.....MM. A 99 M 99 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ....GG.....MM. A 99 M 99 J 98 G 7 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT...GG.....MM. T 2 M 99 J 98 G 7 I 98 
+ 3  0  3 ...I...YYI...AA.T.OOJJT...GGT....MM. T 1 M 99 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ...GG..MM.... O 99 M 96 J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ...GG..MM.... A 99 M 96 J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ...GG..MM.... A 99 M 96 J 99 G 7 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ....GG.MM... I 99 A 99 G 7 O 99 M 97 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJ...IGG.MM... I 99 A 99 G 7 O 99 M 97 
+ 3  0  3 ....T..YY.T.AA..T..OO.JJ...IGG.MMI.. I 98 A 99 G 7 O 99 M 97 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ..GG...MM... G 7 O 99 M 97 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ..GG...MM... G 7 O 98 M 97 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ....GG.MM... A 99 I 98 G 7 O 99 M 97 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ....GG.MM... A 99 I 98 G 7 O 99 M 97 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ...GG...MM... A 99 M 97 J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ...GG...MM... A 99 M 97 J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ...GG....MM.. A 99 M 98 J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ..GG.....MM.. G 6 J 99 M 98 O 99 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ....GG...MM.. A 99 J 99 M 98 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ....GG...MM.. A 99 J 99 M 98 O 99 I 98 
+ 3  0  3 .......YY.T...AAT.OOJJT..GGI.....IMM A 99 T 2 J 98 I 98 G 6 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ.....GG..MM.. J 99 G 7 M 98 O 99 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ....GG..MM.. A 99 G 7 M 98 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ....GG..MM.. A 99 G 7 M 98 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ.GG......MM.. J 99 G 5 M 98 O 99 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJGG......MM.. A 99 G 5 M 98 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJGG......MM.. A 99 G 5 M 98 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ....GG....MM. A 99 J 99 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ.GG.....MM... G 5 J 99 M 97 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ.....GG.MM... G 7 J 99 M 97 O 99 I 98 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ.GG.....MM... M 97 G 5 O 99 J 99 I 99 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ....GG..MM... A 99 J 99 M 97 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ....GG..MM... A 99 J 99 M 97 O 99 I 98 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ.GG.......MM. M 99 G 5 O 99 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ..GG.....MM.. M 98 G 6 O 99 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ.GG....MM.... M 96 G 5 O 99 J 99 I 99 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ.....GG...MM. J 99 G 7 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ....GG...MM. A 99 G 7 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ....GG...MM. A 99 G 7 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ..GG....MM... J 99 G 6 M 97 O 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ....GG...MM.. M 98 A 99 O 99 J 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ....GG.MM.... M 96 A 99 O 99 J 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ....GG..MM... M 97 A 99 O 99 J 99 I 99 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ.GG....MM... A 99 G 6 M 97 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ.GG....MM... A 99 G 6 M 97 O 99 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ..GG.....MM. A 99 G 7 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ..GG.....MM. A 99 G 7 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ.GG.......MM. J 99 G 5 M 99 O 99 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT...GG..MM.... G 7 T 2 J 98 M 96 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJGG.......MM. A 99 G 5 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJGG.......MM. A 99 G 5 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ...GG.....MM. O 99 M 99 J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ...GG.....MM. A 99 M 99 J 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ......GGMM.... G 7 A 99 J 98 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ...GG.....MM. A 99 M 99 J 99 G 7 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT.GG....MM.... G 5 T 2 J 98 M 96 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ.GG......MM. A 99 G 6 M 99 O 99 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT.....GGMM.... G 7 T 2 J 98 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ.GG......MM. A 99 G 6 M 99 O 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ..GG....MM.. G 7 A 99 M 98 O 98 I 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ.GG.....MM.. G 6 A 99 M 98 O 98 I 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJGG......MM.. G 5 A 99 M 98 O 98 I 99 
+ 3  0  3 ....T..YY.T...AAT..OOIJJ.GGI..MM.... O 99 M 96 A 99 I 99 G 6 
+ 3  0  3 ....T..YY.T...AAT..OOIJJ.GGI...MM... O 99 M 97 A 99 I 99 G 6 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ...GG....MM.. J 99 M 98 O 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ....GG..MM.... G 7 A 99 J 98 M 96 I 98 
+ 3  0  3 ...I...YYIT...AAT.OOJJT....GG.MM.... T 2 A 99 J 98 M 96 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ..GG....MM.. A 99 M 98 O 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ..GG....MM.. A 99 M 98 O 99 G 7 I 98 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ....GG..MM.. A 99 G 7 M 98 O 98 I 99 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT.GG........MM T 2 G 5 J 98 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ.....GG....MM. A 99 J 98 M 99 I 99 
+ 3  0  3 ...I...YYI...AA.T.OOJJT.GG..T.....MM T 1 G 5 J 98 I 98 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ.GG.......MM. J 99 M 99 G 5 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ..GG.......MM. J 98 M 99 G 5 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ.GG...MM.... O 98 M 96 G 6 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJGG.......MM. O 99 M 99 G 5 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJGG.......MM. O 98 M 99 G 5 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJGG.......MM. A 99 M 99 G 5 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ......GG....MM G 7 A 99 J 98 I 98 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJGG.I....MM.. O 99 M 98 I 99 G 5 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ..GG......MM. G 6 M 99 J 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ......GG....MM G 7 A 99 J 98 I 98 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJGG.I....MM.. A 99 M 98 I 99 G 5 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ.GG.......MM. G 5 M 99 J 99 I 98 
+ 3  0  3 ....T..YY.T...AAT..OO.JJGG.I.....IMM O 99 A 99 I 98 G 5 
+ 3  0  3 ....T..YY.T..AA.T..OOIJJ.GGI....MM.. M 98 I 99 O 99 G 6 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ....GG....MM. A 99 M 99 J 99 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT.....GG....MM G 7 T 2 J 98 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ....GG....MM. A 99 M 99 J 99 I 98 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ.GG....MM... O 98 M 97 G 6 I 99 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ...GG.MM.... A 99 O 99 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ...GG.MM.... A 99 O 99 M 96 I 98 
+ 3  0  3 ....T..YY.T.AA..T...OOJJ...IGG...IMM A 99 O 98 I 98 G 7 
+ 3  0  3 ....T..YY.T...AAT...OOJJ...IGG...IMM A 99 O 98 I 98 G 7 
+ 3  0  3 ....T..YY.T.AA..T.OOJJ.....IGG...IMM A 99 J 98 I 98 G 7 
+ 3  0  3 ....T..YY.T...AAT.OOJJ.....IGG...IMM A 99 J 98 I 98 G 7 
+ 3  0  3 ....T..YYIT..AAIT.OO.JJ..GG.....MM.. J 99 M 98 G 6 I 99 
+ 3  0  3 ....T..YYIT..AAIT.OOJJ...GG.....MM.. J 98 M 98 G 6 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ.GG.....MM.. O 99 M 98 G 6 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJ.GG.....MM.. A 99 M 98 G 6 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OO.JJ.GG...MM.... I 99 G 6 M 96 O 99 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ....GG.MM.... O 99 J 99 M 96 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ....GG.MM.... A 99 J 99 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ....GG.MM.... A 99 J 99 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ....GG.MM... G 7 M 97 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ....GG..MM... J 99 M 97 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ.....GG..MM... J 98 M 97 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ...GG..MM... O 99 M 97 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ...GG..MM... O 98 M 97 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ.GG.....MM.. G 6 M 98 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJGG......MM.. G 5 M 98 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ....GG..MM.. G 7 M 98 A 99 I 98 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJGG.I....MM.. I 99 G 5 M 98 A 99 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ....GG...MM.. J 99 M 98 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ.....GG...MM.. J 98 M 98 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ...GG...MM.. O 99 M 98 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ...GG...MM.. O 98 M 98 A 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ...GG.MM.... O 98 M 96 I 99 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ.....GGMM.... J 99 G 7 M 96 I 98 
+ 3  0  3 ...IT..YYIT..AA.T.OOJJ......GGMM.... J 98 G 7 M 96 I 98 
+ 3  0  3 ...IT..YYIT..AA.T..OO.JJ....GGMM.... O 99 G 7 M 96 I 98 
+ 3  0  3 ...IT..YYIT..AA.T...OOJJ....GGMM.... O 98 G 7 M 96 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OO..JJ....GGMM.... A 99 G 7 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ..GG.......MM G 6 J 99 I 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ....GGMM.... A 99 G 7 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO..JJGG.....MM... I 99 A 99 M 97 G 5 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ...GG.......MM G 6 J 98 I 99 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ.....GG.MM... G 7 M 97 J 99 I 98 
+ 3  0  3 ....T..YY.T..AA.T.OO.JJ.GG.I...MMI.. J 99 I 98 M 97 G 5 
+ 3  0  3 ....T..YY.T..AA.T.OOJJ..GG.I...MMI.. J 98 I 98 M 97 G 5 
+ 3  0  3 ....T..YY.T..AA.T...OOJJGG.I...MMI.. O 98 I 98 M 97 G 5 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ.GG.......MM G 6 O 98 I 99 A 99 
+ 3  0  3 ...IT..YYIT..AA.T.OO.JJ..GG.....MM.. G 6 M 98 J 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJGG......MM.. A 99 G 5 M 98 O 99 I 99 
+ 3  0  3 ...IT..YYIT...AAT...OOJJGG......MM.. A 99 G 5 M 98 O 98 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ..GG...MM.... G 6 A 99 M 96 J 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ.GG....MM.... G 5 A 99 M 96 J 99 I 99 
+ 3  0  3 .......YY.T.AA..T.OOJJT.GG.I.....IMM T 2 A 99 J 98 I 98 G 5 
+ 3  0  3 .......YY.T...AAT.OOJJT.GG.I.....IMM A 99 T 2 J 98 I 98 G 5 
+ 3  0  3 .......YY...AA..T.OOJJT.GG.IT....IMM T 1 A 99 J 98 I 98 G 5 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ.GG.....MM.. G 6 O 99 M 98 I 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ....GGMM.... M 96 G 7 A 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ.....GG....MM J 99 G 7 A 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ....GG.MM.... M 96 J 99 A 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ.GG........MM G 5 J 99 A 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ..GG..MM.... G 7 A 99 O 98 M 96 I 98 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJ.GGI....MM.. O 99 M 98 I 99 G 6 A 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJGG.......MM. G 5 A 99 O 98 M 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ...GG.....MM.. G 6 J 98 M 98 I 99 A 99 
+ 3  0  3 ...IT..YYIT.AA..T...OOJJ..GG..MM.... G 7 A 99 O 98 M 96 I 98 
+ 3  0  3 .......YYI...AAIT.OOJJT..GG.T..MM... M 97 T 1 J 98 G 6 I 99 
+ 3  0  3 .......YYI...AAIT.OOJJT..GG.T...MM.. M 98 T 1 J 98 G 6 I 99 
+ 3  0  3 .......YYI...AAIT.OOJJT..GG.T....MM. M 99 T 1 J 98 G 6 I 99 
+ 3  0  3 .......YYI..AA.IT.OOJJT..GG.T.....MM A 99 T 1 J 98 G 6 I 99 
+ 3  0  3 ...IT..YYIT...AAT...OOJJGG....MM.... G 5 A 99 O 98 M 96 I 98 
+ 3  0  3 ....T..YY.T...AAT.OO.JJ..GGI..MM.I.. A 99 J 99 I 98 M 96 G 6 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ.GG....MM.... M 96 J 99 G 5 A 99 I 98 
+ 3  0  3 .......YY.T...AAT.OOJJT....IGG...IMM A 99 T 2 J 98 I 98 G 7 
+ 3  0  3 .......YY.T.AA..T.OOJJT....IGG...IMM A 99 T 2 J 98 I 98 G 7 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ....GG..MM.... G 7 A 99 J 98 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ.GG.....MM... M 97 J 99 G 5 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ..GG....MM.... G 5 A 99 J 98 M 96 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ.GG......MM.. M 98 J 99 G 5 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ..GG......MM.. M 98 J 98 G 5 A 99 I 98 
+ 3  0  3 ....T..YY.T.AA..T..OO.JJ.GGI..MM.I.. A 99 O 99 I 98 M 96 G 6 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ..GG.....MM... M 97 J 98 G 5 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJGG....MM.... M 96 O 99 G 5 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJGG.....MM... M 97 O 99 G 5 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJGG.....MM... M 97 O 98 G 5 A 99 I 98 
+ 3  0  3 ....T..YY.T..AA.T..OOJJ..GGI..MM.I.. J 99 O 99 I 98 M 96 G 6 
+ 3  0  3 ....T..YY.T...AAT..OO.JJ.GGI..MM.I.. A 99 O 99 I 98 M 96 G 6 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ..GG....MM... M 97 J 99 G 6 A 99 I 98 
+ 3  0  3 ...I...YYI...AA.T.OOJJT...GGT..MM... T 1 M 97 J 98 G 7 I 98 
+ 3  0  3 ...I...YYI...AA...OOJJT...GGT..MM.T. T 0 M 97 J 98 G 7 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ.GG....MM... I 99 G 6 M 97 O 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ..GG.....MM.. M 98 J 99 G 6 A 99 I 98 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJ.GGI...MM... I 99 G 6 M 97 O 99 A 99 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT...GG....MM.. T 2 M 98 J 98 G 7 I 98 
+ 3  0  3 ...I...YYI...AA.T.OOJJT...GGT...MM.. T 1 M 98 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ...GG....MM... M 97 J 98 G 6 A 99 I 98 
+ 3  0  3 ...I...YYI...AA...OOJJT...GGT...MMT. T 0 M 98 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ...GG.....MM.. M 98 J 98 G 6 A 99 I 98 
+ 3  0  3 ....T..YY.T...AAT.OOJJ...GGI..MM.I.. A 99 J 98 I 98 M 96 G 6 
+ 3  0  3 ....T..YY.T.AA..T.OOJJ...GGI..MM.I.. A 99 J 98 I 98 M 96 G 6 
+ 3  0  3 ....T..YY.T.AA..T.OO.JJ..GGI..MM.I.. A 99 J 99 I 98 M 96 G 6 
+ 3  0  3 ...IT..YYIT...AAT.OO..JJ.GG....MM... G 6 M 97 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ......GG.MM... A 99 G 7 M 97 J 98 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT.....GG.MM... T 2 G 7 M 97 J 98 I 98 
+ 3  0  3 ...I...YYI...AA...OOJJT..GG.T..MM.T. T 0 G 6 M 97 J 98 I 98 
+ 3  0  3 ....T..YY.T...AAT..OOJJ.GG.I.....IMM A 99 O 99 J 99 I 98 G 5 
+ 3  0  3 ...I...YYI...AA.T.OOJJT..GG.T..MM... M 97 T 1 G 6 J 98 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT..GG....MM... M 97 T 2 G 6 J 98 I 98 
+ 3  0  3 ....T..YY.T.AA..T..OO.JJGG.I..MM.I.. O 99 A 99 I 98 M 96 G 5 
+ 3  0  3 .......YY.T..AA.T.OOJJT.GG.I..MM.I.. T 2 J 98 I 98 M 96 G 5 
+ 3  0  3 .......YY....AA.T.OOJJT.GG.IT.MM.I.. T 1 J 98 I 98 M 96 G 5 
+ 3  0  3 .......YY....AA...OOJJT.GG.IT.MM.IT. T 0 J 98 I 98 M 96 G 5 
+ 3  0  3 .......YY....AA...OOJJT.GG.IT..MMIT. T 0 J 98 I 98 M 97 G 5 
+ 3  0  3 .......YY....AA.T.OOJJT.GG.IT..MMI.. T 1 J 98 I 98 M 97 G 5 
+ 3  0  3 .......YY.T..AA.T.OOJJT.GG.I...MMI.. T 2 J 98 I 98 M 97 G 5 
+ 3  0  3 .......YYI...AAI..OOJJT.GG..T..MM.T. T 0 G 5 M 97 J 98 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ....GG......MM A 99 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ....GG......MM A 99 J 98 G 7 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT...GG......MM T 2 J 98 G 7 I 98 
+ 3  0  3 ....T..YY.T.AA..T.OO.IJJGG.I.....MM. A 99 M 99 I 99 G 5 
+ 3  0  3 ...I...YYI...AA.T.OOJJT...GGT.....MM T 1 J 98 G 7 I 98 
+ 3  0  3 ....T..YY.T...AAT.OO.IJJGG.I.....MM. A 99 M 99 I 99 G 5 
+ 3  0  3 ....T..YY.T...AAT.OO.JJ....IGG...IMM A 99 J 99 I 98 G 7 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ.GG........MM J 99 G 5 O 99 I 98 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ..GG....MM.. G 7 M 98 O 98 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJ.GG.....MM.. G 6 M 98 O 98 I 99 
+ 3  0  3 ....T..YYIT..AAIT...OOJJGG......MM.. G 5 M 98 O 98 I 99 
+ 3  0  3 ...I...YYI....AAT.OOJJT...GGT.....MM T 1 A 99 J 98 G 7 I 98 
+ 3  0  3 ....T..YY.T...AAT.OOJJ..GG.I...MMI.. J 98 A 99 I 98 M 97 G 5 
+ 3  0  3 .......YYI...AAI..OOJJT..GG.T..MM.T. T 0 G 6 M 97 J 98 I 99 
+ 3  0  3 ....T..YY.T.AA..T.OO.JJ.GG.I...MMI.. J 99 A 99 I 98 M 97 G 5 
+ 3  0  3 ....T..YY.T.AA..T..OO.JJGG.I...MMI.. O 99 A 99 I 98 M 97 G 5 
+ 3  0  3 ....T..YY.T.AA..T.OOJJ..GG.I...MMI.. J 98 A 99 I 98 M 97 G 5 
+ 3  0  3 ....T..YY.T...AAT.OO.JJ.GG.I...MMI.. J 99 A 99 I 98 M 97 G 5 
+ 3  0  3 .......YYI...AAI..OOJJT...GGT..MM.T. T 0 G 7 M 97 J 98 I 99 
+ 3  0  3 ....T..YY.T.AA..T...OOJJGG.I...MMI.. O 98 A 99 I 98 M 97 G 5 
+ 3  0  3 ....T..YY.T...AAT..OO.JJGG.I...MMI.. O 99 A 99 I 98 M 97 G 5 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ....GG.MM.... M 96 J 99 I 98 O 99 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ.....GG....MM G 7 J 99 I 98 O 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ......GG...MM. G 7 A 99 M 99 J 98 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT.....GG...MM. G 7 T 2 M 99 J 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ......GG...MM. G 7 A 99 M 99 J 98 I 98 
+ 3  0  3 ...I...YYIT...AAT.OOJJT....GG....MM. T 2 A 99 M 99 J 98 I 98 
+ 3  0  3 .......YYIT.AA.IT.OOJJT..GG.......MM A 99 G 6 T 2 J 98 I 99 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ..GG..MM.... O 99 A 99 G 7 M 96 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ....GGMM.... M 96 I 98 G 7 O 99 A 99 
+ 3  0  3 ....T..YY.T.AA..T...OOJJ.GGI..MM.I.. A 99 O 98 I 98 M 96 G 6 
+ 3  0  3 ....T..YY.T...AAT...OOJJ.GGI..MM.I.. A 99 O 98 I 98 M 96 G 6 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ.....GGMM.... M 96 G 7 A 99 J 99 I 98 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJGG.I..MM.... M 96 I 99 G 5 O 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJGG.....MM... G 5 O 98 M 97 I 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ..GG.....MM... M 97 A 99 J 98 G 5 I 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT.GG........MM T 2 A 99 J 98 G 5 I 99 
+ 3  0  3 .......YYI..AA.IT.OOJJT.GG..T.....MM T 1 A 99 J 98 G 5 I 99 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ.GG....MM.... O 99 J 99 G 5 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ.GG...MM.... O 99 I 99 G 6 M 96 A 99 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ.GG...MM.... O 98 I 99 G 6 M 96 A 99 
+ 3  0  3 ...IT..YYIT..AA.T..OOJJ.....GGMM.... M 96 G 7 O 99 J 99 I 98 
+ 3  0  3 ....T..YY.T.AA..T...OOJJ.GGI...MMI.. A 99 O 98 I 98 M 97 G 6 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ.....GGMM.... M 96 G 7 A 99 J 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ.....GG.MM... M 97 G 7 A 99 J 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ....GG....MM.. J 98 M 98 A 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ..GG....MM.. O 98 M 98 A 99 G 7 I 98 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJGG....MM.... M 96 A 99 O 98 G 5 I 99 
+ 3  0  3 ....T..YY.T..AA.T..OOJJ..GGI...MMI.. O 99 J 99 I 98 M 97 G 6 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT.GG.....MM... T 2 J 98 I 98 M 97 G 5 
+ 3  0  3 ...I...YYI...AA.T.OOJJT.GG..T..MM... T 1 J 98 I 98 M 97 G 5 
+ 3  0  3 ...I...YYI...AA...OOJJT.GG..T..MM.T. T 0 J 98 I 98 M 97 G 5 
+ 3  0  3 ....T..YY.T...AAT...OOJJ.GGI...MMI.. A 99 O 98 I 98 M 97 G 6 
+ 3  0  3 ....T..YY.T...AAT..OO.JJ.GGI...MMI.. O 99 A 99 I 98 M 97 G 6 
+ 3  0  3 ....T..YY.T.AA..T.OOJJ...GGI...MMI.. A 99 J 98 I 98 M 97 G 6 
+ 3  0  3 ....T..YY.T...AAT.OOJJ...GGI...MMI.. A 99 J 98 I 98 M 97 G 6 
+ 3  0  3 .......YY.T..AA.T.OOJJT..GGI...MMI.. T 2 J 98 I 98 M 97 G 6 
+ 3  0  3 .......YY....AA.T.OOJJT..GGIT..MMI.. T 1 J 98 I 98 M 97 G 6 
+ 3  0  3 .......YY....AA...OOJJT..GGIT..MMIT. T 0 J 98 I 98 M 97 G 6 
+ 3  0  3 ....T..YY.T.AA..T.OO.JJ..GGI...MMI.. A 99 J 99 I 98 M 97 G 6 
+ 3  0  3 ....T..YY.T...AAT.OO.JJ..GGI...MMI.. A 99 J 99 I 98 M 97 G 6 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJGG....MM.... M 96 A 99 O 99 G 5 I 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT..GG......MM. A 99 G 6 M 99 T 2 J 98 I 99 
+ 3  0  3 ...I...YYIT...AAT.OOJJT.....GG..MM.. T 2 A 99 G 7 M 98 J 98 I 98 
+ 3  0  3 .......YYIT.AA.IT.OOJJT..GG.....MM.. T 2 G 6 J 98 M 98 I 99 A 99 
+ 3  0  3 .......YYI..AA.IT.OOJJT..GG.T..MM... A 99 M 97 T 1 J 98 G 6 I 99 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ.GG......MM.. M 98 O 99 J 99 G 5 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ.GG.......MM. M 99 O 99 J 99 G 5 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ.GG.....MM... M 97 O 99 J 99 G 5 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ.GG....MM.... M 96 O 99 J 99 G 5 I 98 A 99 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT.GG.......MM. T 2 M 99 J 98 G 5 I 98 A 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT.....GG.MM... T 2 M 97 A 99 J 98 G 7 I 99 
+ 3  0  3 ...I...YYIT...AAT.OOJJT..GG...MM.... T 2 A 99 J 98 G 6 M 96 I 98 
+ 3  0  3 ...I...YYI....AA..OOJJT..GG.T.MM..T. T 0 A 99 J 98 G 6 M 96 I 98 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT..GG...MM.... T 2 A 99 J 98 G 6 M 96 I 98 
+ 3  0  3 ...I...YYI..AA....OOJJT..GG.T.MM..T. T 0 A 99 J 98 G 6 M 96 I 98 
+ 3  0  3 ...I...YYI..AA..T.OOJJT..GG.T..MM... T 1 J 98 G 6 M 97 I 98 A 99 
+ 3  0  3 .......YYI..AA.IT.OOJJT...GGT..MM... A 99 M 97 T 1 J 98 G 7 I 99 
+ 3  0  3 .......YYI..AA.I..OOJJT..GG.T...MMT. T 0 G 6 J 98 M 98 I 99 A 99 
+ 3  0  3 .......YYI..AA.IT.OOJJT..GG.T...MM.. T 1 G 6 J 98 M 98 I 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ.....GGMM.... J 99 M 96 G 7 A 99 O 99 I 98 
+ 3  0  3 .......YYIT.AA.IT.OOJJT.GG......MM.. T 2 A 99 G 5 M 98 J 98 I 99 
+ 3  0  3 .......YYI..AA.I..OOJJT.GG..T...MMT. T 0 A 99 G 5 M 98 J 98 I 99 
+ 3  0  3 .......YYI..AA.I..OOJJT.GG..T.MM..T. T 0 A 99 G 5 M 96 J 98 I 99 
+ 3  0  3 ...I...YYI..AA....OOJJT.GG..T...MMT. T 0 G 5 J 98 M 98 I 98 A 99 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT..GG.....MM.. T 2 G 6 J 98 M 98 I 98 A 99 
+ 3  0  3 ...I...YYI..AA....OOJJT..GG.T...MMT. T 0 G 6 J 98 M 98 I 98 A 99 
+ 3  0  3 ....T..YY.T.AA..T..OOJJ..GGI..MM.I.. J 99 A 99 O 99 I 98 M 96 G 6 
+ 3  0  3 ...I...YYI......AAOOJJT...GGT..MM.T. A 97 T 0 M 97 J 98 G 7 I 98 
+ 3  0  3 ...I...YYI......AAOOJJT...GGT...MMT. A 97 T 0 M 98 J 98 G 7 I 98 
+ 3  0  3 .......YY...AA..T.OOJJT..GGIT.MM.I.. T 1 A 99 J 98 I 98 M 96 G 6 
+ 3  0  3 .......YY.....AA..OOJJT..GGIT.MM.IT. T 0 A 99 J 98 I 98 M 96 G 6 
+ 3  0  3 .......YY.....AAT.OOJJT..GGIT.MM.I.. T 1 A 99 J 98 I 98 M 96 G 6 
+ 3  0  3 ...I...YYI....AA..OOJJT..GG.T...MMT. T 0 M 98 J 98 G 6 A 99 I 98 
+ 3  0  3 ...I...YYI....AAT.OOJJT..GG.T...MM.. T 1 M 98 J 98 G 6 A 99 I 98 
+ 3  0  3 .......YYI..AA.I..OOJJT...GGT..MM.T. T 0 M 97 A 99 J 98 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ.....GG.MM... J 99 A 99 I 98 G 7 O 99 M 97 
+ 3  0  3 ...I...YYI....AA..OOJJT.GG..T..MM.T. T 0 M 97 J 98 G 5 A 99 I 98 
+ 3  0  3 ...I...YYI....AA..OOJJT.GG..T...MMT. T 0 M 98 J 98 G 5 A 99 I 98 
+ 3  0  3 ...I...YYI....AA..OOJJT.GG..T.MM..T. T 0 G 5 A 99 J 98 M 96 I 98 
+ 3  0  3 .......YYI..AA.I..OOJJT.GG..T..MM.T. A 99 T 0 G 5 M 97 J 98 I 99 
+ 3  0  3 ...I...YYIT...AAT.OOJJT.....GG.MM... T 2 A 99 G 7 M 97 J 98 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ..GG.....MM.. A 99 M 98 G 6 O 99 J 99 I 99 
+ 3  0  3 .......YY.......AAOOJJT.GG.IT.MM.IT. A 97 T 0 J 98 I 98 M 96 G 5 
+ 3  0  3 .......YY.T...AAT.OOJJT.GG.I..MM.I.. A 99 T 2 J 98 I 98 M 96 G 5 
+ 3  0  3 .......YY.....AAT.OOJJT.GG.IT.MM.I.. A 99 T 1 J 98 I 98 M 96 G 5 
+ 3  0  3 .......YY.T...AAT.OOJJT.GG.I...MMI.. A 99 T 2 J 98 I 98 M 97 G 5 
+ 3  0  3 .......YY.T.AA..T.OOJJT.GG.I...MMI.. A 99 T 2 J 98 I 98 M 97 G 5 
+ 3  0  3 .......YY.....AAT.OOJJT.GG.IT..MMI.. A 99 T 1 J 98 I 98 M 97 G 5 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ...GG....MM.. M 98 A 99 O 99 J 99 G 7 I 98 
+ 3  0  3 .......YY.....AA..OOJJT.GG.IT..MMIT. T 0 J 98 A 99 I 98 M 97 G 5 
+ 3  0  3 .......YYI..AA.I..OOJJT..GG.T..MM.T. A 99 T 0 G 6 M 97 J 98 I 99 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT.....GG...MM. A 99 G 7 T 2 M 99 J 98 I 98 
+ 3  0  3 .......YYIT.AA.IT.OOJJT..GG....MM... M 97 A 99 G 6 T 2 J 98 I 99 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ.....GGMM.... G 7 M 96 J 99 I 98 O 99 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJ..GG..MM.... I 98 G 7 M 96 O 99 A 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT.GG.....MM... T 2 M 97 A 99 J 98 G 5 I 99 
+ 3  0  3 .......YYI..AA.IT.OOJJT.GG..T....MM. M 99 T 1 A 99 J 98 G 5 I 99 
+ 3  0  3 ....T..YY.T...AAT..OOJJ..GGI...MMI.. A 99 O 99 J 99 I 98 M 97 G 6 
+ 3  0  3 ...I...YYI..AA..T.OOJJT.GG..T..MM... A 99 T 1 J 98 I 98 M 97 G 5 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJGG.....MM... M 97 A 99 O 99 G 5 I 99 
+ 3  0  3 .......YY.T.AA..T.OOJJT..GGI...MMI.. T 2 A 99 J 98 I 98 M 97 G 6 
+ 3  0  3 ....T..YY.T..AA.T..OOJJ.GG.I...MMI.. J 99 I 98 O 99 M 97 G 5 
+ 3  0  3 ...I...YYI...AA...OOJJT.GG..T.MM..T. T 0 J 98 G 5 M 96 I 98 
+ 3  0  3 .......YYI...AAIT.OOJJT.GG..T....MM. M 99 T 1 J 98 G 5 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ.....GG...MM. A 99 J 99 M 99 G 7 I 98 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT....GG....MM. T 2 A 99 M 99 J 98 I 98 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT.GG.....MM... A 99 T 2 J 98 I 98 M 97 G 5 
+ 3  0  3 ...I...YYI...AA.T.OOJJT.GG..T....MM. T 1 G 5 M 99 J 98 I 98 
+ 3  0  3 ...I...YYI...AA.T.OOJJT..GG.T....MM. T 1 G 6 M 99 J 98 I 98 
+ 3  0  3 .......YY.....AAT.OOJJT..GGIT..MMI.. T 1 A 99 J 98 I 98 M 97 G 6 
+ 3  0  3 .......YY...AA....OOJJT..GGIT..MMIT. T 0 A 99 J 98 I 98 M 97 G 6 
+ 3  0  3 .......YYIT..AAIT.OOJJT...GG...MM... M 97 G 7 T 2 J 98 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT..GG....MM... M 97 G 6 T 2 J 98 I 99 
+ 3  0  3 .......YYIT..AAIT.OOJJT.....GG.MM... M 97 G 7 T 2 J 98 I 99 
+ 3  0  3 .......YY.T..AA.T.OOJJT..GGI..MM.I.. T 2 J 98 I 98 M 96 G 6 
+ 3  0  3 .......YYIT..AAIT.OOJJT.GG.....MM... M 97 G 5 T 2 J 98 I 99 
+ 3  0  3 .......YY....AA...OOJJT..GGIT.MM.IT. T 0 J 98 I 98 M 96 G 6 
+ 3  0  3 ...I...YYI....AAT.OOJJT..GG.T.....MM T 1 J 98 G 6 A 99 I 98 
+ 3  0  3 ....T..YY.T.AA..T..OO.JJ.GGI...MMI.. I 98 G 6 M 97 O 99 A 99 
+ 3  0  3 ...I...YYI....AAT.OOJJT.GG..T.....MM T 1 J 98 G 5 A 99 I 98 
+ 3  0  3 ....T..YY.T...AAT...OOJJGG.I..MM.I.. A 99 O 98 I 98 M 96 G 5 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ......GGMM.... G 7 A 99 J 98 M 96 I 98 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT....GG.MM.... T 2 A 99 J 98 M 96 I 98 
+ 3  0  3 ....T..YY.T.AA..T...OOJJGG.I..MM.I.. A 99 O 98 I 98 M 96 G 5 
+ 3  0  3 ...I...YYIT...AAT.OOJJT....GG..MM... M 97 T 2 A 99 J 98 I 98 
+ 3  0  3 ...I...YYIT...AAT.OOJJT....GG...MM.. M 98 T 2 A 99 J 98 I 98 
+ 3  0  3 ....T..YY.T...AAT.OOJJ..GG.I..MM.I.. A 99 J 98 I 98 M 96 G 5 
+ 3  0  3 ....T..YY.T.AA..T.OOJJ..GG.I..MM.I.. A 99 J 98 I 98 M 96 G 5 
+ 3  0  3 ....T..YY.T...AAT..OOIJJGG.I..MM.... M 96 O 99 A 99 I 99 G 5 
+ 3  0  3 ...I...YYI...AA.T.OOJJT..GG.T...MM.. M 98 T 1 G 6 J 98 I 98 
+ 3  0  3 .......YY.....AAT.OOJJT.GG.IT....IMM T 1 A 99 J 98 I 98 G 5 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ.GG........MM A 99 G 5 O 99 J 99 I 99 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ..GG...MM.... M 96 G 6 O 99 J 99 I 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ..GG.......MM A 99 G 6 O 99 J 99 I 99 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT...GG...MM... G 7 T 2 M 97 J 98 I 98 
+ 3  0  3 .......YY.T.AA..T.OOJJT..GGI.....IMM T 2 A 99 J 98 I 98 G 6 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ.....GG.MM... J 99 G 7 M 97 I 98 A 99 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT..GG.......MM T 2 J 98 G 6 I 98 A 99 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT.GG........MM T 2 J 98 G 5 I 98 A 99 
+ 3  0  3 ...I...YYI....AAT.OOJJT.GG..T...MM.. A 99 T 1 G 5 M 98 J 98 I 98 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT.GG......MM.. A 99 T 2 G 5 M 98 J 98 I 98 
+ 3  0  3 ...I...YYIT...AAT.OOJJT.GG......MM.. A 99 T 2 G 5 M 98 J 98 I 98 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT...GG....MM.. T 2 J 98 M 98 A 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ...GG....MM.. O 99 J 99 M 98 A 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ...GG...MM... A 99 G 7 J 99 M 97 O 99 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ..GG......MM. A 99 J 99 G 6 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ..GG......MM. A 99 J 99 G 6 M 99 O 99 I 98 
+ 3  0  3 ...I...YYI..AA....OOJJT...GGT...MMT. T 0 J 98 M 98 A 99 G 7 I 98 
+ 3  0  3 ...I...YYI......AAOOJJT...GGT.MM..T. A 97 T 0 M 96 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ...GG.....MM. G 7 A 99 J 99 M 99 O 99 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ.....GG...MM. G 7 A 99 J 99 M 99 O 99 I 98 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT..GG......MM. T 2 J 98 M 99 G 6 I 98 A 99 
+ 3  0  3 ...I...YYI..AA..T.OOJJT..GG.T....MM. T 1 J 98 M 99 G 6 I 98 A 99 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ..GG....MM... M 97 A 99 J 99 G 6 O 99 I 98 
+ 3  0  3 .......YYIT.AA.IT.OOJJT.....GG...MM. T 2 M 99 A 99 J 98 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ...GG.....MM. J 99 M 99 A 99 O 99 G 7 I 99 
+ 3  0  3 .......YYI..AA.IT.OOJJT...GGT....MM. A 99 M 99 T 1 J 98 G 7 I 99 
+ 3  0  3 .......YY.T...AAT.OOJJT....IGGMM.I.. T 2 A 99 J 98 I 98 M 96 G 7 
+ 3  0  3 .......YYIT.AA.IT.OOJJT...GG.....MM. T 2 M 99 A 99 J 98 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ.GG......MM.. A 99 O 99 G 5 M 98 J 99 I 99 
+ 3  0  3 .......YYI..AA.I..OOJJT...GGT...MMT. A 99 T 0 J 98 M 98 G 7 I 99 
+ 3  0  3 .......YYI...AAI..OOJJT..GG.T...MMT. G 6 T 0 J 98 M 98 G 6 I 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT.GG.......MM. A 99 G 5 M 99 T 2 J 98 I 99 
+ 3  0  3 ...I...YYI....AAT.OOJJT..GG.T....MM. T 1 J 98 M 99 G 6 A 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ...GG...MM... A 99 J 99 O 99 M 97 G 7 I 99 
+ 3  0  3 ...I...YYIT...AAT.OOJJT..GG......MM. T 2 J 98 M 99 G 6 A 99 I 98 
+ 3  0  3 .......YY.T...AAT.OOJJT....IGG.MMI.. T 2 A 99 J 98 I 98 M 97 G 7 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJGG.......MM. I 99 G 5 M 99 O 99 A 99 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJ.GGI.....MM. I 99 G 6 M 99 O 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ.....GG.MM... A 99 J 99 O 99 M 97 G 7 I 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT.....GG..MM.. A 99 T 2 J 98 M 98 G 7 I 99 
+ 3  0  3 ...I...YYI....AAT.OOJJT.GG..T....MM. T 1 J 98 M 99 G 5 A 99 I 98 
+ 3  0  3 .......YYIT.AA.IT.OOJJT.GG....MM.... G 5 T 2 A 99 M 96 J 98 I 99 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT.....GG..MM.. A 99 T 2 G 7 M 98 J 98 I 98 
+ 3  0  3 ...I...YYI..AA..T.OOJJT...GGT.....MM I 98 T 1 A 99 J 98 G 7 I 98 
+ 3  0  3 ...I...YYI......AAOOJJT..GG.T.MM..T. A 97 T 0 J 98 G 6 M 96 I 98 
+ 3  0  3 ...I...YYI..AA..T.OOJJT...GGT..MM... A 99 T 1 M 97 J 98 G 7 I 98 
+ 3  0  3 ...I...YYIT...AAT.OOJJT...GG..MM.... A 99 G 7 T 2 J 98 M 96 I 98 
+ 3  0  3 ...I...YYI..AA....OOJJT...GGT.MM..T. T 0 G 7 A 99 J 98 M 96 I 98 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT.....GGMM.... A 99 G 7 T 2 J 98 M 96 I 98 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT...GG..MM.... A 99 G 7 T 2 J 98 M 96 I 98 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT.GG....MM.... A 99 G 5 T 2 J 98 M 96 I 98 
+ 3  0  3 ...I...YYIT...AAT.OOJJT.....GGMM.... T 2 G 7 A 99 J 98 M 96 I 98 
+ 3  0  3 ...I...YYI....AAT.OOJJT...GGT....MM. T 1 A 99 M 99 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ.....GG..MM.. G 7 A 99 J 99 M 98 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ.GG......MM.. G 5 A 99 J 99 M 98 O 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ.GG....MM.... A 99 M 96 G 5 O 99 J 99 I 99 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ.GG.....MM... A 99 G 5 J 99 M 97 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ.GG....MM.... G 5 M 96 J 99 A 99 O 99 I 98 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT...GG.....MM. T 2 A 99 M 99 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ...GG.....MM. M 99 A 99 O 99 J 99 G 7 I 98 
+ 3  0  3 ...I...YYI....AAT.OOJJT..GG.T.MM.... T 1 A 99 J 98 G 6 M 96 I 98 
+ 3  0  3 ....T..YY.T...AAT..OOJJ..GGI..MM.I.. O 99 A 99 J 99 I 98 M 96 G 6 
+ 3  0  3 ...I...YYI..AA....OOJJT..GG.T..MM.T. T 0 J 98 G 6 M 97 I 98 A 99 
+ 3  0  3 ...I...YYI....AA..OOJJT...GGT.MM..T. T 0 G 7 A 99 J 98 M 96 I 98 
+ 3  0  3 .......YYI..AA.I..OOJJT..GG.T.MM..T. T 0 A 99 G 6 M 96 J 98 I 99 
+ 3  0  3 .......YY...AA....OOJJT..GGIT.MM.IT. T 0 A 99 J 98 I 98 M 96 G 6 
+ 3  0  3 .......YY.T...AAT.OOJJT..GGI..MM.I.. T 2 A 99 J 98 I 98 M 96 G 6 
+ 3  0  3 ...I...YYIT...AAT.OOJJT..GG.....MM.. T 2 M 98 J 98 G 6 A 99 I 98 
+ 3  0  3 ...I...YYI....AAT.OOJJT...GGT...MM.. A 99 T 1 M 98 J 98 G 7 I 98 
+ 3  0  3 ...I...YYI....AAT.OOJJT..GG.T..MM... T 1 M 97 J 98 G 6 A 99 I 98 
+ 3  0  3 ...I...YYI....AA..OOJJT..GG.T..MM.T. T 0 M 97 J 98 G 6 A 99 I 98 
+ 3  0  3 ...I...YYIT...AAT.OOJJT...GG....MM.. A 99 T 2 M 98 J 98 G 7 I 98 
+ 3  0  3 .......YYIT.AA.IT.OOJJT...GG...MM... T 2 M 97 A 99 J 98 G 7 I 99 
+ 3  0  3 ...I...YYI....AAT.OOJJT.GG..T.MM.... T 1 G 5 A 99 J 98 M 96 I 98 
+ 3  0  3 ...I...YYI......AAOOJJT..GG.T..MM.T. A 97 T 0 G 6 M 97 J 98 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ..GG...MM.... G 6 M 96 A 99 O 99 J 99 I 99 
+ 3  0  3 .......YY.T.AA..T.OOJJT.GG.I..MM.I.. A 99 T 2 J 98 I 98 M 96 G 5 
+ 3  0  3 .......YY...AA..T.OOJJT.GG.IT.MM.I.. A 99 T 1 J 98 I 98 M 96 G 5 
+ 3  0  3 .......YY.......AAOOJJT.GG.IT..MMIT. A 97 T 0 J 98 I 98 M 97 G 5 
+ 3  0  3 .......YYIT.AA.IT.OOJJT.....GGMM.... G 7 T 2 A 99 M 96 J 98 I 99 
+ 3  0  3 ...I...YYI..AA..T.OOJJT...GGT....MM. T 1 A 99 M 99 J 98 G 7 I 98 
+ 3  0  3 .......YY...AA..T.OOJJT.GG.IT..MMI.. A 99 T 1 J 98 I 98 M 97 G 5 
+ 3  0  3 .......YY...AA....OOJJT.GG.IT..MMIT. T 0 J 98 A 99 I 98 M 97 G 5 
+ 3  0  3 ....T..YY.T...AAT..OOJJ.GG.I...MMI.. O 99 J 99 A 99 I 98 M 97 G 5 
+ 3  0  3 ...I...YYIT...AAT.OOJJT.....GG...MM. T 2 G 7 A 99 M 99 J 98 I 98 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJ.GGI..MM.... I 99 G 6 M 96 O 99 A 99 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJGG.I...MM... M 97 I 99 G 5 O 99 A 99 
+ 3  0  3 .......YYI..AA.IT.OOJJT.GG..T..MM... T 1 M 97 A 99 J 98 G 5 I 99 
+ 3  0  3 ...I...YYI....AA..OOJJT...GGT...MMT. T 0 J 98 M 98 A 99 G 7 I 98 
+ 3  0  3 ...I...YYI......AAOOJJT.GG..T..MM.T. A 97 T 0 J 98 I 98 M 97 G 5 
+ 3  0  3 .......YY.......AAOOJJT..GGIT..MMIT. A 97 T 0 J 98 I 98 M 97 G 6 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ..GG...MM... O 98 M 97 A 99 G 7 I 98 
+ 3  0  3 ...I...YYI...AA.T.OOJJT.GG..T.MM.... T 1 J 98 G 5 M 96 I 98 
+ 3  0  3 .......YYI...AAIT.OOJJT.GG..T..MM... M 97 T 1 J 98 G 5 I 99 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT...GG......MM G 7 T 2 A 99 J 98 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT.GG.......MM. T 2 G 5 M 99 J 98 I 98 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT..GG......MM. T 2 G 6 M 99 J 98 I 98 
+ 3  0  3 .......YY....AA.T.OOJJT..GGIT.MM.I.. T 1 J 98 I 98 M 96 G 6 
+ 3  0  3 ...I...YYIT...AAT.OOJJT..GG.......MM T 2 J 98 G 6 A 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ.GG.....MM.. A 99 G 6 M 98 O 99 I 98 
+ 3  0  3 .......YYIT.AA.IT.OOJJT....GG...MM.. T 2 J 98 M 98 I 99 A 99 
+ 3  0  3 ...I...YYIT...AAT.OOJJT...GG......MM G 7 T 2 A 99 J 98 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ..GG....MM... A 99 G 6 M 97 J 99 I 99 
+ 3  0  3 ...IT..YYIT...AAT...OOJJ.GG.....MM.. A 99 G 6 M 98 O 98 I 98 
+ 3  0  3 ....T..YYIT..AAIT..OOJJ..GG....MM... M 97 G 6 O 99 J 99 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ....GG...MM... G 7 J 98 M 97 I 98 A 99 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT....GG..MM... T 2 J 98 M 97 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ..GG.....MM... M 97 J 98 G 5 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ..GG....MM.... M 96 J 98 G 5 I 98 A 99 
+ 3  0  3 .......YY.....AA..OOJJT..GGIT..MMIT. T 0 A 99 J 98 I 98 M 97 G 6 
+ 3  0  3 ...IT..YYIT.AA..T.OO.JJ.GG....MM.... M 96 J 99 G 5 I 98 A 99 
+ 3  0  3 .......YY...AA..T.OOJJT..GGIT..MMI.. T 1 A 99 J 98 I 98 M 97 G 6 
+ 3  0  3 ...I...YYI..AA..T.OOJJT...GGT.MM.... A 99 T 1 M 96 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ.....GG..MM.. O 99 G 7 J 99 M 98 I 98 A 99 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ..GG....MM... M 97 A 99 J 99 G 6 O 99 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ..GG...MM.... M 96 A 99 J 99 G 6 O 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ.....GG...MM. J 99 M 99 A 99 O 99 G 7 I 99 
+ 3  0  3 .......YYI..AA.IT.OOJJT...GGT...MM.. A 99 M 98 T 1 J 98 G 7 I 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ.....GG..MM.. J 99 M 98 A 99 O 99 G 7 I 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT...GG....MM.. A 99 T 2 J 98 M 98 G 7 I 99 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ..GG...MM.... M 96 A 99 J 99 G 6 O 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ..GG......MM. A 99 J 99 G 6 O 99 M 99 I 99 
+ 3  0  3 .......YY.T.AA..T.OOJJT....IGG.MMI.. T 2 A 99 J 98 I 98 M 97 G 7 
+ 3  0  3 ....T..YYIT.AA.IT..OO.JJ.GG......MM. I 99 G 6 M 99 O 99 A 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ...GG..MM.... A 99 J 99 O 99 M 96 G 7 I 99 
+ 3  0  3 ....T..YY.T...AAT..OOJJ....IGG.MMI.. J 99 A 99 O 99 I 98 M 97 G 7 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ.....GG.MM... J 99 A 99 I 98 G 7 O 99 M 97 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ...GG..MM.... M 96 A 99 O 99 J 99 G 7 I 98 
+ 3  0  3 .......YYI..AA.I..OOJJT...GGT.MM..T. T 0 A 99 G 7 M 96 J 98 I 99 
+ 3  0  3 ...I...YYI..AA..T.OOJJT.GG..T....MM. T 1 M 99 J 98 G 5 I 98 A 99 
+ 3  0  3 ....T..YY.T.AA..T..OOJJ.GG.I..MM.I.. A 99 O 99 J 99 I 98 M 96 G 5 
+ 3  0  3 ....T..YY.T...AAT..OOJJ.GG.I..MM.I.. A 99 O 99 J 99 I 98 M 96 G 5 
+ 3  0  3 .......YYI..AA.IT.OOJJT..GG.T....MM. T 1 J 98 A 99 I 99 M 99 G 6 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT..GG....MM... T 2 J 98 G 6 M 97 I 98 A 99 
+ 3  0  3 .......YYI..AA.IT.OOJJT.GG..T.MM.... T 1 A 99 G 5 M 96 J 98 I 99 
+ 3  0  3 .......YY.T.AA..T.OOJJT..GGI..MM.I.. T 2 A 99 J 98 I 98 M 96 G 6 
+ 3  0  3 ...I...YYIT...AAT.OOJJT..GG....MM... T 2 M 97 J 98 G 6 A 99 I 98 
+ 3  0  3 ...I...YYIT...AAT.OOJJT.GG.....MM... T 2 M 97 J 98 G 5 A 99 I 98 
+ 3  0  3 ...I...YYI....AAT.OOJJT.GG..T..MM... T 1 M 97 J 98 G 5 A 99 I 98 
+ 3  0  3 .......YYI..AA.IT.OOJJT..GG.T.MM.... T 1 A 99 G 6 M 96 J 98 I 99 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT.....GG.MM... A 99 T 2 G 7 M 97 J 98 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ.GG.....MM... A 99 M 97 G 5 O 99 J 99 I 99 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ.....GG...MM. G 7 A 99 J 99 M 99 O 99 I 98 
+ 3  0  3 .......YYIT.AA.IT.OOJJT..GG...MM.... G 6 T 2 A 99 M 96 J 98 I 99 
+ 3  0  3 ....T..YY.T.AA..T..OOJJ.GG.I.....IMM J 99 I 98 G 5 O 99 A 99 
+ 3  0  3 ....T..YY.T...AAT..OOIJJGG.I...MM... O 99 A 99 I 99 M 97 G 5 
+ 3  0  3 ....T..YY.T.AA..T..OOJJ..GGI...MMI.. A 99 O 99 J 99 I 98 M 97 G 6 
+ 3  0  3 ...IT..YYIT...AAT.OOJJ....GG...MM... J 98 M 97 A 99 G 7 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ..GG.......MM. M 99 A 99 J 98 G 5 I 99 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ.....GG...MM. A 99 J 99 M 99 G 7 I 98 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ..GG.....MM.. G 6 J 99 M 98 I 99 A 99 
+ 3  0  3 ...I...YYIT...AAT.OOJJT.....GG....MM G 7 T 2 A 99 J 98 I 98 
+ 3  0  3 ....T..YY.T...AAT..OOIJJGG.I....MM.. M 98 O 99 A 99 I 99 G 5 
+ 3  0  3 ...I...YYI..AA..T.OOJJT.GG..T.....MM T 1 J 98 G 5 I 98 A 99 
+ 3  0  3 .......YY.T...AAT.OOJJT..GGI...MMI.. T 2 A 99 J 98 I 98 M 97 G 6 
+ 3  0  3 ...I...YYI....AAT.OOJJT...GGT.MM.... A 99 T 1 M 96 J 98 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ..GG.....MM.. J 99 G 6 O 99 M 98 I 98 A 99 
+ 3  0  3 ...I...YYI..AA..T.OOJJT...GGT...MM.. T 1 J 98 M 98 A 99 G 7 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ...GG...MM... A 99 G 7 J 99 M 97 O 99 I 98 
+ 3  0  3 ...I...YYI......AAOOJJT..GG.T...MMT. A 97 T 0 G 6 M 98 J 98 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ..GG.....MM.. M 98 A 99 J 99 G 6 O 99 I 98 
+ 3  0  3 ....T..YY.T.AA..T..OOJJ....IGGMM.I.. A 99 J 99 O 99 I 98 M 96 G 7 
+ 3  0  3 .......YY.T.AA..T.OOJJT....IGGMM.I.. T 2 A 99 J 98 I 98 M 96 G 7 
+ 3  0  3 ....T..YY.T.AA..T..OOJJ....IGG.MMI.. A 99 O 99 J 99 I 98 M 97 G 7 
+ 3  0  3 ....T..YY.T...AAT..OOJJ....IGGMM.I.. A 99 J 99 O 99 I 98 M 96 G 7 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ.GG.......MM. G 5 J 99 I 99 M 99 O 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT..OOJJ.GG.......MM. O 99 J 99 M 99 G 5 A 99 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ.....GGMM.... A 99 J 99 O 99 M 96 G 7 I 99 
+ 3  0  3 .......YYI..AA.IT.OOJJT...GGT.MM.... M 96 T 1 A 99 J 98 G 7 I 99 
+ 3  0  3 ...I...YYI....AAT.OOJJT...GGT..MM... A 99 T 1 M 97 J 98 G 7 I 98 
+ 3  0  3 ...I...YYIT...AAT.OOJJT.GG....MM.... A 99 G 5 T 2 J 98 M 96 I 98 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ..GG....MM... G 6 M 97 A 99 O 99 J 99 I 99 
+ 3  0  3 ...I...YYI..AA..T.OOJJT..GG.T.MM.... T 1 A 99 J 98 G 6 M 96 I 98 
+ 3  0  3 ...I...YYI..AA..T.OOJJT..GG.T...MM.. T 1 G 6 J 98 M 98 I 98 A 99 
+ 3  0  3 ....T..YY.T.AA..T..OOIJJGG.I....MM.. M 98 I 99 G 5 O 99 A 99 
+ 3  0  3 ....T..YY.T.AA..T..OOJJ.GG.I...MMI.. O 99 J 99 A 99 I 98 M 97 G 5 
+ 3  0  3 ....T..YYIT.AA.IT...OOJJ.GG....MM... O 98 G 6 M 97 I 99 A 99 
+ 3  0  3 ....T..YY.T...AAT...OOJJGG.I...MMI.. O 98 A 99 I 98 M 97 G 5 
+ 3  0  3 .......YYIT..AAIT.OOJJT..GG.....MM.. G 6 M 98 T 2 J 98 I 99 
+ 3  0  3 ...I...YYIT...AAT.OOJJT.GG........MM T 2 J 98 G 5 A 99 I 98 
+ 3  0  3 ....T..YY.T...AAT..OO.JJGG.I..MM.I.. O 99 A 99 I 98 M 96 G 5 
+ 3  0  3 ....T..YYIT.AA.IT.OO.JJ.GG.....MM... A 99 G 5 M 97 J 99 I 99 
+ 3  0  3 ...IT..YYIT.AA..T.OOJJ......GG.MM... J 98 G 7 M 97 I 98 A 99 
+ 3  0  3 ...I...YYI..AA..T.OOJJT..GG.T.....MM T 1 J 98 G 6 I 98 A 99 
+ 3  0  3 ....T..YYIT.AA.IT..OOJJ...GG....MM.. A 99 O 99 G 7 M 98 J 99 I 99 
+ 3  0  3 ...I...YYI..AA..T.OOJJT.GG..T...MM.. A 99 T 1 G 5 M 98 J 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OOJJ...GG..MM.... M 96 A 99 O 99 J 99 G 7 I 98 
+ 3  0  3 .......YYI..AA.IT.OOJJT.GG..T...MM.. T 1 A 99 G 5 M 98 J 98 I 99 
+ 3  0  3 .......YYIT.AA.IT.OOJJT...GG..MM.... G 7 T 2 A 99 M 96 J 98 I 99 
+ 3  0  3 ....T..YYIT.AA.IT.OOJJ...GG....MM... J 98 G 6 M 97 I 99 A 99 
+ 3  0  3 ...IT..YYIT...AAT.OO.JJ.....GG..MM.. A 99 G 7 M 98 J 99 I 98 
+ 3  0  3 .......YYIT.AA.IT.OOJJT....GG..MM... M 97 A 99 T 2 J 98 I 99 
+ 3  0  3 ...I...YYIT..AA.T.OOJJT..GG.....MM.. M 98 T 2 G 6 J 98 I 98 
+ 3  0  3 ...IT..YYIT.AA..T..OO.JJGG....MM.... M 96 O 99 G 5 I 98 A 99 
+ 3  0  3 ...I...YYIT...AAT.OOJJT.GG.......MM. T 2 J 98 M 99 G 5 A 99 I 98 
+ 3  0  3 ...I...YYIT...AAT.OOJJT...GG.....MM. T 2 A 99 M 99 J 98 G 7 I 98 
+ 3  0  3 ...I...YYIT.AA..T.OOJJT.....GG....MM G 7 T 2 A 99 J 98 I 98 
+ 3  0  3 ...IT..YYIT...AAT..OO.JJ..GG...MM... O 99 M 97 A 99 G 7 I 98 

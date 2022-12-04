@@ -1,0 +1,15 @@
+Initial Board Configuration: .NVU...NVUGGAA.WX....WX....WX.JJ..CC
+
+. N V U . .
+. N V U G G
+A A . W X .
+. . . W X .
+. . . W X .
+J J . . C C
+
+Car Fuel Available: N:6 V:100 U:4 G:6 A:100 W:1 X:100 J:100 C:100 
+
+Puzzle cannot be solved. 
+Error: No Solution
+
+Runtime: 0.0180819034576416

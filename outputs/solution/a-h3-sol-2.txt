@@ -1,0 +1,29 @@
+Initial Board Configuration: NN......GWWWAAGT.FO..T.FO..QQC..YY.C
+
+N N . . . .
+. . G W W W
+A A G T . F
+O . . T . F
+O . . Q Q C
+. . Y Y . C
+
+Car Fuel Available: N:100 G:100 W:100 A:100 T:100 F:100 O:0 Q:2 C:100 Y:6 
+
+Runtime: 1.4948766231536865
+Search Path Length: 2164
+Solution Path Length: 5
+Solution Path: G down 2; W left 3; F up 2; T up 2; A right 4
+
+G  down 2 	98 NN.......WWWAA.T.FO.GT.FO.GQQC..YY.C G98 
+W  left 3 	97 NN....WWW...AA.T.FO.GT.FO.GQQC..YY.C G98 W97 
+F    up 2 	98 NN...FWWW..FAA.T..O.GT..O.GQQC..YY.C G98 W97 F98 
+T    up 2 	98 NN.T.FWWWT.FAA....O.G...O.GQQC..YY.C G98 W97 F98 T98 
+A right 4 	96 NN.T.FWWWT.F....AAO.G...O.GQQC..YY.C G98 W97 F98 T98 A96 
+
+! G98 W97 F98 T98 A96 
+N N . T . F
+W W W T . F
+. . . . A A
+O . G . . .
+O . G Q Q C
+. . Y Y . C

@@ -1,0 +1,1739 @@
+ 8  0  8 .UU..........AA.KF...PKF.YYP......RR
+ 8  0  8 ....UU.......AA.KF...PKF.YYP......RR U 97 
+ 8  0  8 ..UU.........AA.KF...PKF.YYP......RR U 99 
+ 8  0  8 .UU..........AA..F...PKF.YYPK.....RR K 99 
+ 8  0  8 .UU..........AAPKF...PKF.YY.......RR P 1 
+ 8  0  8 .UU..........AA.KF...PKF.YYP.....RR. R 99 
+ 8  0  8 .UU......P...AAPKF....KF.YY.......RR P 0 
+ 8  0  8 .UU.........AA..KF...PKF.YYP......RR A 5 
+ 8  0  8 .UU..........AA.KF....KF.YYP.....PRR P 1 
+ 8  0  8 .UU........F.AA.KF...PK..YYP......RR F 1 
+ 8  0  8 ...UU........AA.KF...PKF.YYP......RR U 98 
+ 8  0  8 .UU...........AAKF...PKF.YYP......RR A 5 
+ 8  0  8 .UU..F.....F.AA.K....PK..YYP......RR F 0 
+ 8  0  8 .UU..........AA.K....PKF.YYP.F....RR F 1 
+ 8  0  8 UU...........AA.KF...PKF.YYP......RR U 99 
+ 8  0  8 .UU.......K..AA.KF...P.F.YYP......RR K 99 
+ 8  0  8 .UU..........AA.KF...PKF.YYP....RR.. R 98 
+ 8  0  8 .UU..........AA.KF...PKF.YYP...RR... R 97 
+ 8  0  8 .UU.K.....K..AA..F...P.F.YYP......RR K 98 
+ 8  0  8 .UU..........AA.KF...PKF.YYP..RR.... R 96 
+ 8  0  8 .UU..........AA.KF...PKFYY.P......RR Y 0 
+ 8  0  8 ....UU.......AA.KF...PKF.YYP..RR.... R 96 U 97 
+ 8  0  8 ....UU.......AA.KF...PKF.YYP.....RR. R 99 U 97 
+ 8  0  8 .UU..........AA..F...PKF.YYPK.RR.... R 96 K 99 
+ 8  0  8 .UU..........AA..F...PKF.YYPK....RR. R 99 K 99 
+ 8  0  8 .UU.........AA..KF...PKF.YYP....RR.. R 98 A 5 
+ 8  0  8 .UU........F..AAKF...PK..YYP......RR A 5 F 1 
+ 8  0  8 .UU..........AA.KF...PKFYY.P..RR.... Y 0 R 96 
+ 8  0  8 UU.........F.AA.KF...PK..YYP......RR U 99 F 1 
+ 8  0  8 .UU..........AA..F...PKFYY.PK.....RR Y 0 K 99 
+ 8  0  8 ...UU......F.AA.KF...PK..YYP......RR U 98 F 1 
+ 8  0  8 ....UU.......AA.KF...PKFYY.P......RR Y 0 U 97 
+ 8  0  8 .UU..........AAP.F...PKF.YY.K.....RR P 1 K 99 
+ 8  0  8 .UU........F.AA.KF....K..YYP.....PRR F 1 P 1 
+ 8  0  8 .UU..F.....F.AA.K.....K..YYP.....PRR F 0 P 1 
+ 8  0  8 .UU......P...AAP.F....KF.YY.K.....RR P 0 K 99 
+ 8  0  8 .UU..........AA.K.....KF.YYP.F...PRR F 1 P 1 
+ 8  0  8 .UU.......K..AA.KF.....F.YYP.....PRR K 99 P 1 
+ 8  0  8 ....UU.......AAPKF...PKF.YY.......RR P 1 U 97 
+ 8  0  8 ..UU.........AA.KF...PKF.YYP.....RR. R 99 U 99 
+ 8  0  8 .UU..........AA..F....KF.YYPK....PRR P 1 K 99 
+ 8  0  8 .UU.K.....K..AA..F.....F.YYP.....PRR K 98 P 1 
+ 8  0  8 .UU...........AAKF....KF.YYP.....PRR A 5 P 1 
+ 8  0  8 .UU........F.AA..F...PK..YYPK.....RR F 1 K 99 
+ 8  0  8 UU...........AA.KF....KF.YYP.....PRR U 99 P 1 
+ 8  0  8 ...UU........AA.KF....KF.YYP.....PRR U 98 P 1 
+ 8  0  8 ....UU...P...AAPKF....KF.YY.......RR P 0 U 97 
+ 8  0  8 .UU..F.....F.AA......PK..YYPK.....RR F 0 K 99 
+ 8  0  8 .UU.........AA..KF...PKF.YYP...RR... R 97 A 5 
+ 8  0  8 .UU.........AA..KF...PKF.YYP..RR.... R 96 A 5 
+ 8  0  8 .UU..........AA......PKF.YYPKF....RR F 1 K 99 
+ 8  0  8 .UU.........AA..KF...PKFYY.P......RR Y 0 A 5 
+ 8  0  8 .UU.........AA..KF....KF.YYP.....PRR P 1 A 5 
+ 8  0  8 ....UU.......AA.KF....KF.YYP.....PRR P 1 U 97 
+ 8  0  8 .UU..........AAPKF...PKF.YY......RR. R 99 P 1 
+ 8  0  8 .UU......P...AAPKF....KF.YY.....RR.. R 98 P 0 
+ 8  0  8 .UU........FAA..KF...PK..YYP......RR F 1 A 5 
+ 8  0  8 .UU..F.....FAA..K....PK..YYP......RR F 0 A 5 
+ 8  0  8 .UU.........AA...F...PKF.YYPK.....RR A 5 K 99 
+ 8  0  8 .UU.........AA..K....PKF.YYP.F....RR F 1 A 5 
+ 8  0  8 .UU.......K.AA..KF...P.F.YYP......RR K 99 A 5 
+ 8  0  8 ....UU.....F.AA.KF...PK..YYP......RR F 1 U 97 
+ 8  0  8 .UU...........AA.F...PKF.YYPK.....RR A 5 K 99 
+ 8  0  8 .UU.K.....K.AA...F...P.F.YYP......RR K 98 A 5 
+ 8  0  8 .UU............AAF...PKF.YYPK.....RR A 4 K 99 
+ 8  0  8 UU..........AA..KF...PKF.YYP......RR U 99 A 5 
+ 8  0  8 ...UU.......AA..KF...PKF.YYP......RR U 98 A 5 
+ 8  0  8 ....UU.......AA.K....PKF.YYP.F....RR F 1 U 97 
+ 8  0  8 UU...........AA..F...PKF.YYPK.....RR U 99 K 99 
+ 8  0  8 .UU......P...AAPKF....KF.YY....RR... R 97 P 0 
+ 8  0  8 .UU......P...AAPKF....KF.YY...RR.... R 96 P 0 
+ 8  0  8 ...UU........AA..F...PKF.YYPK.....RR U 98 K 99 
+ 8  0  8 .UU......P...AAPKF....KFYY........RR Y 0 P 0 
+ 8  0  8 .UU......P...AAPKF....KF..YY......RR Y 0 P 0 
+ 8  0  8 ....UU....K..AA.KF...P.F.YYP......RR K 99 U 97 
+ 8  0  8 ..UU.........AA.KF...PKF.YYP....RR.. R 98 U 99 
+ 8  0  8 .UU......P.F.AAPKF....K..YY.......RR F 1 P 0 
+ 8  0  8 .UU..F...P.F.AAPK.....K..YY.......RR F 0 P 0 
+ 8  0  8 ..UU.........AA.KF...PKF.YYP...RR... R 97 U 99 
+ 8  0  8 .UU......P...AAPK.....KF.YY..F....RR F 1 P 0 
+ 8  0  8 .UU......PK..AAPKF.....F.YY.......RR K 99 P 0 
+ 8  0  8 ....UU.......AA..F...PKF.YYPK.....RR K 99 U 97 
+ 8  0  8 ..UU.........AA.KF...PKF.YYP..RR.... R 96 U 99 
+ 8  0  8 .UU.K....PK..AAP.F.....F.YY.......RR K 98 P 0 
+ 8  0  8 .UU..........AA.KF....KFYY.P.....PRR Y 0 P 1 
+ 8  0  8 ...UU........AA.KF...PKF.YYP....RR.. R 98 U 98 
+ 8  0  8 .UU.K.....K..AA..F...P.F.YYP..RR.... R 96 K 98 
+ 8  0  8 .UU......P..AA.PKF....KF.YY.......RR A 5 P 0 
+ 8  0  8 .UU..........AA.KF....KF.YYP..RR.P.. P 1 R 96 
+ 8  0  8 ..UU.........AA.KF...PKFYY.P......RR Y 0 U 99 
+ 8  0  8 UU.......P...AAPKF....KF.YY.......RR U 99 P 0 
+ 8  0  8 .UU..........AA.K....PK..YYP.FRR...F F 0 R 96 
+ 8  0  8 .UU..........AA..F...P.F.YYPK.RR..K. K 98 R 96 
+ 8  0  8 ...UU....P...AAPKF....KF.YY.......RR U 98 P 0 
+ 8  0  8 .UU.K.....K..AA..F...P.FYY.P......RR Y 0 K 98 
+ 8  0  8 ....UU......AA..KF...PKF.YYP......RR A 5 U 97 
+ 8  0  8 ..UU.........AAPKF...PKF.YY.......RR P 1 U 99 
+ 8  0  8 .UU..........AA.KF...PKFYY.P.....RR. Y 0 R 99 
+ 8  0  8 .UU.K.....K....AAF...P.F.YYP......RR A 4 K 98 
+ 8  0  8 .UU..........AA.KF...PKFYY.P...RR... Y 0 R 97 
+ 8  0  8 .UU......P...AAPKF....KF.YY......RR. P 0 R 99 
+ 8  0  8 .UU..........AA.KF....KF.YYP...RRP.. P 1 R 97 
+ 8  0  8 .UU..........AA.K....PK..YYP.F.RR..F F 0 R 97 
+ 8  0  8 ..UU.....P...AAPKF....KF.YY.......RR P 0 U 99 
+ 8  0  8 .UU........F.AA.KF...PK..YYP.....RR. F 1 R 99 
+ 8  0  8 .UU.K.....K..AA..F...P.F.YYP...RR... K 98 R 97 
+ 8  0  8 .UU..........AA..F...P.F.YYPK..RR.K. K 98 R 97 
+ 8  0  8 .UU..F.....F.AA.K....PK..YYP.....RR. F 0 R 99 
+ 8  0  8 .UU..........AA.KF...PKFYY.P....RR.. Y 0 R 98 
+ 8  0  8 .UU..........AA.K....PK..YYP.F..RR.F F 0 R 98 
+ 8  0  8 ....UU........AAKF...PKF.YYP......RR A 5 U 97 
+ 8  0  8 ..UU.........AA.KF....KF.YYP.....PRR P 1 U 99 
+ 8  0  8 .UU..........AA.K....PKF.YYP.F...RR. F 1 R 99 
+ 8  0  8 .UU........F.AA.KF...PK..YYP....RR.. R 98 F 1 
+ 8  0  8 .UU.K.....K..AA..F...P.F.YYP....RR.. K 98 R 98 
+ 8  0  8 .UU..........AA..F...P.F.YYPK...RRK. K 98 R 98 
+ 8  0  8 .UU..........AA.K....PK..YYP.F...RRF F 0 R 99 
+ 8  0  8 .UU.......K..AA.KF...P.F.YYP...RR... R 97 K 99 
+ 8  0  8 .UU.......K..AA.KF...P.F.YYP..RR.... R 96 K 99 
+ 8  0  8 ..UU.......F.AA.KF...PK..YYP......RR F 1 U 99 
+ 8  0  8 .UU.......K..AA.KF...P.F.YYP.....RR. K 99 R 99 
+ 8  0  8 .UU.......K..AA.KF...P.FYY.P......RR Y 0 K 99 
+ 8  0  8 .UU.K.....K..AA..F...P.F.YYP.....RR. K 98 R 99 
+ 8  0  8 UU...........AA.KF...PKF.YYP...RR... R 97 U 99 
+ 8  0  8 UU...........AA.KF...PKF.YYP..RR.... R 96 U 99 
+ 8  0  8 ..UU.F.....F.AA.K....PK..YYP......RR F 0 U 99 
+ 8  0  8 .UU.........AA..KF...PKF.YYP.....RR. A 5 R 99 
+ 8  0  8 UU...........AA.KF...PKFYY.P......RR Y 0 U 99 
+ 8  0  8 UU........K..AA.KF...P.F.YYP......RR K 99 U 99 
+ 8  0  8 .UU...........AAKF...PKF.YYP.....RR. A 5 R 99 
+ 8  0  8 UU..K.....K..AA..F...P.F.YYP......RR K 98 U 99 
+ 8  0  8 ..UU.........AA.K....PKF.YYP.F....RR F 1 U 99 
+ 8  0  8 UU...........AA.KF...PKF.YYP.....RR. U 99 R 99 
+ 8  0  8 .UU..........AA.K....PKF.YYP.F.RR... R 97 F 1 
+ 8  0  8 .UU..........AA.K....PKF.YYP.FRR.... R 96 F 1 
+ 8  0  8 ...UU........AA.KF...PKF.YYP.....RR. U 98 R 99 
+ 8  0  8 .UU..........AA.K....PKFYY.P.F....RR Y 0 F 1 
+ 8  0  8 ..UU......K..AA.KF...P.F.YYP......RR K 99 U 99 
+ 8  0  8 .UU..........AAPKF...PKF.YY.....RR.. R 98 P 1 
+ 8  0  8 .UU...........AAKF...PKF.YYP....RR.. R 98 A 5 
+ 8  0  8 .UU.......K..AA.K....P.F.YYP.F....RR K 99 F 1 
+ 8  0  8 .UU..........AA.K....PKF.YYP.F..RR.. R 98 F 1 
+ 8  0  8 .UU.K.....K..AA......P.F.YYP.F....RR K 98 F 1 
+ 8  0  8 .UU..........AAPKF...PKF.YY....RR... R 97 P 1 
+ 8  0  8 UU...........AA.K....PKF.YYP.F....RR U 99 F 1 
+ 8  0  8 .UU..F.....F.AA.K....PK..YYP...RR... R 97 F 0 
+ 8  0  8 ..UUK.....K..AA..F...P.F.YYP......RR K 98 U 99 
+ 8  0  8 .UU..........AAPKF...PKF.YY...RR.... R 96 P 1 
+ 8  0  8 .UU..F.....F.AA.K....PK..YYP..RR.... R 96 F 0 
+ 8  0  8 .UU..F.....F.AA.K....PK.YY.P......RR Y 0 F 0 
+ 8  0  8 .UU..........AAPKF...PKFYY........RR Y 0 P 1 
+ 8  0  8 .UU..F....KF.AA.K....P...YYP......RR K 99 F 0 
+ 8  0  8 .UU.KF....KF.AA......P...YYP......RR K 98 F 0 
+ 8  0  8 ..UU.........AA..F...PKF.YYPK.....RR K 99 U 99 
+ 8  0  8 .UU..........AAPKF...PKF..YY......RR Y 0 P 1 
+ 8  0  8 UU...F.....F.AA.K....PK..YYP......RR U 99 F 0 
+ 8  0  8 .UU..F.....F.AA.K....PK..YYP....RR.. R 98 F 0 
+ 8  0  8 .UU...........AAKF...PKF.YYP...RR... R 97 A 5 
+ 8  0  8 .UU...........AAKF...PKF.YYP..RR.... R 96 A 5 
+ 8  0  8 .UU...........AAKF...PKFYY.P......RR Y 0 A 5 
+ 8  0  8 ..UU........AA..KF...PKF.YYP......RR A 5 U 99 
+ 8  0  8 .UU........F.AAPKF...PK..YY.......RR F 1 P 1 
+ 8  0  8 .UU..F.....F..AAK....PK..YYP......RR F 0 A 5 
+ 8  0  8 .UU...........AAK....PKF.YYP.F....RR F 1 A 5 
+ 8  0  8 .UU..F.....F.AAPK....PK..YY.......RR F 0 P 1 
+ 8  0  8 .UU.......K...AAKF...P.F.YYP......RR K 99 A 5 
+ 8  0  8 .UU.K.....K...AA.F...P.F.YYP......RR K 98 A 5 
+ 8  0  8 ..UU..........AAKF...PKF.YYP......RR A 5 U 99 
+ 8  0  8 .UU..........AAPK....PKF.YY..F....RR F 1 P 1 
+ 8  0  8 UU...........AA.KF...PKF.YYP....RR.. R 98 U 99 
+ 8  0  8 UU............AAKF...PKF.YYP......RR U 99 A 5 
+ 8  0  8 .UU.......K..AAPKF...P.F.YY.......RR K 99 P 1 
+ 8  0  8 ...UU........AA.KF...PKF.YYP...RR... R 97 U 98 
+ 8  0  8 ...UU........AA.KF...PKF.YYP..RR.... R 96 U 98 
+ 8  0  8 .UU.K.....K..AAP.F...P.F.YY.......RR K 98 P 1 
+ 8  0  8 ...UU........AA.KF...PKFYY.P......RR Y 0 U 98 
+ 8  0  8 ...UUF.....F.AA.K....PK..YYP......RR F 0 U 98 
+ 8  0  8 .UU.........AA.PKF...PKF.YY.......RR A 5 P 1 
+ 8  0  8 ...UU........AA.K....PKF.YYP.F....RR F 1 U 98 
+ 8  0  8 ...UU.....K..AA.KF...P.F.YYP......RR K 99 U 98 
+ 8  0  8 ....UU.......AA.KF...PKF.YYP....RR.. R 98 U 97 
+ 8  0  8 UU...........AAPKF...PKF.YY.......RR U 99 P 1 
+ 8  0  8 ...UU.........AAKF...PKF.YYP......RR A 5 U 98 
+ 8  0  8 .UU.......K..AA.KF...P.F.YYP....RR.. R 98 K 99 
+ 8  0  8 ...UU........AAPKF...PKF.YY.......RR U 98 P 1 
+ 8  0  8 .UU........F.AA.KF...PK..YYP...RR... R 97 F 1 
+ 8  0  8 .UU........F.AA.KF...PK..YYP..RR.... R 96 F 1 
+ 8  0  8 ....UU.......AA.KF...PKF.YYP...RR... R 97 U 97 
+ 8  0  8 .UU..........AA..F...PKF.YYPK...RR.. R 98 K 99 
+ 8  0  8 .UU........F.AA.KF...PK.YY.P......RR Y 0 F 1 
+ 8  0  8 .UU..........AA..F...PKF.YYPK..RR... R 97 K 99 
+ 8  0  8 .UU.......KF.AA.KF...P...YYP......RR K 99 F 1 
+ 8  0  8 .UU.K.....KF.AA..F...P...YYP......RR K 98 F 1 
+ 8  0  8 ....UU.......AA.KF...PKFYY.P..RR.... Y 0 R 96 U 97 
+ 8  0  8 .UU..........AA..F...PKFYY.PK.RR.... Y 0 R 96 K 99 
+ 8  0  8 .UU........F..AAKF....K..YYP.....PRR P 1 A 5 F 1 
+ 8  0  8 .UU........F..AAKF...PK..YYP....RR.. R 98 A 5 F 1 
+ 8  0  8 .UU........F.AA.KF....K.YY.P.....PRR Y 0 F 1 P 1 
+ 8  0  8 .UU.........AA.PKF...PKF.YY...RR.... P 1 R 96 A 5 
+ 8  0  8 ....UU.........AAF...PKF.YYPK.....RR U 97 A 4 K 99 
+ 8  0  8 ..UU.........AA.KF...PKFYY.P...RR... Y 0 R 97 U 99 
+ 8  0  8 .UU.......K...AAK....P.F.YYP.F....RR A 5 K 99 F 1 
+ 8  0  8 ...UU.....K..AA.K....P.F.YYP.F....RR U 98 K 99 F 1 
+ 8  0  8 .UU.K....PK.AA.P.F.....F.YY.......RR P 0 K 98 A 5 
+ 8  0  8 .UU.......KF..AAKF...P...YYP......RR K 99 A 5 F 1 
+ 8  0  8 UU..K.....K.AA...F...P.F.YYP......RR U 99 K 98 A 5 
+ 8  0  8 ..UUK.....K.AA...F...P.F.YYP......RR U 99 K 98 A 5 
+ 8  0  8 ....UU.......AA.KF...PKFYY.P.....RR. Y 0 R 99 U 97 
+ 8  0  8 .UU.K.....KF..AA.F...P...YYP......RR K 98 A 5 F 1 
+ 8  0  8 .UU...........AA.F...PKF.YYPK..RR... R 97 A 5 K 99 
+ 8  0  8 .UU..F.....F..AA.....PK..YYPK.....RR F 0 A 5 K 99 
+ 8  0  8 .UU........F..AA.F...PK..YYPK.....RR K 99 A 5 F 1 
+ 8  0  8 .UU...........AA.....PKF.YYPKF....RR F 1 A 5 K 99 
+ 8  0  8 UU............AA.F...PKF.YYPK.....RR U 99 A 5 K 99 
+ 8  0  8 .UU..........AA..F...PKFYY.PK....RR. Y 0 R 99 K 99 
+ 8  0  8 UU.........F..AAKF...PK..YYP......RR U 99 A 5 F 1 
+ 8  0  8 .UU........F..AAKF...PK..YYP.....RR. R 99 A 5 F 1 
+ 8  0  8 ..UU..........AA.F...PKF.YYPK.....RR U 99 A 5 K 99 
+ 8  0  8 ...UU.........AA.F...PKF.YYPK.....RR U 98 A 5 K 99 
+ 8  0  8 ..UU.......F..AAKF...PK..YYP......RR U 99 A 5 F 1 
+ 8  0  8 ....UU........AA.F...PKF.YYPK.....RR U 97 A 5 K 99 
+ 8  0  8 ....UU.....F.AA.KF...PK..YYP...RR... R 97 F 1 U 97 
+ 8  0  8 .UU.........AA..KF...PKFYY.P....RR.. Y 0 R 98 A 5 
+ 8  0  8 ...UU......F..AAKF...PK..YYP......RR U 98 A 5 F 1 
+ 8  0  8 ....UU....KF.AA.KF...P...YYP......RR K 99 F 1 U 97 
+ 8  0  8 .UU.......K.AA.PKF...P.F.YY.......RR P 1 K 99 A 5 
+ 8  0  8 ....UU.....F..AAKF...PK..YYP......RR U 97 A 5 F 1 
+ 8  0  8 .UU......PK.AA.PKF.....F.YY.......RR P 0 K 99 A 5 
+ 8  0  8 UU........K.AA..KF...P.F.YYP......RR U 99 K 99 A 5 
+ 8  0  8 .UU.........AA.PKF...PKF.YY.....RR.. P 1 R 98 A 5 
+ 8  0  8 .UU..........AAPKF...PKFYY....RR.... P 1 Y 0 R 96 
+ 8  0  8 .UU..........AA..F...PKFYY.PK...RR.. R 98 Y 0 K 99 
+ 8  0  8 .UU..........AAP.F...PKF.YY.K...RR.. R 98 P 1 K 99 
+ 8  0  8 ..UU......K.AA..KF...P.F.YYP......RR U 99 K 99 A 5 
+ 8  0  8 ...UU.....K.AA..KF...P.F.YYP......RR U 98 K 99 A 5 
+ 8  0  8 .UU......P..AA.PKF....KF.YY.....RR.. P 0 R 98 A 5 
+ 8  0  8 ....UU....K.AA..KF...P.F.YYP......RR U 97 K 99 A 5 
+ 8  0  8 .UU.........AA.PK....PKF.YY..F....RR P 1 F 1 A 5 
+ 8  0  8 .UU........FAA..KF...PK..YYP....RR.. F 1 R 98 A 5 
+ 8  0  8 UU.........F.AA.KF...PK..YYP.....RR. R 99 U 99 F 1 
+ 8  0  8 .UU......P..AA.PK.....KF.YY..F....RR P 0 F 1 A 5 
+ 8  0  8 .UU.......K.AA..K....P.F.YYP.F....RR K 99 F 1 A 5 
+ 8  0  8 .UU..F.....FAA..K....PK..YYP....RR.. F 0 R 98 A 5 
+ 8  0  8 .UU.K.....K.AA.......P.F.YYP.F....RR K 98 F 1 A 5 
+ 8  0  8 UU..........AA..K....PKF.YYP.F....RR U 99 F 1 A 5 
+ 8  0  8 .UU.........AA..K....PKF.YYP.F..RR.. F 1 R 98 A 5 
+ 8  0  8 ...UU......F.AA.KF...PK..YYP.....RR. R 99 U 98 F 1 
+ 8  0  8 ....UU.......AA.KF...PKFYY.P....RR.. R 98 Y 0 U 97 
+ 8  0  8 ..UU........AA..K....PKF.YYP.F....RR U 99 F 1 A 5 
+ 8  0  8 ...UU.......AA..K....PKF.YYP.F....RR U 98 F 1 A 5 
+ 8  0  8 .UU.........AA..K....PK..YYP.F..RR.F F 0 R 98 A 5 
+ 8  0  8 ....UU......AA..K....PKF.YYP.F....RR U 97 F 1 A 5 
+ 8  0  8 UU..........AA...F...PKF.YYPK.....RR U 99 A 5 K 99 
+ 8  0  8 .UU.......K.AA..KF...P.F.YYP....RR.. K 99 R 98 A 5 
+ 8  0  8 ...UU......F.AA.KF...PK..YYP....RR.. R 98 U 98 F 1 
+ 8  0  8 ..UU........AA...F...PKF.YYPK.....RR U 99 A 5 K 99 
+ 8  0  8 ...UU.......AA...F...PKF.YYPK.....RR U 98 A 5 K 99 
+ 8  0  8 .UU.K.....K.AA...F...P.F.YYP....RR.. K 98 R 98 A 5 
+ 8  0  8 ....UU......AA...F...PKF.YYPK.....RR U 97 A 5 K 99 
+ 8  0  8 .UU..F.....FAA.PK....PK..YY.......RR P 1 F 0 A 5 
+ 8  0  8 .UU.........AA...F...PKF.YYPK...RR.. K 99 R 98 A 5 
+ 8  0  8 .UU..F.....F.AA.K.....K.YY.P.....PRR Y 0 F 0 P 1 
+ 8  0  8 .UU..........AA.K.....KFYY.P.F...PRR Y 0 F 1 P 1 
+ 8  0  8 .UU.........AA...F....KF.YYPK....PRR A 5 P 1 K 99 
+ 8  0  8 .UU.........AA..KF...PKFYY.P...RR... Y 0 R 97 A 5 
+ 8  0  8 .UU..F...P.FAA.PK.....K..YY.......RR P 0 F 0 A 5 
+ 8  0  8 .UU..F....KFAA..K....P...YYP......RR K 99 F 0 A 5 
+ 8  0  8 .UU.........AA...F...P.F.YYPK...RRK. K 98 R 98 A 5 
+ 8  0  8 .UU.KF....KFAA.......P...YYP......RR K 98 F 0 A 5 
+ 8  0  8 .UU..F.....FAA.......PK..YYPK.....RR K 99 F 0 A 5 
+ 8  0  8 UU..........AA..KF...PKF.YYP....RR.. U 99 R 98 A 5 
+ 8  0  8 .UU......P...AAP.F....KF.YY.K...RR.. R 98 P 0 K 99 
+ 8  0  8 UU...F.....FAA..K....PK..YYP......RR U 99 F 0 A 5 
+ 8  0  8 ..UU.F.....FAA..K....PK..YYP......RR U 99 F 0 A 5 
+ 8  0  8 ..UU........AA..KF...PKF.YYP....RR.. U 99 R 98 A 5 
+ 8  0  8 ...UUF.....FAA..K....PK..YYP......RR U 98 F 0 A 5 
+ 8  0  8 .UU........FAA.PKF...PK..YY.......RR P 1 F 1 A 5 
+ 8  0  8 ...UU.......AA..KF...PKF.YYP....RR.. U 98 R 98 A 5 
+ 8  0  8 .UU.......K..AA.KF.....FYY.P.....PRR Y 0 K 99 P 1 
+ 8  0  8 ..UU.........AA.KF...PKFYY.P.....RR. Y 0 R 99 U 99 
+ 8  0  8 .UU......P.FAA.PKF....K..YY.......RR P 0 F 1 A 5 
+ 8  0  8 .UU.......KFAA..KF...P...YYP......RR K 99 F 1 A 5 
+ 8  0  8 ....UU......AA..KF...PKF.YYP....RR.. U 97 R 98 A 5 
+ 8  0  8 .UU.K.....KFAA...F...P...YYP......RR K 98 F 1 A 5 
+ 8  0  8 ..UU.......FAA..KF...PK..YYP......RR U 99 F 1 A 5 
+ 8  0  8 .UU..........AAP.F...PKF.YY.K....RR. P 1 R 99 K 99 
+ 8  0  8 ....UU.......AAPKF...PKF.YY.....RR.. R 98 P 1 U 97 
+ 8  0  8 ....UU.....FAA..KF...PK..YYP......RR U 97 F 1 A 5 
+ 8  0  8 .UU......P...AAPKF....KF..YY....RR.. Y 0 R 98 P 0 
+ 8  0  8 .UU......P...AAP.F....KF.YY.K....RR. P 0 R 99 K 99 
+ 8  0  8 .UU......P.F.AAPKF....K..YY.....RR.. F 1 R 98 P 0 
+ 8  0  8 .UU..F...P.F.AAPK.....K..YY.....RR.. F 0 R 98 P 0 
+ 8  0  8 .UU........F.AA..F...PK..YYPK....RR. F 1 R 99 K 99 
+ 8  0  8 .UU.K.....K..AA..F.....FYY.P.....PRR Y 0 K 98 P 1 
+ 8  0  8 .UU........F.AA..F...PK..YYPK...RR.. R 98 F 1 K 99 
+ 8  0  8 .UU......P...AAPK.....KF.YY..F..RR.. F 1 R 98 P 0 
+ 8  0  8 .UU......P...AAPK.....K..YY..F..RR.F F 0 R 98 P 0 
+ 8  0  8 .UU..F.....F.AA......PK..YYPK....RR. F 0 R 99 K 99 
+ 8  0  8 .UU......PK..AAPKF.....F.YY.....RR.. K 99 R 98 P 0 
+ 8  0  8 .UU.K....PK..AAP.F.....F.YY.....RR.. K 98 R 98 P 0 
+ 8  0  8 .UU..........AA......PKF.YYPKF...RR. F 1 R 99 K 99 
+ 8  0  8 .UU...........AAKF....KFYY.P.....PRR Y 0 A 5 P 1 
+ 8  0  8 .UU......P...AAP.F.....F.YY.K...RRK. K 98 R 98 P 0 
+ 8  0  8 UU.......P...AAPKF....KF.YY.....RR.. U 99 R 98 P 0 
+ 8  0  8 .UU..........AA......PK..YYPKF...RRF F 0 R 99 K 99 
+ 8  0  8 ..UU.....P...AAPKF....KF.YY.....RR.. U 99 R 98 P 0 
+ 8  0  8 ...UU....P...AAPKF....KF.YY.....RR.. U 98 R 98 P 0 
+ 8  0  8 .UU.........AA...F...PKF.YYPK....RR. A 5 R 99 K 99 
+ 8  0  8 UU...........AA.KF....KFYY.P.....PRR Y 0 U 99 P 1 
+ 8  0  8 ....UU...P...AAPKF....KF.YY.....RR.. R 98 P 0 U 97 
+ 8  0  8 .UU..........AAPKF...PKF..YY.....RR. Y 0 R 99 P 1 
+ 8  0  8 .UU........F.AAPKF...PK..YY......RR. F 1 R 99 P 1 
+ 8  0  8 .UU...........AA.F...PKF.YYPK....RR. A 5 R 99 K 99 
+ 8  0  8 .UU..F.....F.AAPK....PK..YY......RR. F 0 R 99 P 1 
+ 8  0  8 .UU..........AAPK....PKF.YY..F...RR. F 1 R 99 P 1 
+ 8  0  8 .UU............AAF...PKF.YYPK....RR. A 4 R 99 K 99 
+ 8  0  8 ...UU........AA.KF....KFYY.P.....PRR Y 0 U 98 P 1 
+ 8  0  8 .UU..........AAPK....PK..YY..F...RRF F 0 R 99 P 1 
+ 8  0  8 .UU.......K..AAPKF...P.F.YY......RR. K 99 R 99 P 1 
+ 8  0  8 UU...........AA..F...PKF.YYPK....RR. U 99 R 99 K 99 
+ 8  0  8 .UU.K.....K..AAP.F...P.F.YY......RR. K 98 R 99 P 1 
+ 8  0  8 .UU.........AA.PKF...PKF.YY......RR. A 5 R 99 P 1 
+ 8  0  8 ..UU.........AA..F...PKF.YYPK....RR. U 99 R 99 K 99 
+ 8  0  8 .UU.............AA...PKF.YYPKF....RR A 3 F 1 K 99 
+ 8  0  8 ....UU......AA..KF....KF.YYP.....PRR U 97 P 1 A 5 
+ 8  0  8 UU...........AAPKF...PKF.YY......RR. U 99 R 99 P 1 
+ 8  0  8 .UU......P...AAPKF....KFYY......RR.. Y 0 R 98 P 0 
+ 8  0  8 .UU.K.....K.AA...F...P.F.YYP.....RR. R 99 K 98 A 5 
+ 8  0  8 .UU..F...P.F.AAPK.....K..YY......RR. R 99 F 0 P 0 
+ 8  0  8 ...UU........AAPKF...PKF.YY......RR. U 98 R 99 P 1 
+ 8  0  8 ...UU........AA..F...PKF.YYPK....RR. U 98 R 99 K 99 
+ 8  0  8 .UU......P..AA.PKF....KFYY........RR P 0 Y 0 A 5 
+ 8  0  8 .UU.........AA..KF....KFYY.P.....PRR P 1 Y 0 A 5 
+ 8  0  8 .UU..........AAP.F...PKF.YY.K.RR.... P 1 R 96 K 99 
+ 8  0  8 .UU........FAA..KF...PK.YY.P......RR F 1 Y 0 A 5 
+ 8  0  8 .UU.........AA..KF...PKFYY.P.....RR. R 99 Y 0 A 5 
+ 8  0  8 .UU..F.....FAA..K....PK.YY.P......RR F 0 Y 0 A 5 
+ 8  0  8 .UU......P...AAP.F....KF.YY.K.RR.... P 0 R 96 K 99 
+ 8  0  8 .UU.........AA..K....PKFYY.P.F....RR F 1 Y 0 A 5 
+ 8  0  8 .UU.......K.AA..KF...P.FYY.P......RR K 99 Y 0 A 5 
+ 8  0  8 .UU..........AA..F....KF.YYPK.RR.P.. P 1 R 96 K 99 
+ 8  0  8 .UU.K.....K.AA...F...P.FYY.P......RR K 98 Y 0 A 5 
+ 8  0  8 ..UU........AA..KF....KF.YYP.....PRR U 99 P 1 A 5 
+ 8  0  8 .UU..........AAPKF...PKFYY.......RR. Y 0 R 99 P 1 
+ 8  0  8 UU..........AA..KF...PKFYY.P......RR U 99 Y 0 A 5 
+ 8  0  8 .UU........F.AA..F...PK..YYPK.RR.... F 1 R 96 K 99 
+ 8  0  8 ..UU........AA..KF...PKFYY.P......RR U 99 Y 0 A 5 
+ 8  0  8 ...UU.......AA..KF...PKFYY.P......RR U 98 Y 0 A 5 
+ 8  0  8 .UU..F.....F.AA......PK..YYPK.RR.... F 0 R 96 K 99 
+ 8  0  8 .UU......P..AA.PKF....KF.YY...RR.... P 0 R 96 A 5 
+ 8  0  8 .UU.........AA.PKF...PKFYY........RR P 1 Y 0 A 5 
+ 8  0  8 .UU.........AA..KF....KF.YYP..RR.P.. P 1 R 96 A 5 
+ 8  0  8 .UU..........AA......PKF.YYPKFRR.... F 1 R 96 K 99 
+ 8  0  8 .UU........FAA..KF...PK..YYP..RR.... F 1 R 96 A 5 
+ 8  0  8 .UU..F.....FAA..K....PK..YYP..RR.... F 0 R 96 A 5 
+ 8  0  8 .UU..........AA......PK..YYPKFRR...F F 0 R 96 K 99 
+ 8  0  8 .UU.........AA..K....PKF.YYP.FRR.... F 1 R 96 A 5 
+ 8  0  8 .UU........FAA..KF...PK..YYP.....RR. R 99 F 1 A 5 
+ 8  0  8 .UU.........AA.......PKF.YYPKF....RR F 1 A 5 K 99 
+ 8  0  8 .UU...........AA.F...PKF.YYPK...RR.. R 98 A 5 K 99 
+ 8  0  8 .UU.........AA..K....PK..YYP.FRR...F F 0 R 96 A 5 
+ 8  0  8 .UU.........AA...F...PKF.YYPK.RR.... A 5 R 96 K 99 
+ 8  0  8 .UU.......K.AA..KF...P.F.YYP..RR.... K 99 R 96 A 5 
+ 8  0  8 .UU.K.....K.AA...F...P.F.YYP..RR.... K 98 R 96 A 5 
+ 8  0  8 .UU...........AA.F...PKF.YYPK.RR.... A 5 R 96 K 99 
+ 8  0  8 .UU.........AA...F...P.F.YYPK.RR..K. K 98 R 96 A 5 
+ 8  0  8 .UU..F.....FAA..K....PK..YYP.....RR. R 99 F 0 A 5 
+ 8  0  8 UU..........AA..KF...PKF.YYP..RR.... U 99 R 96 A 5 
+ 8  0  8 .UU............AAF...PKF.YYPK.RR.... A 4 R 96 K 99 
+ 8  0  8 ..UU........AA..KF...PKF.YYP..RR.... U 99 R 96 A 5 
+ 8  0  8 ...UU.......AA..KF...PKF.YYP..RR.... U 98 R 96 A 5 
+ 8  0  8 UU...........AA..F...PKF.YYPK.RR.... U 99 R 96 K 99 
+ 8  0  8 .UU.........AA.PKF...PKF.YY....RR... P 1 R 97 A 5 
+ 8  0  8 .UU.........AA..K....PKF.YYP.F...RR. R 99 F 1 A 5 
+ 8  0  8 ....UU.....F.AA.KF...PK..YYP....RR.. R 98 F 1 U 97 
+ 8  0  8 .UU......P..AA.PKF....KF.YY....RR... P 0 R 97 A 5 
+ 8  0  8 ..UU.........AA..F...PKF.YYPK.RR.... U 99 R 96 K 99 
+ 8  0  8 .UU.........AA..KF....KF.YYP...RRP.. P 1 R 97 A 5 
+ 8  0  8 .UU........FAA..KF...PK..YYP...RR... F 1 R 97 A 5 
+ 8  0  8 ...UU........AA..F...PKF.YYPK.RR.... U 98 R 96 K 99 
+ 8  0  8 .UU..F.....FAA..K....PK..YYP...RR... F 0 R 97 A 5 
+ 8  0  8 .UU.......K.AA..KF...P.F.YYP.....RR. R 99 K 99 A 5 
+ 8  0  8 .UU.........AA..K....PKF.YYP.F.RR... F 1 R 97 A 5 
+ 8  0  8 ....UU.......AAPKF...PKF.YY......RR. P 1 R 99 U 97 
+ 8  0  8 .UU.........AA..K....PK..YYP.F.RR..F F 0 R 97 A 5 
+ 8  0  8 .UU.......K.AA..KF...P.F.YYP...RR... K 99 R 97 A 5 
+ 8  0  8 ....UU...P...AAPKF....KF.YY......RR. P 0 R 99 U 97 
+ 8  0  8 .UU.K.....K.AA...F...P.F.YYP...RR... K 98 R 97 A 5 
+ 8  0  8 .UU.K.....K.AA.P.F...P.F.YY.......RR P 1 K 98 A 5 
+ 8  0  8 UU..........AA..KF...PKF.YYP.....RR. R 99 U 99 A 5 
+ 8  0  8 UU...........AA..F...PKF.YYPK..RR... R 97 U 99 K 99 
+ 8  0  8 .UU......P.F.AAPKF....K..YY......RR. R 99 F 1 P 0 
+ 8  0  8 .UU.........AA...F...PKF.YYPK..RR... K 99 R 97 A 5 
+ 8  0  8 ....UU.....F.AA.KF...PK..YYP.....RR. F 1 R 99 U 97 
+ 8  0  8 .UU.........AA...F...P.F.YYPK..RR.K. K 98 R 97 A 5 
+ 8  0  8 UU..........AA..KF...PKF.YYP...RR... U 99 R 97 A 5 
+ 8  0  8 ....UU.......AA.K....PKF.YYP.F...RR. F 1 R 99 U 97 
+ 8  0  8 ..UU........AA..KF...PKF.YYP...RR... U 99 R 97 A 5 
+ 8  0  8 .UU............AAF...PKF.YYPK...RR.. R 98 A 4 K 99 
+ 8  0  8 .UU...........AAK....PKF.YYP.F..RR.. F 1 R 98 A 5 
+ 8  0  8 .UU.......K...AAKF...P.F.YYP....RR.. K 99 R 98 A 5 
+ 8  0  8 ...UU.......AA..KF...PKF.YYP...RR... U 98 R 97 A 5 
+ 8  0  8 UU............AAKF...PKF.YYP....RR.. U 99 R 98 A 5 
+ 8  0  8 .UU..F.....F.AAPK....PK..YY.....RR.. F 0 R 98 P 1 
+ 8  0  8 ....UU.......AA.K....PK..YYP.F...RRF F 0 R 99 U 97 
+ 8  0  8 ....UU......AA..KF...PKF.YYP...RR... U 97 R 97 A 5 
+ 8  0  8 .UU..........AAPK....PKF.YY..F..RR.. F 1 R 98 P 1 
+ 8  0  8 .UU.......K..AAPKF...P.F.YY.....RR.. K 99 R 98 P 1 
+ 8  0  8 ....UU...P...AAPKF....KF.YY....RR... R 97 P 0 U 97 
+ 8  0  8 UU...........AAPKF...PKF.YY.....RR.. U 99 R 98 P 1 
+ 8  0  8 ...UU........AA.K....PKFYY.P.F....RR U 98 Y 0 F 1 
+ 8  0  8 ....UU....K..AA.KF...P.F.YYP.....RR. K 99 R 99 U 97 
+ 8  0  8 ....UU...P...AAPKF....KF..YY......RR Y 0 P 0 U 97 
+ 8  0  8 ...UU.......AA..KF...PKF.YYP.....RR. R 99 U 98 A 5 
+ 8  0  8 UU...........AA..F...PKF.YYPK...RR.. R 98 U 99 K 99 
+ 8  0  8 ...UU........AA.K....PKF.YYP.FRR.... U 98 R 96 F 1 
+ 8  0  8 .UU..........AA......PKF.YYPKF.RR... K 99 R 97 F 1 
+ 8  0  8 ....UU...P.F.AAPKF....K..YY.......RR F 1 P 0 U 97 
+ 8  0  8 .UU...........AAK....PKF.YYP.F.RR... A 5 R 97 F 1 
+ 8  0  8 ...UU........AA.K....PKF.YYP.F.RR... U 98 R 97 F 1 
+ 8  0  8 ....UU.......AA..F...PKF.YYPK....RR. K 99 R 99 U 97 
+ 8  0  8 ....UU...P...AAPK.....KF.YY..F....RR F 1 P 0 U 97 
+ 8  0  8 ..UU.........AA......PKF.YYPKF....RR K 99 F 1 U 99 
+ 8  0  8 ..UU..........AAK....PKF.YYP.F....RR A 5 F 1 U 99 
+ 8  0  8 ....UU...PK..AAPKF.....F.YY.......RR K 99 P 0 U 97 
+ 8  0  8 UU..K.....K..AA......P.F.YYP.F....RR F 1 K 98 U 99 
+ 8  0  8 UU..K.....K...AA.F...P.F.YYP......RR A 5 K 98 U 99 
+ 8  0  8 ....UU......AA..KF...PKF.YYP.....RR. A 5 R 99 U 97 
+ 8  0  8 ....UU...P..AA.PKF....KF.YY.......RR A 5 P 0 U 97 
+ 8  0  8 ....UU.......AA.K....PKF.YYP.F..RR.. R 98 F 1 U 97 
+ 8  0  8 ...UU.........AAKF...PKF.YYP.....RR. U 98 A 5 R 99 
+ 8  0  8 UU........K..AAPKF...P.F.YY.......RR P 1 K 99 U 99 
+ 8  0  8 ...UU.......AA..KF....KF.YYP.....PRR A 5 U 98 P 1 
+ 8  0  8 UU...F....KF.AA.K....P...YYP......RR F 0 K 99 U 99 
+ 8  0  8 UU........K..AA.K....P.F.YYP.F....RR F 1 K 99 U 99 
+ 8  0  8 ....UU........AAKF...PKF.YYP.....RR. A 5 R 99 U 97 
+ 8  0  8 UU..........AA..KF....KF.YYP.....PRR A 5 U 99 P 1 
+ 8  0  8 UU........K...AAKF...P.F.YYP......RR A 5 K 99 U 99 
+ 8  0  8 UU...F.....F.AA.K....PK.YY.P......RR F 0 Y 0 U 99 
+ 8  0  8 .UU........F.AA..F...PK..YYPK..RR... R 97 F 1 K 99 
+ 8  0  8 UU...........AA.K....PKFYY.P.F....RR F 1 Y 0 U 99 
+ 8  0  8 UU............AAKF...PKFYY.P......RR A 5 Y 0 U 99 
+ 8  0  8 ....UU.......AAPKF...PKF.YY...RR.... P 1 R 96 U 97 
+ 8  0  8 .UU........FAA...F...PK..YYPK.....RR A 5 F 1 K 99 
+ 8  0  8 .UU......P...AAPKF....KFYY.....RR... Y 0 R 97 P 0 
+ 8  0  8 ...UU........AA..F...PKF.YYPK...RR.. R 98 U 98 K 99 
+ 8  0  8 ..UU.........AA.KF...PKFYY.P....RR.. Y 0 R 98 U 99 
+ 8  0  8 ..UU.F.....F.AA......PK..YYPK.....RR K 99 F 0 U 99 
+ 8  0  8 ..UU.F.....F..AAK....PK..YYP......RR A 5 F 0 U 99 
+ 8  0  8 .UU........F...AAF...PK..YYPK.....RR A 4 F 1 K 99 
+ 8  0  8 UU...........AA.K....PKF.YYP.FRR.... F 1 R 96 U 99 
+ 8  0  8 UU............AAKF...PKF.YYP..RR.... A 5 R 96 U 99 
+ 8  0  8 ....UU...P...AAPKF....KF.YY...RR.... P 0 R 96 U 97 
+ 8  0  8 ..UU.......F.AA..F...PK..YYPK.....RR U 99 F 1 K 99 
+ 8  0  8 UU...F.....F.AA.K....PK..YYP...RR... F 0 R 97 U 99 
+ 8  0  8 UU...........AA.K....PKF.YYP.F.RR... F 1 R 97 U 99 
+ 8  0  8 ....UU.....F.AA..F...PK..YYPK.....RR U 97 F 1 K 99 
+ 8  0  8 UU............AAKF...PKF.YYP...RR... A 5 R 97 U 99 
+ 8  0  8 UU..K.....K..AA..F...P.F.YYP.....RR. U 99 K 98 R 99 
+ 8  0  8 ....UU.......AA.KF....KF.YYP..RR.P.. P 1 R 96 U 97 
+ 8  0  8 UU............AAKF....KF.YYP.....PRR U 99 A 5 P 1 
+ 8  0  8 .UU......P...AAPKF....KF..YY..RR.... Y 0 R 96 P 0 
+ 8  0  8 .UU..F....KF.AA.K....P..YY.P......RR F 0 Y 0 K 99 
+ 8  0  8 .UU.......K..AA.K....P.FYY.P.F....RR F 1 Y 0 K 99 
+ 8  0  8 ..UU..........AAKF....KF.YYP.....PRR U 99 A 5 P 1 
+ 8  0  8 .UU.......K...AAKF...P.FYY.P......RR A 5 Y 0 K 99 
+ 8  0  8 UU........K..AA.KF...P.FYY.P......RR U 99 Y 0 K 99 
+ 8  0  8 ....UU.....F.AA.KF...PK..YYP..RR.... F 1 R 96 U 97 
+ 8  0  8 ...UU.........AAKF....KF.YYP.....PRR U 98 A 5 P 1 
+ 8  0  8 ...UU.....K..AA.KF...P.FYY.P......RR U 98 Y 0 K 99 
+ 8  0  8 UU........K..AA.KF...P.F.YYP.....RR. U 99 K 99 R 99 
+ 8  0  8 ....UU........AAKF....KF.YYP.....PRR U 97 A 5 P 1 
+ 8  0  8 ...UU.....K..AA.KF...P.F.YYP.....RR. U 98 K 99 R 99 
+ 8  0  8 ..UUK.....KF.AA..F...P...YYP......RR K 98 F 1 U 99 
+ 8  0  8 ....UU.......AA.K....PKF.YYP.FRR.... F 1 R 96 U 97 
+ 8  0  8 .UU.K.....K.AA...F.....F.YYP.....PRR A 5 K 98 P 1 
+ 8  0  8 .UU......P...AAPKF....KFYY.......RR. R 99 Y 0 P 0 
+ 8  0  8 ....UU....K..AA.KF...P.F.YYP....RR.. R 98 K 99 U 97 
+ 8  0  8 .UU.......KF.AA.KF...P...YYP..RR.... F 1 R 96 K 99 
+ 8  0  8 .UU..F....KF.AA.K....P...YYP..RR.... F 0 R 96 K 99 
+ 8  0  8 .UU.K.....K...AA.F.....F.YYP.....PRR A 5 K 98 P 1 
+ 8  0  8 .UU.......K..AA.K....P.F.YYP.FRR.... F 1 R 96 K 99 
+ 8  0  8 .UU.......K...AAKF...P.F.YYP..RR.... A 5 R 96 K 99 
+ 8  0  8 ....UU.......AA.K....PK..YYP.FRR...F F 0 R 96 U 97 
+ 8  0  8 .UU.K.....K....AAF.....F.YYP.....PRR A 4 K 98 P 1 
+ 8  0  8 UU........K..AA.KF...P.F.YYP..RR.... U 99 R 96 K 99 
+ 8  0  8 ...UU.....K..AA.KF...P.F.YYP..RR.... U 98 R 96 K 99 
+ 8  0  8 UU..K.....K..AA..F.....F.YYP.....PRR U 99 K 98 P 1 
+ 8  0  8 .UU.......KF.AA.KF...P...YYP...RR... F 1 R 97 K 99 
+ 8  0  8 .UU..F....KF.AA.K....P...YYP...RR... F 0 R 97 K 99 
+ 8  0  8 ....UU....K..AA.KF...P.F.YYP..RR.... K 99 R 96 U 97 
+ 8  0  8 ..UUK.....K..AA..F.....F.YYP.....PRR U 99 K 98 P 1 
+ 8  0  8 .UU......P...AAPKF....KF..YY.....RR. R 99 Y 0 P 0 
+ 8  0  8 .UU.......K..AA.K....P.F.YYP.F.RR... F 1 R 97 K 99 
+ 8  0  8 .UU.......K...AAKF...P.F.YYP...RR... A 5 R 97 K 99 
+ 8  0  8 .UU...........AA.F....KF.YYPK....PRR A 5 P 1 K 99 
+ 8  0  8 UU........K..AA.KF...P.F.YYP...RR... U 99 R 97 K 99 
+ 8  0  8 ...UU.....K..AA.KF...P.F.YYP...RR... U 98 R 97 K 99 
+ 8  0  8 ....UU.......AA..F...PKF.YYPK.RR.... K 99 R 96 U 97 
+ 8  0  8 .UU............AAF....KF.YYPK....PRR A 4 P 1 K 99 
+ 8  0  8 .UU.K.....K..AA......P...YYP.F...RRF K 98 F 0 R 99 
+ 8  0  8 .UU.........AA..K....PK..YYP.F...RRF A 5 F 0 R 99 
+ 8  0  8 UU...........AA..F....KF.YYPK....PRR U 99 P 1 K 99 
+ 8  0  8 .UU...........AAK....PK..YYP.F...RRF A 5 F 0 R 99 
+ 8  0  8 UU...........AA.K....PK..YYP.F...RRF U 99 F 0 R 99 
+ 8  0  8 ....UU.......AA..F...P.F.YYPK.RR..K. K 98 R 96 U 97 
+ 8  0  8 ..UU.........AA..F....KF.YYPK....PRR U 99 P 1 K 99 
+ 8  0  8 .UU......P...AAPK.....KF.YY..F...RR. R 99 F 1 P 0 
+ 8  0  8 ..UU.........AAPKF...PKF.YY...RR.... P 1 R 96 U 99 
+ 8  0  8 UU.......P...AAPKF....KF.YY......RR. R 99 U 99 P 0 
+ 8  0  8 .UU.K.....K..AAP.F...P.F.YY....RR... P 1 K 98 R 97 
+ 8  0  8 ...UU........AA.K....PK..YYP.F...RRF U 98 F 0 R 99 
+ 8  0  8 .UU..........AAPK....PKF.YY..FRR.... P 1 R 96 F 1 
+ 8  0  8 .UU.......K..AAPK....P.F.YY..F....RR P 1 K 99 F 1 
+ 8  0  8 .UU..F.....F.AA......P...YYPK...RRK. F 0 K 98 R 98 
+ 8  0  8 ...UU........AA..F....KF.YYPK....PRR U 98 P 1 K 99 
+ 8  0  8 .UU..........AA......P.F.YYPKF..RRK. F 1 K 98 R 98 
+ 8  0  8 .UU...........AA.F...P.F.YYPK...RRK. A 5 K 98 R 98 
+ 8  0  8 ....UU......AA..KF...PKF.YYP..RR.... A 5 R 96 U 97 
+ 8  0  8 ....UU.......AA..F....KF.YYPK....PRR U 97 P 1 K 99 
+ 8  0  8 .UU............AAF...P.F.YYPK...RRK. A 4 K 98 R 98 
+ 8  0  8 UU...........AA..F...P.F.YYPK...RRK. U 99 K 98 R 98 
+ 8  0  8 ..UU.........AAPKF...PKF.YY......RR. P 1 R 99 U 99 
+ 8  0  8 ....UU.......AA..F...P.F.YYPK...RRK. U 97 K 98 R 98 
+ 8  0  8 .UU.KF....KF.AA......P...YYP....RR.. F 0 K 98 R 98 
+ 8  0  8 ....UU........AAKF...PKF.YYP..RR.... A 5 R 96 U 97 
+ 8  0  8 ..UU.....P...AAPKF....KF.YY......RR. P 0 R 99 U 99 
+ 8  0  8 ....UU.......AA..F...PKF.YYPK...RR.. R 98 K 99 U 97 
+ 8  0  8 .UU.K.....K..AA......P.F.YYP.F..RR.. F 1 K 98 R 98 
+ 8  0  8 .UU.K.....K...AA.F...P.F.YYP....RR.. A 5 K 98 R 98 
+ 8  0  8 ..UU.......F.AA.KF...PK..YYP.....RR. F 1 R 99 U 99 
+ 8  0  8 UU..K.....K..AA..F...P.F.YYP....RR.. U 99 K 98 R 98 
+ 8  0  8 .UU.......KF.AA.KF...P...YYP....RR.. K 99 R 98 F 1 
+ 8  0  8 ..UU.F.....F.AA.K....PK..YYP.....RR. F 0 R 99 U 99 
+ 8  0  8 .UU......PK..AAPKF.....F.YY......RR. R 99 K 99 P 0 
+ 8  0  8 .UU.K.....KF.AA..F...P...YYP....RR.. K 98 R 98 F 1 
+ 8  0  8 .UU........F.AA..F...P...YYPK...RRK. K 98 R 98 F 1 
+ 8  0  8 ..UU.........AA.K....PKF.YYP.F...RR. F 1 R 99 U 99 
+ 8  0  8 .UU.K.....K..AA......P.F.YYP.F...RR. K 98 F 1 R 99 
+ 8  0  8 .UU...........AAK....PKF.YYP.F...RR. A 5 F 1 R 99 
+ 8  0  8 ..UU.........AA.K....PK..YYP.F...RRF F 0 R 99 U 99 
+ 8  0  8 .UU.K....PK..AAP.F.....F.YY......RR. R 99 K 98 P 0 
+ 8  0  8 ...UU........AA.KF...PKFYY.P....RR.. Y 0 R 98 U 98 
+ 8  0  8 ..UU.........AAPKF...PKFYY........RR P 1 Y 0 U 99 
+ 8  0  8 UU...........AA.K....PKF.YYP.F...RR. U 99 F 1 R 99 
+ 8  0  8 ...UU........AA.K....PKF.YYP.F...RR. U 98 F 1 R 99 
+ 8  0  8 ..UU......K..AA.KF...P.F.YYP.....RR. K 99 R 99 U 99 
+ 8  0  8 .UU.......K..AA.K....P...YYP.F..RR.F K 99 F 0 R 98 
+ 8  0  8 .UU.K.....K..AA......P...YYP.F..RR.F K 98 F 0 R 98 
+ 8  0  8 ..UUK.....K..AA..F...P.F.YYP.....RR. K 98 R 99 U 99 
+ 8  0  8 ..UU.........AA.KF....KFYY.P.....PRR U 99 Y 0 P 1 
+ 8  0  8 .UU..........AA......PK..YYPKF..RR.F K 99 F 0 R 98 
+ 8  0  8 .UU..........AA......P...YYPKF..RRKF K 98 F 0 R 98 
+ 8  0  8 ..UU........AA..KF...PKF.YYP.....RR. A 5 R 99 U 99 
+ 8  0  8 .UU...........AAK....PK..YYP.F..RR.F A 5 F 0 R 98 
+ 8  0  8 UU...........AA.K....PK..YYP.F..RR.F U 99 F 0 R 98 
+ 8  0  8 ..UU..........AAKF...PKF.YYP.....RR. A 5 R 99 U 99 
+ 8  0  8 .UU.K.....K..AAP.F...P.F.YY...RR.... P 1 R 96 K 98 
+ 8  0  8 .UU........F.AA.KF....K..YYP..RR.P.. F 1 P 1 R 96 
+ 8  0  8 ....UU.......AA.K....PK..YYP.F..RR.F U 97 F 0 R 98 
+ 8  0  8 .UU........F.AA.KF...PK.YY.P....RR.. F 1 Y 0 R 98 
+ 8  0  8 ....UU.......AAPKF...PKF.YY....RR... R 97 P 1 U 97 
+ 8  0  8 .UU..F.....F.AA.K....PK.YY.P....RR.. F 0 Y 0 R 98 
+ 8  0  8 .UU..........AA.K....PKFYY.P.F..RR.. F 1 Y 0 R 98 
+ 8  0  8 ....UU.......AAPKF...PKF..YY......RR Y 0 P 1 U 97 
+ 8  0  8 .UU......P..AA.PKF....KF.YY......RR. R 99 A 5 P 0 
+ 8  0  8 .UU..........AA.K....PK.YY.P.F..RR.F F 0 Y 0 R 98 
+ 8  0  8 .UU.......K..AA.KF...P.FYY.P....RR.. K 99 Y 0 R 98 
+ 8  0  8 ....UU.....F.AAPKF...PK..YY.......RR F 1 P 1 U 97 
+ 8  0  8 .UU..........AA..F...P.FYY.PK...RRK. K 98 Y 0 R 98 
+ 8  0  8 .UU...........AAKF...PKFYY.P....RR.. A 5 Y 0 R 98 
+ 8  0  8 ....UU.......AAPK....PKF.YY..F....RR F 1 P 1 U 97 
+ 8  0  8 .UU..........AAPK....PK..YY..FRR...F P 1 F 0 R 96 
+ 8  0  8 ...UU....P...AAPKF....KF.YY......RR. R 99 U 98 P 0 
+ 8  0  8 ..UU.........AAPKF...PKF..YY......RR Y 0 P 1 U 99 
+ 8  0  8 .UU.......KF.AA.KF...P...YYP.....RR. K 99 F 1 R 99 
+ 8  0  8 UU...........AA.KF...PKFYY.P....RR.. U 99 Y 0 R 98 
+ 8  0  8 .UU.KF....KF.AA......P...YYP.....RR. K 98 F 0 R 99 
+ 8  0  8 ....UU....K..AAPKF...P.F.YY.......RR K 99 P 1 U 97 
+ 8  0  8 .UU..F.....F..AAK....PK..YYP.....RR. A 5 F 0 R 99 
+ 8  0  8 UU...F.....F.AA.K....PK..YYP.....RR. U 99 F 0 R 99 
+ 8  0  8 ....UU......AA.PKF...PKF.YY.......RR A 5 P 1 U 97 
+ 8  0  8 .UU..........AAP.F...P.F.YY.K.RR..K. P 1 K 98 R 96 
+ 8  0  8 ...UUF.....F.AA.K....PK..YYP.....RR. U 98 F 0 R 99 
+ 8  0  8 .UU........F.AA..F...P...YYPK..RR.K. F 1 K 98 R 97 
+ 8  0  8 .UU.......K.AA..KF.....F.YYP.....PRR A 5 K 99 P 1 
+ 8  0  8 .UU..F.....F.AA......P...YYPK..RR.K. F 0 K 98 R 97 
+ 8  0  8 .UU..........AA......P.F.YYPKF.RR.K. F 1 K 98 R 97 
+ 8  0  8 .UU.......K...AAKF.....F.YYP.....PRR A 5 K 99 P 1 
+ 8  0  8 .UU.K.....K..AA..F...P.FYY.P.....RR. R 99 Y 0 K 98 
+ 8  0  8 .UU.K.....K..AA..F...P.FYY.P...RR... R 97 Y 0 K 98 
+ 8  0  8 .UU...........AA.F...P.F.YYPK..RR.K. A 5 K 98 R 97 
+ 8  0  8 .UU............AAF...P.F.YYPK..RR.K. A 4 K 98 R 97 
+ 8  0  8 UU........K..AA.KF.....F.YYP.....PRR U 99 K 99 P 1 
+ 8  0  8 UU...........AA..F...P.F.YYPK..RR.K. U 99 K 98 R 97 
+ 8  0  8 ...UU........AA..F...P.F.YYPK..RR.K. U 98 K 98 R 97 
+ 8  0  8 ..UU......K..AA.KF.....F.YYP.....PRR U 99 K 99 P 1 
+ 8  0  8 .UU.K.....K..AA..F...P.FYY.P....RR.. R 98 Y 0 K 98 
+ 8  0  8 ....UU.......AA..F...P.F.YYPK..RR.K. U 97 K 98 R 97 
+ 8  0  8 .UU.K.....KF.AA..F...P...YYP...RR... F 1 K 98 R 97 
+ 8  0  8 ...UU.....K..AA.KF.....F.YYP.....PRR U 98 K 99 P 1 
+ 8  0  8 .UU.KF....KF.AA......P...YYP...RR... F 0 K 98 R 97 
+ 8  0  8 .UU.K.....K..AA......P.F.YYP.F.RR... F 1 K 98 R 97 
+ 8  0  8 ....UU....K..AA.KF.....F.YYP.....PRR U 97 K 99 P 1 
+ 8  0  8 .UU........F.AA.KF...PK.YY.P.....RR. F 1 Y 0 R 99 
+ 8  0  8 .UU..........AAPKF...PKFYY.....RR... P 1 Y 0 R 97 
+ 8  0  8 .UU.......K..AA.K....P...YYP.F.RR..F K 99 F 0 R 97 
+ 8  0  8 .UU.K.....K...AA.F...P.F.YYP...RR... A 5 K 98 R 97 
+ 8  0  8 UU..K.....K..AA..F...P.F.YYP...RR... U 99 K 98 R 97 
+ 8  0  8 .UU.......K..AA.K......F.YYP.F...PRR K 99 F 1 P 1 
+ 8  0  8 .UU.K.....KF.AA..F...P...YYP.....RR. K 98 F 1 R 99 
+ 8  0  8 .UU.K.....K..AA......P...YYP.F.RR..F K 98 F 0 R 97 
+ 8  0  8 .UU.K.....K..AA........F.YYP.F...PRR K 98 F 1 P 1 
+ 8  0  8 .UU.K.....K....AAF...P.F.YYP.....RR. R 99 A 4 K 98 
+ 8  0  8 .UU..........AA......PK..YYPKF.RR..F K 99 F 0 R 97 
+ 8  0  8 .UU..........AA......P...YYPKF.RR.KF K 98 F 0 R 97 
+ 8  0  8 .UU..........AA.......KF.YYPKF...PRR K 99 F 1 P 1 
+ 8  0  8 .UU...........AAK....PK..YYP.F.RR..F A 5 F 0 R 97 
+ 8  0  8 UU...........AA.K....PK..YYP.F.RR..F U 99 F 0 R 97 
+ 8  0  8 .UU.........AA..K.....KF.YYP.F...PRR A 5 F 1 P 1 
+ 8  0  8 .UU......P...AAPK.....K..YY..F...RRF F 0 P 0 R 99 
+ 8  0  8 ...UU........AA.K....PK..YYP.F.RR..F U 98 F 0 R 97 
+ 8  0  8 .UU..........AAPK....PK..YY..F.RR..F P 1 F 0 R 97 
+ 8  0  8 ....UU.......AA.K....PK..YYP.F.RR..F U 97 F 0 R 97 
+ 8  0  8 .UU...........AAK.....KF.YYP.F...PRR A 5 F 1 P 1 
+ 8  0  8 .UU..F.....F.AA.K.....K..YYP...RRP.. F 0 P 1 R 97 
+ 8  0  8 .UU..........AA.K.....KF.YYP.F.RRP.. F 1 P 1 R 97 
+ 8  0  8 UU...........AA.K.....KF.YYP.F...PRR U 99 F 1 P 1 
+ 8  0  8 .UU..........AA.K.....K..YYP.F.RRP.F F 0 P 1 R 97 
+ 8  0  8 .UU........F.AA.KF....K..YYP...RRP.. F 1 P 1 R 97 
+ 8  0  8 .UU.......K..AA.KF.....F.YYP...RRP.. K 99 P 1 R 97 
+ 8  0  8 ..UU.........AA.K.....KF.YYP.F...PRR U 99 F 1 P 1 
+ 8  0  8 .UU.K.....K..AA..F.....F.YYP...RRP.. K 98 P 1 R 97 
+ 8  0  8 .UU..........AA..F....KF.YYPK..RRP.. K 99 P 1 R 97 
+ 8  0  8 ...UU........AA.K.....KF.YYP.F...PRR U 98 F 1 P 1 
+ 8  0  8 .UU..........AA..F.....F.YYPK..RRPK. K 98 P 1 R 97 
+ 8  0  8 .UU..........AAP.F...P.F.YY.K..RR.K. P 1 K 98 R 97 
+ 8  0  8 .UU..........AAPKF...PKFYY......RR.. P 1 Y 0 R 98 
+ 8  0  8 .UU.......K..AA.K....P.F.YYP.F...RR. K 99 F 1 R 99 
+ 8  0  8 .UU.......K...AAKF...P.F.YYP.....RR. A 5 K 99 R 99 
+ 8  0  8 .UU..........AAPK....PKF.YY..F.RR... P 1 R 97 F 1 
+ 8  0  8 .UU...........AAKF....KF.YYP...RRP.. A 5 P 1 R 97 
+ 8  0  8 ....UU.......AA.K.....KF.YYP.F...PRR U 97 F 1 P 1 
+ 8  0  8 UU...........AA.KF....KF.YYP...RRP.. U 99 P 1 R 97 
+ 8  0  8 ...UU........AA.KF....KF.YYP...RRP.. U 98 P 1 R 97 
+ 8  0  8 .UU......P...AAP.F....KF.YY.K..RR... R 97 P 0 K 99 
+ 8  0  8 ....UU.......AA.KF....KF.YYP...RRP.. U 97 P 1 R 97 
+ 8  0  8 .UU..F....KF.AA.K....P...YYP.....RR. K 99 F 0 R 99 
+ 8  0  8 .UU..........AA.KF....KFYY.P...RRP.. P 1 Y 0 R 97 
+ 8  0  8 .UU......P...AAP.F....KF..YYK.....RR Y 0 P 0 K 99 
+ 8  0  8 .UU........F.AA.KF...PK.YY.P...RR... F 1 Y 0 R 97 
+ 8  0  8 .UU..F.....F.AA.K....PK.YY.P...RR... F 0 Y 0 R 97 
+ 8  0  8 .UU......P.F.AAP.F....K..YY.K.....RR F 1 P 0 K 99 
+ 8  0  8 .UU..........AA.K....PKFYY.P.F.RR... F 1 Y 0 R 97 
+ 8  0  8 .UU..........AAPK....PK..YY..F..RR.F P 1 F 0 R 98 
+ 8  0  8 ....UU........AAKF...PKF.YYP...RR... R 97 A 5 U 97 
+ 8  0  8 .UU..........AA.K....PK.YY.P.F.RR..F F 0 Y 0 R 97 
+ 8  0  8 .UU..F...P.F.AAP......K..YY.K.....RR F 0 P 0 K 99 
+ 8  0  8 .UU.......K..AA.KF...P.FYY.P...RR... K 99 Y 0 R 97 
+ 8  0  8 .UU..........AA..F...P.FYY.PK..RR.K. K 98 Y 0 R 97 
+ 8  0  8 .UU......P...AAP......KF.YY.KF....RR F 1 P 0 K 99 
+ 8  0  8 .UU...........AAKF...PKFYY.P...RR... A 5 Y 0 R 97 
+ 8  0  8 ....UU........AAKF...PKF.YYP....RR.. R 98 A 5 U 97 
+ 8  0  8 UU...........AA.KF...PKFYY.P...RR... U 99 Y 0 R 97 
+ 8  0  8 .UU......P..AA.P.F....KF.YY.K.....RR A 5 P 0 K 99 
+ 8  0  8 ...UU........AA.KF...PKFYY.P...RR... U 98 Y 0 R 97 
+ 8  0  8 .UU.K.....K....AAF...P.F.YYP....RR.. R 98 A 4 K 98 
+ 8  0  8 UU.......P...AAP.F....KF.YY.K.....RR U 99 P 0 K 99 
+ 8  0  8 .UU.K.....K....AAF...P.F.YYP...RR... R 97 A 4 K 98 
+ 8  0  8 .UU........F.AAPKF...PK..YY.....RR.. P 1 R 98 F 1 
+ 8  0  8 .UU..........AAP.F...P.F.YY.K...RRK. P 1 K 98 R 98 
+ 8  0  8 ..UU......KF.AA.KF...P...YYP......RR K 99 F 1 U 99 
+ 8  0  8 .UU.K.....KF...AAF...P...YYP......RR F 1 A 4 K 98 
+ 8  0  8 ..UU.....P...AAP.F....KF.YY.K.....RR U 99 P 0 K 99 
+ 8  0  8 .UU.KF....KF...AA....P...YYP......RR F 0 A 4 K 98 
+ 8  0  8 .UU.K.....K....AA....P.F.YYP.F....RR F 1 A 4 K 98 
+ 8  0  8 ...UU....P...AAP.F....KF.YY.K.....RR U 98 P 0 K 99 
+ 8  0  8 UU..K.....K....AAF...P.F.YYP......RR U 99 A 4 K 98 
+ 8  0  8 .UU.K.....K..AAP.F...P.F.YY.....RR.. P 1 K 98 R 98 
+ 8  0  8 ..UUK.....K....AAF...P.F.YYP......RR U 99 A 4 K 98 
+ 8  0  8 ....UU...P...AAP.F....KF.YY.K.....RR U 97 P 0 K 99 
+ 8  0  8 .UU..F.....F.AA.K....PK.YY.P.....RR. F 0 Y 0 R 99 
+ 8  0  8 .UU..........AA.K....PKFYY.P.F...RR. F 1 Y 0 R 99 
+ 8  0  8 .UU..F....KF.AA.K........YYP.....PRR K 99 F 0 P 1 
+ 8  0  8 .UU..........AA.K....PK.YY.P.F...RRF F 0 Y 0 R 99 
+ 8  0  8 .UU.......K..AA.K....P...YYP.F...RRF K 99 F 0 R 99 
+ 8  0  8 .UU.......K..AAPKF...P.F.YY...RR.... P 1 R 96 K 99 
+ 8  0  8 .UU.......K..AA.KF...P.FYY.P.....RR. K 99 Y 0 R 99 
+ 8  0  8 .UU.KF....KF.AA..........YYP.....PRR K 98 F 0 P 1 
+ 8  0  8 .UU...........AAKF...PKFYY.P.....RR. A 5 Y 0 R 99 
+ 8  0  8 UU...........AA.KF...PKFYY.P.....RR. U 99 Y 0 R 99 
+ 8  0  8 .UU..F.....F.AA.......K..YYPK....PRR K 99 F 0 P 1 
+ 8  0  8 ...UU........AA.KF...PKFYY.P.....RR. U 98 Y 0 R 99 
+ 8  0  8 .UU.......K..AAPKF...P.F.YY....RR... P 1 R 97 K 99 
+ 8  0  8 ..UU.......F.AAPKF...PK..YY.......RR F 1 P 1 U 99 
+ 8  0  8 .UU..F.....FAA..K.....K..YYP.....PRR A 5 F 0 P 1 
+ 8  0  8 ..UU.F.....F.AAPK....PK..YY.......RR F 0 P 1 U 99 
+ 8  0  8 ..UU.........AAPK....PKF.YY..F....RR F 1 P 1 U 99 
+ 8  0  8 .UU..F.....F..AAK.....K..YYP.....PRR A 5 F 0 P 1 
+ 8  0  8 ..UU......K..AAPKF...P.F.YY.......RR K 99 P 1 U 99 
+ 8  0  8 .UU.......K..AAPKF...P.FYY........RR P 1 Y 0 K 99 
+ 8  0  8 .UU.K.....K...AA.F...P.F.YYP.....RR. A 5 K 98 R 99 
+ 8  0  8 ..UU.F....KF.AA.K....P...YYP......RR K 99 F 0 U 99 
+ 8  0  8 ..UUK.....K..AA......P.F.YYP.F....RR K 98 F 1 U 99 
+ 8  0  8 ..UUK.....K..AAP.F...P.F.YY.......RR K 98 P 1 U 99 
+ 8  0  8 UU...F.....F.AA.K.....K..YYP.....PRR U 99 F 0 P 1 
+ 8  0  8 ..UU........AA.PKF...PKF.YY.......RR A 5 P 1 U 99 
+ 8  0  8 .UU.K.....K..AAP.F...P.FYY........RR P 1 Y 0 K 98 
+ 8  0  8 ..UU.F.....F.AA.K.....K..YYP.....PRR U 99 F 0 P 1 
+ 8  0  8 .UU.K.....KF.AA..F...P..YY.P......RR F 1 Y 0 K 98 
+ 8  0  8 .UU.......KF.AA.KF...P..YY.P......RR F 1 Y 0 K 99 
+ 8  0  8 .UU.KF....KF.AA......P..YY.P......RR F 0 Y 0 K 98 
+ 8  0  8 ...UUF.....F.AA.K.....K..YYP.....PRR U 98 F 0 P 1 
+ 8  0  8 .UU.K.....K..AA......P.FYY.P.F....RR F 1 Y 0 K 98 
+ 8  0  8 .UU.K.....K...AA.F...P.FYY.P......RR A 5 Y 0 K 98 
+ 8  0  8 .UU.......KF.AA.KF.......YYP.....PRR K 99 F 1 P 1 
+ 8  0  8 .UU.K.....K....AAF...P.FYY.P......RR A 4 Y 0 K 98 
+ 8  0  8 UU...........AAPKF...PKF.YY....RR... P 1 R 97 U 99 
+ 8  0  8 UU...F.....F.AA.K....PK..YYP..RR.... F 0 R 96 U 99 
+ 8  0  8 UU..K.....K..AA..F...P.FYY.P......RR U 99 Y 0 K 98 
+ 8  0  8 .UU.K.....KF.AA..F.......YYP.....PRR K 98 F 1 P 1 
+ 8  0  8 .UU........F.AA..F...P...YYPK.RR..K. F 1 K 98 R 96 
+ 8  0  8 .UU..F.....F.AA......P...YYPK.RR..K. F 0 K 98 R 96 
+ 8  0  8 .UU........F.AA..F....K..YYPK....PRR K 99 F 1 P 1 
+ 8  0  8 .UU..........AA......P.F.YYPKFRR..K. F 1 K 98 R 96 
+ 8  0  8 UU...........AAPKF...PKF.YY...RR.... P 1 R 96 U 99 
+ 8  0  8 .UU...........AA.F...P.F.YYPK.RR..K. A 5 K 98 R 96 
+ 8  0  8 .UU........FAA..KF....K..YYP.....PRR A 5 F 1 P 1 
+ 8  0  8 .UU............AAF...P.F.YYPK.RR..K. A 4 K 98 R 96 
+ 8  0  8 UU...........AA..F...P.F.YYPK.RR..K. U 99 K 98 R 96 
+ 8  0  8 ..UU.......F.AA.KF....K..YYP.....PRR U 99 F 1 P 1 
+ 8  0  8 ...UU........AA..F...P.F.YYPK.RR..K. U 98 K 98 R 96 
+ 8  0  8 ..UUKF....KF.AA......P...YYP......RR K 98 F 0 U 99 
+ 8  0  8 UU........K..AA.KF...P.F.YYP....RR.. R 98 K 99 U 99 
+ 8  0  8 ..UU......K..AA.K....P.F.YYP.F....RR K 99 F 1 U 99 
+ 8  0  8 .UU.......K..AA.K....P...YYP.FRR...F K 99 F 0 R 96 
+ 8  0  8 ....UU.....F.AA.KF....K..YYP.....PRR U 97 F 1 P 1 
+ 8  0  8 .UU..........AA......P...YYPKFRR..KF K 98 F 0 R 96 
+ 8  0  8 .UU...........AAK....PK..YYP.FRR...F A 5 F 0 R 96 
+ 8  0  8 .UU..........AAP.F...PKF.YY.K..RR... R 97 P 1 K 99 
+ 8  0  8 UU...........AA.K....PK..YYP.FRR...F U 99 F 0 R 96 
+ 8  0  8 UU...........AAPKF...PKFYY........RR P 1 Y 0 U 99 
+ 8  0  8 ...UU........AA.K....PK..YYP.FRR...F U 98 F 0 R 96 
+ 8  0  8 .UU..........AAP.F...PKF..YYK.....RR Y 0 P 1 K 99 
+ 8  0  8 ..UU.......F.AA.KF...PK.YY.P......RR F 1 Y 0 U 99 
+ 8  0  8 ..UU.F.....F.AA.K....PK.YY.P......RR F 0 Y 0 U 99 
+ 8  0  8 .UU........F.AAP.F...PK..YY.K.....RR F 1 P 1 K 99 
+ 8  0  8 ..UU.........AA.K....PKFYY.P.F....RR F 1 Y 0 U 99 
+ 8  0  8 UU............AAKF...PKF.YYP.....RR. U 99 A 5 R 99 
+ 8  0  8 UU..KF....KF.AA......P...YYP......RR F 0 K 98 U 99 
+ 8  0  8 ..UU......K..AA.KF...P.FYY.P......RR K 99 Y 0 U 99 
+ 8  0  8 .UU..F.....F.AAP.....PK..YY.K.....RR F 0 P 1 K 99 
+ 8  0  8 ..UUK.....K..AA..F...P.FYY.P......RR K 98 Y 0 U 99 
+ 8  0  8 ..UU..........AAKF...PKFYY.P......RR A 5 Y 0 U 99 
+ 8  0  8 .UU..........AAP.....PKF.YY.KF....RR F 1 P 1 K 99 
+ 8  0  8 .UU..F.....F.AA.K.....K..YYP..RR.P.. F 0 P 1 R 96 
+ 8  0  8 UU..K.....K..AAP.F...P.F.YY.......RR P 1 K 98 U 99 
+ 8  0  8 .UU..........AA.K.....KF.YYP.FRR.P.. F 1 P 1 R 96 
+ 8  0  8 .UU.........AA.P.F...PKF.YY.K.....RR A 5 P 1 K 99 
+ 8  0  8 .UU..........AA.K.....K..YYP.FRR.P.F F 0 P 1 R 96 
+ 8  0  8 .UU.......K..AA.KF.....F.YYP..RR.P.. K 99 P 1 R 96 
+ 8  0  8 UU...........AAP.F...PKF.YY.K.....RR U 99 P 1 K 99 
+ 8  0  8 .UU..........AA..F.....F.YYPK.RR.PK. K 98 P 1 R 96 
+ 8  0  8 .UU...........AAK....PKF.YYP.FRR.... A 5 R 96 F 1 
+ 8  0  8 .UU...........AAK....PKFYY.P.F....RR A 5 Y 0 F 1 
+ 8  0  8 .UU.......K..AA.K....P.F.YYP.F..RR.. R 98 K 99 F 1 
+ 8  0  8 .UU..........AAPKF...PKF..YY..RR.... Y 0 R 96 P 1 
+ 8  0  8 .UU.KF....KF..AA.....P...YYP......RR K 98 F 0 A 5 
+ 8  0  8 ...UU........AAPKF...PKF.YY....RR... U 98 R 97 P 1 
+ 8  0  8 .UU...........AAKF....KF.YYP..RR.P.. A 5 P 1 R 96 
+ 8  0  8 ..UU.........AAP.F...PKF.YY.K.....RR U 99 P 1 K 99 
+ 8  0  8 UU...........AA.KF....KF.YYP..RR.P.. U 99 P 1 R 96 
+ 8  0  8 ...UU........AA.KF....KF.YYP..RR.P.. U 98 P 1 R 96 
+ 8  0  8 ...UU........AAP.F...PKF.YY.K.....RR U 98 P 1 K 99 
+ 8  0  8 ..UU.....P..AA.PKF....KF.YY.......RR U 99 A 5 P 0 
+ 8  0  8 .UU..........AAPK....PKFYY...F....RR P 1 Y 0 F 1 
+ 8  0  8 .UU.K.....K..AA..F.....F.YYP..RR.P.. P 1 R 96 K 98 
+ 8  0  8 ....UU.......AAP.F...PKF.YY.K.....RR U 97 P 1 K 99 
+ 8  0  8 .UU.K.....KF.AA..F...P...YYP..RR.... F 1 R 96 K 98 
+ 8  0  8 .UU.KF....KF.AA......P...YYP..RR.... F 0 R 96 K 98 
+ 8  0  8 ....UU.......AA.KF...PKFYY.P...RR... R 97 Y 0 U 97 
+ 8  0  8 .UU.K.....K..AA......P.F.YYP.FRR.... F 1 R 96 K 98 
+ 8  0  8 ..UU......K...AAKF...P.F.YYP......RR A 5 K 99 U 99 
+ 8  0  8 .UU..F.....F..AAK....PK..YYP....RR.. F 0 R 98 A 5 
+ 8  0  8 .UU.K.....K..AA......P...YYP.FRR...F F 0 R 96 K 98 
+ 8  0  8 ....UU.......AAPKF...PKFYY........RR P 1 Y 0 U 97 
+ 8  0  8 .UU.K.....K...AA.F...P.F.YYP..RR.... A 5 R 96 K 98 
+ 8  0  8 .UU.K.....K....AAF...P.F.YYP..RR.... A 4 R 96 K 98 
+ 8  0  8 ....UU...P...AAPKF....KFYY........RR P 0 Y 0 U 97 
+ 8  0  8 UU..K.....K..AA..F...P.F.YYP..RR.... U 99 R 96 K 98 
+ 8  0  8 .UU..........AAPKF...PKF..YY....RR.. Y 0 R 98 P 1 
+ 8  0  8 ...UU........AAPKF...PKF.YY.....RR.. P 1 R 98 U 98 
+ 8  0  8 ....UU.......AA.KF....KFYY.P.....PRR P 1 Y 0 U 97 
+ 8  0  8 ...UUF.....F.AA.K....PK..YYP....RR.. F 0 R 98 U 98 
+ 8  0  8 ...UU........AA.K....PKF.YYP.F..RR.. F 1 R 98 U 98 
+ 8  0  8 ....UU.....F.AA.KF...PK.YY.P......RR F 1 Y 0 U 97 
+ 8  0  8 ...UU........AA.K....PK..YYP.F..RR.F F 0 R 98 U 98 
+ 8  0  8 .UU..........AA......PKF.YYPKF..RR.. K 99 R 98 F 1 
+ 8  0  8 .UU.K.....K.....AA...P.F.YYP.F....RR A 3 K 98 F 1 
+ 8  0  8 ..UUK.....K...AA.F...P.F.YYP......RR A 5 K 98 U 99 
+ 8  0  8 ...UU.....K..AA.KF...P.F.YYP....RR.. K 99 R 98 U 98 
+ 8  0  8 ....UU.......AA.K....PKFYY.P.F....RR F 1 Y 0 U 97 
+ 8  0  8 ...UU........AA..F...P.F.YYPK...RRK. K 98 R 98 U 98 
+ 8  0  8 ...UU.........AAKF...PKF.YYP....RR.. A 5 R 98 U 98 
+ 8  0  8 ....UU....K..AA.KF...P.FYY.P......RR K 99 Y 0 U 97 
+ 8  0  8 UU..K....PK..AAP.F.....F.YY.......RR U 99 K 98 P 0 
+ 8  0  8 UU...........AA.K....PKF.YYP.F..RR.. U 99 R 98 F 1 
+ 8  0  8 ..UUK....PK..AAP.F.....F.YY.......RR U 99 K 98 P 0 
+ 8  0  8 ....UU......AA..KF...PKFYY.P......RR A 5 Y 0 U 97 
+ 8  0  8 ..UU.........AA.KF....KF.YYP..RR.P.. P 1 R 96 U 99 
+ 8  0  8 ..UU.......F.AA.KF...PK..YYP..RR.... F 1 R 96 U 99 
+ 8  0  8 ....UU........AAKF...PKFYY.P......RR A 5 Y 0 U 97 
+ 8  0  8 ..UU.F.....F.AA.K....PK..YYP..RR.... F 0 R 96 U 99 
+ 8  0  8 .UU..........AAPKF...PKF..YY...RR... Y 0 R 97 P 1 
+ 8  0  8 .UU..F.....F.AA......PK..YYPK..RR... K 99 R 97 F 0 
+ 8  0  8 ..UU.........AA.K....PKF.YYP.FRR.... F 1 R 96 U 99 
+ 8  0  8 ...UU......F.AA.KF...PK..YYP...RR... R 97 U 98 F 1 
+ 8  0  8 ..UU.........AA.K....PK..YYP.FRR...F F 0 R 96 U 99 
+ 8  0  8 ..UU......K..AA.KF...P.F.YYP..RR.... K 99 R 96 U 99 
+ 8  0  8 ...UU......F.AA.KF...PK..YYP..RR.... R 96 U 98 F 1 
+ 8  0  8 ..UUK.....K..AA..F...P.F.YYP..RR.... K 98 R 96 U 99 
+ 8  0  8 UU...........AAPK....PKF.YY..F....RR P 1 U 99 F 1 
+ 8  0  8 ..UU.........AA..F...P.F.YYPK.RR..K. K 98 R 96 U 99 
+ 8  0  8 ...UU......F.AA.KF...PK.YY.P......RR Y 0 U 98 F 1 
+ 8  0  8 ..UU..........AAKF...PKF.YYP..RR.... A 5 R 96 U 99 
+ 8  0  8 ....UU.......AA..F...PKF.YYPK..RR... R 97 K 99 U 97 
+ 8  0  8 ...UU......F.AAPKF...PK..YY.......RR P 1 U 98 F 1 
+ 8  0  8 UU.......PK..AAPKF.....F.YY.......RR U 99 K 99 P 0 
+ 8  0  8 .UU..F.....F..AAK....PK..YYP..RR.... A 5 R 96 F 0 
+ 8  0  8 .UU........F.AAPKF...PK.YY........RR F 1 Y 0 P 1 
+ 8  0  8 .UU........F.AAPKF...PK...YY......RR F 1 Y 0 P 1 
+ 8  0  8 .UU.......KF.AAPKF...P...YY.......RR K 99 F 1 P 1 
+ 8  0  8 ..UU.....PK..AAPKF.....F.YY.......RR U 99 K 99 P 0 
+ 8  0  8 ...UU....P.F.AAPKF....K..YY.......RR P 0 U 98 F 1 
+ 8  0  8 ...UU....PK..AAPKF.....F.YY.......RR U 98 K 99 P 0 
+ 8  0  8 .UU......PK..AAPK......F.YY..F....RR K 99 F 1 P 0 
+ 8  0  8 ...UU......F.AA.KF....K..YYP.....PRR P 1 U 98 F 1 
+ 8  0  8 .UU.K....PK..AAP.......F.YY..F....RR K 98 F 1 P 0 
+ 8  0  8 .UU..F.....F.AAPK....PK.YY........RR P 1 Y 0 F 0 
+ 8  0  8 UU.......P...AAPK.....KF.YY..F....RR U 99 F 1 P 0 
+ 8  0  8 ...UU.....KF.AA.KF...P...YYP......RR K 99 U 98 F 1 
+ 8  0  8 ..UU.....P...AAPK.....KF.YY..F....RR U 99 F 1 P 0 
+ 8  0  8 ...UU....P...AAPK.....KF.YY..F....RR U 98 F 1 P 0 
+ 8  0  8 ...UU......F.AA..F...PK..YYPK.....RR K 99 U 98 F 1 
+ 8  0  8 ..UU.........AAPKF...PKF.YY....RR... P 1 R 97 U 99 
+ 8  0  8 .UU..F....KF.AA.K....P...YYP....RR.. R 98 K 99 F 0 
+ 8  0  8 .UU..F....KF.AAPK....P...YY.......RR P 1 K 99 F 0 
+ 8  0  8 ..UU.........AA.KF....KF.YYP...RRP.. P 1 R 97 U 99 
+ 8  0  8 ...UU......FAA..KF...PK..YYP......RR A 5 U 98 F 1 
+ 8  0  8 ..UU.......F.AA.KF...PK..YYP...RR... F 1 R 97 U 99 
+ 8  0  8 ..UU.F.....F.AA.K....PK..YYP...RR... F 0 R 97 U 99 
+ 8  0  8 .UU..........AA..F...PKFYY.PK..RR... R 97 Y 0 K 99 
+ 8  0  8 ..UU.........AA.K....PKF.YYP.F.RR... F 1 R 97 U 99 
+ 8  0  8 .UU.KF....KF....AA...P...YYP......RR A 3 K 98 F 0 
+ 8  0  8 ..UU.........AA.K....PK..YYP.F.RR..F F 0 R 97 U 99 
+ 8  0  8 .UU..........AAP.F...PKFYY..K.....RR P 1 Y 0 K 99 
+ 8  0  8 ..UU......K..AA.KF...P.F.YYP...RR... K 99 R 97 U 99 
+ 8  0  8 ..UUK.....K..AA..F...P.F.YYP...RR... K 98 R 97 U 99 
+ 8  0  8 .UU......P...AAP.F....KFYY..K.....RR P 0 Y 0 K 99 
+ 8  0  8 ..UU.........AA..F...PKF.YYPK..RR... K 99 R 97 U 99 
+ 8  0  8 UU...F.....F.AA.K....PK..YYP....RR.. R 98 U 99 F 0 
+ 8  0  8 ...UU.........AAKF...PKF.YYP...RR... U 98 R 97 A 5 
+ 8  0  8 UU...F.....F..AAK....PK..YYP......RR A 5 U 99 F 0 
+ 8  0  8 ..UU.........AA..F...P.F.YYPK..RR.K. K 98 R 97 U 99 
+ 8  0  8 .UU..........AA..F....KFYY.PK....PRR P 1 Y 0 K 99 
+ 8  0  8 ..UU..........AAKF...PKF.YYP...RR... A 5 R 97 U 99 
+ 8  0  8 .UU..F...PKF.AAPK........YY.......RR K 99 F 0 P 0 
+ 8  0  8 .UU........F.AA..F...PK.YY.PK.....RR F 1 Y 0 K 99 
+ 8  0  8 .UU.KF...PKF.AAP.........YY.......RR K 98 F 0 P 0 
+ 8  0  8 .UU..F.....F.AA......PK..YYPK...RR.. K 99 R 98 F 0 
+ 8  0  8 UU...F...P.F.AAPK.....K..YY.......RR U 99 F 0 P 0 
+ 8  0  8 .UU..F.....F.AA......PK.YY.PK.....RR F 0 Y 0 K 99 
+ 8  0  8 ..UU.F...P.F.AAPK.....K..YY.......RR U 99 F 0 P 0 
+ 8  0  8 ...UUF...P.F.AAPK.....K..YY.......RR U 98 F 0 P 0 
+ 8  0  8 .UU..........AA......PKFYY.PKF....RR F 1 Y 0 K 99 
+ 8  0  8 .UU......PKF.AAPKF.......YY.......RR K 99 F 1 P 0 
+ 8  0  8 UU...F.....F.AAPK....PK..YY.......RR P 1 U 99 F 0 
+ 8  0  8 ...UU.........AAKF...PKFYY.P......RR U 98 Y 0 A 5 
+ 8  0  8 .UU.K....PKF.AAP.F.......YY.......RR K 98 F 1 P 0 
+ 8  0  8 .UU.........AA...F...PKFYY.PK.....RR A 5 Y 0 K 99 
+ 8  0  8 ..UU.....P.F.AAPKF....K..YY.......RR U 99 F 1 P 0 
+ 8  0  8 ..UU.........AAPKF...PKF.YY.....RR.. P 1 R 98 U 99 
+ 8  0  8 .UU...........AA.F...PKFYY.PK.....RR A 5 Y 0 K 99 
+ 8  0  8 ..UU.......F.AA.KF...PK..YYP....RR.. F 1 R 98 U 99 
+ 8  0  8 ...UU.........AAKF...PKF.YYP..RR.... U 98 R 96 A 5 
+ 8  0  8 ..UU.F.....F.AA.K....PK..YYP....RR.. F 0 R 98 U 99 
+ 8  0  8 .UU............AAF...PKFYY.PK.....RR A 4 Y 0 K 99 
+ 8  0  8 ..UU.........AA.K....PKF.YYP.F..RR.. F 1 R 98 U 99 
+ 8  0  8 ..UU.........AA.K....PK..YYP.F..RR.F F 0 R 98 U 99 
+ 8  0  8 UU...........AA..F...PKFYY.PK.....RR U 99 Y 0 K 99 
+ 8  0  8 ..UU......K..AA.KF...P.F.YYP....RR.. K 99 R 98 U 99 
+ 8  0  8 .UU.K.....K...AA.....P.F.YYP.F....RR K 98 F 1 A 5 
+ 8  0  8 ...UU.....K...AAKF...P.F.YYP......RR U 98 K 99 A 5 
+ 8  0  8 ...UU........AAPK....PKF.YY..F....RR U 98 F 1 P 1 
+ 8  0  8 .UU.........AA.PKF...PKF..YY......RR A 5 Y 0 P 1 
+ 8  0  8 .UU..F.....F.AAPK....PK..YY....RR... F 0 R 97 P 1 
+ 8  0  8 ..UUK.....K..AA..F...P.F.YYP....RR.. K 98 R 98 U 99 
+ 8  0  8 ..UU.........AA..F...PKFYY.PK.....RR U 99 Y 0 K 99 
+ 8  0  8 ..UU.........AA..F...PKF.YYPK...RR.. K 99 R 98 U 99 
+ 8  0  8 ..UU.........AA..F...P.F.YYPK...RRK. K 98 R 98 U 99 
+ 8  0  8 ...UU........AA..F...PKFYY.PK.....RR U 98 Y 0 K 99 
+ 8  0  8 ..UU..........AAKF...PKF.YYP....RR.. A 5 R 98 U 99 
+ 8  0  8 .UU.KF....KF.AAP.....P...YY.......RR K 98 F 0 P 1 
+ 8  0  8 ....UU....K..AA.KF...P.F.YYP...RR... R 97 K 99 U 97 
+ 8  0  8 ....UU.......AA..F...PKFYY.PK.....RR U 97 Y 0 K 99 
+ 8  0  8 ....UU....K...AAKF...P.F.YYP......RR A 5 K 99 U 97 
+ 8  0  8 .UU......P.F.AAPKF....K...YY......RR F 1 Y 0 P 0 
+ 8  0  8 UU.........F.AA.KF...PK..YYP....RR.. R 98 U 99 F 1 
+ 8  0  8 .UU..F...P.F.AAPK.....K...YY......RR F 0 Y 0 P 0 
+ 8  0  8 ...UUF.....F.AAPK....PK..YY.......RR U 98 F 0 P 1 
+ 8  0  8 .UU.K.....K..AAP.....P.F.YY..F....RR K 98 F 1 P 1 
+ 8  0  8 .UU......P...AAPK.....KF..YY.F....RR F 1 Y 0 P 0 
+ 8  0  8 UU.........F.AA.KF...PK..YYP...RR... R 97 U 99 F 1 
+ 8  0  8 .UU......PK..AAPKF.....F..YY......RR K 99 Y 0 P 0 
+ 8  0  8 .UU.K....PK..AAP.F.....F..YY......RR K 98 Y 0 P 0 
+ 8  0  8 UU.........F.AA.KF...PK..YYP..RR.... R 96 U 99 F 1 
+ 8  0  8 .UU......P..AA.PKF....KF..YY......RR A 5 Y 0 P 0 
+ 8  0  8 ...UU.........AAK....PKF.YYP.F....RR U 98 F 1 A 5 
+ 8  0  8 UU.......P...AAPKF....KF..YY......RR U 99 Y 0 P 0 
+ 8  0  8 UU.........F.AA.KF...PK.YY.P......RR Y 0 U 99 F 1 
+ 8  0  8 ..UU.....P...AAPKF....KF..YY......RR U 99 Y 0 P 0 
+ 8  0  8 ...UU....P...AAPKF....KF..YY......RR U 98 Y 0 P 0 
+ 8  0  8 UU.........F.AAPKF...PK..YY.......RR P 1 U 99 F 1 
+ 8  0  8 .UU......P.F.AAPKF....K.YY........RR F 1 Y 0 P 0 
+ 8  0  8 ...UUF.....F..AAK....PK..YYP......RR U 98 F 0 A 5 
+ 8  0  8 .UU..F.....F.AAPK....PK...YY......RR F 0 Y 0 P 1 
+ 8  0  8 .UU.K.....K..AAP.F...P.F..YY......RR K 98 Y 0 P 1 
+ 8  0  8 .UU..F...P.F.AAPK.....K.YY........RR F 0 Y 0 P 0 
+ 8  0  8 UU.......P.F.AAPKF....K..YY.......RR P 0 U 99 F 1 
+ 8  0  8 .UU......P...AAPK.....KFYY...F....RR F 1 Y 0 P 0 
+ 8  0  8 .UU......PK..AAPKF.....FYY........RR K 99 Y 0 P 0 
+ 8  0  8 UU.........F.AA.KF....K..YYP.....PRR P 1 U 99 F 1 
+ 8  0  8 .UU.K....PK..AAP.F.....FYY........RR K 98 Y 0 P 0 
+ 8  0  8 .UU.K.....KF.AAP.F...P...YY.......RR K 98 F 1 P 1 
+ 8  0  8 UU.......P...AAPKF....KFYY........RR U 99 Y 0 P 0 
+ 8  0  8 UU........KF.AA.KF...P...YYP......RR K 99 U 99 F 1 
+ 8  0  8 ..UU.....P...AAPKF....KFYY........RR U 99 Y 0 P 0 
+ 8  0  8 ...UU....P...AAPKF....KFYY........RR U 98 Y 0 P 0 
+ 8  0  8 UU..K.....KF.AA..F...P...YYP......RR K 98 U 99 F 1 
+ 8  0  8 ...UU........AA..F...PKF.YYPK..RR... R 97 U 98 K 99 
+ 8  0  8 ...UU.....K..AAPKF...P.F.YY.......RR U 98 K 99 P 1 
+ 8  0  8 .UU.......K..AAPKF...P.F..YY......RR K 99 Y 0 P 1 
+ 8  0  8 ...UUF.....F.AA......PK..YYPK.....RR F 0 U 98 K 99 
+ 8  0  8 UU.........F.AA..F...PK..YYPK.....RR K 99 U 99 F 1 
+ 8  0  8 ...UU........AA......PKF.YYPKF....RR F 1 U 98 K 99 
+ 8  0  8 .UU......P.F.AAPKF....K..YY...RR.... F 1 R 96 P 0 
+ 8  0  8 UU.........FAA..KF...PK..YYP......RR A 5 U 99 F 1 
+ 8  0  8 .UU..F...P.F.AAPK.....K..YY...RR.... F 0 R 96 P 0 
+ 8  0  8 .UU..........AAPK....PKF..YY.F....RR F 1 Y 0 P 1 
+ 8  0  8 .UU......P...AAPK.....KF.YY..FRR.... F 1 R 96 P 0 
+ 8  0  8 .UU......P...AAPKF....KFYY....RR.... P 0 Y 0 R 96 
+ 8  0  8 .UU......P...AAPK.....K..YY..FRR...F F 0 R 96 P 0 
+ 8  0  8 .UU......PK..AAPKF.....F.YY...RR.... K 99 R 96 P 0 
+ 8  0  8 .UU..........AA.KF....KFYY.P..RR.P.. P 1 Y 0 R 96 
+ 8  0  8 .UU.K....PK..AAP.F.....F.YY...RR.... K 98 R 96 P 0 
+ 8  0  8 UU...........AAPKF...PKF..YY......RR U 99 Y 0 P 1 
+ 8  0  8 .UU..F....KF..AAK....P...YYP......RR A 5 K 99 F 0 
+ 8  0  8 ...UUF.....F.AA.K....PK.YY.P......RR U 98 Y 0 F 0 
+ 8  0  8 .UU........F.AAPKF...PK..YY....RR... F 1 R 97 P 1 
+ 8  0  8 .UU......P...AAP.F.....F.YY.K.RR..K. K 98 R 96 P 0 
+ 8  0  8 .UU........F.AA.KF...PK.YY.P..RR.... F 1 Y 0 R 96 
+ 8  0  8 UU.......P...AAPKF....KF.YY...RR.... U 99 R 96 P 0 
+ 8  0  8 ..UU.....P...AAPKF....KF.YY...RR.... U 99 R 96 P 0 
+ 8  0  8 .UU..F.....F.AA.K....PK.YY.P..RR.... F 0 Y 0 R 96 
+ 8  0  8 ...UU....P...AAPKF....KF.YY...RR.... U 98 R 96 P 0 
+ 8  0  8 ...UU........AAPKF...PKF..YY......RR U 98 Y 0 P 1 
+ 8  0  8 .UU......P...AAPKF....KF..YY...RR... Y 0 R 97 P 0 
+ 8  0  8 .UU..........AA.K....PKFYY.P.FRR.... F 1 Y 0 R 96 
+ 8  0  8 .UU......P.F.AAPKF....K..YY....RR... F 1 R 97 P 0 
+ 8  0  8 .UU..F...P.F.AAPK.....K..YY....RR... F 0 R 97 P 0 
+ 8  0  8 .UU..........AA.K....PK.YY.P.FRR...F F 0 Y 0 R 96 
+ 8  0  8 .UU......P...AAPK.....KF.YY..F.RR... F 1 R 97 P 0 
+ 8  0  8 ...UUF....KF.AA.K....P...YYP......RR U 98 K 99 F 0 
+ 8  0  8 .UU..F.....F..AAK....PK.YY.P......RR A 5 Y 0 F 0 
+ 8  0  8 .UU......P...AAPK.....K..YY..F.RR..F F 0 R 97 P 0 
+ 8  0  8 .UU.......K..AA.KF...P.FYY.P..RR.... K 99 Y 0 R 96 
+ 8  0  8 .UU......PK..AAPKF.....F.YY....RR... K 99 R 97 P 0 
+ 8  0  8 .UU.K....PK..AAP.F.....F.YY....RR... K 98 R 97 P 0 
+ 8  0  8 .UU.K.....K..AA..F...P.FYY.P..RR.... K 98 Y 0 R 96 
+ 8  0  8 .UU......P...AAP.F.....F.YY.K..RR.K. K 98 R 97 P 0 
+ 8  0  8 ...UU........AAPKF...PKFYY........RR U 98 Y 0 P 1 
+ 8  0  8 UU.......P...AAPKF....KF.YY....RR... U 99 R 97 P 0 
+ 8  0  8 .UU..........AA..F...P.FYY.PK.RR..K. K 98 Y 0 R 96 
+ 8  0  8 ..UU.....P...AAPKF....KF.YY....RR... U 99 R 97 P 0 
+ 8  0  8 ...UU....P...AAPKF....KF.YY....RR... U 98 R 97 P 0 
+ 8  0  8 .UU.........AA..KF...PKFYY.P..RR.... A 5 Y 0 R 96 
+ 8  0  8 UU...F.....F.AA......PK..YYPK.....RR F 0 U 99 K 99 
+ 8  0  8 ...UUF.....F.AA.K....PK..YYP..RR.... U 98 R 96 F 0 
+ 8  0  8 .UU..F.....F.AAPK....PK..YY...RR.... F 0 R 96 P 1 
+ 8  0  8 UU............AAK....PKF.YYP.F....RR A 5 U 99 F 1 
+ 8  0  8 UU...........AA......PKF.YYPKF....RR F 1 U 99 K 99 
+ 8  0  8 .UU...........AAKF...PKFYY.P..RR.... A 5 Y 0 R 96 
+ 8  0  8 ....UU.......AA.K....PKF.YYP.F.RR... R 97 F 1 U 97 
+ 8  0  8 ....UU....K..AA.K....P.F.YYP.F....RR K 99 F 1 U 97 
+ 8  0  8 UU...........AA.KF...PKFYY.P..RR.... U 99 Y 0 R 96 
+ 8  0  8 ....UU.......AA......PKF.YYPKF....RR K 99 F 1 U 97 
+ 8  0  8 .UU........F.AAPKF...PK..YY...RR.... F 1 R 96 P 1 
+ 8  0  8 ....UU........AAK....PKF.YYP.F....RR A 5 F 1 U 97 
+ 8  0  8 ..UU.........AA.KF...PKFYY.P..RR.... U 99 Y 0 R 96 
+ 8  0  8 ...UU.......AA.PKF...PKF.YY.......RR P 1 U 98 A 5 
+ 8  0  8 ...UU....P..AA.PKF....KF.YY.......RR P 0 U 98 A 5 
+ 8  0  8 ...UU........AA.KF...PKFYY.P..RR.... U 98 Y 0 R 96 
+ 8  0  8 UU..........AA.PKF...PKF.YY.......RR P 1 U 99 A 5 
+ 8  0  8 ...UU........AAPKF...PKF.YY...RR.... U 98 R 96 P 1 
+ 8  0  8 ...UUF.....F.AA.K....PK..YYP...RR... U 98 R 97 F 0 
+ 8  0  8 UU.......P..AA.PKF....KF.YY.......RR P 0 U 99 A 5 
+ 8  0  8 .UU........F..AAKF...PK..YYP...RR... R 97 A 5 F 1 
+ 8  0  8 .UU............AAF...PKF.YYPK..RR... R 97 A 4 K 99 
+ 8  0  8 .UU..F.....F...AA....PK..YYPK.....RR F 0 A 4 K 99 
+ 8  0  8 .UU........F..AAKF...PK..YYP..RR.... R 96 A 5 F 1 
+ 8  0  8 .UU............AA....PKF.YYPKF....RR F 1 A 4 K 99 
+ 8  0  8 .UU..F.....F..AAK....PK..YYP...RR... A 5 R 97 F 0 
+ 8  0  8 UU.............AAF...PKF.YYPK.....RR U 99 A 4 K 99 
+ 8  0  8 .UU........F..AAKF...PK.YY.P......RR Y 0 A 5 F 1 
+ 8  0  8 ..UU...........AAF...PKF.YYPK.....RR U 99 A 4 K 99 
+ 8  0  8 ...UU..........AAF...PKF.YYPK.....RR U 98 A 4 K 99 
+ 8  0  8 ....UU.......AAPKF...PKFYY....RR.... P 1 Y 0 R 96 U 97 
+ 8  0  8 .UU........F..AAKF....K.YY.P.....PRR Y 0 P 1 A 5 F 1 
+ 8  0  8 ....UU.........AAF...PKF.YYPK....RR. R 99 U 97 A 4 K 99 
+ 8  0  8 ....UU.......AAPKF...PKFYY.......RR. P 1 Y 0 R 99 U 97 
+ 8  0  8 ....UU.....F.AA..F...PK..YYPK..RR... K 99 R 97 F 1 U 97 
+ 8  0  8 ...UU......F..AAKF...PK..YYP...RR... R 97 U 98 A 5 F 1 
+ 8  0  8 ..UU........AA...F...PKF.YYPK....RR. R 99 U 99 A 5 K 99 
+ 8  0  8 .UU......P...AAP......KF.YY.KF...RR. F 1 P 0 R 99 K 99 
+ 8  0  8 ...UU.......AA.PK....PKF.YY..F....RR U 98 P 1 F 1 A 5 
+ 8  0  8 .UU..F...P.FAA.PK.....K..YY.....RR.. F 0 P 0 R 98 A 5 
+ 8  0  8 ....UU....K.AA..KF...P.F.YYP..RR.... R 96 U 97 K 99 A 5 
+ 8  0  8 .UU......P.FAA.PKF....K..YY.....RR.. F 1 P 0 R 98 A 5 
+ 8  0  8 ....UU....K.AA..K....P.F.YYP.F....RR F 1 U 97 K 99 A 5 
+ 8  0  8 .UU........F.AA..F...PK.YY.PK...RR.. F 1 R 98 Y 0 K 99 
+ 8  0  8 .UU......P..AA.P.F.....F.YY.K...RRK. K 98 P 0 R 98 A 5 
+ 8  0  8 ....UU...P..AA.PKF....KF.YY.....RR.. U 97 P 0 R 98 A 5 
+ 8  0  8 ...UU....P..AA.PKF....KF.YY.....RR.. U 98 P 0 R 98 A 5 
+ 8  0  8 ..UU......K.AA..KF...P.F.YYP....RR.. R 98 U 99 K 99 A 5 
+ 8  0  8 ...UU.....K.AA..KF...P.F.YYP..RR.... R 96 U 98 K 99 A 5 
+ 8  0  8 ...UUF....KFAA..K....P...YYP......RR F 0 U 98 K 99 A 5 
+ 8  0  8 ...UU.....KFAA..KF...P...YYP......RR F 1 U 98 K 99 A 5 
+ 8  0  8 .UU......P...AAP.F....KFYY..K...RR.. P 0 R 98 Y 0 K 99 
+ 8  0  8 ..UU......K.AA..KF...P.FYY.P......RR Y 0 U 99 K 99 A 5 
+ 8  0  8 ..UU......K.AA..K....P.F.YYP.F....RR F 1 U 99 K 99 A 5 
+ 8  0  8 ..UU.F....KFAA..K....P...YYP......RR F 0 U 99 K 99 A 5 
+ 8  0  8 ....UU.......AAP.F...PKF.YY.K...RR.. U 97 R 98 P 1 K 99 
+ 8  0  8 .UU..........AAP.....PKF.YY.KF..RR.. F 1 R 98 P 1 K 99 
+ 8  0  8 ...UU........AAP.F...PKF.YY.K...RR.. U 98 R 98 P 1 K 99 
+ 8  0  8 ..UU.........AAP.F...PKF.YY.K...RR.. U 99 R 98 P 1 K 99 
+ 8  0  8 UU............AA.F...PKF.YYPK.RR.... R 96 U 99 A 5 K 99 
+ 8  0  8 .UU...........AA.F...PKFYY.PK...RR.. A 5 R 98 Y 0 K 99 
+ 8  0  8 ...UU........AA..F...PKFYY.PK...RR.. U 98 R 98 Y 0 K 99 
+ 8  0  8 ..UU.........AA..F...PKFYY.PK...RR.. U 99 R 98 Y 0 K 99 
+ 8  0  8 UU...........AAPKF...PKFYY....RR.... U 99 P 1 Y 0 R 96 
+ 8  0  8 .UU..........AAPK....PKFYY...FRR.... F 1 P 1 Y 0 R 96 
+ 8  0  8 .UU..........AAP.F...P.FYY..K.RR..K. K 98 P 1 Y 0 R 96 
+ 8  0  8 .UU.K.....K..AAP.F...P.FYY....RR.... K 98 P 1 Y 0 R 96 
+ 8  0  8 UU........K.AA..KF...P.F.YYP..RR.... R 96 U 99 K 99 A 5 
+ 8  0  8 .UU........FAA.PKF...PK..YY.....RR.. F 1 P 1 R 98 A 5 
+ 8  0  8 .UU.K.....K.AA.P.F...P.F.YY.....RR.. K 98 P 1 R 98 A 5 
+ 8  0  8 .UU.........AA.PK....PK..YY..F..RR.F F 0 P 1 R 98 A 5 
+ 8  0  8 UU........K.AA..KF...P.F.YYP...RR... R 97 U 99 K 99 A 5 
+ 8  0  8 UU..........AA.PKF...PKF.YY.....RR.. U 99 P 1 R 98 A 5 
+ 8  0  8 UU........K.AA..KF...P.F.YYP....RR.. R 98 U 99 K 99 A 5 
+ 8  0  8 ....UU......AA.PKF...PKF.YY.....RR.. U 97 P 1 R 98 A 5 
+ 8  0  8 ....UU....KF.AA.KF...P..YY.P......RR Y 0 K 99 F 1 U 97 
+ 8  0  8 UU........KFAA..KF...P...YYP......RR F 1 U 99 K 99 A 5 
+ 8  0  8 .UU......PK.AA.PKF.....F.YY....RR... R 97 P 0 K 99 A 5 
+ 8  0  8 .UU......PK.AA.PKF.....F.YY.....RR.. R 98 P 0 K 99 A 5 
+ 8  0  8 ..UU.....PK.AA.PKF.....F.YY.......RR U 99 P 0 K 99 A 5 
+ 8  0  8 .UU......PK.AA.PKF.....F..YY......RR Y 0 P 0 K 99 A 5 
+ 8  0  8 UU.......PK.AA.PKF.....F.YY.......RR U 99 P 0 K 99 A 5 
+ 8  0  8 .UU......PK.AA.PK......F.YY..F....RR F 1 P 0 K 99 A 5 
+ 8  0  8 ....UU....KF.AA.KF...P...YYP..RR.... R 96 K 99 F 1 U 97 
+ 8  0  8 ....UU.....F..AAKF...PK.YY.P......RR Y 0 U 97 A 5 F 1 
+ 8  0  8 .UU.......K.AA.PKF...P.F..YY......RR Y 0 P 1 K 99 A 5 
+ 8  0  8 .UU.......K.AA.PKF...P.FYY........RR Y 0 P 1 K 99 A 5 
+ 8  0  8 ....UU....KF.AA.KF...P...YYP....RR.. R 98 K 99 F 1 U 97 
+ 8  0  8 .UU.......K.AA.PK....P.F.YY..F....RR F 1 P 1 K 99 A 5 
+ 8  0  8 ....UU....K.AA.PKF...P.F.YY.......RR U 97 P 1 K 99 A 5 
+ 8  0  8 ...UU.....K.AA.PKF...P.F.YY.......RR U 98 P 1 K 99 A 5 
+ 8  0  8 .UU.........AA.PK....PKF.YY..F...RR. R 99 P 1 F 1 A 5 
+ 8  0  8 ....UU....KF.AA.KF.......YYP.....PRR P 1 K 99 F 1 U 97 
+ 8  0  8 .UU......P..AA.PKF....KFYY......RR.. P 0 Y 0 R 98 A 5 
+ 8  0  8 ...UU......F..AAKF...PK.YY.P......RR Y 0 U 98 A 5 F 1 
+ 8  0  8 .UU.........AA...F...P.FYY.PK...RRK. K 98 Y 0 R 98 A 5 
+ 8  0  8 .UU.........AA..K....PKFYY.P.F..RR.. F 1 Y 0 R 98 A 5 
+ 8  0  8 .UU.........AA...F...PKFYY.PK...RR.. K 99 Y 0 R 98 A 5 
+ 8  0  8 .UU.K.....K.AA...F...P.FYY.P....RR.. K 98 Y 0 R 98 A 5 
+ 8  0  8 ....UU........AA.F....KF.YYPK....PRR P 1 U 97 A 5 K 99 
+ 8  0  8 ...UU.......AA..KF...PKFYY.P....RR.. U 98 Y 0 R 98 A 5 
+ 8  0  8 ....UU.....F.AA.KF....K..YYP...RRP.. P 1 R 97 F 1 U 97 
+ 8  0  8 ....UU...P.F.AAPKF....K..YY....RR... P 0 R 97 F 1 U 97 
+ 8  0  8 ....UU........AA.F...PKFYY.PK.....RR Y 0 U 97 A 5 K 99 
+ 8  0  8 ....UU.....F.AA..F...P...YYPK..RR.K. K 98 R 97 F 1 U 97 
+ 8  0  8 ....UU........AA.F...PKF.YYPK.RR.... R 96 U 97 A 5 K 99 
+ 8  0  8 ....UU........AA.F...PKF.YYPK...RR.. R 98 U 97 A 5 K 99 
+ 8  0  8 ...UU........AA..F...PKFYY.PK....RR. U 98 Y 0 R 99 K 99 
+ 8  0  8 ..UU.......F..AAKF...PK.YY.P......RR Y 0 U 99 A 5 F 1 
+ 8  0  8 ...UU.........AA.F....KF.YYPK....PRR P 1 U 98 A 5 K 99 
+ 8  0  8 ...UU.........AA.F...PKFYY.PK.....RR Y 0 U 98 A 5 K 99 
+ 8  0  8 ..UU..........AA.....PKF.YYPKF....RR F 1 U 99 A 5 K 99 
+ 8  0  8 ..UU..........AA.F...PKF.YYPK...RR.. R 98 U 99 A 5 K 99 
+ 8  0  8 ..UU.F.....F..AA.....PK..YYPK.....RR F 0 U 99 A 5 K 99 
+ 8  0  8 ..UU..........AA.F....KF.YYPK....PRR P 1 U 99 A 5 K 99 
+ 8  0  8 UU........K.AA..KF...P.F.YYP.....RR. R 99 U 99 K 99 A 5 
+ 8  0  8 ....UU.....F..AAKF...PK..YYP.....RR. U 97 R 99 A 5 F 1 
+ 8  0  8 .UU......P...AAP.F....KFYY..K....RR. P 0 Y 0 R 99 K 99 
+ 8  0  8 ....UU........AA.F...PKF.YYPK....RR. R 99 U 97 A 5 K 99 
+ 8  0  8 UU...........AA..F...PKFYY.PK....RR. U 99 Y 0 R 99 K 99 
+ 8  0  8 ...UU......F.AA.KF...PK.YY.P....RR.. Y 0 R 98 U 98 F 1 
+ 8  0  8 .UU.........AA.PKF...PKF..YY....RR.. Y 0 P 1 R 98 A 5 
+ 8  0  8 .UU...........AA.F...PKFYY.PK....RR. A 5 Y 0 R 99 K 99 
+ 8  0  8 .UU.........AA.P.....PKF.YY.KF....RR K 99 P 1 F 1 A 5 
+ 8  0  8 ....UU....K.AA..KF...P.F.YYP.....RR. R 99 U 97 K 99 A 5 
+ 8  0  8 UU..........AA...F...PKF.YYPK...RR.. R 98 U 99 A 5 K 99 
+ 8  0  8 UU.........F..AA.F...PK..YYPK.....RR U 99 K 99 A 5 F 1 
+ 8  0  8 UU..........AA...F...PKF.YYPK....RR. R 99 U 99 A 5 K 99 
+ 8  0  8 .UU........F..AA.F...PK..YYPK..RR... F 1 R 97 A 5 K 99 
+ 8  0  8 UU............AA.F...PKF.YYPK..RR... U 99 R 97 A 5 K 99 
+ 8  0  8 .UU.KF....KFAA.......P...YYP....RR.. K 98 F 0 R 98 A 5 
+ 8  0  8 ...UU.......AA...F...P.F.YYPK...RRK. U 98 K 98 R 98 A 5 
+ 8  0  8 .UU.K.....KF..AA.F...P...YYP...RR... R 97 K 98 A 5 F 1 
+ 8  0  8 ..UUK.....KF..AA.F...P...YYP......RR U 99 K 98 A 5 F 1 
+ 8  0  8 .UU.......K.AA..K....P...YYP.F..RR.F K 99 F 0 R 98 A 5 
+ 8  0  8 ....UU........AAKF...PKFYY.P.....RR. A 5 Y 0 R 99 U 97 
+ 8  0  8 ...UU.......AA...F...PKF.YYPK...RR.. R 98 U 98 A 5 K 99 
+ 8  0  8 .UU..F.....FAA.PK....PK..YY....RR... R 97 P 1 F 0 A 5 
+ 8  0  8 ....UU.......AA..F...PKFYY.PK....RR. K 99 Y 0 R 99 U 97 
+ 8  0  8 UU..K.....K..AA..F.....FYY.P.....PRR U 99 Y 0 K 98 P 1 
+ 8  0  8 ..UUK.....K.AA...F...P.FYY.P......RR Y 0 U 99 K 98 A 5 
+ 8  0  8 ..UUKF....KFAA.......P...YYP......RR F 0 U 99 K 98 A 5 
+ 8  0  8 UU..........AA...F...P.F.YYPK...RRK. U 99 K 98 R 98 A 5 
+ 8  0  8 UU..K.....KFAA...F...P...YYP......RR F 1 U 99 K 98 A 5 
+ 8  0  8 UU...F.....FAA..K....PK..YYP.....RR. R 99 U 99 F 0 A 5 
+ 8  0  8 ...UUF.....FAA..K....PK..YYP.....RR. R 99 U 98 F 0 A 5 
+ 8  0  8 UU..K.....K.AA.P.F...P.F.YY.......RR P 1 U 99 K 98 A 5 
+ 8  0  8 .UU.KF...PKFAA.P.........YY.......RR F 0 P 0 K 98 A 5 
+ 8  0  8 ..UU.........AAPKF...PKFYY.......RR. P 1 Y 0 R 99 U 99 
+ 8  0  8 .UU.......KFAA..KF...P...YYP...RR... R 97 K 99 F 1 A 5 
+ 8  0  8 UU........KF..AAKF...P...YYP......RR U 99 K 99 A 5 F 1 
+ 8  0  8 .UU..F...P.F.AAPK.....K.YY......RR.. Y 0 F 0 R 98 P 0 
+ 8  0  8 .UU.K....PK.AA.P.F.....F.YY.....RR.. R 98 P 0 K 98 A 5 
+ 8  0  8 .UU.K....PK.AA.P.F.....F..YY......RR Y 0 P 0 K 98 A 5 
+ 8  0  8 .UU........FAA...F...PK..YYPK....RR. A 5 F 1 R 99 K 99 
+ 8  0  8 .UU......P.FAA.PKF....K..YY....RR... R 97 P 0 F 1 A 5 
+ 8  0  8 ...UU.....K..AA.K....P.F.YYP.F..RR.. R 98 U 98 K 99 F 1 
+ 8  0  8 ...UU.....K..AAPK....P.F.YY..F....RR P 1 U 98 K 99 F 1 
+ 8  0  8 .UU.K.....K...AA.F.....FYY.P.....PRR A 5 Y 0 K 98 P 1 
+ 8  0  8 .UU.......K...AAK......F.YYP.F...PRR P 1 A 5 K 99 F 1 
+ 8  0  8 ..UU.......F.AA..F...PK..YYPK....RR. U 99 F 1 R 99 K 99 
+ 8  0  8 .UU.KF...PKF.AAP.........YY.....RR.. K 98 F 0 R 98 P 0 
+ 8  0  8 .UU.......K...AAK....P.F.YYP.FRR.... R 96 A 5 K 99 F 1 
+ 8  0  8 ..UU..........AAKF...PKFYY.P...RR... A 5 Y 0 R 97 U 99 
+ 8  0  8 ...UUF...P.F.AAPK.....K..YY.....RR.. U 98 F 0 R 98 P 0 
+ 8  0  8 .UU......P.F.AAP.F.......YY.K...RRK. K 98 F 1 R 98 P 0 
+ 8  0  8 ..UU.........AA.KF....KFYY.P...RRP.. P 1 Y 0 R 97 U 99 
+ 8  0  8 ...UU....P...AAP.F....KF.YY.K....RR. U 98 P 0 R 99 K 99 
+ 8  0  8 ..UU.........AA.K....PK.YY.P.F.RR..F F 0 Y 0 R 97 U 99 
+ 8  0  8 ..UU.........AA..F...P.FYY.PK..RR.K. K 98 Y 0 R 97 U 99 
+ 8  0  8 ....UU...P...AAP.F....KF.YY.K....RR. U 97 P 0 R 99 K 99 
+ 8  0  8 UU.........F..AAKF...PK..YYP....RR.. U 99 R 98 A 5 F 1 
+ 8  0  8 .UU......P...AAPK.....K...YY.F..RR.F F 0 Y 0 R 98 P 0 
+ 8  0  8 .UU......P...AAP.F.....F..YYK...RRK. K 98 Y 0 R 98 P 0 
+ 8  0  8 ....UU.....F...AAF...PK..YYPK.....RR F 1 U 97 A 4 K 99 
+ 8  0  8 ....UU.....F.AAPKF...PK..YY.....RR.. F 1 R 98 P 1 U 97 
+ 8  0  8 .UU..F.....FAA.PK....PK..YY...RR.... F 0 P 1 R 96 A 5 
+ 8  0  8 .UU.K.....K.AA.P.F...P.F.YY...RR.... K 98 P 1 R 96 A 5 
+ 8  0  8 ....UU.......AAPK....PKF.YY..F..RR.. F 1 R 98 P 1 U 97 
+ 8  0  8 ..UU.......FAA..KF...PK.YY.P......RR Y 0 U 99 F 1 A 5 
+ 8  0  8 ..UU........AA.PKF...PKF.YY...RR.... U 99 P 1 R 96 A 5 
+ 8  0  8 .UU........F.AA..F....K.YY.PK....PRR K 99 Y 0 F 1 P 1 
+ 8  0  8 .UU..........AAP.....PK..YY.KF...RRF F 0 P 1 R 99 K 99 
+ 8  0  8 .UU........F..AA.F...PK..YYPK...RR.. K 99 R 98 A 5 F 1 
+ 8  0  8 ..UU..........AAKF...PKFYY.P.....RR. A 5 Y 0 R 99 U 99 
+ 8  0  8 ..UU.......FAA..KF....K..YYP.....PRR P 1 U 99 F 1 A 5 
+ 8  0  8 .UU.......KF..AAKF...P...YYP....RR.. K 99 R 98 A 5 F 1 
+ 8  0  8 .UU......P..AA.PK.....KF.YY..F..RR.. F 1 P 0 R 98 A 5 
+ 8  0  8 .UU.......KF..AAKF.......YYP.....PRR K 99 P 1 A 5 F 1 
+ 8  0  8 ..UU.......F..AAKF....K..YYP.....PRR U 99 P 1 A 5 F 1 
+ 8  0  8 .UU.......KFAA..KF...P..YY.P......RR Y 0 K 99 F 1 A 5 
+ 8  0  8 .UU..........AA......PK.YY.PKFRR...F F 0 Y 0 R 96 K 99 
+ 8  0  8 .UU......P.FAA.PKF....K...YY......RR Y 0 P 0 F 1 A 5 
+ 8  0  8 ..UU.....P.FAA.PKF....K..YY.......RR U 99 P 0 F 1 A 5 
+ 8  0  8 .UU..F.....F.AA......PK.YY.PK.RR.... F 0 Y 0 R 96 K 99 
+ 8  0  8 ....UU........AAKF...PKFYY.P..RR.... A 5 Y 0 R 96 U 97 
+ 8  0  8 ..UU.......F.AA.KF...PK.YY.P.....RR. F 1 Y 0 R 99 U 99 
+ 8  0  8 ..UU.........AA.K....PK.YY.P.F...RRF F 0 Y 0 R 99 U 99 
+ 8  0  8 ...UU........AA..F...PKFYY.PK.RR.... U 98 Y 0 R 96 K 99 
+ 8  0  8 .UU........FAA.PKF...PK.YY........RR Y 0 P 1 F 1 A 5 
+ 8  0  8 ....UU.......AA.K....PKFYY.P.FRR.... F 1 Y 0 R 96 U 97 
+ 8  0  8 ....UU.......AA..F...P.FYY.PK.RR..K. K 98 Y 0 R 96 U 97 
+ 8  0  8 .UU........FAA.PKF...PK...YY......RR Y 0 P 1 F 1 A 5 
+ 8  0  8 ....UU.......AA.K.....KFYY.P.F...PRR U 97 Y 0 F 1 P 1 
+ 8  0  8 ...UUF.....FAA..K....PK..YYP...RR... R 97 U 98 F 0 A 5 
+ 8  0  8 UU...F.....FAA..K....PK..YYP...RR... R 97 U 99 F 0 A 5 
+ 8  0  8 ...UUF.....FAA..K.....K..YYP.....PRR P 1 U 98 F 0 A 5 
+ 8  0  8 .UU..F...P.FAA.PK.....K..YY....RR... R 97 P 0 F 0 A 5 
+ 8  0  8 .UU..F...P.F.AAP......K..YY.K...RR.. F 0 R 98 P 0 K 99 
+ 8  0  8 .UU..F....KFAA..K....P...YYP...RR... R 97 K 99 F 0 A 5 
+ 8  0  8 .UU..F...P.FAA.PK.....K..YY...RR.... R 96 P 0 F 0 A 5 
+ 8  0  8 .UU.KF....KF.AA.........YY.P.....PRR K 98 Y 0 F 0 P 1 
+ 8  0  8 .UU..F...P.FAA.P......K..YY.K.....RR K 99 P 0 F 0 A 5 
+ 8  0  8 .UU..F.....FAA..K....PK.YY.P...RR... F 0 Y 0 R 97 A 5 
+ 8  0  8 .UU.........AA...F...PKFYY.PK..RR... K 99 Y 0 R 97 A 5 
+ 8  0  8 UU...........AA.K.....KFYY.P.F...PRR U 99 Y 0 F 1 P 1 
+ 8  0  8 UU.........FAA...F...PK..YYPK.....RR F 1 U 99 A 5 K 99 
+ 8  0  8 .UU..F.....F.AA.......K.YY.PK....PRR K 99 Y 0 F 0 P 1 
+ 8  0  8 .UU.K.....K..AA........FYY.P.F...PRR K 98 Y 0 F 1 P 1 
+ 8  0  8 ....UU.....FAA..KF...PK..YYP....RR.. U 97 F 1 R 98 A 5 
+ 8  0  8 .UU..F.....FAA.PK....PK...YY......RR Y 0 P 1 F 0 A 5 
+ 8  0  8 ....UU......AA...F...PKF.YYPK..RR... R 97 U 97 A 5 K 99 
+ 8  0  8 UU...F.....FAA.PK....PK..YY.......RR U 99 P 1 F 0 A 5 
+ 8  0  8 ..UU........AA...F...PKF.YYPK..RR... R 97 U 99 A 5 K 99 
+ 8  0  8 ....UU......AA...F....KF.YYPK....PRR P 1 U 97 A 5 K 99 
+ 8  0  8 ...UU.......AA...F....KF.YYPK....PRR P 1 U 98 A 5 K 99 
+ 8  0  8 ..UU........AA...F...PKF.YYPK.RR.... R 96 U 99 A 5 K 99 
+ 8  0  8 ...UU.......AA..K....PKFYY.P.F....RR Y 0 U 98 F 1 A 5 
+ 8  0  8 ..UU.....P..AA.P.F....KF.YY.K.....RR P 0 U 99 A 5 K 99 
+ 8  0  8 ...UU......F.AA..F...PK..YYPK...RR.. K 99 R 98 U 98 F 1 
+ 8  0  8 UU..........AA.P.F...PKF.YY.K.....RR P 1 U 99 A 5 K 99 
+ 8  0  8 ...UU.......AA..K....PK..YYP.F..RR.F U 98 F 0 R 98 A 5 
+ 8  0  8 .UU..........AAP.F...PKF..YYK...RR.. Y 0 R 98 P 1 K 99 
+ 8  0  8 ...UU.......AA..K.....KF.YYP.F...PRR P 1 U 98 F 1 A 5 
+ 8  0  8 .UU.........AA.......PK..YYPKF..RR.F K 99 F 0 R 98 A 5 
+ 8  0  8 .UU.........AA.PK....PKF.YY..F.RR... R 97 P 1 F 1 A 5 
+ 8  0  8 ..UU........AA..K....PKF.YYP.FRR.... R 96 U 99 F 1 A 5 
+ 8  0  8 ....UU.......AA.K....PK.YY.P.F..RR.F F 0 R 98 Y 0 U 97 
+ 8  0  8 ...UU....P.F.AAPKF....K..YY......RR. P 0 R 99 U 98 F 1 
+ 8  0  8 UU..........AA..K....PKF.YYP.FRR.... R 96 U 99 F 1 A 5 
+ 8  0  8 ....UU...P..AA.PK.....KF.YY..F....RR U 97 P 0 F 1 A 5 
+ 8  0  8 .UU..F.....FAA.......P...YYPK...RRK. K 98 F 0 R 98 A 5 
+ 8  0  8 ...UU.......AA..K....PKF.YYP.F..RR.. U 98 F 1 R 98 A 5 
+ 8  0  8 UU.........FAA..KF...PK..YYP....RR.. U 99 F 1 R 98 A 5 
+ 8  0  8 ...UU....P..AA.PK.....KF.YY..F....RR U 98 P 0 F 1 A 5 
+ 8  0  8 ..UU.....P..AA.PK.....KF.YY..F....RR U 99 P 0 F 1 A 5 
+ 8  0  8 .UU.......K.AA..K....P.F.YYP.FRR.... R 96 K 99 F 1 A 5 
+ 8  0  8 .UU.........AA.PK....PKFYY...F....RR Y 0 P 1 F 1 A 5 
+ 8  0  8 .UU......P..AA.P......KF.YY.KF....RR K 99 P 0 F 1 A 5 
+ 8  0  8 UU.........FAA..KF...PK..YYP.....RR. A 5 R 99 U 99 F 1 
+ 8  0  8 .UU..........AAP.F...PKFYY..K.RR.... P 1 Y 0 R 96 K 99 
+ 8  0  8 .UU.K.....KFAA...F...P...YYP....RR.. K 98 F 1 R 98 A 5 
+ 8  0  8 .UU.........AA.PKF...PKFYY....RR.... Y 0 P 1 R 96 A 5 
+ 8  0  8 .UU.......KF.AA.KF......YY.P.....PRR K 99 Y 0 F 1 P 1 
+ 8  0  8 ..UUK.....K.AA...F...P.F.YYP.....RR. R 99 U 99 K 98 A 5 
+ 8  0  8 .UU.......K...AAK....P.F.YYP.F...RR. R 99 A 5 K 99 F 1 
+ 8  0  8 UU..K.....K.AA...F...P.F.YYP.....RR. R 99 U 99 K 98 A 5 
+ 8  0  8 .UU.......KF..AAKF...P...YYP.....RR. R 99 K 99 A 5 F 1 
+ 8  0  8 ...UU.........AA.....PKF.YYPKF....RR F 1 U 98 A 5 K 99 
+ 8  0  8 .UU...........AA.F...PKFYY.PK..RR... Y 0 R 97 A 5 K 99 
+ 8  0  8 UU............AA.F...PKF.YYPK....RR. R 99 U 99 A 5 K 99 
+ 8  0  8 .UU........F..AA.F...PK..YYPK.RR.... R 96 K 99 A 5 F 1 
+ 8  0  8 ..UU..........AA.F...PKF.YYPK....RR. R 99 U 99 A 5 K 99 
+ 8  0  8 UU.........F..AAKF...PK..YYP...RR... R 97 U 99 A 5 F 1 
+ 8  0  8 ...UU.........AA.F...PKF.YYPK....RR. R 99 U 98 A 5 K 99 
+ 8  0  8 .UU........F.AA..F...PK.YY.PK....RR. F 1 Y 0 R 99 K 99 
+ 8  0  8 .UU.......KFAA..KF...P...YYP....RR.. K 99 F 1 R 98 A 5 
+ 8  0  8 .UU.........AA...F...PKFYY.PK....RR. A 5 Y 0 R 99 K 99 
+ 8  0  8 .UU......PK.AA.PKF.....F.YY......RR. R 99 P 0 K 99 A 5 
+ 8  0  8 ..UU.........AA..F...PKFYY.PK....RR. U 99 Y 0 R 99 K 99 
+ 8  0  8 ..UU......K.AA..KF...P.F.YYP.....RR. R 99 U 99 K 99 A 5 
+ 8  0  8 UU............AA.F...PKFYY.PK.....RR Y 0 U 99 A 5 K 99 
+ 8  0  8 ...UU.....K.AA..KF...P.F.YYP.....RR. R 99 U 98 K 99 A 5 
+ 8  0  8 .UU........F..AA.F...PK.YY.PK.....RR Y 0 K 99 A 5 F 1 
+ 8  0  8 .UU.K.....K.AA.......P.F.YYP.F..RR.. K 98 F 1 R 98 A 5 
+ 8  0  8 ....UU.....F..AA.F...PK..YYPK.....RR U 97 K 99 A 5 F 1 
+ 8  0  8 .UU..F....KFAA..K....P...YYP....RR.. K 99 F 0 R 98 A 5 
+ 8  0  8 .UU...........AA.....PK..YYPKF.RR..F F 0 R 97 A 5 K 99 
+ 8  0  8 ..UU........AA..K....PKF.YYP.F...RR. R 99 U 99 F 1 A 5 
+ 8  0  8 ....UU........AA.F...PKF.YYPK..RR... U 97 R 97 A 5 K 99 
+ 8  0  8 ...UU.......AA..K....PKF.YYP.F...RR. R 99 U 98 F 1 A 5 
+ 8  0  8 UU..K.....KF..AA.F...P...YYP......RR U 99 K 98 A 5 F 1 
+ 8  0  8 ....UU.......AAPKF...PKF..YY....RR.. Y 0 R 98 P 1 U 97 
+ 8  0  8 ....UU.......AA.K....PKFYY.P.F...RR. F 1 Y 0 R 99 U 97 
+ 8  0  8 .UU..F.....FAA.PK....PK..YY......RR. R 99 P 1 F 0 A 5 
+ 8  0  8 ....UU......AA..KF...PKFYY.P.....RR. A 5 Y 0 R 99 U 97 
+ 8  0  8 .UU..F...P.FAA.PK.....K..YY......RR. R 99 P 0 F 0 A 5 
+ 8  0  8 ..UUK.....K.AA...F...P.F.YYP..RR.... R 96 U 99 K 98 A 5 
+ 8  0  8 .UU..F....KFAA..K....P...YYP.....RR. R 99 K 99 F 0 A 5 
+ 8  0  8 ..UUK.....KFAA...F...P...YYP......RR F 1 U 99 K 98 A 5 
+ 8  0  8 .UU........FAA.PKF...PK..YY....RR... R 97 P 1 F 1 A 5 
+ 8  0  8 UU..K.....K.AA...F...P.F.YYP...RR... R 97 U 99 K 98 A 5 
+ 8  0  8 ..UU.F.....FAA..K....PK..YYP...RR... R 97 U 99 F 0 A 5 
+ 8  0  8 UU..K.....K.AA...F.....F.YYP.....PRR P 1 U 99 K 98 A 5 
+ 8  0  8 .UU......P.FAA.PKF....K..YY......RR. R 99 P 0 F 1 A 5 
+ 8  0  8 .UU.......KF..AAKF...P...YYP...RR... R 97 K 99 A 5 F 1 
+ 8  0  8 .UU.......KFAA..KF...P...YYP.....RR. R 99 K 99 F 1 A 5 
+ 8  0  8 ..UU......KF..AAKF...P...YYP......RR U 99 K 99 A 5 F 1 
+ 8  0  8 ..UUK.....K..AA..F.....FYY.P.....PRR U 99 Y 0 K 98 P 1 
+ 8  0  8 .UU.K....PK.AA.P.F.....F.YY....RR... R 97 P 0 K 98 A 5 
+ 8  0  8 .UU......P.F.AAPKF....K.YY......RR.. Y 0 F 1 R 98 P 0 
+ 8  0  8 .UU.K....PKFAA.P.F.......YY.......RR F 1 P 0 K 98 A 5 
+ 8  0  8 ..UU.......F.AA..F...PK..YYPK...RR.. U 99 R 98 F 1 K 99 
+ 8  0  8 ..UUK....PK.AA.P.F.....F.YY.......RR U 99 P 0 K 98 A 5 
+ 8  0  8 ....UU.....F.AA..F...PK..YYPK...RR.. U 97 R 98 F 1 K 99 
+ 8  0  8 ...UU.....K..AA.K....P.FYY.P.F....RR Y 0 U 98 K 99 F 1 
+ 8  0  8 UU...F...P.F.AAPK.....K..YY.....RR.. U 99 F 0 R 98 P 0 
+ 8  0  8 ...UU.....K.AA..K....P.F.YYP.F....RR A 5 U 98 K 99 F 1 
+ 8  0  8 .UU..F...PKF.AAPK........YY.....RR.. K 99 F 0 R 98 P 0 
+ 8  0  8 .UU.......K...AAK....P.FYY.P.F....RR Y 0 A 5 K 99 F 1 
+ 8  0  8 .UU......PKF.AAPKF.......YY.....RR.. K 99 F 1 R 98 P 0 
+ 8  0  8 ...UU.....K...AAK....P.F.YYP.F....RR U 98 A 5 K 99 F 1 
+ 8  0  8 .UU.K....PKF.AAP.F.......YY.....RR.. K 98 F 1 R 98 P 0 
+ 8  0  8 ..UU.......F.AA.KF...PK.YY.P...RR... F 1 Y 0 R 97 U 99 
+ 8  0  8 .UU.......K...AAKF.....FYY.P.....PRR A 5 Y 0 K 99 P 1 
+ 8  0  8 ..UU......K..AA.KF...P.FYY.P...RR... K 99 Y 0 R 97 U 99 
+ 8  0  8 ..UU.....P...AAP.F....KF.YY.K....RR. U 99 P 0 R 99 K 99 
+ 8  0  8 ..UU........AA..KF...PKFYY.P...RR... A 5 Y 0 R 97 U 99 
+ 8  0  8 .UU......PK..AAPKF.....F..YY....RR.. K 99 Y 0 R 98 P 0 
+ 8  0  8 ....UU.........AAF...PKF.YYPK.RR.... R 96 U 97 A 4 K 99 
+ 8  0  8 .UU.K....PK..AAP.F.....F..YY....RR.. K 98 Y 0 R 98 P 0 
+ 8  0  8 ....UU.........AA....PKF.YYPKF....RR F 1 U 97 A 4 K 99 
+ 8  0  8 ....UU.......AAPK....PK..YY..F..RR.F F 0 R 98 P 1 U 97 
+ 8  0  8 .UU.........AA.PK....PKF.YY..FRR.... F 1 P 1 R 96 A 5 
+ 8  0  8 ....UU.....FAA..KF....K..YYP.....PRR P 1 U 97 F 1 A 5 
+ 8  0  8 .UU.........AA.P.F...PKF.YY.K.RR.... K 99 P 1 R 96 A 5 
+ 8  0  8 .UU........F.AAP.F...PK..YY.K....RR. F 1 P 1 R 99 K 99 
+ 8  0  8 ...UU.......AA.PKF...PKF.YY...RR.... U 98 P 1 R 96 A 5 
+ 8  0  8 .UU..F.....F.AAP.....PK..YY.K....RR. F 0 P 1 R 99 K 99 
+ 8  0  8 .UU........FAA..KF....K.YY.P.....PRR A 5 Y 0 F 1 P 1 
+ 8  0  8 .UU......P.FAA.PKF....K..YY...RR.... R 96 P 0 F 1 A 5 
+ 8  0  8 ....UU.....F.AA.KF....K.YY.P.....PRR U 97 Y 0 F 1 P 1 
+ 8  0  8 ..UU.......FAA..KF...PK..YYP..RR.... R 96 U 99 F 1 A 5 
+ 8  0  8 .UU........F..AA.F...P...YYPK...RRK. K 98 R 98 A 5 F 1 
+ 8  0  8 .UU.K.....KFAA...F.......YYP.....PRR P 1 K 98 F 1 A 5 
+ 8  0  8 ....UU.....F..AAKF...PK..YYP....RR.. U 97 R 98 A 5 F 1 
+ 8  0  8 .UU.......KFAA..KF...P...YYP..RR.... R 96 K 99 F 1 A 5 
+ 8  0  8 UU.........F..AAKF....K..YYP.....PRR U 99 P 1 A 5 F 1 
+ 8  0  8 ....UU...P.FAA.PKF....K..YY.......RR U 97 P 0 F 1 A 5 
+ 8  0  8 .UU......P...AAP.F....KFYY..K.RR.... P 0 Y 0 R 96 K 99 
+ 8  0  8 UU.......P.FAA.PKF....K..YY.......RR U 99 P 0 F 1 A 5 
+ 8  0  8 .UU..........AA......PKFYY.PKFRR.... F 1 Y 0 R 96 K 99 
+ 8  0  8 ..UU.F.....F.AA.K....PK.YY.P.....RR. F 0 Y 0 R 99 U 99 
+ 8  0  8 .UU............AAF...PKFYY.PK.RR.... A 4 Y 0 R 96 K 99 
+ 8  0  8 ..UU.........AA.K....PKFYY.P.F...RR. F 1 Y 0 R 99 U 99 
+ 8  0  8 ....UU...P...AAPKF....KFYY....RR.... P 0 Y 0 R 96 U 97 
+ 8  0  8 ...UU.......AA..KF...PKFYY.P...RR... U 98 Y 0 R 97 A 5 
+ 8  0  8 ....UU.......AA.K....PK.YY.P.FRR...F F 0 Y 0 R 96 U 97 
+ 8  0  8 ....UU....K..AA.KF.....FYY.P.....PRR U 97 Y 0 K 99 P 1 
+ 8  0  8 ....UU......AA..KF...PKFYY.P..RR.... A 5 Y 0 R 96 U 97 
+ 8  0  8 ...UUF.....FAA..K....PK..YYP..RR.... R 96 U 98 F 0 A 5 
+ 8  0  8 ...UU......FAA.PKF...PK..YY.......RR U 98 P 1 F 1 A 5 
+ 8  0  8 ..UU.F.....FAA..K....PK..YYP..RR.... R 96 U 99 F 0 A 5 
+ 8  0  8 ..UU.F.....FAA..K....PK.YY.P......RR Y 0 U 99 F 0 A 5 
+ 8  0  8 .UU..F...P.FAA.PK.....K.YY........RR Y 0 P 0 F 0 A 5 
+ 8  0  8 .UU......P...AAP......K..YY.KF..RR.F F 0 R 98 P 0 K 99 
+ 8  0  8 .UU..F....KFAA..K....P...YYP..RR.... R 96 K 99 F 0 A 5 
+ 8  0  8 .UU..F....KFAA..K....P..YY.P......RR Y 0 K 99 F 0 A 5 
+ 8  0  8 .UU.........AA..KF....KFYY.P...RRP.. P 1 Y 0 R 97 A 5 
+ 8  0  8 ..UU.F...P.FAA.PK.....K..YY.......RR U 99 P 0 F 0 A 5 
+ 8  0  8 .UU.........AA..K....PKFYY.P.F.RR... F 1 Y 0 R 97 A 5 
+ 8  0  8 .UU.........AA..K....PK.YY.P.F.RR..F F 0 Y 0 R 97 A 5 
+ 8  0  8 ....UU......AA.P.F...PKF.YY.K.....RR P 1 U 97 A 5 K 99 
+ 8  0  8 .UU.........AA........KF.YYPKF...PRR F 1 A 5 P 1 K 99 
+ 8  0  8 ..UU.........AA.K.....KFYY.P.F...PRR U 99 Y 0 F 1 P 1 
+ 8  0  8 ...UU........AA.K.....KFYY.P.F...PRR U 98 Y 0 F 1 P 1 
+ 8  0  8 .UU.KF....KFAA.P.....P...YY.......RR K 98 P 1 F 0 A 5 
+ 8  0  8 ...UUF.....F.AA.K.....K.YY.P.....PRR U 98 Y 0 F 0 P 1 
+ 8  0  8 ..UU.F.....FAA.PK....PK..YY.......RR U 99 P 1 F 0 A 5 
+ 8  0  8 ...UUF.....FAA.PK....PK..YY.......RR U 98 P 1 F 0 A 5 
+ 8  0  8 ..UU........AA...F...PKFYY.PK.....RR Y 0 U 99 A 5 K 99 
+ 8  0  8 ...UU.......AA...F...PKF.YYPK..RR... R 97 U 98 A 5 K 99 
+ 8  0  8 ...UU......FAA...F...PK..YYPK.....RR F 1 U 98 A 5 K 99 
+ 8  0  8 ...UUF.....FAA.......PK..YYPK.....RR F 0 U 98 A 5 K 99 
+ 8  0  8 ...UU....P.F.AAPKF....K..YY.....RR.. P 0 R 98 U 98 F 1 
+ 8  0  8 ..UU.......FAA...F...PK..YYPK.....RR F 1 U 99 A 5 K 99 
+ 8  0  8 ...UU......F.AA..F...P...YYPK...RRK. K 98 R 98 U 98 F 1 
+ 8  0  8 UU..........AA...F...PKF.YYPK..RR... R 97 U 99 A 5 K 99 
+ 8  0  8 ....UU......AA.PK....PKF.YY..F....RR U 97 P 1 F 1 A 5 
+ 8  0  8 .UU.K.....K.AA.......P...YYP.F..RR.F K 98 F 0 R 98 A 5 
+ 8  0  8 ....UU......AA..K....PK..YYP.F..RR.F U 97 F 0 R 98 A 5 
+ 8  0  8 ...UU.......AA..K....PKF.YYP.F.RR... R 97 U 98 F 1 A 5 
+ 8  0  8 ....UU.....F.AA.KF...PK.YY.P....RR.. F 1 R 98 Y 0 U 97 
+ 8  0  8 ..UU........AA..K.....KF.YYP.F...PRR P 1 U 99 F 1 A 5 
+ 8  0  8 ....UU....K..AA.KF...P.FYY.P....RR.. K 99 R 98 Y 0 U 97 
+ 8  0  8 ....UU.......AA..F...P.FYY.PK...RRK. K 98 R 98 Y 0 U 97 
+ 8  0  8 UU...F.....FAA..K....PK..YYP....RR.. U 99 F 0 R 98 A 5 
+ 8  0  8 ..UU........AA..K....PKF.YYP.F..RR.. U 99 F 1 R 98 A 5 
+ 8  0  8 UU..........AA..K....PKFYY.P.F....RR Y 0 U 99 F 1 A 5 
+ 8  0  8 UU..........AA..K.....KF.YYP.F...PRR P 1 U 99 F 1 A 5 
+ 8  0  8 .UU.......K.AA..K......F.YYP.F...PRR P 1 K 99 F 1 A 5 
+ 8  0  8 .UU.......K.AA..K....P.F.YYP.F.RR... R 97 K 99 F 1 A 5 
+ 8  0  8 .UU......P..AA.PK.....KFYY...F....RR Y 0 P 0 F 1 A 5 
+ 8  0  8 .UU......P..AA.PK.....KF..YY.F....RR Y 0 P 0 F 1 A 5 
+ 8  0  8 .UU......P..AA.PK.....K..YY..F..RR.F F 0 P 0 R 98 A 5 
+ 8  0  8 UU.........F.AA..F...PK..YYPK....RR. K 99 R 99 U 99 F 1 
+ 8  0  8 ..UU.......FAA..KF...PK..YYP....RR.. U 99 F 1 R 98 A 5 
+ 8  0  8 ...UU......FAA..KF...PK..YYP....RR.. U 98 F 1 R 98 A 5 
+ 8  0  8 ....UU....K.AA..KF...P.F.YYP....RR.. R 98 U 97 K 99 A 5 
+ 8  0  8 ..UU........AA.PK....PKF.YY..F....RR U 99 P 1 F 1 A 5 
+ 8  0  8 ....UU....K.AA..KF...P.FYY.P......RR Y 0 U 97 K 99 A 5 
+ 8  0  8 ....UU....K.AA..KF.....F.YYP.....PRR P 1 U 97 K 99 A 5 
+ 8  0  8 ..UU......K.AA..KF...P.F.YYP...RR... R 97 U 99 K 99 A 5 
+ 8  0  8 ..UU.....P..AA.PKF....KF.YY.....RR.. U 99 P 0 R 98 A 5 
+ 8  0  8 ...UU.....K.AA..KF...P.FYY.P......RR Y 0 U 98 K 99 A 5 
+ 8  0  8 ...UU.....K.AA..KF.....F.YYP.....PRR P 1 U 98 K 99 A 5 
+ 8  0  8 .UU........F.AAP.F...PK..YY.K...RR.. F 1 R 98 P 1 K 99 
+ 8  0  8 ..UU......KFAA..KF...P...YYP......RR F 1 U 99 K 99 A 5 
+ 8  0  8 .UU..........AAP.....PK..YY.KF..RR.F F 0 R 98 P 1 K 99 
+ 8  0  8 UU...........AAP.F...PKF.YY.K...RR.. U 99 R 98 P 1 K 99 
+ 8  0  8 ....UU....KF.AAPKF...P...YY.......RR P 1 K 99 F 1 U 97 
+ 8  0  8 UU...........AA..F...PKFYY.PK...RR.. U 99 R 98 Y 0 K 99 
+ 8  0  8 .UU..........AAPK....PK.YY...FRR...F F 0 P 1 Y 0 R 96 
+ 8  0  8 .UU.......K..AAPKF...P.FYY....RR.... K 99 P 1 Y 0 R 96 
+ 8  0  8 .UU.........AA.P.F...PKF.YY.K...RR.. K 99 P 1 R 98 A 5 
+ 8  0  8 .UU.........AA.PK....PKF.YY..F..RR.. F 1 P 1 R 98 A 5 
+ 8  0  8 ..UU........AA.PKF...PKF.YY.....RR.. U 99 P 1 R 98 A 5 
+ 8  0  8 ...UU.......AA.PKF...PKF.YY.....RR.. U 98 P 1 R 98 A 5 
+ 8  0  8 ...UU....PK.AA.PKF.....F.YY.......RR U 98 P 0 K 99 A 5 
+ 8  0  8 UU........K.AA..K....P.F.YYP.F....RR F 1 U 99 K 99 A 5 
+ 8  0  8 .UU......PKFAA.PKF.......YY.......RR F 1 P 0 K 99 A 5 
+ 8  0  8 .UU..F...PKFAA.PK........YY.......RR F 0 P 0 K 99 A 5 
+ 8  0  8 .UU.......KFAA.PKF...P...YY.......RR F 1 P 1 K 99 A 5 
+ 8  0  8 .UU.......K.AA.PKF...P.F.YY....RR... R 97 P 1 K 99 A 5 
+ 8  0  8 UU........K.AA.PKF...P.F.YY.......RR U 99 P 1 K 99 A 5 
+ 8  0  8 ..UU......K.AA.PKF...P.F.YY.......RR U 99 P 1 K 99 A 5 
+ 8  0  8 ....UU........AA.....PKF.YYPKF....RR F 1 U 97 A 5 K 99 
+ 8  0  8 ...UU......F..AAKF...PK..YYP..RR.... R 96 U 98 A 5 F 1 
+ 8  0  8 .UU.........AA..K....PK.YY.P.F..RR.F F 0 Y 0 R 98 A 5 
+ 8  0  8 .UU.......K.AA..KF...P.FYY.P....RR.. K 99 Y 0 R 98 A 5 
+ 8  0  8 ....UU....KF.AA.KF...P...YYP...RR... K 99 R 97 F 1 U 97 
+ 8  0  8 ....UU.....F.AAPKF...PK..YY....RR... P 1 R 97 F 1 U 97 
+ 8  0  8 ....UU.....FAA..KF...PK..YYP...RR... A 5 R 97 F 1 U 97 
+ 8  0  8 ....UU.....F..AAKF...PK..YYP...RR... A 5 R 97 F 1 U 97 
+ 8  0  8 ..UU.......F..AAKF...PK..YYP.....RR. U 99 R 99 A 5 F 1 
+ 8  0  8 ...UU.........AA.F...PKF.YYPK.RR.... R 96 U 98 A 5 K 99 
+ 8  0  8 ..UU..........AA.F...PKF.YYPK.RR.... R 96 U 99 A 5 K 99 
+ 8  0  8 ..UU..........AA.F...PKFYY.PK.....RR Y 0 U 99 A 5 K 99 
+ 8  0  8 ..UU.......F..AAKF...PK..YYP...RR... R 97 U 99 A 5 F 1 
+ 8  0  8 UU.........F..AAKF...PK..YYP..RR.... R 96 U 99 A 5 F 1 
+ 8  0  8 .UU..........AA......PK.YY.PKF...RRF F 0 Y 0 R 99 K 99 
+ 8  0  8 .UU.......K.AA.PKF...P.F.YY......RR. R 99 P 1 K 99 A 5 
+ 8  0  8 ...UU......F..AAKF...PK..YYP....RR.. U 98 R 98 A 5 F 1 
+ 8  0  8 .UU......P..AA.PKF....KF..YY....RR.. Y 0 P 0 R 98 A 5 
+ 8  0  8 UU..........AA..K....PKF.YYP.F...RR. R 99 U 99 F 1 A 5 
+ 8  0  8 .UU...........AA.....PKF.YYPKF.RR... F 1 R 97 A 5 K 99 
+ 8  0  8 .UU..F...P.F.AAP......K..YY.K....RR. F 0 P 0 R 99 K 99 
+ 8  0  8 .UU.K.....KF..AA.F...P..YY.P......RR Y 0 K 98 A 5 F 1 
+ 8  0  8 ....UU.......AA.K....PK.YY.P.F...RRF F 0 Y 0 R 99 U 97 
+ 8  0  8 .UU..F....KF.AA.K.......YY.P.....PRR K 99 Y 0 F 0 P 1 
+ 8  0  8 ..UU.......FAA..KF...PK..YYP.....RR. R 99 U 99 F 1 A 5 
+ 8  0  8 ..UUK.....K.AA...F.....F.YYP.....PRR P 1 U 99 K 98 A 5 
+ 8  0  8 UU..K.....K.AA...F...P.F.YYP..RR.... R 96 U 99 K 98 A 5 
+ 8  0  8 .UU........FAA.PKF...PK..YY......RR. R 99 P 1 F 1 A 5 
+ 8  0  8 ...UU.....KF..AAKF...P...YYP......RR U 98 K 99 A 5 F 1 
+ 8  0  8 .UU.K.....KFAA...F...P...YYP.....RR. R 99 K 98 F 1 A 5 
+ 8  0  8 .UU......P.F.AAPKF....K...YY....RR.. F 1 Y 0 R 98 P 0 
+ 8  0  8 .UU.K....PK.AA.P.F.....F.YY...RR.... R 96 P 0 K 98 A 5 
+ 8  0  8 ..UU.....P...AAPKF....KF..YY....RR.. U 99 Y 0 R 98 P 0 
+ 8  0  8 ...UU.....K..AA.K....P.F.YYP.FRR.... R 96 U 98 K 99 F 1 
+ 8  0  8 .UU.......K...AAK....P.F.YYP.F..RR.. R 98 A 5 K 99 F 1 
+ 8  0  8 .UU..F...P.F.AAP.........YY.K...RRK. K 98 F 0 R 98 P 0 
+ 8  0  8 ..UU.F.....F.AA.K....PK.YY.P...RR... F 0 Y 0 R 97 U 99 
+ 8  0  8 UU.......P.F.AAPKF....K..YY.....RR.. U 99 F 1 R 98 P 0 
+ 8  0  8 .UU......P..AA.P.F....KF.YY.K....RR. A 5 P 0 R 99 K 99 
+ 8  0  8 ..UUK.....K..AA..F...P.FYY.P...RR... K 98 Y 0 R 97 U 99 
+ 8  0  8 .UU.........AA.P.F...P.F.YY.K.RR..K. K 98 P 1 R 96 A 5 
+ 8  0  8 UU.......P...AAPKF....KF..YY....RR.. U 99 Y 0 R 98 P 0 
+ 8  0  8 ....UU.....FAA..KF...PK..YYP..RR.... R 96 U 97 F 1 A 5 
+ 8  0  8 .UU.........AA.PK....PK..YY..FRR...F F 0 P 1 R 96 A 5 
+ 8  0  8 .UU..........AAP.....PKF.YY.KF...RR. F 1 P 1 R 99 K 99 
+ 8  0  8 ....UU......AA.PKF...PKF.YY...RR.... U 97 P 1 R 96 A 5 
+ 8  0  8 ...UU......F.AA.KF....K.YY.P.....PRR U 98 Y 0 F 1 P 1 
+ 8  0  8 ....UU.......AAP.F...PKF.YY.K....RR. U 97 P 1 R 99 K 99 
+ 8  0  8 ....UU......AA...F...PKFYY.PK.....RR Y 0 U 97 A 5 K 99 
+ 8  0  8 .UU........F..AA.F....K..YYPK....PRR K 99 P 1 A 5 F 1 
+ 8  0  8 .UU..........AA..F....KFYY.PK.RR.P.. P 1 Y 0 R 96 K 99 
+ 8  0  8 ...UU....P.FAA.PKF....K..YY.......RR U 98 P 0 F 1 A 5 
+ 8  0  8 ....UU.......AA.KF....KFYY.P..RR.P.. P 1 Y 0 R 96 U 97 
+ 8  0  8 ..UU......K..AA.KF...P.FYY.P.....RR. K 99 Y 0 R 99 U 99 
+ 8  0  8 ..UU......K..AA.KF.....FYY.P.....PRR U 99 Y 0 K 99 P 1 
+ 8  0  8 ....UU....K..AA.KF...P.FYY.P..RR.... K 99 Y 0 R 96 U 97 
+ 8  0  8 .UU..F....KFAA..K........YYP.....PRR P 1 K 99 F 0 A 5 
+ 8  0  8 UU...F.....FAA..K....PK..YYP..RR.... R 96 U 99 F 0 A 5 
+ 8  0  8 ..UU.....P...AAP.F....KF.YY.K...RR.. U 99 R 98 P 0 K 99 
+ 8  0  8 UU.......P...AAP.F....KF.YY.K...RR.. U 99 R 98 P 0 K 99 
+ 8  0  8 .UU.K.....K.AA...F...P.FYY.P...RR... K 98 Y 0 R 97 A 5 
+ 8  0  8 ...UUF...P.FAA.PK.....K..YY.......RR U 98 P 0 F 0 A 5 
+ 8  0  8 .UU........FAA...F....K..YYPK....PRR F 1 A 5 P 1 K 99 
+ 8  0  8 .UU..........AA.......KFYY.PKF...PRR K 99 Y 0 F 1 P 1 
+ 8  0  8 ...UU.......AA..K....PKF.YYP.FRR.... R 96 U 98 F 1 A 5 
+ 8  0  8 ....UU......AA...F...PKF.YYPK.RR.... R 96 U 97 A 5 K 99 
+ 8  0  8 ...UU.......AA...F...PKFYY.PK.....RR Y 0 U 98 A 5 K 99 
+ 8  0  8 ...UU.......AA...F...PKF.YYPK.RR.... R 96 U 98 A 5 K 99 
+ 8  0  8 UU..........AA...F...PKFYY.PK.....RR Y 0 U 99 A 5 K 99 
+ 8  0  8 ..UU.F.....FAA.......PK..YYPK.....RR F 0 U 99 A 5 K 99 
+ 8  0  8 ....UU......AA..K.....KF.YYP.F...PRR P 1 U 97 F 1 A 5 
+ 8  0  8 .UU.........AA.......P...YYPKF..RRKF K 98 F 0 R 98 A 5 
+ 8  0  8 .UU..F.....FAA.......PK..YYPK...RR.. K 99 F 0 R 98 A 5 
+ 8  0  8 ..UU........AA.......PKF.YYPKF....RR K 99 U 99 F 1 A 5 
+ 8  0  8 .UU.........AA.......PKF.YYPKF..RR.. K 99 F 1 R 98 A 5 
+ 8  0  8 ....UU......AA..K....PKF.YYP.F..RR.. U 97 F 1 R 98 A 5 
+ 8  0  8 .UU......P..AA.PK.....KF.YY..FRR.... R 96 P 0 F 1 A 5 
+ 8  0  8 .UU.......K.AA..K....P.FYY.P.F....RR Y 0 K 99 F 1 A 5 
+ 8  0  8 .UU..F.....F.AA......PK.YY.PK...RR.. F 0 R 98 Y 0 K 99 
+ 8  0  8 .UU........F..AAKF...PK.YY.P....RR.. Y 0 R 98 A 5 F 1 
+ 8  0  8 UU........KF.AA.KF...P...YYP.....RR. K 99 R 99 U 99 F 1 
+ 8  0  8 ...UU.....K..AA.K....P.F.YYP.F...RR. R 99 U 98 K 99 F 1 
+ 8  0  8 .UU.K....PK.AA.P.F.....F.YY......RR. R 99 P 0 K 98 A 5 
+ 8  0  8 .UU..........AAP.F...PKFYY..K....RR. P 1 Y 0 R 99 K 99 
+ 8  0  8 .UU........F..AA.F...PK..YYPK....RR. R 99 K 99 A 5 F 1 
+ 8  0  8 ...UU......F..AAKF...PK..YYP.....RR. U 98 R 99 A 5 F 1 
+ 8  0  8 UU.........F..AAKF...PK.YY.P......RR Y 0 U 99 A 5 F 1 
+ 8  0  8 .UU........F.AAPKF...PK.YY....RR.... F 1 P 1 Y 0 R 96 
+ 8  0  8 .UU............AAF...PKFYY.PK....RR. A 4 Y 0 R 99 K 99 
+ 8  0  8 .UU..........AAP.F...PKFYY..K...RR.. P 1 R 98 Y 0 K 99 
+ 8  0  8 UU...F.....F..AA.....PK..YYPK.....RR F 0 U 99 A 5 K 99 
+ 8  0  8 .UU.......K.AA..K....P.F.YYP.F...RR. R 99 K 99 F 1 A 5 
+ 8  0  8 .UU..F.....F..AA.....PK..YYPK..RR... F 0 R 97 A 5 K 99 
+ 8  0  8 ...UU......F.AA.KF...PK.YY.P.....RR. Y 0 R 99 U 98 F 1 
+ 8  0  8 .UU.K.....KF..AA.F...P...YYP..RR.... R 96 K 98 A 5 F 1 
+ 8  0  8 ....UU......AA...F...P.F.YYPK...RRK. U 97 K 98 R 98 A 5 
+ 8  0  8 ....UU....K..AA.KF...P.FYY.P.....RR. K 99 Y 0 R 99 U 97 
+ 8  0  8 .UU.........AA...F....KFYY.PK....PRR Y 0 A 5 P 1 K 99 
+ 8  0  8 ..UUK.....K.AA.P.F...P.F.YY.......RR P 1 U 99 K 98 A 5 
+ 8  0  8 ..UU.F.....FAA..K....PK..YYP.....RR. R 99 U 99 F 0 A 5 
+ 8  0  8 UU..K.....K.AA...F...P.FYY.P......RR Y 0 U 99 K 98 A 5 
+ 8  0  8 .UU.......K.AA..KF.....FYY.P.....PRR A 5 Y 0 K 99 P 1 
+ 8  0  8 .UU.......KF..AAKF...P..YY.P......RR Y 0 K 99 A 5 F 1 
+ 8  0  8 .UU.K.....K.AA...F.....FYY.P.....PRR A 5 Y 0 K 98 P 1 
+ 8  0  8 .UU.K....PK.AA.P.F.....FYY........RR Y 0 P 0 K 98 A 5 
+ 8  0  8 .UU........F...AAF...PK..YYPK...RR.. A 4 R 98 F 1 K 99 
+ 8  0  8 ...UU.....K..AA.K....P.F.YYP.F.RR... R 97 U 98 K 99 F 1 
+ 8  0  8 ....UU.....F.AA..F...PK..YYPK....RR. U 97 F 1 R 99 K 99 
+ 8  0  8 .UU.......K...AAK....P.F.YYP.F.RR... R 97 A 5 K 99 F 1 
+ 8  0  8 ..UU.F...P.F.AAPK.....K..YY.....RR.. U 99 F 0 R 98 P 0 
+ 8  0  8 ..UU.....P...AAPKF....KFYY.....RR... P 0 Y 0 R 97 U 99 
+ 8  0  8 ..UU.........AAP.F...PKF.YY.K....RR. U 99 P 1 R 99 K 99 
+ 8  0  8 ..UU.........AA..F...PKFYY.PK..RR... K 99 Y 0 R 97 U 99 
+ 8  0  8 .UU......P...AAPK.....KF..YY.F..RR.. F 1 Y 0 R 98 P 0 
+ 8  0  8 ....UU.........AAF....KF.YYPK....PRR P 1 U 97 A 4 K 99 
+ 8  0  8 ....UU.....FAA..KF...PK.YY.P......RR Y 0 U 97 F 1 A 5 
+ 8  0  8 .UU.......K.AA.PKF...P.F.YY...RR.... K 99 P 1 R 96 A 5 
+ 8  0  8 ....UU....K..AAPKF...P.F.YY.....RR.. K 99 R 98 P 1 U 97 
+ 8  0  8 .UU.K.....KF.AA..F......YY.P.....PRR K 98 Y 0 F 1 P 1 
+ 8  0  8 .UU.K.....KFAA...F...P...YYP...RR... R 97 K 98 F 1 A 5 
+ 8  0  8 .UU.K.....KF..AA.F...P...YYP....RR.. K 98 R 98 A 5 F 1 
+ 8  0  8 .UU.K.....KFAA...F...P...YYP..RR.... R 96 K 98 F 1 A 5 
+ 8  0  8 .UU.K.....KF..AA.F.......YYP.....PRR K 98 P 1 A 5 F 1 
+ 8  0  8 .UU......P.FAA.P.F....K..YY.K.....RR K 99 P 0 F 1 A 5 
+ 8  0  8 .UU........F.AA..F...PK.YY.PK.RR.... F 1 Y 0 R 96 K 99 
+ 8  0  8 ..UU.....P...AAPKF....KFYY.......RR. P 0 Y 0 R 99 U 99 
+ 8  0  8 ..UU.........AA..F...PKFYY.PK.RR.... U 99 Y 0 R 96 K 99 
+ 8  0  8 UU...F.....FAA..K.....K..YYP.....PRR P 1 U 99 F 0 A 5 
+ 8  0  8 ....UU.......AA..F...PKFYY.PK.RR.... K 99 Y 0 R 96 U 97 
+ 8  0  8 ..UU.......FAA.PKF...PK..YY.......RR U 99 P 1 F 1 A 5 
+ 8  0  8 ...UUF.....FAA..K....PK.YY.P......RR Y 0 U 98 F 0 A 5 
+ 8  0  8 ...UU....P...AAP.F....KF.YY.K...RR.. U 98 R 98 P 0 K 99 
+ 8  0  8 ....UU...P...AAP.F....KF.YY.K...RR.. U 97 R 98 P 0 K 99 
+ 8  0  8 UU...F...P.FAA.PK.....K..YY.......RR U 99 P 0 F 0 A 5 
+ 8  0  8 .UU........FAA..KF...PK.YY.P...RR... F 1 Y 0 R 97 A 5 
+ 8  0  8 .UU..F.....FAA..K.....K.YY.P.....PRR A 5 Y 0 F 0 P 1 
+ 8  0  8 .UU...........AAK.....KFYY.P.F...PRR A 5 Y 0 F 1 P 1 
+ 8  0  8 ..UU.F.....F.AA.K.....K.YY.P.....PRR U 99 Y 0 F 0 P 1 
+ 8  0  8 .UU..F.....FAA.P.....PK..YY.K.....RR K 99 P 1 F 0 A 5 
+ 8  0  8 ...UU.......AA.P.F...PKF.YY.K.....RR P 1 U 98 A 5 K 99 
+ 8  0  8 ...UU....P..AA.P.F....KF.YY.K.....RR P 0 U 98 A 5 K 99 
+ 8  0  8 ..UU........AA...F....KF.YYPK....PRR P 1 U 99 A 5 K 99 
+ 8  0  8 ...UU.....KF.AA.KF...P...YYP....RR.. K 99 R 98 U 98 F 1 
+ 8  0  8 .UU..........AA......PKFYY.PKF..RR.. F 1 R 98 Y 0 K 99 
+ 8  0  8 ..UU........AA..K....PK..YYP.F..RR.F U 99 F 0 R 98 A 5 
+ 8  0  8 ..UU........AA..K....PKFYY.P.F....RR Y 0 U 99 F 1 A 5 
+ 8  0  8 ....UU.......AA.K....PKFYY.P.F..RR.. F 1 R 98 Y 0 U 97 
+ 8  0  8 UU..........AA..K....PKF.YYP.F..RR.. R 98 U 99 F 1 A 5 
+ 8  0  8 UU..........AA..K....PKF.YYP.F.RR... R 97 U 99 F 1 A 5 
+ 8  0  8 .UU.......K.AA..K....P.F.YYP.F..RR.. R 98 K 99 F 1 A 5 
+ 8  0  8 .UU......P..AA.PK.....KF.YY..F.RR... R 97 P 0 F 1 A 5 
+ 8  0  8 .UU.........AA.PK....PKF..YY.F....RR Y 0 P 1 F 1 A 5 
+ 8  0  8 .UU........FAA...F...P...YYPK...RRK. K 98 F 1 R 98 A 5 
+ 8  0  8 UU..........AA.PK....PKF.YY..F....RR U 99 P 1 F 1 A 5 
+ 8  0  8 ....UU....K.AA..KF...P.F.YYP...RR... R 97 U 97 K 99 A 5 
+ 8  0  8 ...UU.....K.AA..KF...P.F.YYP....RR.. R 98 U 98 K 99 A 5 
+ 8  0  8 ...UU.....K.AA..KF...P.F.YYP...RR... R 97 U 98 K 99 A 5 
+ 8  0  8 ..UU......K.AA..KF.....F.YYP.....PRR P 1 U 99 K 99 A 5 
+ 8  0  8 .UU..F.....F.AAP.....PK..YY.K...RR.. F 0 R 98 P 1 K 99 
+ 8  0  8 UU........K.AA..KF...P.FYY.P......RR Y 0 U 99 K 99 A 5 
+ 8  0  8 .UU..F.....F.AAPK....PK.YY....RR.... F 0 P 1 Y 0 R 96 
+ 8  0  8 .UU..F.....FAA.PK....PK..YY.....RR.. F 0 P 1 R 98 A 5 
+ 8  0  8 .UU.........AA.P.F...P.F.YY.K...RRK. K 98 P 1 R 98 A 5 
+ 8  0  8 .UU......PK.AA.PKF.....F.YY...RR.... R 96 P 0 K 99 A 5 
+ 8  0  8 .UU......PK.AA.PKF.....FYY........RR Y 0 P 0 K 99 A 5 
+ 8  0  8 .UU.......K.AA.PKF...P.F.YY.....RR.. R 98 P 1 K 99 A 5 
+ 8  0  8 .UU..F....KFAA.PK....P...YY.......RR F 0 P 1 K 99 A 5 
+ 8  0  8 UU..........AA..KF...PKFYY.P....RR.. U 99 Y 0 R 98 A 5 
+ 8  0  8 .UU..F.....FAA..K....PK.YY.P....RR.. F 0 Y 0 R 98 A 5 
+ 8  0  8 ....UU......AA..KF...PKFYY.P....RR.. U 97 Y 0 R 98 A 5 
+ 8  0  8 ....UU......AA..K....PKF.YYP.FRR.... R 96 U 97 F 1 A 5 
+ 8  0  8 ...UUF.....F..AA.....PK..YYPK.....RR F 0 U 98 A 5 K 99 
+ 8  0  8 .UU.........AA.PKF...PKFYY......RR.. P 1 Y 0 R 98 A 5 
+ 8  0  8 .UU........F..AAKF...PK.YY.P.....RR. Y 0 R 99 A 5 F 1 
+ 8  0  8 .UU..F.....F.AA......PK.YY.PK....RR. F 0 Y 0 R 99 K 99 
+ 8  0  8 UU..K....PK.AA.P.F.....F.YY.......RR U 99 P 0 K 98 A 5 
+ 8  0  8 .UU......P..AA.PK.....KF.YY..F...RR. R 99 P 0 F 1 A 5 
+ 8  0  8 ....UU......AA..K....PKF.YYP.F...RR. R 99 U 97 F 1 A 5 
+ 8  0  8 ....UU.....F.AA.KF...PK.YY.P.....RR. F 1 Y 0 R 99 U 97 
+ 8  0  8 .UU..........AAP.F...PKF..YYK....RR. Y 0 P 1 R 99 K 99 
+ 8  0  8 UU..K.....K.AA...F...P.F.YYP....RR.. R 98 U 99 K 98 A 5 
+ 8  0  8 .UU.......KF..AAKF...P...YYP..RR.... R 96 K 99 A 5 F 1 
+ 8  0  8 .UU......P.F.AAP.F....K..YY.K....RR. F 1 P 0 R 99 K 99 
+ 8  0  8 ..UU.....P.F.AAPKF....K..YY.....RR.. U 99 F 1 R 98 P 0 
+ 8  0  8 ...UU.....K..AA.K......F.YYP.F...PRR P 1 U 98 K 99 F 1 
+ 8  0  8 ....UU....K...AAK....P.F.YYP.F....RR U 97 A 5 K 99 F 1 
+ 8  0  8 ....UU......AA..K....PKF.YYP.F.RR... R 97 U 97 F 1 A 5 
+ 8  0  8 .UU.........AA.PKF...PKF..YY..RR.... Y 0 P 1 R 96 A 5 
+ 8  0  8 UU...........AAP.F...PKF.YY.K....RR. U 99 P 1 R 99 K 99 
+ 8  0  8 ....UU.......AAP.F...P.F.YY.K...RRK. K 98 R 98 P 1 U 97 
+ 8  0  8 UU.........F.AA.KF....K.YY.P.....PRR U 99 Y 0 F 1 P 1 
+ 8  0  8 UU...F.....FAA..K....PK.YY.P......RR Y 0 U 99 F 0 A 5 
+ 8  0  8 ....UU.....F..AAKF....K..YYP.....PRR U 97 P 1 A 5 F 1 
+ 8  0  8 UU...........AA..F...PKFYY.PK.RR.... U 99 Y 0 R 96 K 99 
+ 8  0  8 UU...F.....FAA.......PK..YYPK.....RR F 0 U 99 A 5 K 99 
+ 8  0  8 ..UU.F.....FAA..K.....K..YYP.....PRR P 1 U 99 F 0 A 5 
+ 8  0  8 UU..........AA..KF...PKFYY.P...RR... U 99 Y 0 R 97 A 5 
+ 8  0  8 .UU......P..AA.PKF....KFYY.....RR... P 0 Y 0 R 97 A 5 
+ 8  0  8 .UU.......K.AA..KF...P.FYY.P...RR... K 99 Y 0 R 97 A 5 
+ 8  0  8 ..UU........AA...F...PKF.YYPK...RR.. R 98 U 99 A 5 K 99 
+ 8  0  8 UU..........AA...F....KF.YYPK....PRR P 1 U 99 A 5 K 99 
+ 8  0  8 ...UU......F.AAPKF...PK..YY.....RR.. P 1 R 98 U 98 F 1 
+ 8  0  8 UU..........AA...F...PKF.YYPK.RR.... R 96 U 99 A 5 K 99 
+ 8  0  8 ...UU......F.AAPKF...PK..YY......RR. P 1 R 99 U 98 F 1 
+ 8  0  8 ....UU........AAKF...PKFYY.P....RR.. A 5 R 98 Y 0 U 97 
+ 8  0  8 ...UUF.....FAA..K....PK..YYP....RR.. U 98 F 0 R 98 A 5 
+ 8  0  8 ..UU.........AAPKF...PKFYY.....RR... P 1 Y 0 R 97 U 99 
+ 8  0  8 UU.......P..AA.PK.....KF.YY..F....RR U 99 P 0 F 1 A 5 
+ 8  0  8 .UU...........AA.F....KF.YYPK..RRP.. P 1 R 97 A 5 K 99 
+ 8  0  8 UU.........F..AAKF...PK..YYP.....RR. R 99 U 99 A 5 F 1 
+ 8  0  8 ....UU.....F..AAKF...PK..YYP..RR.... R 96 U 97 A 5 F 1 
+ 8  0  8 UU............AA.F...PKF.YYPK...RR.. R 98 U 99 A 5 K 99 
+ 8  0  8 UU.........F.AA.KF...PK.YY.P.....RR. Y 0 R 99 U 99 F 1 
+ 8  0  8 ..UU..........AA.F...PKF.YYPK..RR... U 99 R 97 A 5 K 99 
+ 8  0  8 .UU.......K..AA.K......FYY.P.F...PRR K 99 Y 0 F 1 P 1 
+ 8  0  8 ..UUK.....K.AA...F...P.F.YYP....RR.. R 98 U 99 K 98 A 5 
+ 8  0  8 .UU......P...AAP.F....KF..YYK...RR.. Y 0 R 98 P 0 K 99 
+ 8  0  8 UU..KF....KFAA.......P...YYP......RR F 0 U 99 K 98 A 5 
+ 8  0  8 .UU......P...AAP.F....KF..YYK....RR. Y 0 P 0 R 99 K 99 
+ 8  0  8 .UU.K....PK.AA.P.......F.YY..F....RR F 1 P 0 K 98 A 5 
+ 8  0  8 .UU........F...AAF...PK..YYPK....RR. A 4 F 1 R 99 K 99 
+ 8  0  8 UU........K...AAK....P.F.YYP.F....RR U 99 A 5 K 99 F 1 
+ 8  0  8 ...UU....P...AAPKF....KF..YY....RR.. U 98 Y 0 R 98 P 0 
+ 8  0  8 ....UU.........AAF...PKF.YYPK...RR.. R 98 U 97 A 4 K 99 
+ 8  0  8 ....UU...P...AAPKF....KF..YY....RR.. U 97 Y 0 R 98 P 0 
+ 8  0  8 UU..........AA.PKF...PKF.YY...RR.... U 99 P 1 R 96 A 5 
+ 8  0  8 ..UU.......FAA..KF...PK..YYP...RR... R 97 U 99 F 1 A 5 
+ 8  0  8 ..UU.......F..AAKF...PK..YYP....RR.. U 99 R 98 A 5 F 1 
+ 8  0  8 .UU......P.FAA.PKF....K.YY........RR Y 0 P 0 F 1 A 5 
+ 8  0  8 .UU.........AA...F...PKFYY.PK.RR.... A 5 Y 0 R 96 K 99 
+ 8  0  8 .UU.K.....KFAA.P.F...P...YY.......RR K 98 P 1 F 1 A 5 
+ 8  0  8 .UU........FAA.P.F...PK..YY.K.....RR K 99 P 1 F 1 A 5 
+ 8  0  8 .UU......P...AAP......KF.YY.KF..RR.. F 1 R 98 P 0 K 99 
+ 8  0  8 .UU..F...P.FAA.PK.....K...YY......RR Y 0 P 0 F 0 A 5 
+ 8  0  8 .UU.........AA..K.....KFYY.P.F...PRR A 5 Y 0 F 1 P 1 
+ 8  0  8 .UU..F.....F..AAK.....K.YY.P.....PRR A 5 Y 0 F 0 P 1 
+ 8  0  8 ....UU.....FAA...F...PK..YYPK.....RR F 1 U 97 A 5 K 99 
+ 8  0  8 ..UU........AA.P.F...PKF.YY.K.....RR P 1 U 99 A 5 K 99 
+ 8  0  8 UU.........F.AAPKF...PK..YY......RR. P 1 R 99 U 99 F 1 
+ 8  0  8 ..UU........AA..K....PKF.YYP.F.RR... R 97 U 99 F 1 A 5 
+ 8  0  8 .UU.........AA.......P.F.YYPKF..RRK. K 98 F 1 R 98 A 5 
+ 8  0  8 ..UU.F.....FAA..K....PK..YYP....RR.. U 99 F 0 R 98 A 5 
+ 8  0  8 .UU........FAA...F...PK..YYPK...RR.. K 99 F 1 R 98 A 5 
+ 8  0  8 .UU.K.....K.AA.P.....P.F.YY..F....RR K 98 P 1 F 1 A 5 
+ 8  0  8 UU.......P..AA.PKF....KF.YY.....RR.. U 99 P 0 R 98 A 5 
+ 8  0  8 ..UU......K.AA..KF...P.F.YYP..RR.... R 96 U 99 K 99 A 5 
+ 8  0  8 ..UU.........AAPKF...PKFYY....RR.... U 99 P 1 Y 0 R 96 
+ 8  0  8 ...UU........AAPKF...PKFYY....RR.... U 98 P 1 Y 0 R 96 
+ 8  0  8 UU...F....KFAA..K....P...YYP......RR F 0 U 99 K 99 A 5 
+ 8  0  8 ....UU...PK.AA.PKF.....F.YY.......RR U 97 P 0 K 99 A 5 
+ 8  0  8 .UU........FAA..KF...PK.YY.P....RR.. F 1 Y 0 R 98 A 5 
+ 8  0  8 ..UU........AA..KF...PKFYY.P....RR.. U 99 Y 0 R 98 A 5 
+ 8  0  8 ...UU.........AA.F...PKF.YYPK...RR.. R 98 U 98 A 5 K 99 
+ 8  0  8 ....UU.....F.AA.KF...PK.YY.P...RR... Y 0 R 97 F 1 U 97 
+ 8  0  8 ..UUK.....K.AA...F...P.F.YYP...RR... R 97 U 99 K 98 A 5 
+ 8  0  8 ....UU.......AAPKF...PKFYY......RR.. P 1 R 98 Y 0 U 97 
+ 8  0  8 ..UU........AA...F...P.F.YYPK...RRK. U 99 K 98 R 98 A 5 
+ 8  0  8 UU..K.....K.AA.......P.F.YYP.F....RR F 1 U 99 K 98 A 5 
+ 8  0  8 ....UU...P.F.AAPKF....K..YY.....RR.. U 97 F 1 R 98 P 0 
+ 8  0  8 ..UU......K...AAK....P.F.YYP.F....RR U 99 A 5 K 99 F 1 
+ 8  0  8 ....UU.........AAF...PKFYY.PK.....RR Y 0 U 97 A 4 K 99 
+ 8  0  8 .UU.........AA.P.F...PKF.YY.K....RR. A 5 P 1 R 99 K 99 
+ 8  0  8 ..UUK.....K..AA..F...P.FYY.P.....RR. K 98 Y 0 R 99 U 99 
+ 8  0  8 .UU...........AA.F...PKFYY.PK.RR.... A 5 Y 0 R 96 K 99 
+ 8  0  8 ....UU.....FAA.PKF...PK..YY.......RR U 97 P 1 F 1 A 5 
+ 8  0  8 .UU.........AA...F...P.FYY.PK..RR.K. K 98 Y 0 R 97 A 5 
+ 8  0  8 ....UU......AA...F...PKF.YYPK...RR.. R 98 U 97 A 5 K 99 
+ 8  0  8 UU.......P..AA.P.F....KF.YY.K.....RR P 0 U 99 A 5 K 99 
+ 8  0  8 ....UU...P...AAPKF....KFYY......RR.. P 0 R 98 Y 0 U 97 
+ 8  0  8 .UU.K.....KF..AA.F...P...YYP.....RR. R 99 K 98 A 5 F 1 
+ 8  0  8 UU..........AA.......PKF.YYPKF....RR K 99 U 99 F 1 A 5 
+ 8  0  8 ....UU....KF.AA.KF...P...YYP.....RR. R 99 K 99 F 1 U 97 
+ 8  0  8 ..UU.......F..AA.F...PK..YYPK.....RR U 99 K 99 A 5 F 1 
+ 8  0  8 ....UU......AA...F...PKF.YYPK....RR. R 99 U 97 A 5 K 99 
+ 8  0  8 ..UUK.....K.AA.......P.F.YYP.F....RR F 1 U 99 K 98 A 5 
+ 8  0  8 ....UU.....FAA..KF...PK..YYP.....RR. R 99 U 97 F 1 A 5 
+ 8  0  8 ...UU....PK..AAPK......F.YY..F....RR P 0 U 98 K 99 F 1 
+ 8  0  8 .UU..F...P.F.AAPK.....K...YY....RR.. F 0 Y 0 R 98 P 0 
+ 8  0  8 .UU........FAA.PKF...PK..YY...RR.... F 1 P 1 R 96 A 5 
+ 8  0  8 ...UU........AAP.F...PKF.YY.K....RR. U 98 P 1 R 99 K 99 
+ 8  0  8 ...UU......F..AAKF....K..YYP.....PRR U 98 P 1 A 5 F 1 
+ 8  0  8 ...UU.....K..AA.KF.....FYY.P.....PRR U 98 Y 0 K 99 P 1 
+ 8  0  8 .UU......P.F.AAP.F....K..YY.K...RR.. F 1 R 98 P 0 K 99 
+ 8  0  8 .UU..F.....FAA........K..YYPK....PRR F 0 A 5 P 1 K 99 
+ 8  0  8 ....UU...P..AA.P.F....KF.YY.K.....RR P 0 U 97 A 5 K 99 
+ 8  0  8 ...UU......F.AA..F...PK..YYPK....RR. K 99 R 99 U 98 F 1 
+ 8  0  8 ...UU......FAA..KF...PK..YYP.....RR. A 5 R 99 U 98 F 1 
+ 8  0  8 UU..K.....KF.AA..F...P...YYP.....RR. K 98 R 99 U 99 F 1 
+ 8  0  8 .UU......P..AA.P.F....KF.YY.K...RR.. K 99 P 0 R 98 A 5 
+ 8  0  8 ....UU.......AA..F...PKFYY.PK...RR.. U 97 R 98 Y 0 K 99 
+ 8  0  8 UU........K.AA..KF.....F.YYP.....PRR P 1 U 99 K 99 A 5 
+ 8  0  8 ....UU....KFAA..KF...P...YYP......RR A 5 K 99 F 1 U 97 
+ 8  0  8 ..UU.......F..AAKF...PK..YYP..RR.... R 96 U 99 A 5 F 1 
+ 8  0  8 ...UU.........AA.F...PKF.YYPK..RR... U 98 R 97 A 5 K 99 
+ 8  0  8 .UU.........AA.PKF...PKFYY.....RR... P 1 Y 0 R 97 A 5 
+ 8  0  8 .UU.K.....K....AAF.....FYY.P.....PRR A 4 Y 0 K 98 P 1 
+ 8  0  8 ....UU.........AAF...PKF.YYPK..RR... R 97 U 97 A 4 K 99 
+ 8  0  8 ..UU........AA..KF...PKFYY.P.....RR. A 5 Y 0 R 99 U 99 
+ 8  0  8 UU.........FAA.PKF...PK..YY.......RR U 99 P 1 F 1 A 5 
+ 8  0  8 .UU..F.....FAA.PK....PK.YY........RR Y 0 P 1 F 0 A 5 
+ 8  0  8 .UU..........AA......PKFYY.PKF...RR. F 1 Y 0 R 99 K 99 
+ 8  0  8 ...UU.....KF.AA.KF...P...YYP.....RR. K 99 R 99 U 98 F 1 
+ 8  0  8 ...UU.......AA...F...PKF.YYPK....RR. R 99 U 98 A 5 K 99 
+ 8  0  8 ....UU....KF..AAKF...P...YYP......RR U 97 K 99 A 5 F 1 
+ 8  0  8 UU.......P...AAP.F....KF.YY.K....RR. U 99 P 0 R 99 K 99 
+ 8  0  8 ..UU.......F.AA.KF....K.YY.P.....PRR U 99 Y 0 F 1 P 1 
+ 8  0  8 UU........K..AA.KF.....FYY.P.....PRR U 99 Y 0 K 99 P 1 
+ 8  0  8 ....UU......AA..KF...PKFYY.P...RR... U 97 Y 0 R 97 A 5 
+ 8  0  8 ...UU.......AA.......PKF.YYPKF....RR K 99 U 98 F 1 A 5 
+ 8  0  8 UU.......P.F.AAPKF....K..YY......RR. P 0 R 99 U 99 F 1 
+ 8  0  8 .UU............AAF...PKFYY.PK...RR.. A 4 R 98 Y 0 K 99 
+ 8  0  8 ....UU...PKF.AAPKF.......YY.......RR P 0 K 99 F 1 U 97 
+ 8  0  8 ...UU......F..AA.F...PK..YYPK.....RR U 98 K 99 A 5 F 1 
+ 8  0  8 UU.........F.AA..F...PK..YYPK...RR.. U 99 R 98 F 1 K 99 
+ 8  0  8 .UU.......KFAA..KF.......YYP.....PRR P 1 K 99 F 1 A 5 
+ 8  0  8 ....UU...P...AAPKF....KFYY.......RR. P 0 Y 0 R 99 U 97 
+ 8  0  8 UU...F.....F.AA.K.....K.YY.P.....PRR U 99 Y 0 F 0 P 1 
+ 8  0  8 .UU......P...AAP......K..YY.KF...RRF F 0 P 0 R 99 K 99 
+ 8  0  8 ....UU.....F.AA.KF...PK.YY.P..RR.... F 1 Y 0 R 96 U 97 
+ 8  0  8 UU..........AA..K....PK..YYP.F..RR.F U 99 F 0 R 98 A 5 
+ 8  0  8 .UU..........AA......PK.YY.PKF..RR.F F 0 R 98 Y 0 K 99 
+ 8  0  8 UU............AA.....PKF.YYPKF....RR F 1 U 99 A 5 K 99 
+ 8  0  8 ..UU.........AA.K....PKFYY.P.F.RR... F 1 Y 0 R 97 U 99 
+ 8  0  8 .UU.K.....KFAA...F...P..YY.P......RR Y 0 K 98 F 1 A 5 
+ 8  0  8 ....UU......AA.......PKF.YYPKF....RR K 99 U 97 F 1 A 5 
+ 8  0  8 ....UU......AA..K....PKFYY.P.F....RR Y 0 U 97 F 1 A 5 
+ 8  0  8 UU............AA.F....KF.YYPK....PRR P 1 U 99 A 5 K 99 

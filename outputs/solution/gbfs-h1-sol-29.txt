@@ -1,0 +1,25 @@
+Initial Board Configuration: R.XQ..R.XQ..RAA....DDDU.L..HUCL..HUC
+
+R . X Q . .
+R . X Q . .
+R A A . . .
+. D D D U .
+L . . H U C
+L . . H U C
+
+Car Fuel Available: R:100 X:100 Q:100 A:100 D:100 U:100 L:100 H:100 C:100 
+
+Runtime: 0.0
+Search Path Length: 1
+Solution Path Length: 1
+Solution Path: A right 3
+
+A right 3 	97 R.XQ..R.XQ..R...AA.DDDU.L..HUCL..HUC A97 
+
+! A97 
+R . X Q . .
+R . X Q . .
+R . . . A A
+. D D D U .
+L . . H U C
+L . . H U C

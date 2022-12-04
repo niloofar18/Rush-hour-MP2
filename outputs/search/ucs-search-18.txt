@@ -1,0 +1,1528 @@
+ 0  0  0 MMM........K.AAN.K...N.K...NLL.JJWW.
+ 1  1  0 ...MMM.....K.AAN.K...N.K...NLL.JJWW. M 97 
+ 1  1  0 MMM......N.K.AAN.K...N.K....LL.JJWW. N 6 
+ 1  1  0 MMM........K.AAN.K...N.K...NLL.JJ.WW W 1 
+ 1  1  0 MMM........KAA.N.K...N.K...NLL.JJWW. A 99 
+ 1  1  0 MMM..K.....K.AAN.K...N.....NLL.JJWW. K 99 
+ 1  1  0 .MMM.......K.AAN.K...N.K...NLL.JJWW. M 99 
+ 1  1  0 MMMN.....N.K.AAN.K.....K....LL.JJWW. N 5 
+ 1  1  0 MMM........K.AAN.K...N.K...NLLJJ.WW. J 99 
+ 1  1  0 ..MMM......K.AAN.K...N.K...NLL.JJWW. M 98 
+ 2  2  0 MMM........K.AAN.K...N.K...NLLJJWW.. W 1 J 99 
+ 2  2  0 ..MMM......K.AAN.K...N.K...NLLJJ.WW. M 98 J 99 
+ 2  2  0 MMMN.....N.K.AAN.K.....K....LL.JJ.WW N 5 W 1 
+ 2  2  0 ..MMM....N.K.AAN.K...N.K....LL.JJWW. M 98 N 6 
+ 2  2  0 MMMN.....N.K.AAN.K.....K....LLJJ.WW. J 99 N 5 
+ 2  2  0 MMMN.....N.K.AAN.K.....K...LL..JJWW. L 99 N 5 
+ 2  2  0 ..MMM......K.AAN.K...N.K...NLL.JJ.WW M 98 W 1 
+ 2  2  0 MMMN.....N.K.AAN.K.....K..LL...JJWW. L 98 N 5 
+ 2  2  0 MMMN.....N.K.AAN.K.....K.LL....JJWW. L 97 N 5 
+ 2  2  0 ...MMM.....KAA.N.K...N.K...NLL.JJWW. A 99 M 97 
+ 2  2  0 MMM........K.AAN.K...N.K...NLLJJ..WW J 99 W 1 
+ 2  2  0 ...MMM.....K.AAN.K...N.K...NLL.JJ.WW M 97 W 1 
+ 2  2  0 MMM..K.....K.AAN.K...N.....NLLJJ.WW. J 99 K 99 
+ 2  2  0 MMMN.K...N.K.AAN.K..........LL.JJWW. N 5 K 99 
+ 2  2  0 MMM......N.K.AAN.K...N.K....LLJJ.WW. J 99 N 6 
+ 2  2  0 MMM......N.K.AAN.K...N.KLL.....JJWW. L 96 N 6 
+ 2  2  0 .MMM.K.....K.AAN.K...N.....NLL.JJWW. M 99 K 99 
+ 2  2  0 MMM..K.....K.AAN.K...N.....NLL.JJ.WW W 1 K 99 
+ 2  2  0 .MMM.....N.K.AAN.K...N.K....LL.JJWW. N 6 M 99 
+ 2  2  0 MMM........KAA.N.K...N.K...NLLJJ.WW. J 99 A 99 
+ 2  2  0 MMM......N.KAA.N.K...N.K....LL.JJWW. A 99 N 6 
+ 2  2  0 MMM........KAA.N.K...N.K...NLL.JJ.WW W 1 A 99 
+ 2  2  0 MMM..K.....KAA.N.K...N.....NLL.JJWW. K 99 A 99 
+ 2  2  0 MMM......N.K.AAN.K...N.K....LL.JJ.WW N 6 W 1 
+ 2  2  0 MMM........K.AA..K...N.K...NLL.JJNWW N 6 W 1 
+ 2  2  0 .MMM.......K.AAN.K...N.K...NLLJJ.WW. J 99 M 99 
+ 2  2  0 MMM..K...N.K.AAN.K...N......LL.JJWW. K 99 N 6 
+ 2  2  0 ...MMM.....K.AAN.K...N.K...NLLJJ.WW. J 99 M 97 
+ 2  2  0 ..MMM......KAA.N.K...N.K...NLL.JJWW. M 98 A 99 
+ 2  2  0 .MMM.......KAA.N.K...N.K...NLL.JJWW. M 99 A 99 
+ 2  2  0 ...MMM...N.K.AAN.K...N.K....LL.JJWW. M 97 N 6 
+ 2  2  0 .MMM.......K.AAN.K...N.K...NLL.JJ.WW W 1 M 99 
+ 2  2  0 ..MMMK.....K.AAN.K...N.....NLL.JJWW. M 98 K 99 
+ 2  2  0 MMM......N.K.AAN.K...N.K.LL....JJWW. L 97 N 6 
+ 2  2  0 MMM........K.AAN.K...N.K...NLL..JJWW J 99 W 1 
+ 2  2  0 MMM......N.K.AAN.K...N.K...LL..JJWW. L 99 N 6 
+ 2  2  0 MMM......N.K.AAN.K...N.K..LL...JJWW. L 98 N 6 
+ 2  2  0 MMMN.....N.K.AAN.K.....KLL.....JJWW. L 96 N 5 
+ 2  2  0 MMMN.....N.KAA.N.K.....K....LL.JJWW. N 5 A 99 
+ 3  3  0 MMM......N.K.AAN.K...N.K..LL...JJ.WW L 98 N 6 W 1 
+ 3  3  0 MMM........K..AA.K...N.K...NLL.JJNWW A 99 N 6 W 1 
+ 3  3  0 MMM......N.K.AAN.K...N.K.LL....JJ.WW L 97 N 6 W 1 
+ 3  3  0 MMMN.K...N.K.AAN.K......LL.....JJWW. L 96 N 5 K 99 
+ 3  3  0 MMM........K...AAK...N.K...NLL.JJNWW A 98 N 6 W 1 
+ 3  3  0 MMM..K...N.K.AAN.K...N....LL...JJWW. L 98 K 99 N 6 
+ 3  3  0 .MMM.......K.AAN.K...N.K...NLLJJWW.. M 99 W 1 J 99 
+ 3  3  0 ..MMMK.....K.AAN.K...N.....NLLJJ.WW. M 98 J 99 K 99 
+ 3  3  0 MMM........K.AA..K...N.K...NLLJJ.NWW N 6 J 99 W 1 
+ 3  3  0 .MMM.......K.AAN.K...N.K...NLLJJ..WW M 99 J 99 W 1 
+ 3  3  0 ..MMM....N.K.AAN.K...N.K..LL...JJWW. L 98 M 98 N 6 
+ 3  3  0 MMMN.....N.K.AAN.K.....K....LLJJWW.. W 1 J 99 N 5 
+ 3  3  0 MMM........K.AAN.K...N.K.LLN...JJWW. N 3 L 97 N 3 
+ 3  3  0 MMMN.....N.KAA.N.K.....K.LL....JJWW. A 99 L 97 N 5 
+ 3  3  0 MMMN.....N...AAN.K.....K.LL..K.JJWW. K 99 L 97 N 5 
+ 3  3  0 .MMM.......K.AA..K...N.K...NLL.JJNWW M 99 N 6 W 1 
+ 3  3  0 ..MMM......K.AAN.K...N.K...NLL..JJWW J 99 M 98 W 1 
+ 3  3  0 MMMN.....N...AAN.......K..LL.K.JJWWK K 98 L 98 N 5 
+ 3  3  0 ..MMM....N.K.AAN.K...N.K....LL.JJ.WW M 98 N 6 W 1 
+ 3  3  0 MMMN.K...N.KAA.N.K..........LL.JJWW. N 5 K 99 A 99 
+ 3  3  0 ..MMMK.....KAA.N.K...N.....NLL.JJWW. M 98 K 99 A 99 
+ 3  3  0 MMM........KAA.N.K...N.K...NLL..JJWW J 99 W 1 A 99 
+ 3  3  0 .MMM.......KAA.N.K...N.K...NLL.JJ.WW M 99 W 1 A 99 
+ 3  3  0 MMM......N.KAA.N.K...N.K...LL..JJWW. L 99 A 99 N 6 
+ 3  3  0 ...MMM...N.KAA.N.K...N.K....LL.JJWW. M 97 A 99 N 6 
+ 3  3  0 MMMN.....N.K.AAN.K.....K...LL.JJ.WW. L 99 J 99 N 5 
+ 3  3  0 MMM..K.....KAA.N.K...N.....NLLJJ.WW. K 99 J 99 A 99 
+ 3  3  0 .MMM.......KAA.N.K...N.K...NLLJJ.WW. M 99 J 99 A 99 
+ 3  3  0 ..MMM......KAA.N.K...N.K...NLL.JJ.WW M 98 W 1 A 99 
+ 3  3  0 .MMM.....N.K.AAN.K...N.K...LL..JJWW. L 99 N 6 M 99 
+ 3  3  0 MMM..K.....K.AAN.K...N.....NLLJJWW.. W 1 J 99 K 99 
+ 3  3  0 MMMN.....N.KAA.N.K.....K....LLJJ.WW. A 99 J 99 N 5 
+ 3  3  0 ..MMM......KAA.N.K...N.K...NLLJJ.WW. M 98 J 99 A 99 
+ 3  3  0 .MMM.....N.K.AAN.K...N.K.LL....JJWW. L 97 N 6 M 99 
+ 3  3  0 MMM..K...N.K.AAN.K...N......LL.JJ.WW N 6 W 1 K 99 
+ 3  3  0 MMM......N.K.AAN.K...N.K....LL..JJWW J 99 N 6 W 1 
+ 3  3  0 MMMN.....N.K.AAN.K.....K.LL...JJ.WW. L 97 J 99 N 5 
+ 3  3  0 ..MMMK...N.K.AAN.K...N......LL.JJWW. K 99 M 98 N 6 
+ 3  3  0 ..MMMK.....K.AAN.K...N.....NLL.JJ.WW M 98 W 1 K 99 
+ 3  3  0 MMMN.K...N.K.AAN.K..........LLJJ.WW. J 99 N 5 K 99 
+ 3  3  0 MMMN.....N.K.AAN.K.....KLL....JJ.WW. L 96 J 99 N 5 
+ 3  3  0 ..MMM....N.KAA.N.K...N.K....LL.JJWW. A 99 M 98 N 6 
+ 3  3  0 MMM..K.....K.AAN.K...N.....NLL..JJWW J 99 W 1 K 99 
+ 3  3  0 .MMM.K.....KAA.N.K...N.....NLL.JJWW. A 99 M 99 K 99 
+ 3  3  0 MMMN.....N.K.AAN.K.....K...LL..JJ.WW L 99 N 5 W 1 
+ 3  3  0 MMM..K...N.KAA.N.K...N......LL.JJWW. K 99 A 99 N 6 
+ 3  3  0 ...MMM.....K.AAN.K...N.K...NLL..JJWW J 99 M 97 W 1 
+ 3  3  0 MMM......N.KAA.N.K...N.KLL.....JJWW. A 99 L 96 N 6 
+ 3  3  0 MMM......N.KAA.N.K...N.K....LL.JJ.WW W 1 A 99 N 6 
+ 3  3  0 MMM......N...AAN.K...N.KLL...K.JJWW. K 99 L 96 N 6 
+ 3  3  0 ...MMM.....K.AA..K...N.K...NLL.JJNWW N 6 M 97 W 1 
+ 3  3  0 MMM........KAA.N.K...N.K...NLLJJWW.. W 1 J 99 A 99 
+ 3  3  0 MMM......N.K.AAN.K...N.K..LL..JJ.WW. L 98 J 99 N 6 
+ 3  3  0 MMM..K.....KAA.N.K...N.....NLL.JJ.WW W 1 K 99 A 99 
+ 3  3  0 ..MMM....N.K.AAN.K...N.KLL.....JJWW. M 98 L 96 N 6 
+ 3  3  0 .MMM.....N.K.AAN.K...N.K....LLJJ.WW. M 99 J 99 N 6 
+ 3  3  0 MMMN.....N.K.AAN.K.....K....LLJJ..WW W 1 J 99 N 5 
+ 3  3  0 ..MMM....N.K.AAN.K...N.K....LLJJ.WW. M 98 J 99 N 6 
+ 3  3  0 ...MMM.....K.AAN.K...N.K...NLLJJWW.. W 1 J 99 M 97 
+ 3  3  0 MMM..K...N.K.AAN.K...N.....LL..JJWW. L 99 K 99 N 6 
+ 3  3  0 MMM..K...N.K.AAN.K...N...LL....JJWW. L 97 K 99 N 6 
+ 3  3  0 MMMN.K...N.K.AAN.K.........LL..JJWW. K 99 L 99 N 5 
+ 3  3  0 MMM......N.K.AAN.K...N.KLL.....JJ.WW W 1 L 96 N 6 
+ 3  3  0 MMMN.....N.KAA.N.K.....K....LL.JJ.WW A 99 N 5 W 1 
+ 3  3  0 MMMN.....N.KAA.N.K.....K..LL...JJWW. A 99 L 98 N 5 
+ 3  3  0 ...MMM...N.K.AAN.K...N.KLL.....JJWW. L 96 M 97 N 6 
+ 3  3  0 MMMN.....N...AAN.......K.LL..K.JJWWK K 98 L 97 N 5 
+ 3  3  0 MMMN.....N.K.AAN.K.....K....LL..JJWW J 99 N 5 W 1 
+ 3  3  0 ...MMM.....KAA.N.K...N.K...NLLJJ.WW. M 97 J 99 A 99 
+ 3  3  0 ...MMM...N.K.AAN.K...N.K...LL..JJWW. L 99 M 97 N 6 
+ 3  3  0 ...MMM.....K.AAN.K...N.K...NLLJJ..WW J 99 M 97 W 1 
+ 3  3  0 MMMN.K...N.K.AAN.K.......LL....JJWW. K 99 L 97 N 5 
+ 3  3  0 MMMN.K...N.K.AAN.K..........LL.JJ.WW K 99 N 5 W 1 
+ 3  3  0 MMMN.....N...AAN.......K...LLK.JJWWK K 98 L 99 N 5 
+ 3  3  0 MMMN.....N.K.AAN.K.....K.LL....JJ.WW L 97 N 5 W 1 
+ 3  3  0 ...MMM...N.K.AAN.K...N.K.LL....JJWW. L 97 M 97 N 6 
+ 3  3  0 ..MMM......K.AAN.K...N.K...NLLJJ..WW W 1 M 98 J 99 
+ 3  3  0 MMM........KAA...K...N.K...NLL.JJNWW N 6 W 1 A 99 
+ 3  3  0 MMM......N...AAN.K...N.K.LL..K.JJWW. K 99 L 97 N 6 
+ 3  3  0 ...MMM...N.K.AAN.K...N.K....LL.JJ.WW N 6 M 97 W 1 
+ 3  3  0 MMMN.....N...AAN.K.....K...LLK.JJWW. K 99 L 99 N 5 
+ 3  3  0 MMMN.K...N.K.AAN.K........LL...JJWW. K 99 L 98 N 5 
+ 3  3  0 MMM......N...AAN.....N.K...LLK.JJWWK K 98 L 99 N 6 
+ 3  3  0 ..MMM....N.K.AAN.K...N.K.LL....JJWW. L 97 M 98 N 6 
+ 3  3  0 MMMN.....N...AAN.K.....KLL...K.JJWW. K 99 L 96 N 5 
+ 3  3  0 MMMN.....N.KAA.N.K.....KLL.....JJWW. A 99 L 96 N 5 
+ 3  3  0 MMMN.....N.K.AAN.K.....K..LL..JJ.WW. L 98 J 99 N 5 
+ 3  3  0 MMM......N.KAA.N.K...N.K.LL....JJWW. A 99 L 97 N 6 
+ 3  3  0 .MMM.......K.AAN.K...N.K...NLL..JJWW J 99 W 1 M 99 
+ 3  3  0 .MMM.K.....K.AAN.K...N.....NLL.JJ.WW K 99 W 1 M 99 
+ 3  3  0 MMMN.....N.KAA.N.K.....K...LL..JJWW. L 99 N 5 A 99 
+ 3  3  0 MMM......N.K.AAN.K...N.K...LL..JJ.WW L 99 N 6 W 1 
+ 3  3  0 .MMM.K.....K.AAN.K...N.....NLLJJ.WW. J 99 M 99 K 99 
+ 3  3  0 .MMM.....N.K.AAN.K...N.KLL.....JJWW. M 99 L 96 N 6 
+ 3  3  0 MMMN.....N.K.AAN.K.....K..LL...JJ.WW L 98 N 5 W 1 
+ 3  3  0 ..MMM......K.AAN.K...N.K...NLLJJWW.. W 1 M 98 J 99 
+ 3  3  0 ..MMM....N.K.AAN.K...N.K...LL..JJWW. L 99 M 98 N 6 
+ 3  3  0 MMM......N.KAA.N.K...N.K....LLJJ.WW. A 99 J 99 N 6 
+ 3  3  0 .MMM.....N.K.AAN.K...N.K....LL.JJ.WW N 6 W 1 M 99 
+ 3  3  0 MMMN.....N...AAN.K.....K..LL.K.JJWW. K 99 L 98 N 5 
+ 3  3  0 MMM......N.K.AAN.K...N.K....LLJJ..WW N 6 J 99 W 1 
+ 3  3  0 ...MMM.....KAA.N.K...N.K...NLL.JJ.WW A 99 M 97 W 1 
+ 3  3  0 .MMM.....N.KAA.N.K...N.K....LL.JJWW. A 99 N 6 M 99 
+ 3  3  0 MMM......N...AAN.K...N.K..LL.K.JJWW. K 99 L 98 N 6 
+ 3  3  0 ...MMM...N.K.AAN.K...N.K....LLJJ.WW. J 99 M 97 N 6 
+ 3  3  0 MMMN.....N.K.AAN.K.....KLL.....JJ.WW L 96 N 5 W 1 
+ 3  3  0 .MMM.K...N.K.AAN.K...N......LL.JJWW. N 6 M 99 K 99 
+ 3  3  0 MMM......N...AAN.K...N.K...LLK.JJWW. K 99 L 99 N 6 
+ 3  3  0 MMM......N.K.AAN.K...N.K....LLJJWW.. W 1 J 99 N 6 
+ 3  3  0 ..MMM......K.AA..K...N.K...NLL.JJNWW N 6 M 98 W 1 
+ 3  3  0 MMM........KAA.N.K...N.K...NLLJJ..WW J 99 W 1 A 99 
+ 3  3  0 MMM..K.....K.AAN.K...N.....NLLJJ..WW J 99 W 1 K 99 
+ 3  3  0 MMM......N.K.AAN.K...N.K...LL.JJ.WW. L 99 J 99 N 6 
+ 3  3  0 MMM..K.....K.AA..K...N.....NLL.JJNWW N 6 W 1 K 99 
+ 3  3  0 MMM......N...AAN.....N.K.LL..K.JJWWK K 98 L 97 N 6 
+ 3  3  0 MMM..K...N.K.AAN.K...N..LL.....JJWW. K 99 L 96 N 6 
+ 3  3  0 MMM..K...N.K.AAN.K...N......LLJJ.WW. K 99 J 99 N 6 
+ 3  3  0 MMM......N.K.AAN.K...N.KLL....JJ.WW. L 96 J 99 N 6 
+ 3  3  0 MMM......N.K.AAN.K...N.K.LL...JJ.WW. L 97 J 99 N 6 
+ 3  3  0 MMM......N...AAN.....N.K..LL.K.JJWWK K 98 L 98 N 6 
+ 3  3  0 MMM......N...AAN.....N.KLL...K.JJWWK K 98 L 96 N 6 
+ 3  3  0 ...MMM...N.K.AAN.K...N.K..LL...JJWW. L 98 M 97 N 6 
+ 3  3  0 MMM......N.KAA.N.K...N.K..LL...JJWW. L 98 A 99 N 6 
+ 3  3  0 MMMN.....N...AAN.......KLL...K.JJWWK K 98 L 96 N 5 
+ 3  3  0 .MMM.....N.K.AAN.K...N.K..LL...JJWW. M 99 L 98 N 6 
+ 3  3  0 MMM........K.AAN.K...N.KLL.N...JJWW. N 5 L 96 N 5 
+ 4  4  0 MMM..K.....K.AA..K...N.....NLLJJ.NWW K 99 N 6 J 99 W 1 
+ 4  4  0 MMMN.....N.K.AAN.K.....K..LL..JJ..WW L 98 W 1 J 99 N 5 
+ 4  4  0 ..MMM....N.K.AAN.K...N.K....LLJJWW.. W 1 M 98 J 99 N 6 
+ 4  4  0 ..MMM......K.AA..K...N.K...NLLJJ.NWW M 98 N 6 J 99 W 1 
+ 4  4  0 MMM..K...N.K.AAN.K...N.....LL.JJ.WW. J 99 L 99 K 99 N 6 
+ 4  4  0 MMM..K.....K..AA.K...N.....NLL.JJNWW K 99 A 99 N 6 W 1 
+ 4  4  0 ..MMM......K...AAK...N.K...NLL.JJNWW M 98 A 98 N 6 W 1 
+ 4  4  0 ..MMM....N.K.AAN.K...N.K...LL..JJ.WW L 99 M 98 N 6 W 1 
+ 4  4  0 ...MMM...N.K.AAN.K...N.K....LLJJWW.. N 6 W 1 J 99 M 97 
+ 4  4  0 .MMM.K...N.K.AAN.K...N....LL...JJWW. M 99 L 98 K 99 N 6 
+ 4  4  0 MMMN.K...N.K.AAN.K......LL.....JJ.WW W 1 L 96 N 5 K 99 
+ 4  4  0 .MMM.K...N.K.AAN.K...N......LLJJ.WW. K 99 M 99 J 99 N 6 
+ 4  4  0 ..MMM....N.K.AAN.K...N.K...LL.JJ.WW. L 99 M 98 J 99 N 6 
+ 4  4  0 ..MMM....N.K.AAN.K...N.K.LL...JJ.WW. L 97 M 98 J 99 N 6 
+ 4  4  0 ..MMM....N...AAN.....N.KLL...K.JJWWK K 98 M 98 L 96 N 6 
+ 4  4  0 MMM........KAA...K...N.K...NLLJJ.NWW A 99 N 6 J 99 W 1 
+ 4  4  0 .MMM.....N.K.AAN.K...N.KLL....JJ.WW. L 96 M 99 J 99 N 6 
+ 4  4  0 MMM..K.....K.AAN.K...N..LL.N...JJWW. N 3 L 96 N 3 K 99 
+ 4  4  0 MMM......N.KAA.N.K...N.K..LL..JJ.WW. A 99 L 98 J 99 N 6 
+ 4  4  0 MMM......N...AAN.K...N.K..LL.KJJ.WW. K 99 L 98 J 99 N 6 
+ 4  4  0 ...MMM...N.K.AAN.K...N.K..LL..JJ.WW. M 97 L 98 J 99 N 6 
+ 4  4  0 MMM......N.K.AAN.K...N.K.LL...JJ..WW J 99 L 97 N 6 W 1 
+ 4  4  0 .MMM.K.....K.AAN.K...N.....NLLJJ..WW K 99 M 99 J 99 W 1 
+ 4  4  0 MMMN.....N.K.AAN.K.....K..LL..JJWW.. L 98 W 1 J 99 N 5 
+ 4  4  0 .MMM.....N...AAN.K...N.KLL...K.JJWW. M 99 K 99 L 96 N 6 
+ 4  4  0 MMM........K.AAN.K...N.KLL.N...JJ.WW N 5 W 1 L 96 N 5 
+ 4  4  0 MMM........K.AA..K...N.KLL.N...JJNWW N 4 W 1 L 96 N 4 
+ 4  4  0 MMM......N.KAA.N.K...N.K.LL....JJ.WW A 99 L 97 N 6 W 1 
+ 4  4  0 MMM........K.AA..K...N.K.LLN...JJNWW N 4 L 97 N 4 W 1 
+ 4  4  0 MMM........KAA.N.K...N.KLL.N...JJWW. N 5 A 99 L 96 N 5 
+ 4  4  0 MMM......N...AAN.K...N.K.LL..K.JJ.WW K 99 L 97 N 6 W 1 
+ 4  4  0 MMM......N..AA.N.K...N.KLL...K.JJWW. K 99 A 99 L 96 N 6 
+ 4  4  0 .MMM.....N.KAA.N.K...N.KLL.....JJWW. M 99 A 99 L 96 N 6 
+ 4  4  0 ...MMM...N.K.AAN.K...N.K.LL....JJ.WW M 97 L 97 N 6 W 1 
+ 4  4  0 MMMN.....N...AAN.K.....K...LLK.JJ.WW K 99 L 99 N 5 W 1 
+ 4  4  0 .MMM.....N.K.AAN.K...N.K..LL...JJ.WW M 99 L 98 N 6 W 1 
+ 4  4  0 MMM..K...N.KAA.N.K...N..LL.....JJWW. L 96 K 99 A 99 N 6 
+ 4  4  0 ..MMM....N.KAA.N.K...N.K.LL....JJWW. L 97 A 99 M 98 N 6 
+ 4  4  0 MMM........K.AAN.K...N.KLL.N..JJ.WW. N 3 L 96 J 99 N 3 
+ 4  4  0 ...MMM.....K.AAN.K...N.KLL.N...JJWW. N 5 L 96 M 97 N 5 
+ 4  4  0 MMMN.....N...AAN.......KLL...KJJ.WWK K 98 L 96 J 99 N 5 
+ 4  4  0 MMMN.K...N.K.AAN.K........LL..JJ.WW. L 98 J 99 N 5 K 99 
+ 4  4  0 ..MMMK.....K.AAN.K...N.....NLL..JJWW J 99 M 98 W 1 K 99 
+ 4  4  0 ..MMMK.....K.AA..K...N.....NLL.JJNWW N 6 M 98 W 1 K 99 
+ 4  4  0 MMMN.....N...AAN.......K..LL.KJJ.WWK J 99 K 98 L 98 N 5 
+ 4  4  0 MMMN.K...N.KAA.N.K.........LL..JJWW. L 99 N 5 K 99 A 99 
+ 4  4  0 MMMN.....N..AA.N.K.....K..LL.K.JJWW. K 99 A 99 L 98 N 5 
+ 4  4  0 MMMN.....N...AAN.K.....K.LL..KJJ.WW. K 99 L 97 J 99 N 5 
+ 4  4  0 ...MMM.....KAA.N.K...N.K...NLL..JJWW M 97 J 99 W 1 A 99 
+ 4  4  0 MMM......N.K.AAN.K...N.KLL......JJWW L 96 J 99 N 6 W 1 
+ 4  4  0 MMM......N..AA.N.....N.KLL...K.JJWWK K 98 A 99 L 96 N 6 
+ 4  4  0 .MMM.....N.K.AAN.K...N.K....LL..JJWW M 99 J 99 N 6 W 1 
+ 4  4  0 MMM..K...N.K.AAN.K...N.....LL..JJ.WW L 99 N 6 W 1 K 99 
+ 4  4  0 MMM......N...AAN.K...N.K..LL.K.JJ.WW K 99 L 98 N 6 W 1 
+ 4  4  0 .MMM.....N.KAA.N.K...N.K....LL.JJ.WW N 6 M 99 W 1 A 99 
+ 4  4  0 .MMM.K...N.K.AAN.K...N......LL.JJ.WW M 99 N 6 W 1 K 99 
+ 4  4  0 .MMM.....N...AAN.....N.K.LL..K.JJWWK K 98 L 97 N 6 M 99 
+ 4  4  0 ..MMM....N.KAA.N.K...N.K....LLJJ.WW. N 6 M 98 J 99 A 99 
+ 4  4  0 MMM......N.KAA.N.K...N.K...LL..JJ.WW W 1 L 99 A 99 N 6 
+ 4  4  0 MMMN.....N.KAA.N.K.....K.LL...JJ.WW. L 97 A 99 J 99 N 5 
+ 4  4  0 .MMM.K.....K.AAN.K...N.....NLLJJWW.. M 99 W 1 J 99 K 99 
+ 4  4  0 MMMN.....N.KAA.N.K.....K..LL...JJ.WW L 98 A 99 N 5 W 1 
+ 4  4  0 ...MMM...N...AAN.K...N.KLL...K.JJWW. M 97 K 99 L 96 N 6 
+ 4  4  0 ..MMMK.....KAA.N.K...N.....NLL.JJ.WW K 99 M 98 W 1 A 99 
+ 4  4  0 ..MMMK.....K.AAN.K...N.....NLLJJWW.. M 98 W 1 J 99 K 99 
+ 4  4  0 .MMM.......KAA.N.K...N.K...NLLJJ..WW W 1 M 99 J 99 A 99 
+ 4  4  0 MMMN.....N.K.AAN.K.....K...LL.JJWW.. W 1 L 99 J 99 N 5 
+ 4  4  0 MMM..K...N.K.AAN.K...N......LLJJWW.. N 6 W 1 J 99 K 99 
+ 4  4  0 ..MMMK...N.K.AAN.K...N.....LL..JJWW. L 99 K 99 M 98 N 6 
+ 4  4  0 MMM..K...N.KAA.N.K...N......LLJJ.WW. J 99 K 99 A 99 N 6 
+ 4  4  0 ..MMMK.....KAA.N.K...N.....NLLJJ.WW. M 98 K 99 J 99 A 99 
+ 4  4  0 MMMN.K...N.KAA.N.K..........LLJJ.WW. N 5 K 99 J 99 A 99 
+ 4  4  0 ...MMM...N.KAA.N.K...N.K..LL...JJWW. L 98 M 97 A 99 N 6 
+ 4  4  0 MMM..K...N.K.AAN.K...N......LL..JJWW N 6 J 99 W 1 K 99 
+ 4  4  0 ..MMMK...N.KAA.N.K...N......LL.JJWW. N 6 M 98 K 99 A 99 
+ 4  4  0 MMMN.....N.KAA.N.K.....K....LLJJ..WW W 1 A 99 J 99 N 5 
+ 4  4  0 MMM........K..AA.K...N.K...NLLJJ.NWW A 99 N 6 J 99 W 1 
+ 4  4  0 MMM........K...AAK...N.K...NLLJJ.NWW A 98 N 6 J 99 W 1 
+ 4  4  0 MMMN.....N.K.AAN.K.....K...LL...JJWW J 99 L 99 N 5 W 1 
+ 4  4  0 .MMM.......K..AA.K...N.K...NLL.JJNWW A 99 M 99 N 6 W 1 
+ 4  4  0 MMM......N.KAA.N.K...N.K....LL..JJWW J 99 W 1 A 99 N 6 
+ 4  4  0 MMM..K.....KAA.N.K...N.....NLLJJWW.. K 99 W 1 J 99 A 99 
+ 4  4  0 ..MMMK...N.K.AAN.K...N......LLJJ.WW. J 99 K 99 M 98 N 6 
+ 4  4  0 MMMN.....N.KAA.N.K.....K....LLJJWW.. N 5 W 1 J 99 A 99 
+ 4  4  0 ...MMM...N.K.AAN.K...N.K....LLJJ..WW N 6 J 99 M 97 W 1 
+ 4  4  0 MMMN.....N..AA.N.......K.LL..K.JJWWK K 98 A 99 L 97 N 5 
+ 4  4  0 ...MMM.....KAA...K...N.K...NLL.JJNWW A 99 N 6 M 97 W 1 
+ 4  4  0 MMM..........AAN.K...N.K.LLN.K.JJWW. K 99 N 3 L 97 N 3 
+ 4  4  0 .MMM.......KAA.N.K...N.K...NLLJJWW.. M 99 W 1 J 99 A 99 
+ 4  4  0 MMM..K.....KAA.N.K...N.....NLLJJ..WW J 99 W 1 K 99 A 99 
+ 4  4  0 .MMM.......K.AAN.K...N.K.LLN...JJWW. M 99 N 3 L 97 N 3 
+ 4  4  0 ..MMM......K.AAN.K...N.K.LLN...JJWW. M 98 N 3 L 97 N 3 
+ 4  4  0 MMM..K...N.KAA.N.K...N......LL.JJ.WW N 6 W 1 K 99 A 99 
+ 4  4  0 MMM..K.....K...AAK...N.....NLL.JJNWW K 99 A 98 N 6 W 1 
+ 4  4  0 ..MMM....N...AAN.K...N.K..LL.K.JJWW. K 99 L 98 M 98 N 6 
+ 4  4  0 MMM........K.AAN.K...N.K.LLN...JJ.WW N 3 L 97 N 3 W 1 
+ 4  4  0 ...MMM...N...AAN.....N.KLL...K.JJWWK K 98 L 96 M 97 N 6 
+ 4  4  0 .MMM.....N.KAA.N.K...N.K...LL..JJWW. A 99 L 99 N 6 M 99 
+ 4  4  0 MMM......N...AAN.K...N.KLL...KJJ.WW. J 99 K 99 L 96 N 6 
+ 4  4  0 MMMN.K...N.KAA.N.K..........LL.JJ.WW N 5 W 1 K 99 A 99 
+ 4  4  0 .MMM.....N.KAA.N.K...N.K....LLJJ.WW. N 6 M 99 J 99 A 99 
+ 4  4  0 MMM......N..AA.N.K...N.K...LLK.JJWW. K 99 L 99 A 99 N 6 
+ 4  4  0 MMMN.K...N.K.AAN.K..........LLJJ..WW W 1 J 99 N 5 K 99 
+ 4  4  0 .MMM.......K.AA..K...N.K...NLLJJ.NWW J 99 M 99 N 6 W 1 
+ 4  4  0 MMM..K...N.K.AAN.K...N...LL...JJ.WW. J 99 L 97 K 99 N 6 
+ 4  4  0 MMMN.....N.K.AAN.K.....KLL....JJ..WW W 1 L 96 J 99 N 5 
+ 4  4  0 MMMN.K...N.K.AAN.K........LL...JJ.WW L 98 K 99 N 5 W 1 
+ 4  4  0 .MMM.....N.K.AAN.K...N.K...LL.JJ.WW. J 99 L 99 N 6 M 99 
+ 4  4  0 MMMN.K...N.K.AAN.K.......LL....JJ.WW W 1 K 99 L 97 N 5 
+ 4  4  0 ...MMM...N...AAN.....N.K...LLK.JJWWK K 98 L 99 M 97 N 6 
+ 4  4  0 MMM......N.KAA.N.K...N.KLL....JJ.WW. J 99 A 99 L 96 N 6 
+ 4  4  0 ...MMM.....K...AAK...N.K...NLL.JJNWW A 98 N 6 M 97 W 1 
+ 4  4  0 ..MMM......KAA...K...N.K...NLL.JJNWW N 6 M 98 W 1 A 99 
+ 4  4  0 ..MMM......KAA.N.K...N.K...NLLJJWW.. M 98 W 1 J 99 A 99 
+ 4  4  0 ...MMM...N.K.AAN.K...N.K.LL...JJ.WW. J 99 L 97 M 97 N 6 
+ 4  4  0 ...MMM.....KAA.N.K...N.K...NLLJJWW.. M 97 W 1 J 99 A 99 
+ 4  4  0 MMM..........AAN.....N.K.LLN.K.JJWWK K 98 N 3 L 97 N 3 
+ 4  4  0 ...MMM.....K..AA.K...N.K...NLL.JJNWW A 99 N 6 M 97 W 1 
+ 4  4  0 .MMM.....N...AAN.K...N.K...LLK.JJWW. K 99 L 99 N 6 M 99 
+ 4  4  0 ..MMM......K..AA.K...N.K...NLL.JJNWW M 98 A 99 N 6 W 1 
+ 4  4  0 .MMM.....N.K.AAN.K...N.K.LL...JJ.WW. J 99 L 97 N 6 M 99 
+ 4  4  0 ...MMM...N.K.AAN.K...N.KLL.....JJ.WW W 1 L 96 M 97 N 6 
+ 4  4  0 ..MMM......KAA.N.K...N.K...NLLJJ..WW W 1 M 98 J 99 A 99 
+ 4  4  0 .MMM.K...N.K.AAN.K...N...LL....JJWW. K 99 L 97 N 6 M 99 
+ 4  4  0 MMM..K...N.KAA.N.K...N...LL....JJWW. A 99 L 97 K 99 N 6 
+ 4  4  0 ..MMM....N.KAA.N.K...N.KLL.....JJWW. L 96 A 99 M 98 N 6 
+ 4  4  0 MMM..K...N.KAA.N.K...N....LL...JJWW. L 98 K 99 A 99 N 6 
+ 4  4  0 MMM..K...N.K.AAN.K...N....LL...JJ.WW L 98 N 6 W 1 K 99 
+ 4  4  0 ..MMMK.....K.AAN.K...N.....NLLJJ..WW J 99 M 98 W 1 K 99 
+ 4  4  0 .MMM.K.....K.AAN.K...N.....NLL..JJWW M 99 J 99 W 1 K 99 
+ 4  4  0 .MMM.....N.KAA.N.K...N.K.LL....JJWW. A 99 L 97 N 6 M 99 
+ 4  4  0 ...MMM.....KAA.N.K...N.K...NLLJJ..WW W 1 M 97 J 99 A 99 
+ 4  4  0 MMMN.K...N.K.AAN.K.........LL.JJ.WW. K 99 L 99 J 99 N 5 
+ 4  4  0 MMM......N.K.AAN.K...N.K..LL....JJWW L 98 J 99 N 6 W 1 
+ 4  4  0 MMMN.....N...AAN.K.....K...LLKJJ.WW. K 99 L 99 J 99 N 5 
+ 4  4  0 ..MMM......K.AAN.K...N.KLL.N...JJWW. N 5 M 98 L 96 N 5 
+ 4  4  0 MMMN.....N..AA.N.......K..LL.K.JJWWK K 98 A 99 L 98 N 5 
+ 4  4  0 ...MMM...N.K.AAN.K...N.K...LL.JJ.WW. J 99 L 99 M 97 N 6 
+ 4  4  0 MMMN.....N..AA.N.......K...LLK.JJWWK A 99 K 98 L 99 N 5 
+ 4  4  0 MMMN.....N.K.AAN.K.....K.LL...JJ..WW W 1 L 97 J 99 N 5 
+ 4  4  0 MMMN.K...N.KAA.N.K......LL.....JJWW. L 96 N 5 K 99 A 99 
+ 4  4  0 MMMN.....N..AA.N.K.....KLL...K.JJWW. K 99 A 99 L 96 N 5 
+ 4  4  0 .MMM.....N.K.AAN.K...N.K.LL....JJ.WW W 1 L 97 N 6 M 99 
+ 4  4  0 MMM......N..AA.N.....N.K...LLK.JJWWK K 98 L 99 A 99 N 6 
+ 4  4  0 ..MMM....N.K.AAN.K...N.K..LL...JJ.WW L 98 M 98 N 6 W 1 
+ 4  4  0 ..MMMK...N.K.AAN.K...N......LL.JJ.WW M 98 N 6 W 1 K 99 
+ 4  4  0 MMMN.....N.KAA.N.K.....K...LL.JJ.WW. A 99 L 99 J 99 N 5 
+ 4  4  0 .MMM.K...N.K.AAN.K...N..LL.....JJWW. K 99 M 99 L 96 N 6 
+ 4  4  0 MMM......N.K.AAN.K...N.K...LL.JJ..WW J 99 L 99 N 6 W 1 
+ 4  4  0 .MMM.K.....KAA.N.K...N.....NLLJJ.WW. J 99 A 99 M 99 K 99 
+ 4  4  0 .MMM.....N.K.AAN.K...N.K..LL..JJ.WW. M 99 L 98 J 99 N 6 
+ 4  4  0 MMMN.....N.K.AAN.K.....K.LL...JJWW.. W 1 L 97 J 99 N 5 
+ 4  4  0 MMMN.K...N.KAA.N.K........LL...JJWW. A 99 K 99 L 98 N 5 
+ 4  4  0 MMM......N..AA.N.....N.K.LL..K.JJWWK K 98 A 99 L 97 N 6 
+ 4  4  0 ...MMM...N.K.AAN.K...N.KLL....JJ.WW. J 99 L 96 M 97 N 6 
+ 4  4  0 ..MMM....N.KAA.N.K...N.K..LL...JJWW. A 99 L 98 M 98 N 6 
+ 4  4  0 MMMN.....N...AAN.K.....KLL...KJJ.WW. K 99 L 96 J 99 N 5 
+ 4  4  0 .MMM.....N...AAN.....N.KLL...K.JJWWK K 98 M 99 L 96 N 6 
+ 4  4  0 MMM......N...AAN.K...N.K...LLK.JJ.WW K 99 L 99 N 6 W 1 
+ 4  4  0 MMMN.....N.K.AAN.K.....K..LL....JJWW L 98 J 99 N 5 W 1 
+ 4  4  0 ..MMM......KAA.N.K...N.K...NLL..JJWW J 99 M 98 W 1 A 99 
+ 4  4  0 MMMN.....N..AA.N.......KLL...K.JJWWK K 98 A 99 L 96 N 5 
+ 4  4  0 MMM......N..AA.N.K...N.K..LL.K.JJWW. A 99 K 99 L 98 N 6 
+ 4  4  0 .MMM.....N...AAN.K...N.K..LL.K.JJWW. M 99 K 99 L 98 N 6 
+ 4  4  0 MMMN.....N...AAN.K.....KLL...K.JJ.WW W 1 K 99 L 96 N 5 
+ 4  4  0 MMMN.....N..AA.N.K.....K.LL..K.JJWW. A 99 K 99 L 97 N 5 
+ 4  4  0 ...MMM...N.KAA.N.K...N.K.LL....JJWW. A 99 L 97 M 97 N 6 
+ 4  4  0 ...MMM...N.KAA.N.K...N.K....LLJJ.WW. N 6 M 97 J 99 A 99 
+ 4  4  0 .MMM.......KAA...K...N.K...NLL.JJNWW M 99 N 6 W 1 A 99 
+ 4  4  0 MMMN.....N...AAN.......K...LLKJJ.WWK J 99 K 98 L 99 N 5 
+ 4  4  0 ...MMM...N...AAN.K...N.K...LLK.JJWW. K 99 L 99 M 97 N 6 
+ 4  4  0 ..MMM....N...AAN.....N.K...LLK.JJWWK M 98 K 98 L 99 N 6 
+ 4  4  0 ..MMM....N...AAN.K...N.KLL...K.JJWW. M 98 K 99 L 96 N 6 
+ 4  4  0 MMMN.....N...AAN.K.....K..LL.K.JJ.WW K 99 L 98 N 5 W 1 
+ 4  4  0 MMMN.K...N.K.AAN.K.........LL..JJ.WW K 99 L 99 N 5 W 1 
+ 4  4  0 MMMN.K...N.KAA.N.K.......LL....JJWW. K 99 A 99 L 97 N 5 
+ 4  4  0 MMMN.K...N.K.AAN.K.......LL...JJ.WW. J 99 K 99 L 97 N 5 
+ 4  4  0 MMMN.....N.K.AAN.K.....K...LL.JJ..WW J 99 L 99 N 5 W 1 
+ 4  4  0 MMM......N...AAN.K...N.K...LLKJJ.WW. J 99 K 99 L 99 N 6 
+ 4  4  0 .MMM.....N...AAN.....N.K...LLK.JJWWK K 98 L 99 N 6 M 99 
+ 4  4  0 MMMN.....N.KAA.N.K.....K.LL....JJ.WW L 97 A 99 N 5 W 1 
+ 4  4  0 ..MMM....N...AAN.K...N.K...LLK.JJWW. K 99 L 99 M 98 N 6 
+ 4  4  0 MMMN.K...N.K.AAN.K......LL....JJ.WW. L 96 J 99 N 5 K 99 
+ 4  4  0 MMM......N...AAN.....N.K.LL..KJJ.WWK J 99 K 98 L 97 N 6 
+ 4  4  0 MMMN.....N.K.AAN.K.....KLL......JJWW J 99 L 96 N 5 W 1 
+ 4  4  0 .MMM.......KAA.N.K...N.K...NLL..JJWW J 99 M 99 W 1 A 99 
+ 4  4  0 MMM......N.K.AAN.K...N.K...LL.JJWW.. W 1 L 99 J 99 N 6 
+ 4  4  0 MMM......N...AAN.....N.K...LLKJJ.WWK K 98 L 99 J 99 N 6 
+ 4  4  0 .MMM.K...N.K.AAN.K...N.....LL..JJWW. L 99 N 6 M 99 K 99 
+ 4  4  0 MMM......N...AAN.....N.KLL...KJJ.WWK K 98 L 96 J 99 N 6 
+ 4  4  0 MMM..........AAN.....N.KLL.N.K.JJWWK N 5 K 98 L 96 N 5 
+ 4  4  0 ..MMMK...N.K.AAN.K...N...LL....JJWW. M 98 L 97 K 99 N 6 
+ 4  4  0 ...MMM...N...AAN.K...N.K.LL..K.JJWW. K 99 L 97 M 97 N 6 
+ 4  4  0 MMMN.....N.KAA.N.K.....KLL.....JJ.WW W 1 A 99 L 96 N 5 
+ 4  4  0 MMMN.....N.K.AAN.K.....K.LL.....JJWW J 99 L 97 N 5 W 1 
+ 4  4  0 MMMN.....N.KAA.N.K.....K....LL..JJWW A 99 J 99 N 5 W 1 
+ 4  4  0 .MMM.......K...AAK...N.K...NLL.JJNWW A 98 M 99 N 6 W 1 
+ 4  4  0 ...MMM...N.K.AAN.K...N.K...LL..JJ.WW W 1 L 99 M 97 N 6 
+ 4  4  0 MMM......N.KAA.N.K...N.K...LL.JJ.WW. J 99 L 99 A 99 N 6 
+ 4  4  0 ..MMM....N.KAA.N.K...N.K...LL..JJWW. A 99 L 99 M 98 N 6 
+ 4  4  0 ..MMM....N.KAA.N.K...N.K....LL.JJ.WW W 1 A 99 M 98 N 6 
+ 4  4  0 .MMM.K.....K.AA..K...N.....NLL.JJNWW K 99 M 99 N 6 W 1 
+ 4  4  0 MMM..K...N.K.AAN.K...N....LL..JJ.WW. J 99 L 98 K 99 N 6 
+ 4  4  0 ...MMM...N...AAN.K...N.K..LL.K.JJWW. M 97 K 99 L 98 N 6 
+ 4  4  0 ...MMM...N.K.AAN.K...N.K..LL...JJ.WW L 98 N 6 M 97 W 1 
+ 4  4  0 MMMN.....N.KAA.N.K.....K..LL..JJ.WW. L 98 A 99 J 99 N 5 
+ 4  4  0 .MMM.K.....KAA.N.K...N.....NLL.JJ.WW M 99 W 1 K 99 A 99 
+ 4  4  0 MMMN.....N...AAN.K.....K..LL.KJJ.WW. K 99 L 98 J 99 N 5 
+ 4  4  0 MMMN.....N..AA.N.K.....K...LLK.JJWW. K 99 L 99 N 5 A 99 
+ 4  4  0 MMMN.....N.KAA.N.K.....K...LL..JJ.WW L 99 A 99 N 5 W 1 
+ 4  4  0 MMM......N.KAA.N.K...N.K..LL...JJ.WW A 99 L 98 N 6 W 1 
+ 4  4  0 MMM......N.K.AAN.K...N.KLL....JJ..WW J 99 W 1 L 96 N 6 
+ 4  4  0 MMM..K...N.K.AAN.K...N...LL....JJ.WW L 97 N 6 W 1 K 99 
+ 4  4  0 ..MMM....N...AAN.K...N.K.LL..K.JJWW. K 99 L 97 M 98 N 6 
+ 4  4  0 .MMM.....N.K.AAN.K...N.K....LLJJ..WW M 99 N 6 J 99 W 1 
+ 4  4  0 MMMN.K...N.K.AAN.K..........LL..JJWW N 5 J 99 W 1 K 99 
+ 4  4  0 .MMM.....N.K.AAN.K...N.K...LL..JJ.WW W 1 L 99 N 6 M 99 
+ 4  4  0 MMM..K...N.K.AAN.K...N..LL....JJ.WW. J 99 K 99 L 96 N 6 
+ 4  4  0 ...MMM...N...AAN.....N.K..LL.K.JJWWK M 97 K 98 L 98 N 6 
+ 4  4  0 ..MMM....N...AAN.....N.K..LL.K.JJWWK M 98 K 98 L 98 N 6 
+ 4  4  0 MMM..K.....KAA...K...N.....NLL.JJNWW N 6 W 1 K 99 A 99 
+ 4  4  0 MMM......N.K.AAN.K...N.KLL....JJWW.. L 96 W 1 J 99 N 6 
+ 4  4  0 MMMN.....N...AAN.K.....K.LL..K.JJ.WW W 1 K 99 L 97 N 5 
+ 4  4  0 MMM......N.K.AAN.K...N.K..LL..JJWW.. L 98 W 1 J 99 N 6 
+ 4  4  0 ...MMM...N.KAA.N.K...N.KLL.....JJWW. A 99 L 96 M 97 N 6 
+ 4  4  0 ...MMM...N.KAA.N.K...N.K...LL..JJWW. A 99 L 99 M 97 N 6 
+ 4  4  0 .MMM.....N...AAN.K...N.K.LL..K.JJWW. K 99 L 97 N 6 M 99 
+ 4  4  0 ..MMMK...N.K.AAN.K...N..LL.....JJWW. M 98 K 99 L 96 N 6 
+ 4  4  0 MMM......N..AA.N.K...N.K.LL..K.JJWW. K 99 A 99 L 97 N 6 
+ 4  4  0 ..MMM....N.K.AAN.K...N.KLL.....JJ.WW W 1 M 98 L 96 N 6 
+ 4  4  0 ..MMM....N...AAN.....N.K.LL..K.JJWWK M 98 K 98 L 97 N 6 
+ 4  4  0 ..MMM....N.K.AAN.K...N.K.LL....JJ.WW L 97 M 98 N 6 W 1 
+ 4  4  0 MMM..K...N.K.AAN.K...N..LL.....JJ.WW L 96 N 6 W 1 K 99 
+ 4  4  0 MMM......N.KAA.N.K...N.KLL.....JJ.WW W 1 A 99 L 96 N 6 
+ 4  4  0 MMM......N.K.AAN.K...N.K...LL...JJWW L 99 J 99 N 6 W 1 
+ 4  4  0 .MMM.......K.AAN.K...N.KLL.N...JJWW. N 5 M 99 L 96 N 5 
+ 4  4  0 ..MMM....N.K.AAN.K...N.K....LLJJ..WW M 98 N 6 J 99 W 1 
+ 4  4  0 MMM......N...AAN.....N.K..LL.KJJ.WWK K 98 L 98 J 99 N 6 
+ 4  4  0 ...MMM.....K.AA..K...N.K...NLLJJ.NWW N 6 J 99 M 97 W 1 
+ 4  4  0 .MMM.....N.K.AAN.K...N.K....LLJJWW.. M 99 W 1 J 99 N 6 
+ 4  4  0 MMM......N.K.AAN.K...N.K.LL.....JJWW L 97 J 99 N 6 W 1 
+ 4  4  0 ..MMMK...N.K.AAN.K...N....LL...JJWW. K 99 L 98 M 98 N 6 
+ 4  4  0 MMM......N.K.AAN.K...N.K..LL..JJ..WW L 98 N 6 J 99 W 1 
+ 4  4  0 ..MMM....N.K.AAN.K...N.K..LL..JJ.WW. M 98 L 98 J 99 N 6 
+ 4  4  0 MMM..K.....KAA.N.K...N.....NLL..JJWW J 99 W 1 K 99 A 99 
+ 4  4  0 MMMN.....N.K.AAN.K.....KLL....JJWW.. W 1 L 96 J 99 N 5 
+ 4  4  0 MMM..........AAN.K...N.KLL.N.K.JJWW. N 5 K 99 L 96 N 5 
+ 4  4  0 ...MMM...N.K.AAN.K...N.K....LL..JJWW J 99 N 6 M 97 W 1 
+ 4  4  0 ...MMM...N.KAA.N.K...N.K....LL.JJ.WW A 99 N 6 M 97 W 1 
+ 4  4  0 .MMM.K...N.KAA.N.K...N......LL.JJWW. N 6 A 99 M 99 K 99 
+ 4  4  0 .MMM.....N.K.AAN.K...N.KLL.....JJ.WW M 99 W 1 L 96 N 6 
+ 4  4  0 MMM......N...AAN.K...N.KLL...K.JJ.WW W 1 K 99 L 96 N 6 
+ 4  4  0 MMM......N.KAA.N.K...N.K....LLJJWW.. A 99 W 1 J 99 N 6 
+ 4  4  0 MMMN.K...N.K.AAN.K..........LLJJWW.. K 99 W 1 J 99 N 5 
+ 4  4  0 MMM......N.KAA.N.K...N.K.LL...JJ.WW. J 99 A 99 L 97 N 6 
+ 4  4  0 MMM........KAA.N.K...N.K.LLN...JJWW. N 3 A 99 L 97 N 3 
+ 4  4  0 MMMN.....N...AAN.......K.LL..KJJ.WWK K 98 L 97 J 99 N 5 
+ 4  4  0 ...MMM.....K.AAN.K...N.K.LLN...JJWW. M 97 N 3 L 97 N 3 
+ 4  4  0 MMM........K.AAN.K...N.K.LLN..JJ.WW. N 3 L 97 J 99 N 3 
+ 4  4  0 ..MMM....N.K.AAN.K...N.KLL....JJ.WW. J 99 M 98 L 96 N 6 
+ 4  4  0 MMM......N.KAA.N.K...N.K....LLJJ..WW A 99 N 6 J 99 W 1 
+ 4  4  0 MMMN.....N.KAA.N.K.....KLL....JJ.WW. J 99 A 99 L 96 N 5 
+ 4  4  0 MMM..K...N.KAA.N.K...N.....LL..JJWW. L 99 K 99 A 99 N 6 
+ 4  4  0 ..MMM....N.K.AAN.K...N.K....LL..JJWW M 98 J 99 N 6 W 1 
+ 4  4  0 MMM..K.....K.AAN.K...N...LLN...JJWW. N 5 L 97 K 99 N 5 
+ 4  4  0 MMM..K...N.K.AAN.K...N......LLJJ..WW J 99 N 6 W 1 K 99 
+ 4  4  0 MMM......N..AA.N.....N.K..LL.K.JJWWK A 99 K 98 L 98 N 6 
+ 4  4  0 MMM......N...AAN.K...N.K.LL..KJJ.WW. J 99 K 99 L 97 N 6 
+ 4  4  0 .MMM.....N.KAA.N.K...N.K..LL...JJWW. L 98 A 99 N 6 M 99 
+ 4  4  0 .MMM.....N...AAN.....N.K..LL.K.JJWWK M 99 K 98 L 98 N 6 
+ 4  4  0 ...MMM...N...AAN.....N.K.LL..K.JJWWK K 98 L 97 M 97 N 6 
+ 4  4  0 MMM......N.K.AAN.K...N.K.LL...JJWW.. L 97 W 1 J 99 N 6 
+ 5  5  0 MMMN.K...N.KAA.N.K.......LL....JJ.WW L 97 N 5 W 1 K 99 A 99 
+ 5  5  0 MMM......N...AAN.K...N.KLL...KJJ..WW W 1 J 99 K 99 L 96 N 6 
+ 5  5  0 ..MMM....N.K.AAN.K...N.K..LL..JJWW.. L 98 W 1 M 98 J 99 N 6 
+ 5  5  0 MMM......N..AA.N.K...N.K...LLKJJ.WW. J 99 K 99 L 99 A 99 N 6 
+ 5  5  0 MMMN.K...N.K.AAN.K.........LL.JJ..WW L 99 W 1 J 99 N 5 K 99 
+ 5  5  0 ..MMM....N.K.AAN.K...N.K...LL...JJWW J 99 L 99 M 98 N 6 W 1 
+ 5  5  0 MMM..K.....K.AAN.K...N...LLN..JJ.WW. N 5 J 99 L 97 K 99 N 5 
+ 5  5  0 MMMN.....N...AAN.K.....K..LL.KJJ..WW K 99 L 98 W 1 J 99 N 5 
+ 5  5  0 MMMN.K...N.K.AAN.K......LL......JJWW J 99 W 1 L 96 N 5 K 99 
+ 5  5  0 ..MMM....N...AAN.K...N.K...LLKJJ.WW. K 99 L 99 M 98 J 99 N 6 
+ 5  5  0 ..MMM....N.K.AAN.K...N.KLL....JJWW.. L 96 W 1 M 98 J 99 N 6 
+ 5  5  0 ..MMM....N..AA.N.K...N.K...LLK.JJWW. M 98 K 99 L 99 A 99 N 6 
+ 5  5  0 ..MMM....N...AAN.....N.K.LL..KJJ.WWK K 98 L 97 M 98 J 99 N 6 
+ 5  5  0 .MMM.....N.K.AAN.K...N.KLL....JJ..WW W 1 L 96 M 99 J 99 N 6 
+ 5  5  0 .MMM.....N.K.AAN.K...N.K...LL.JJWW.. W 1 J 99 L 99 N 6 M 99 
+ 5  5  0 .MMM.....N...AAN.....N.K...LLKJJ.WWK K 98 J 99 L 99 N 6 M 99 
+ 5  5  0 .MMM.K...N.KAA.N.K...N.....LL..JJWW. K 99 A 99 L 99 N 6 M 99 
+ 5  5  0 ..MMM....N...AAN.....N.KLL...KJJ.WWK J 99 K 98 M 98 L 96 N 6 
+ 5  5  0 MMM......N.KAA.N.K...N.K..LL..JJ..WW W 1 A 99 L 98 J 99 N 6 
+ 5  5  0 MMM......N.KAA.N.K...N.K..LL..JJWW.. W 1 A 99 L 98 J 99 N 6 
+ 5  5  0 ..MMMK.....K.AAN.K...N...LLN...JJWW. K 99 M 98 N 3 L 97 N 3 
+ 5  5  0 MMM......N...AAN.K...N.K..LL.KJJWW.. W 1 K 99 L 98 J 99 N 6 
+ 5  5  0 .MMM.....N...AAN.K...N.KLL...KJJ.WW. J 99 M 99 K 99 L 96 N 6 
+ 5  5  0 ...MMM.....K.AAN.K...N.K.LLN..JJ.WW. N 5 J 99 L 97 M 97 N 5 
+ 5  5  0 ...MMM...N.KAA.N.K...N.K.LL...JJ.WW. A 99 J 99 L 97 M 97 N 6 
+ 5  5  0 ...MMM...N...AAN.K...N.K.LL..KJJ.WW. K 99 J 99 L 97 M 97 N 6 
+ 5  5  0 MMM.........AA.N.K...N.K.LLN.K.JJWW. A 99 K 99 N 3 L 97 N 3 
+ 5  5  0 .MMM.....N...AAN.K...N.KLL...K.JJ.WW W 1 M 99 K 99 L 96 N 6 
+ 5  5  0 .MMM.........AAN.K...N.K.LLN.K.JJWW. M 99 K 99 N 3 L 97 N 3 
+ 5  5  0 ...MMM.......AAN.K...N.K.LLN.K.JJWW. M 97 K 99 N 3 L 97 N 3 
+ 5  5  0 ...MMM...N.K.AAN.K...N.K..LL..JJ..WW L 98 N 6 J 99 M 97 W 1 
+ 5  5  0 ...MMM.......AAN.....N.K.LLN.K.JJWWK M 97 K 98 N 3 L 97 N 3 
+ 5  5  0 MMMN.....N.KAA.N.K.....KLL....JJWW.. L 96 N 5 W 1 J 99 A 99 
+ 5  5  0 .MMM.......K.AAN.K...N.KLL.N...JJ.WW M 99 N 5 W 1 L 96 N 5 
+ 5  5  0 MMM........K.AA..K...N.KLL.N..JJ.NWW J 99 N 4 W 1 L 96 N 4 
+ 5  5  0 ..MMM....N.KAA.N.K...N.K....LL..JJWW M 98 J 99 W 1 A 99 N 6 
+ 5  5  0 MMM......N.KAA.N.K...N.K.LL.....JJWW J 99 A 99 L 97 N 6 W 1 
+ 5  5  0 MMMN.....N.KAA.N.K.....K...LL...JJWW A 99 J 99 L 99 N 5 W 1 
+ 5  5  0 MMM........K...AAK...N.K.LLN...JJNWW A 98 N 4 L 97 N 4 W 1 
+ 5  5  0 MMM......N..AA.N.K...N.KLL...K.JJ.WW W 1 K 99 A 99 L 96 N 6 
+ 5  5  0 .MMM.......K...AAK...N.K...NLLJJ.NWW M 99 A 98 N 6 J 99 W 1 
+ 5  5  0 MMM........K.AAN.K...N.K.LLN....JJWW J 99 N 3 L 97 N 3 W 1 
+ 5  5  0 ..MMM......K...AAK...N.K...NLLJJ.NWW M 98 A 98 N 6 J 99 W 1 
+ 5  5  0 ...MMM.....K...AAK...N.K...NLLJJ.NWW M 97 A 98 N 6 J 99 W 1 
+ 5  5  0 ...MMM...N.K.AAN.K...N.K.LL.....JJWW J 99 M 97 L 97 N 6 W 1 
+ 5  5  0 MMMN.....N.KAA.N.K.....KLL....JJ..WW L 96 W 1 A 99 J 99 N 5 
+ 5  5  0 ...MMM...N.KAA.N.K...N.KLL.....JJ.WW A 99 W 1 L 96 M 97 N 6 
+ 5  5  0 .MMM.K.....K...AAK...N.....NLL.JJNWW M 99 K 99 A 98 N 6 W 1 
+ 5  5  0 MMMN.K...N.KAA.N.K..........LL..JJWW J 99 N 5 W 1 K 99 A 99 
+ 5  5  0 ...MMM.....K.AAN.K...N.K.LLN...JJ.WW M 97 N 3 L 97 N 3 W 1 
+ 5  5  0 ..MMM....N.KAA.N.K...N.K...LL.JJ.WW. L 99 N 6 M 98 J 99 A 99 
+ 5  5  0 ...MMM...N.KAA.N.K...N.K...LL..JJ.WW M 97 W 1 L 99 A 99 N 6 
+ 5  5  0 ..MMM....N.KAA.N.K...N.KLL.....JJ.WW W 1 L 96 A 99 M 98 N 6 
+ 5  5  0 MMM..........AAN.K...N.KLL.N.KJJ.WW. K 99 N 3 L 96 J 99 N 3 
+ 5  5  0 MMM......N...AAN.K...N.K..LL.K..JJWW J 99 K 99 L 98 N 6 W 1 
+ 5  5  0 MMM..K...N.K.AAN.K...N....LL..JJ..WW J 99 L 98 N 6 W 1 K 99 
+ 5  5  0 MMM........K.AAN.K...N.KLL.N..JJWW.. W 1 N 3 L 96 J 99 N 3 
+ 5  5  0 ...MMM...N...AAN.K...N.K..LL.K.JJ.WW M 97 K 99 L 98 N 6 W 1 
+ 5  5  0 ...MMM...N..AA.N.....N.KLL...K.JJWWK M 97 K 98 A 99 L 96 N 6 
+ 5  5  0 MMMN.....N...AAN.......KLL...KJJWW.K W 1 K 98 L 96 J 99 N 5 
+ 5  5  0 .MMM.K.....KAA.N.K...N.....NLL..JJWW A 99 M 99 J 99 W 1 K 99 
+ 5  5  0 .MMM.....N..AA.N.K...N.K.LL..K.JJWW. K 99 A 99 L 97 N 6 M 99 
+ 5  5  0 MMMN.....N..AA.N.......KLL...KJJ.WWK A 99 K 98 L 96 J 99 N 5 
+ 5  5  0 ..MMM........AAN.K...N.KLL.N.K.JJWW. K 99 N 5 M 98 L 96 N 5 
+ 5  5  0 ..MMM......K.AAN.K...N.KLL.N..JJ.WW. M 98 N 3 L 96 J 99 N 3 
+ 5  5  0 ..MMM......KAA.N.K...N.K.LLN...JJWW. N 5 L 97 A 99 M 98 N 5 
+ 5  5  0 ..MMMK.....K.AA..K...N.....NLLJJ.NWW J 99 N 6 M 98 W 1 K 99 
+ 5  5  0 ..MMM....N..AA.N.....N.K.LL..K.JJWWK K 98 L 97 A 99 M 98 N 6 
+ 5  5  0 MMMN.....N...AAN.K.....K.LL..KJJWW.. W 1 K 99 L 97 J 99 N 5 
+ 5  5  0 MMMN.....N..AA.N.K.....K..LL.KJJ.WW. J 99 K 99 A 99 L 98 N 5 
+ 5  5  0 ..MMMK...N.KAA.N.K...N..LL.....JJWW. M 98 L 96 K 99 A 99 N 6 
+ 5  5  0 .MMM.....N.KAA.N.K...N.K..LL...JJ.WW A 99 M 99 L 98 N 6 W 1 
+ 5  5  0 MMMN.....N...AAN.K.....K...LLK..JJWW J 99 K 99 L 99 N 5 W 1 
+ 5  5  0 MMMN.....N..AA.N.K.....K...LLK.JJ.WW A 99 K 99 L 99 N 5 W 1 
+ 5  5  0 .MMM.....N.K.AAN.K...N.K..LL....JJWW L 98 M 99 J 99 N 6 W 1 
+ 5  5  0 .MMM.K...N.K.AAN.K...N...LL....JJ.WW L 97 M 99 N 6 W 1 K 99 
+ 5  5  0 ..MMM....N...AAN.K...N.K.LL..K.JJ.WW M 98 K 99 L 97 N 6 W 1 
+ 5  5  0 MMM........KAA.N.K...N.KLL.N..JJ.WW. J 99 N 5 A 99 L 96 N 5 
+ 5  5  0 .MMM.....N.KAA.N.K...N.K....LLJJ..WW J 99 N 6 M 99 W 1 A 99 
+ 5  5  0 .MMM.K...N.KAA.N.K...N......LL.JJ.WW A 99 M 99 N 6 W 1 K 99 
+ 5  5  0 ...MMM.....KAA.N.K...N.KLL.N...JJWW. M 97 N 5 A 99 L 96 N 5 
+ 5  5  0 MMM..........AA..K...N.K.LLN.K.JJNWW K 99 N 4 L 97 N 4 W 1 
+ 5  5  0 .MMM.......K.AA..K...N.K.LLN...JJNWW M 99 N 4 L 97 N 4 W 1 
+ 5  5  0 MMM........KAA.N.K...N.K.LLN...JJ.WW N 5 A 99 L 97 N 5 W 1 
+ 5  5  0 ..MMM......K.AA..K...N.K.LLN...JJNWW M 98 N 4 L 97 N 4 W 1 
+ 5  5  0 ..MMM....N.KAA.N.K...N.K....LLJJWW.. W 1 N 6 M 98 J 99 A 99 
+ 5  5  0 MMMN.K...N.K.AAN.K.........LL.JJWW.. K 99 W 1 L 99 J 99 N 5 
+ 5  5  0 ...MMM.....K.AA..K...N.KLL.N...JJNWW M 97 N 4 W 1 L 96 N 4 
+ 5  5  0 ..MMMK.....KAA...K...N.....NLL.JJNWW N 6 K 99 M 98 W 1 A 99 
+ 5  5  0 ..MMMK...N.K.AAN.K...N..LL.....JJ.WW L 96 M 98 N 6 W 1 K 99 
+ 5  5  0 .MMM.K...N.K.AAN.K...N......LLJJ..WW N 6 K 99 M 99 J 99 W 1 
+ 5  5  0 ..MMM....N.K.AAN.K...N.K.LL...JJ..WW M 98 J 99 L 97 N 6 W 1 
+ 5  5  0 MMM..K...N.KAA.N.K...N...LL...JJ.WW. L 97 J 99 K 99 A 99 N 6 
+ 5  5  0 MMM..K...N.K.AAN.K...N...LL...JJWW.. L 97 N 6 W 1 J 99 K 99 
+ 5  5  0 MMMN.K...N.KAA.N.K.........LL.JJ.WW. L 99 N 5 K 99 J 99 A 99 
+ 5  5  0 MMM......N..AA.N.....N.K..LL.KJJ.WWK K 98 A 99 L 98 J 99 N 6 
+ 5  5  0 ..MMMK.....KAA.N.K...N.....NLLJJ..WW A 99 J 99 M 98 W 1 K 99 
+ 5  5  0 .MMM.....N.KAA.N.K...N.K..LL..JJ.WW. M 99 A 99 L 98 J 99 N 6 
+ 5  5  0 MMM..K.....KAA.N.K...N..LL.N...JJWW. A 99 N 3 L 96 N 3 K 99 
+ 5  5  0 .MMM.K.....K.AAN.K...N..LL.N...JJWW. M 99 N 3 L 96 N 3 K 99 
+ 5  5  0 MMM..K...N.K.AAN.K...N.....LL...JJWW L 99 N 6 J 99 W 1 K 99 
+ 5  5  0 ..MMMK...N.K.AAN.K...N......LL..JJWW M 98 N 6 J 99 W 1 K 99 
+ 5  5  0 MMM........K...AAK...N.KLL.N...JJNWW A 98 N 4 W 1 L 96 N 4 
+ 5  5  0 MMM........K..AA.K...N.K.LLN...JJNWW A 99 N 4 L 97 N 4 W 1 
+ 5  5  0 .MMM.K...N.K.AAN.K...N......LLJJWW.. M 99 N 6 W 1 J 99 K 99 
+ 5  5  0 MMM..K.....K..AA.K...N.....NLLJJ.NWW K 99 A 99 N 6 J 99 W 1 
+ 5  5  0 .MMM.K...N.K.AAN.K...N...LL...JJ.WW. L 97 K 99 M 99 J 99 N 6 
+ 5  5  0 .MMM.K...N.KAA.N.K...N......LLJJ.WW. A 99 K 99 M 99 J 99 N 6 
+ 5  5  0 MMM..K...N.KAA.N.K...N......LLJJWW.. N 6 K 99 W 1 J 99 A 99 
+ 5  5  0 ...MMM...N.KAA.N.K...N.K....LL..JJWW N 6 M 97 J 99 W 1 A 99 
+ 5  5  0 MMM..........AAN.K...N.KLL.N.K.JJ.WW K 99 N 5 W 1 L 96 N 5 
+ 5  5  0 ..MMMK.....KAA.N.K...N.....NLLJJWW.. M 98 K 99 W 1 J 99 A 99 
+ 5  5  0 ..MMM......K.AAN.K...N.KLL.N...JJ.WW M 98 N 5 W 1 L 96 N 5 
+ 5  5  0 ..MMMK...N.K.AAN.K...N....LL..JJ.WW. L 98 J 99 K 99 M 98 N 6 
+ 5  5  0 .MMM.K...N.K.AAN.K...N.....LL..JJ.WW L 99 M 99 N 6 W 1 K 99 
+ 5  5  0 MMM..K.....K.AA..K...N..LL.N...JJNWW N 2 W 1 L 96 N 2 K 99 
+ 5  5  0 .MMM.K...N.K.AAN.K...N....LL...JJ.WW L 98 M 99 N 6 W 1 K 99 
+ 5  5  0 ...MMM...N.K.AAN.K...N.K.LL...JJWW.. L 97 N 6 W 1 J 99 M 97 
+ 5  5  0 MMMN.K...N.KAA.N.K..........LLJJWW.. W 1 N 5 K 99 J 99 A 99 
+ 5  5  0 MMMN.....N..AA.N.......K.LL..KJJ.WWK J 99 K 98 A 99 L 97 N 5 
+ 5  5  0 MMM.........AA.N.....N.K.LLN.K.JJWWK N 3 K 98 A 99 L 97 N 3 
+ 5  5  0 ..MMMK...N.KAA.N.K...N......LLJJ.WW. A 99 J 99 K 99 M 98 N 6 
+ 5  5  0 MMM..K...N.KAA.N.K...N.....LL..JJ.WW L 99 N 6 W 1 K 99 A 99 
+ 5  5  0 MMM..K...N.KAA.N.K...N......LLJJ..WW J 99 N 6 W 1 K 99 A 99 
+ 5  5  0 ..MMM....N.KAA.N.K...N.KLL....JJ.WW. M 98 J 99 A 99 L 96 N 6 
+ 5  5  0 MMM......N.KAA.N.K...N.K...LL.JJ..WW J 99 W 1 L 99 A 99 N 6 
+ 5  5  0 .MMM.K...N.K.AAN.K...N......LL..JJWW M 99 N 6 J 99 W 1 K 99 
+ 5  5  0 .MMM.....N...AAN.K...N.K..LL.KJJ.WW. K 99 M 99 L 98 J 99 N 6 
+ 5  5  0 MMM......N...AAN.K...N.K.LL..KJJ..WW J 99 K 99 L 97 N 6 W 1 
+ 5  5  0 .MMM.....N..AA.N.....N.K...LLK.JJWWK K 98 A 99 L 99 N 6 M 99 
+ 5  5  0 .MMM.K...N.KAA.N.K...N....LL...JJWW. A 99 M 99 L 98 K 99 N 6 
+ 5  5  0 MMM..K.....K.AAN.K...N...LLN...JJ.WW N 3 W 1 K 99 L 97 N 3 
+ 5  5  0 MMMN.K...N.K.AAN.K......LL....JJ..WW J 99 W 1 L 96 N 5 K 99 
+ 5  5  0 MMMN.K...N.K.AAN.K.......LL.....JJWW J 99 W 1 K 99 L 97 N 5 
+ 5  5  0 ...MMM...N...AAN.....N.K...LLKJJ.WWK J 99 K 98 L 99 M 97 N 6 
+ 5  5  0 ...MMM...N..AA.N.K...N.K...LLK.JJWW. M 97 K 99 L 99 A 99 N 6 
+ 5  5  0 MMM..........AAN.....N.K.LLN.KJJ.WWK J 99 K 98 N 3 L 97 N 3 
+ 5  5  0 .MMM.....N.K.AAN.K...N.K...LL.JJ..WW W 1 J 99 L 99 N 6 M 99 
+ 5  5  0 ..MMM....N.K.AAN.K...N.KLL......JJWW M 98 L 96 J 99 N 6 W 1 
+ 5  5  0 MMM......N..AA.N.K...N.KLL...KJJ.WW. J 99 K 99 A 99 L 96 N 6 
+ 5  5  0 ..MMM....N.K.AAN.K...N.K...LL.JJWW.. W 1 L 99 M 98 J 99 N 6 
+ 5  5  0 .MMM.....N.K.AAN.K...N.K..LL..JJWW.. W 1 M 99 L 98 J 99 N 6 
+ 5  5  0 MMMN.K...N.KAA.N.K........LL...JJ.WW K 99 L 98 A 99 N 5 W 1 
+ 5  5  0 MMMN.K...N.KAA.N.K......LL.....JJ.WW A 99 W 1 L 96 N 5 K 99 
+ 5  5  0 .MMM.....N.K.AAN.K...N.KLL....JJWW.. W 1 L 96 M 99 J 99 N 6 
+ 5  5  0 ...MMM...N.KAA.N.K...N.K....LLJJWW.. A 99 N 6 W 1 J 99 M 97 
+ 5  5  0 ..MMM....N.K.AAN.K...N.K...LL.JJ..WW W 1 L 99 M 98 J 99 N 6 
+ 5  5  0 .MMM.....N..AA.N.K...N.K...LLK.JJWW. A 99 K 99 L 99 N 6 M 99 
+ 5  5  0 .MMM.K...N.KAA.N.K...N...LL....JJWW. A 99 K 99 L 97 N 6 M 99 
+ 5  5  0 MMMN.K...N.K.AAN.K........LL..JJWW.. K 99 L 98 W 1 J 99 N 5 
+ 5  5  0 ..MMMK...N.K.AAN.K...N.....LL..JJ.WW K 99 L 99 M 98 N 6 W 1 
+ 5  5  0 MMMN.K...N.K.AAN.K........LL....JJWW K 99 L 98 J 99 N 5 W 1 
+ 5  5  0 MMMN.K...N.K.AAN.K.......LL...JJ..WW L 97 W 1 J 99 N 5 K 99 
+ 5  5  0 .MMM.....N...AAN.K...N.K...LLK.JJ.WW M 99 K 99 L 99 N 6 W 1 
+ 5  5  0 MMM......N...AAN.K...N.K...LLKJJ..WW K 99 J 99 L 99 N 6 W 1 
+ 5  5  0 ...MMM...N...AAN.....N.KLL...KJJ.WWK J 99 K 98 L 96 M 97 N 6 
+ 5  5  0 MMM..K...N.K.AAN.K...N..LL....JJWW.. L 96 N 6 W 1 J 99 K 99 
+ 5  5  0 ..MMM....N...AAN.K...N.K.LL..KJJ.WW. K 99 L 97 M 98 J 99 N 6 
+ 5  5  0 ...MMM...N...AAN.....N.K.LL..KJJ.WWK K 98 J 99 L 97 M 97 N 6 
+ 5  5  0 MMM........K.AA..K...N.K.LLN..JJ.NWW N 2 W 1 L 97 J 99 N 2 
+ 5  5  0 ...MMM...N.K.AAN.K...N.KLL....JJ..WW W 1 J 99 L 96 M 97 N 6 
+ 5  5  0 ..MMM........AAN.K...N.K.LLN.K.JJWW. M 98 K 99 N 3 L 97 N 3 
+ 5  5  0 MMM......N.KAA.N.K...N.KLL......JJWW A 99 L 96 J 99 N 6 W 1 
+ 5  5  0 .MMM.......K..AA.K...N.K...NLLJJ.NWW J 99 A 99 M 99 N 6 W 1 
+ 5  5  0 MMMN.....N.KAA.N.K.....K..LL....JJWW J 99 L 98 A 99 N 5 W 1 
+ 5  5  0 ...MMM...N...AAN.....N.K..LL.KJJ.WWK K 98 M 97 L 98 J 99 N 6 
+ 5  5  0 MMM......N..AA.N.K...N.K.LL..K.JJ.WW K 99 A 99 L 97 N 6 W 1 
+ 5  5  0 ...MMM.....K..AA.K...N.K...NLLJJ.NWW M 97 A 99 N 6 J 99 W 1 
+ 5  5  0 ...MMM...N.K.AAN.K...N.KLL......JJWW J 99 W 1 L 96 M 97 N 6 
+ 5  5  0 MMM......N.KAA.N.K...N.KLL....JJ..WW W 1 J 99 A 99 L 96 N 6 
+ 5  5  0 MMMN.....N.KAA.N.K.....K...LL.JJ..WW W 1 A 99 L 99 J 99 N 5 
+ 5  5  0 ..MMM......KAA...K...N.K...NLLJJ.NWW N 6 W 1 M 98 J 99 A 99 
+ 5  5  0 MMMN.....N.KAA.N.K.....K..LL..JJ..WW L 98 W 1 A 99 J 99 N 5 
+ 5  5  0 .MMM.K.....K..AA.K...N.....NLL.JJNWW M 99 K 99 A 99 N 6 W 1 
+ 5  5  0 MMM......N...AAN.K...N.KLL...K..JJWW K 99 L 96 J 99 N 6 W 1 
+ 5  5  0 ..MMM......K..AA.K...N.K...NLLJJ.NWW M 98 A 99 N 6 J 99 W 1 
+ 5  5  0 ...MMM...N..AA.N.....N.K...LLK.JJWWK M 97 K 98 L 99 A 99 N 6 
+ 5  5  0 ..MMM....N...AAN.K...N.K..LL.K.JJ.WW W 1 K 99 L 98 M 98 N 6 
+ 5  5  0 .MMM.....N..AA.N.K...N.KLL...K.JJWW. A 99 M 99 K 99 L 96 N 6 
+ 5  5  0 ..MMM......KAA.N.K...N.KLL.N...JJWW. M 98 N 5 A 99 L 96 N 5 
+ 5  5  0 .MMM.......K.AAN.K...N.KLL.N..JJ.WW. M 99 N 3 L 96 J 99 N 3 
+ 5  5  0 ...MMM.......AAN.K...N.KLL.N.K.JJWW. K 99 N 5 L 96 M 97 N 5 
+ 5  5  0 ..MMM....N..AA.N.K...N.K..LL.K.JJWW. M 98 A 99 K 99 L 98 N 6 
+ 5  5  0 MMMN.K...N.KAA.N.K......LL....JJ.WW. L 96 N 5 K 99 J 99 A 99 
+ 5  5  0 ...MMM...N..AA.N.K...N.K..LL.K.JJWW. K 99 L 98 M 97 A 99 N 6 
+ 5  5  0 ..MMMK...N.KAA.N.K...N....LL...JJWW. L 98 N 6 M 98 K 99 A 99 
+ 5  5  0 .MMM.....N.KAA.N.K...N.K...LL..JJ.WW M 99 W 1 L 99 A 99 N 6 
+ 5  5  0 ..MMM....N..AA.N.K...N.KLL...K.JJWW. M 98 K 99 A 99 L 96 N 6 
+ 5  5  0 MMMN.....N...AAN.K.....K...LLKJJ..WW K 99 J 99 L 99 N 5 W 1 
+ 5  5  0 ..MMM....N.KAA.N.K...N.K.LL....JJ.WW L 97 W 1 A 99 M 98 N 6 
+ 5  5  0 .MMM.....N.K.AAN.K...N.K.LL.....JJWW L 97 M 99 J 99 N 6 W 1 
+ 5  5  0 ..MMM....N.K.AAN.K...N.K..LL....JJWW M 98 L 98 J 99 N 6 W 1 
+ 5  5  0 MMMN.....N...AAN.K.....K...LLKJJWW.. K 99 W 1 L 99 J 99 N 5 
+ 5  5  0 MMMN.....N...AAN.K.....KLL...K..JJWW J 99 W 1 K 99 L 96 N 5 
+ 5  5  0 .MMM.....N.K.AAN.K...N.K...LL...JJWW L 99 M 99 J 99 N 6 W 1 
+ 5  5  0 ..MMMK...N.KAA.N.K...N.....LL..JJWW. L 99 N 6 M 98 K 99 A 99 
+ 5  5  0 ...MMM...N.KAA.N.K...N.K..LL...JJ.WW A 99 L 98 N 6 M 97 W 1 
+ 5  5  0 .MMM.......KAA...K...N.K...NLLJJ.NWW M 99 A 99 N 6 J 99 W 1 
+ 5  5  0 MMMN.....N...AAN.......K..LL.KJJWW.K W 1 J 99 K 98 L 98 N 5 
+ 5  5  0 ..MMM....N...AAN.....N.K...LLKJJ.WWK M 98 K 98 L 99 J 99 N 6 
+ 5  5  0 .MMM.K...N.KAA.N.K...N..LL.....JJWW. M 99 L 96 K 99 A 99 N 6 
+ 5  5  0 ..MMMK.....K...AAK...N.....NLL.JJNWW K 99 M 98 A 98 N 6 W 1 
+ 5  5  0 ...MMM...N..AA.N.....N.K..LL.K.JJWWK K 98 L 98 M 97 A 99 N 6 
+ 5  5  0 ..MMMK.....K..AA.K...N.....NLL.JJNWW M 98 K 99 A 99 N 6 W 1 
+ 5  5  0 MMMN.....N...AAN.......K...LLKJJWW.K W 1 J 99 K 98 L 99 N 5 
+ 5  5  0 MMM..K...N.K.AAN.K...N....LL..JJWW.. L 98 N 6 W 1 J 99 K 99 
+ 5  5  0 MMMN.....N...AAN.K.....K.LL..KJJ..WW K 99 W 1 L 97 J 99 N 5 
+ 5  5  0 MMM..K...N.KAA.N.K...N..LL....JJ.WW. J 99 L 96 K 99 A 99 N 6 
+ 5  5  0 .MMM.....N...AAN.....N.K..LL.KJJ.WWK K 98 M 99 L 98 J 99 N 6 
+ 5  5  0 .MMM.......KAA.N.K...N.KLL.N...JJWW. M 99 N 5 A 99 L 96 N 5 
+ 5  5  0 ..MMMK...N.K.AAN.K...N....LL...JJ.WW M 98 L 98 N 6 W 1 K 99 
+ 5  5  0 ...MMM...N..AA.N.....N.K.LL..K.JJWWK M 97 K 98 A 99 L 97 N 6 
+ 5  5  0 ...MMM...N...AAN.K...N.K..LL.KJJ.WW. K 99 M 97 L 98 J 99 N 6 
+ 5  5  0 MMM..K...N.KAA.N.K...N.....LL.JJ.WW. L 99 J 99 K 99 A 99 N 6 
+ 5  5  0 MMMN.....N..AA.N.K.....K...LLKJJ.WW. A 99 K 99 L 99 J 99 N 5 
+ 5  5  0 MMMN.K...N.K.AAN.K.......LL...JJWW.. K 99 W 1 L 97 J 99 N 5 
+ 5  5  0 MMM..K...N.K.AAN.K...N.....LL.JJWW.. L 99 N 6 W 1 J 99 K 99 
+ 5  5  0 MMMN.K...N.K.AAN.K........LL..JJ..WW W 1 L 98 J 99 N 5 K 99 
+ 5  5  0 MMM..K...N.K.AAN.K...N...LL...JJ..WW K 99 J 99 L 97 N 6 W 1 
+ 5  5  0 ...MMM.....KAA...K...N.K...NLLJJ.NWW J 99 A 99 N 6 M 97 W 1 
+ 5  5  0 MMM......N..AA.N.....N.KLL...KJJ.WWK K 98 J 99 A 99 L 96 N 6 
+ 5  5  0 ...MMM...N.K.AAN.K...N.K..LL....JJWW M 97 L 98 J 99 N 6 W 1 
+ 5  5  0 .MMM.K.....KAA.N.K...N.....NLLJJ..WW M 99 J 99 W 1 K 99 A 99 
+ 5  5  0 ...MMM...N.K.AAN.K...N.K...LL...JJWW J 99 W 1 L 99 M 97 N 6 
+ 5  5  0 MMM..K...N.K.AAN.K...N....LL....JJWW K 99 L 98 J 99 N 6 W 1 
+ 5  5  0 ..MMMK.....K.AAN.K...N..LL.N...JJWW. M 98 N 3 L 96 N 3 K 99 
+ 5  5  0 .MMM.........AAN.....N.KLL.N.K.JJWWK N 5 K 98 M 99 L 96 N 5 
+ 5  5  0 MMM..K...N.KAA.N.K...N....LL..JJ.WW. K 99 A 99 L 98 J 99 N 6 
+ 5  5  0 MMMN.....N.KAA.N.K.....K.LL.....JJWW J 99 L 97 A 99 N 5 W 1 
+ 5  5  0 MMM......N.KAA.N.K...N.K..LL....JJWW L 98 J 99 W 1 A 99 N 6 
+ 5  5  0 ..MMMK.....KAA.N.K...N.....NLL..JJWW J 99 K 99 M 98 W 1 A 99 
+ 5  5  0 MMMN.....N.KAA.N.K.....K.LL...JJWW.. L 97 N 5 W 1 J 99 A 99 
+ 5  5  0 .MMM.K.....KAA.N.K...N.....NLLJJWW.. K 99 M 99 W 1 J 99 A 99 
+ 5  5  0 .MMM.K.....KAA...K...N.....NLL.JJNWW M 99 N 6 W 1 K 99 A 99 
+ 5  5  0 MMM..K.....KAA.N.K...N...LLN...JJWW. N 5 A 99 L 97 K 99 N 5 
+ 5  5  0 ...MMM...N.KAA.N.K...N.K..LL..JJ.WW. M 97 A 99 L 98 J 99 N 6 
+ 5  5  0 MMMN.....N..AA.N.......K..LL.KJJ.WWK K 98 L 98 A 99 J 99 N 5 
+ 5  5  0 MMMN.....N..AA.N.K.....K.LL..KJJ.WW. J 99 A 99 K 99 L 97 N 5 
+ 5  5  0 MMM......N..AA.N.....N.K.LL..KJJ.WWK J 99 K 98 A 99 L 97 N 6 
+ 5  5  0 .MMM.....N.K.AAN.K...N.K.LL...JJWW.. W 1 J 99 L 97 N 6 M 99 
+ 5  5  0 .MMM.....N...AAN.K...N.K.LL..KJJ.WW. K 99 J 99 L 97 N 6 M 99 
+ 5  5  0 MMM..K...N.KAA.N.K...N....LL...JJ.WW L 98 N 6 W 1 K 99 A 99 
+ 5  5  0 .MMM.K...N.K.AAN.K...N..LL....JJ.WW. K 99 L 96 M 99 J 99 N 6 
+ 5  5  0 ..MMMK...N.K.AAN.K...N......LLJJ..WW J 99 M 98 N 6 W 1 K 99 
+ 5  5  0 .MMM.....N.KAA.N.K...N.KLL....JJ.WW. M 99 J 99 A 99 L 96 N 6 
+ 5  5  0 .MMM.....N..AA.N.....N.KLL...K.JJWWK K 98 M 99 A 99 L 96 N 6 
+ 5  5  0 ..MMM....N.KAA.N.K...N.K..LL...JJ.WW L 98 W 1 A 99 M 98 N 6 
+ 5  5  0 .MMM.....N.K.AAN.K...N.K..LL..JJ..WW J 99 M 99 L 98 N 6 W 1 
+ 5  5  0 .MMM.....N..AA.N.....N.K..LL.K.JJWWK M 99 A 99 K 98 L 98 N 6 
+ 5  5  0 .MMM.....N..AA.N.....N.K.LL..K.JJWWK A 99 K 98 L 97 N 6 M 99 
+ 5  5  0 ..MMM....N.KAA.N.K...N.K..LL..JJ.WW. J 99 A 99 L 98 M 98 N 6 
+ 5  5  0 ..MMM....N...AAN.K...N.KLL...K.JJ.WW K 99 W 1 M 98 L 96 N 6 
+ 5  5  0 MMM..K.....K...AAK...N.....NLLJJ.NWW J 99 K 99 A 98 N 6 W 1 
+ 5  5  0 MMM......N...AAN.K...N.K.LL..KJJWW.. W 1 J 99 K 99 L 97 N 6 
+ 5  5  0 ..MMM....N..AA.N.....N.K...LLK.JJWWK M 98 K 98 L 99 A 99 N 6 
+ 5  5  0 ..MMM....N.KAA.N.K...N.K....LLJJ..WW W 1 N 6 M 98 J 99 A 99 
+ 5  5  0 MMM......N..AA.N.K...N.K..LL.KJJ.WW. K 99 A 99 L 98 J 99 N 6 
+ 5  5  0 ..MMM....N.K.AAN.K...N.K..LL..JJ..WW J 99 L 98 M 98 N 6 W 1 
+ 5  5  0 MMM.........AA.N.K...N.KLL.N.K.JJWW. K 99 N 5 A 99 L 96 N 5 
+ 5  5  0 MMM..K...N.K.AAN.K...N..LL....JJ..WW K 99 J 99 W 1 L 96 N 6 
+ 5  5  0 MMMN.....N...AAN.K.....K..LL.K..JJWW J 99 K 99 L 98 N 5 W 1 
+ 5  5  0 MMM......N...AAN.K...N.K...LLK..JJWW J 99 K 99 L 99 N 6 W 1 
+ 5  5  0 .MMM.......K.AAN.K...N.K.LLN..JJ.WW. J 99 M 99 N 3 L 97 N 3 
+ 5  5  0 MMM......N.KAA.N.K...N.K...LL.JJWW.. A 99 W 1 L 99 J 99 N 6 
+ 5  5  0 ...MMM...N.K.AAN.K...N.K...LL.JJWW.. L 99 N 6 W 1 J 99 M 97 
+ 5  5  0 .MMM.......K.AA..K...N.KLL.N...JJNWW M 99 N 4 W 1 L 96 N 4 
+ 5  5  0 MMMN.K...N.KAA.N.K.......LL...JJ.WW. A 99 J 99 K 99 L 97 N 5 
+ 5  5  0 ..MMMK...N.K.AAN.K...N......LLJJWW.. W 1 J 99 K 99 M 98 N 6 
+ 5  5  0 MMM......N...AAN.....N.K...LLKJJWW.K K 98 W 1 L 99 J 99 N 6 
+ 5  5  0 ...MMM...N..AA.N.K...N.KLL...K.JJWW. M 97 K 99 A 99 L 96 N 6 
+ 5  5  0 ..MMM....N...AAN.....N.K..LL.KJJ.WWK J 99 M 98 K 98 L 98 N 6 
+ 5  5  0 MMM......N.KAA.N.K...N.K.LL...JJ..WW A 99 J 99 L 97 N 6 W 1 
+ 5  5  0 MMM..K...N.K.AAN.K...N..LL......JJWW L 96 N 6 J 99 W 1 K 99 
+ 5  5  0 MMMN.....N.KAA.N.K.....K...LL.JJWW.. L 99 N 5 W 1 J 99 A 99 
+ 5  5  0 ..MMM....N...AAN.K...N.K...LLK.JJ.WW W 1 K 99 L 99 M 98 N 6 
+ 5  5  0 .MMM.......K.AAN.K...N.K.LLN...JJ.WW N 5 W 1 L 97 N 5 M 99 
+ 5  5  0 MMM........K.AAN.K...N.KLL.N..JJ..WW W 1 N 3 L 96 J 99 N 3 
+ 5  5  0 ...MMM...N.K.AAN.K...N.K.LL...JJ..WW M 97 J 99 L 97 N 6 W 1 
+ 5  5  0 ..MMM....N.KAA.N.K...N.K.LL...JJ.WW. J 99 L 97 A 99 M 98 N 6 
+ 5  5  0 MMM..........AAN.K...N.K.LLN.KJJ.WW. J 99 K 99 N 3 L 97 N 3 
+ 5  5  0 ...MMM.....K.AAN.K...N.KLL.N...JJ.WW M 97 N 5 W 1 L 96 N 5 
+ 5  5  0 MMMN.....N..AA.N.K.....KLL...KJJ.WW. J 99 K 99 A 99 L 96 N 5 
+ 5  5  0 .MMM.....N.KAA.N.K...N.KLL.....JJ.WW L 96 N 6 M 99 W 1 A 99 
+ 5  5  0 ..MMM....N.KAA.N.K...N.K...LL..JJ.WW W 1 A 99 L 99 M 98 N 6 
+ 5  5  0 MMMN.....N..AA.N.K.....K..LL.K.JJ.WW A 99 K 99 L 98 N 5 W 1 
+ 5  5  0 MMM........K..AA.K...N.KLL.N...JJNWW A 99 N 4 W 1 L 96 N 4 
+ 5  5  0 MMMN.....N.KAA.N.K.....KLL......JJWW A 99 J 99 L 96 N 5 W 1 
+ 5  5  0 ...MMM...N..AA.N.K...N.K.LL..K.JJWW. K 99 A 99 L 97 M 97 N 6 
+ 5  5  0 .MMM.....N...AAN.K...N.K..LL.K.JJ.WW K 99 M 99 L 98 N 6 W 1 
+ 5  5  0 MMM......N..AA.N.K...N.K..LL.K.JJ.WW A 99 K 99 L 98 N 6 W 1 
+ 5  5  0 ..MMM......K.AAN.K...N.K.LLN...JJ.WW W 1 M 98 N 3 L 97 N 3 
+ 5  5  0 .MMM.....N..AA.N.K...N.K..LL.K.JJWW. K 99 L 98 A 99 N 6 M 99 
+ 5  5  0 MMM........K.AAN.K...N.KLL.N....JJWW J 99 N 5 W 1 L 96 N 5 
+ 5  5  0 MMMN.K...N.KAA.N.K.........LL..JJ.WW A 99 K 99 L 99 N 5 W 1 
+ 5  5  0 .MMM.K.....K.AA..K...N.....NLLJJ.NWW J 99 K 99 M 99 N 6 W 1 
+ 5  5  0 MMMN.K...N.K.AAN.K.........LL...JJWW K 99 J 99 L 99 N 5 W 1 
+ 5  5  0 ...MMM...N.KAA.N.K...N.K....LLJJ..WW A 99 N 6 J 99 M 97 W 1 
+ 5  5  0 ..MMMK...N.K.AAN.K...N...LL...JJ.WW. L 97 J 99 K 99 M 98 N 6 
+ 5  5  0 MMM......N.KAA.N.K...N.K.LL...JJWW.. L 97 A 99 W 1 J 99 N 6 
+ 5  5  0 MMM......N...AAN.K...N.K...LLKJJWW.. W 1 J 99 K 99 L 99 N 6 
+ 5  5  0 MMM......N...AAN.....N.K..LL.KJJWW.K K 98 L 98 W 1 J 99 N 6 
+ 5  5  0 MMMN.....N...AAN.K.....K..LL.KJJWW.. K 99 L 98 W 1 J 99 N 5 
+ 5  5  0 MMMN.....N.KAA.N.K.....K..LL..JJWW.. L 98 N 5 W 1 J 99 A 99 
+ 5  5  0 ..MMMK...N.KAA.N.K...N......LL.JJ.WW K 99 W 1 A 99 M 98 N 6 
+ 5  5  0 MMMN.....N...AAN.K.....KLL...KJJ..WW J 99 W 1 K 99 L 96 N 5 
+ 5  5  0 MMM........KAA...K...N.KLL.N...JJNWW N 2 W 1 A 99 L 96 N 2 
+ 5  5  0 ...MMM...N...AAN.K...N.KLL...K.JJ.WW W 1 M 97 K 99 L 96 N 6 
+ 5  5  0 .MMM.....N.K.AAN.K...N.KLL......JJWW L 96 M 99 J 99 N 6 W 1 
+ 5  5  0 MMMN.K...N.K.AAN.K......LL....JJWW.. W 1 L 96 J 99 N 5 K 99 
+ 5  5  0 .MMM.....N.KAA.N.K...N.K.LL...JJ.WW. A 99 J 99 L 97 N 6 M 99 
+ 5  5  0 MMM..........AAN.K...N.K.LLN.K.JJ.WW N 3 W 1 K 99 L 97 N 3 
+ 5  5  0 .MMM.....N...AAN.K...N.K.LL..K.JJ.WW M 99 K 99 L 97 N 6 W 1 
+ 5  5  0 ..MMMK...N.KAA.N.K...N...LL....JJWW. L 97 N 6 M 98 K 99 A 99 
+ 5  5  0 .MMM.....N.K.AAN.K...N.K.LL...JJ..WW L 97 M 99 N 6 J 99 W 1 
+ 5  5  0 ..MMMK...N.K.AAN.K...N...LL....JJ.WW L 97 M 98 N 6 W 1 K 99 
+ 5  5  0 ...MMM...N.KAA.N.K...N.K.LL....JJ.WW M 97 A 99 L 97 N 6 W 1 
+ 5  5  0 ...MMM...N.K.AAN.K...N.K...LL.JJ..WW L 99 N 6 J 99 M 97 W 1 
+ 5  5  0 MMM..K...N.KAA.N.K...N...LL....JJ.WW L 97 N 6 W 1 K 99 A 99 
+ 5  5  0 MMMN.....N..AA.N.K.....KLL...K.JJ.WW A 99 W 1 K 99 L 96 N 5 
+ 5  5  0 MMM......N...AAN.K...N.K.LL..K..JJWW K 99 L 97 J 99 N 6 W 1 
+ 5  5  0 MMM......N.KAA.N.K...N.K...LL...JJWW L 99 J 99 W 1 A 99 N 6 
+ 5  5  0 ..MMM....N..AA.N.....N.K..LL.K.JJWWK K 98 A 99 L 98 M 98 N 6 
+ 5  5  0 .MMM.....N...AAN.K...N.K...LLKJJ.WW. K 99 J 99 L 99 N 6 M 99 
+ 5  5  0 ..MMM........AAN.....N.KLL.N.K.JJWWK N 5 K 98 M 98 L 96 N 5 
+ 5  5  0 MMM......N...AAN.....N.K.LL..KJJWW.K W 1 J 99 K 98 L 97 N 6 
+ 5  5  0 MMM..........AAN.....N.KLL.N.KJJ.WWK N 5 K 98 L 96 J 99 N 5 
+ 5  5  0 MMM......N..AA.N.....N.K...LLKJJ.WWK J 99 K 98 L 99 A 99 N 6 
+ 5  5  0 .MMM.........AAN.....N.K.LLN.K.JJWWK K 98 M 99 N 3 L 97 N 3 
+ 5  5  0 .MMM.....N.KAA.N.K...N.K.LL....JJ.WW M 99 A 99 L 97 N 6 W 1 
+ 5  5  0 .MMM.......KAA.N.K...N.K.LLN...JJWW. A 99 M 99 N 3 L 97 N 3 
+ 5  5  0 MMM........KAA...K...N.K.LLN...JJNWW N 4 A 99 L 97 N 4 W 1 
+ 5  5  0 ..MMM....N..AA.N.....N.KLL...K.JJWWK A 99 K 98 M 98 L 96 N 6 
+ 5  5  0 ..MMM......K.AAN.K...N.K.LLN..JJ.WW. M 98 N 3 L 97 J 99 N 3 
+ 5  5  0 ...MMM.......AAN.....N.KLL.N.K.JJWWK M 97 N 5 K 98 L 96 N 5 
+ 5  5  0 ...MMM.....K.AAN.K...N.KLL.N..JJ.WW. N 5 J 99 L 96 M 97 N 5 
+ 5  5  0 MMMN.K...N.KAA.N.K..........LLJJ..WW N 5 J 99 W 1 K 99 A 99 
+ 5  5  0 ...MMM...N.KAA.N.K...N.K...LL.JJ.WW. J 99 A 99 L 99 M 97 N 6 
+ 5  5  0 ...MMM...N...AAN.K...N.KLL...KJJ.WW. J 99 M 97 K 99 L 96 N 6 
+ 5  5  0 MMM......N...AAN.K...N.K..LL.KJJ..WW W 1 K 99 L 98 J 99 N 6 
+ 5  5  0 MMM..K.....K.AAN.K...N..LL.N...JJ.WW N 3 W 1 L 96 N 3 K 99 
+ 5  5  0 MMMN.....N..AA.N.K.....K.LL..K.JJ.WW W 1 A 99 K 99 L 97 N 5 
+ 5  5  0 ...MMM.....K.AA..K...N.K.LLN...JJNWW M 97 N 4 L 97 N 4 W 1 
+ 5  5  0 MMMN.....N...AAN.K.....KLL...KJJWW.. W 1 K 99 L 96 J 99 N 5 
+ 5  5  0 ...MMM...N...AAN.K...N.K...LLK.JJ.WW M 97 K 99 L 99 N 6 W 1 
+ 5  5  0 MMM..........AA..K...N.KLL.N.K.JJNWW K 99 N 4 W 1 L 96 N 4 
+ 5  5  0 MMM........KAA.N.K...N.K.LLN..JJ.WW. N 5 J 99 A 99 L 97 N 5 
+ 5  5  0 ..MMMK...N.K.AAN.K...N..LL....JJ.WW. K 99 J 99 M 98 L 96 N 6 
+ 5  5  0 MMM........K.AAN.K...N.K.LLN..JJ..WW W 1 N 3 L 97 J 99 N 3 
+ 5  5  0 MMMN.....N...AAN.......K.LL..KJJWW.K W 1 K 98 L 97 J 99 N 5 
+ 5  5  0 ..MMM....N.K.AAN.K...N.K.LL...JJWW.. W 1 L 97 M 98 J 99 N 6 
+ 5  5  0 .MMM.....N...AAN.....N.KLL...KJJ.WWK K 98 L 96 M 99 J 99 N 6 
+ 5  5  0 ..MMM....N.K.AAN.K...N.KLL....JJ..WW W 1 J 99 M 98 L 96 N 6 
+ 5  5  0 .MMM.K...N.K.AAN.K...N....LL..JJ.WW. L 98 K 99 M 99 J 99 N 6 
+ 5  5  0 MMM.........AA.N.....N.KLL.N.K.JJWWK K 98 N 5 A 99 L 96 N 5 
+ 5  5  0 MMM........KAA.N.K...N.KLL.N...JJ.WW N 3 W 1 A 99 L 96 N 3 
+ 5  5  0 MMM......N..AA.N.K...N.K.LL..KJJ.WW. J 99 K 99 A 99 L 97 N 6 
+ 5  5  0 MMMN.....N.KAA.N.K.....K.LL...JJ..WW W 1 L 97 A 99 J 99 N 5 
+ 5  5  0 MMM......N..AA.N.K...N.K...LLK.JJ.WW K 99 W 1 L 99 A 99 N 6 
+ 5  5  0 ..MMMK...N.K.AAN.K...N.....LL.JJ.WW. M 98 J 99 L 99 K 99 N 6 
+ 5  5  0 MMM..K.....K.AA..K...N...LLN...JJNWW N 2 W 1 K 99 L 97 N 2 
+ 5  5  0 MMM..K...N.K.AAN.K...N.....LL.JJ..WW L 99 J 99 N 6 W 1 K 99 
+ 5  5  0 .MMM.....N.KAA.N.K...N.K....LL..JJWW J 99 N 6 M 99 W 1 A 99 
+ 5  5  0 MMM......N.KAA.N.K...N.KLL....JJWW.. L 96 A 99 W 1 J 99 N 6 
+ 5  5  0 .MMM.....N...AAN.....N.K.LL..KJJ.WWK M 99 J 99 K 98 L 97 N 6 
+ 5  5  0 ...MMM...N.KAA.N.K...N.KLL....JJ.WW. L 96 N 6 M 97 J 99 A 99 
+ 5  5  0 .MMM.....N.KAA.N.K...N.K...LL.JJ.WW. L 99 N 6 M 99 J 99 A 99 
+ 5  5  0 .MMM.........AAN.K...N.KLL.N.K.JJWW. M 99 N 5 K 99 L 96 N 5 
+ 5  5  0 ...MMM...N.K.AAN.K...N.K..LL..JJWW.. L 98 N 6 W 1 J 99 M 97 
+ 5  5  0 ..MMM......K.AA..K...N.KLL.N...JJNWW M 98 N 4 W 1 L 96 N 4 
+ 5  5  0 ..MMM....N...AAN.K...N.K..LL.KJJ.WW. J 99 K 99 L 98 M 98 N 6 
+ 5  5  0 MMMN.K...N.KAA.N.K........LL..JJ.WW. L 98 N 5 K 99 J 99 A 99 
+ 5  5  0 MMM........K.AAN.K...N.K.LLN..JJWW.. W 1 N 3 L 97 J 99 N 3 
+ 5  5  0 .MMM.....N.KAA.N.K...N.K....LLJJWW.. N 6 M 99 W 1 J 99 A 99 
+ 5  5  0 MMM..K...N.KAA.N.K...N......LL..JJWW N 6 J 99 W 1 K 99 A 99 
+ 5  5  0 .MMM.K...N.K.AAN.K...N..LL.....JJ.WW L 96 M 99 N 6 W 1 K 99 
+ 5  5  0 MMM..K...N.KAA.N.K...N..LL.....JJ.WW K 99 W 1 A 99 L 96 N 6 
+ 5  5  0 MMM..K.....K.AAN.K...N..LL.N..JJ.WW. J 99 N 3 L 96 N 3 K 99 
+ 5  5  0 ..MMM....N.K.AAN.K...N.K.LL.....JJWW J 99 L 97 M 98 N 6 W 1 
+ 5  5  0 MMM......N...AAN.K...N.KLL...KJJWW.. W 1 J 99 K 99 L 96 N 6 
+ 5  5  0 ...MMM...N...AAN.K...N.K.LL..K.JJ.WW M 97 K 99 L 97 N 6 W 1 
+ 5  5  0 ..MMM....N..AA.N.K...N.K.LL..K.JJWW. K 99 L 97 A 99 M 98 N 6 
+ 5  5  0 ...MMM.....KAA.N.K...N.K.LLN...JJWW. A 99 M 97 N 3 L 97 N 3 
+ 5  5  0 MMMN.....N..AA.N.......K...LLKJJ.WWK A 99 J 99 K 98 L 99 N 5 
+ 5  5  0 MMM..K...N.K.AAN.K...N...LL.....JJWW K 99 L 97 J 99 N 6 W 1 
+ 5  5  0 ..MMM....N...AAN.K...N.KLL...KJJ.WW. K 99 J 99 M 98 L 96 N 6 
+ 5  5  0 ..MMM........AAN.....N.K.LLN.K.JJWWK N 5 M 98 K 98 L 97 N 5 
+ 5  5  0 .MMM.K...N.K.AAN.K...N.....LL.JJ.WW. M 99 J 99 L 99 K 99 N 6 
+ 5  5  0 MMM..K.....KAA...K...N.....NLLJJ.NWW J 99 N 6 W 1 K 99 A 99 
+ 5  5  0 MMMN.....N...AAN.K.....K.LL..K..JJWW K 99 J 99 L 97 N 5 W 1 
+ 5  5  0 MMM......N...AAN.....N.KLL...KJJWW.K W 1 K 98 L 96 J 99 N 6 
+ 5  5  0 ...MMM...N...AAN.K...N.K...LLKJJ.WW. K 99 J 99 L 99 M 97 N 6 
+ 5  5  0 ...MMM...N.K.AAN.K...N.KLL....JJWW.. M 97 L 96 W 1 J 99 N 6 
+ 5  5  0 .MMM.K.....K.AAN.K...N...LLN...JJWW. K 99 M 99 N 3 L 97 N 3 
+ 6  6  0 ...MMM...N...AAN.K...N.K..LL.KJJWW.. M 97 W 1 K 99 L 98 J 99 N 6 
+ 6  6  0 .MMM.....N...AAN.K...N.K..LL.KJJ..WW W 1 K 99 M 99 L 98 J 99 N 6 
+ 6  6  0 MMMN.K...N.KAA.N.K.......LL...JJ..WW J 99 L 97 N 5 W 1 K 99 A 99 
+ 6  6  0 MMM......N..AA.N.K...N.K..LL.KJJ..WW K 99 W 1 A 99 L 98 J 99 N 6 
+ 6  6  0 ..MMM....N.KAA.N.K...N.K..LL..JJ..WW M 98 W 1 A 99 L 98 J 99 N 6 
+ 6  6  0 MMM......N..AA.N.K...N.K...LLKJJWW.. W 1 J 99 K 99 L 99 A 99 N 6 
+ 6  6  0 MMM..K.....K.AAN.K...N..LL.N..JJ..WW N 3 J 99 W 1 L 96 N 3 K 99 
+ 6  6  0 .MMM.....N..AA.N.....N.K...LLKJJ.WWK A 99 K 98 J 99 L 99 N 6 M 99 
+ 6  6  0 ..MMM....N...AAN.K...N.KLL...KJJ..WW M 98 W 1 J 99 K 99 L 96 N 6 
+ 6  6  0 .MMM.....N.KAA.N.K...N.K...LL.JJWW.. A 99 W 1 J 99 L 99 N 6 M 99 
+ 6  6  0 .MMM.....N...AAN.K...N.K...LLKJJWW.. K 99 W 1 J 99 L 99 N 6 M 99 
+ 6  6  0 ..MMM....N...AAN.K...N.K...LLK..JJWW K 99 J 99 L 99 M 98 N 6 W 1 
+ 6  6  0 ..MMM....N.KAA.N.K...N.K.LL...JJWW.. L 97 W 1 N 6 M 98 J 99 A 99 
+ 6  6  0 .MMM.........AAN.....N.K.LLN.KJJ.WWK M 99 J 99 K 98 N 3 L 97 N 3 
+ 6  6  0 ...MMM...N...AAN.....N.K...LLKJJWW.K W 1 J 99 K 98 L 99 M 97 N 6 
+ 6  6  0 MMM..........AAN.....N.K.LLN.KJJWW.K W 1 J 99 K 98 N 3 L 97 N 3 
+ 6  6  0 MMM......N..AA.N.K...N.KLL...KJJWW.. W 1 J 99 K 99 A 99 L 96 N 6 
+ 6  6  0 ...MMM...N..AA.N.K...N.KLL...KJJ.WW. M 97 J 99 K 99 A 99 L 96 N 6 
+ 6  6  0 ..MMM....N...AAN.....N.K..LL.KJJWW.K K 98 L 98 W 1 M 98 J 99 N 6 
+ 6  6  0 ..MMMK...N.K.AAN.K...N..LL....JJWW.. K 99 L 96 W 1 M 98 J 99 N 6 
+ 6  6  0 ..MMM....N..AA.N.K...N.K...LLK.JJ.WW W 1 M 98 K 99 L 99 A 99 N 6 
+ 6  6  0 .MMM.K...N.K.AAN.K...N..LL......JJWW L 96 M 99 N 6 J 99 W 1 K 99 
+ 6  6  0 ..MMM....N...AAN.K...N.KLL...KJJWW.. K 99 L 96 W 1 M 98 J 99 N 6 
+ 6  6  0 MMM........KAA.N.K...N.K.LLN..JJ..WW J 99 N 5 A 99 L 97 N 5 W 1 
+ 6  6  0 MMM..K.....KAA...K...N...LLN...JJNWW N 2 L 97 N 2 W 1 K 99 A 99 
+ 6  6  0 .MMM.....N...AAN.....N.KLL...KJJWW.K K 98 W 1 L 96 M 99 J 99 N 6 
+ 6  6  0 ...MMM.......AAN.....N.KLL.N.KJJ.WWK N 5 J 99 K 98 L 96 M 97 N 5 
+ 6  6  0 ...MMM...N...AAN.K...N.K...LLKJJ..WW M 97 K 99 J 99 L 99 N 6 W 1 
+ 6  6  0 ...MMM.....K..AA.K...N.KLL.N...JJNWW A 99 M 97 N 4 W 1 L 96 N 4 
+ 6  6  0 ..MMMK.....K.AAN.K...N...LLN...JJ.WW W 1 K 99 M 98 N 3 L 97 N 3 
+ 6  6  0 ...MMM.....K.AA..K...N.K.LLN..JJ.NWW M 97 N 2 W 1 L 97 J 99 N 2 
+ 6  6  0 ..MMM........AAN.K...N.K.LLN.KJJ.WW. N 5 K 99 L 97 M 98 J 99 N 5 
+ 6  6  0 ..MMM....N..AA.N.K...N.K.LL..KJJ.WW. A 99 K 99 L 97 M 98 J 99 N 6 
+ 6  6  0 .MMM.........AAN.K...N.K.LLN.K.JJ.WW W 1 M 99 K 99 N 3 L 97 N 3 
+ 6  6  0 ..MMMK.....K.AAN.K...N...LLN..JJ.WW. J 99 K 99 M 98 N 3 L 97 N 3 
+ 6  6  0 ...MMM.....K.AAN.K...N.KLL.N..JJ..WW N 5 W 1 J 99 L 96 M 97 N 5 
+ 6  6  0 .MMM.......K.AAN.K...N.KLL.N....JJWW J 99 M 99 N 5 W 1 L 96 N 5 
+ 6  6  0 MMM........K..AA.K...N.KLL.N..JJ.NWW A 99 J 99 N 4 W 1 L 96 N 4 
+ 6  6  0 ..MMM....N.KAA.N.K...N.K...LL...JJWW L 99 M 98 J 99 W 1 A 99 N 6 
+ 6  6  0 MMM........KAA.N.K...N.KLL.N....JJWW N 5 A 99 L 96 J 99 N 5 W 1 
+ 6  6  0 ...MMM...N..AA.N.K...N.K.LL..K.JJ.WW M 97 K 99 A 99 L 97 N 6 W 1 
+ 6  6  0 MMMN.....N..AA.N.K.....K..LL.K..JJWW K 99 J 99 L 98 A 99 N 5 W 1 
+ 6  6  0 MMM..K...N.KAA.N.K...N..LL......JJWW K 99 A 99 L 96 J 99 N 6 W 1 
+ 6  6  0 .MMM.....N.KAA.N.K...N.KLL......JJWW M 99 A 99 L 96 J 99 N 6 W 1 
+ 6  6  0 MMMN.....N..AA.N.K.....KLL...KJJ..WW K 99 L 96 W 1 A 99 J 99 N 5 
+ 6  6  0 .MMM.....N..AA.N.K...N.K..LL.K.JJ.WW K 99 A 99 M 99 L 98 N 6 W 1 
+ 6  6  0 MMM.........AA...K...N.KLL.N.K.JJNWW N 4 W 1 K 99 A 99 L 96 N 4 
+ 6  6  0 MMM..........AAN.K...N.K.LLN.K..JJWW K 99 J 99 N 3 L 97 N 3 W 1 
+ 6  6  0 .MMM.K.....K.AA..K...N...LLN...JJNWW N 4 L 97 M 99 N 4 W 1 K 99 
+ 6  6  0 ..MMM......K.AAN.K...N.K.LLN....JJWW M 98 J 99 N 3 L 97 N 3 W 1 
+ 6  6  0 ..MMM......KAA...K...N.KLL.N...JJNWW N 4 W 1 L 96 A 99 M 98 N 4 
+ 6  6  0 .MMM.K.....K...AAK...N.....NLLJJ.NWW J 99 M 99 K 99 A 98 N 6 W 1 
+ 6  6  0 MMMN.K...N.KAA.N.K.........LL...JJWW L 99 J 99 N 5 W 1 K 99 A 99 
+ 6  6  0 ...MMM.....KAA.N.K...N.K.LLN...JJ.WW A 99 M 97 N 3 L 97 N 3 W 1 
+ 6  6  0 ...MMM...N.KAA.N.K...N.K...LL.JJ..WW J 99 M 97 W 1 L 99 A 99 N 6 
+ 6  6  0 MMM..K.....K.AAN.K...N...LLN....JJWW K 99 J 99 N 3 L 97 N 3 W 1 
+ 6  6  0 ...MMM...N...AAN.K...N.KLL...K..JJWW K 99 J 99 W 1 L 96 M 97 N 6 
+ 6  6  0 MMM..K.....K.AAN.K...N..LL.N..JJWW.. K 99 W 1 N 3 L 96 J 99 N 3 
+ 6  6  0 .MMM.....N.KAA.N.K...N.K.LL...JJ..WW L 97 J 99 N 6 M 99 W 1 A 99 
+ 6  6  0 MMM..........AAN.K...N.KLL.N.KJJWW.. K 99 W 1 N 3 L 96 J 99 N 3 
+ 6  6  0 ...MMM.....K.AAN.K...N.KLL.N..JJWW.. M 97 W 1 N 3 L 96 J 99 N 3 
+ 6  6  0 ...MMM.......AAN.K...N.K.LLN.K.JJ.WW W 1 M 97 K 99 N 3 L 97 N 3 
+ 6  6  0 MMM.........AA.N.K...N.K.LLN.K.JJ.WW K 99 N 5 A 99 L 97 N 5 W 1 
+ 6  6  0 .MMM........AA.N.K...N.KLL.N.K.JJWW. N 5 A 99 M 99 K 99 L 96 N 5 
+ 6  6  0 ..MMM.......AA.N.....N.KLL.N.K.JJWWK K 98 M 98 N 5 A 99 L 96 N 5 
+ 6  6  0 MMM......N..AA.N.K...N.KLL...K..JJWW K 99 A 99 L 96 J 99 N 6 W 1 
+ 6  6  0 .MMM.....N...AAN.K...N.K.LL..K..JJWW K 99 L 97 M 99 J 99 N 6 W 1 
+ 6  6  0 ..MMMK...N.KAA.N.K...N...LL....JJ.WW K 99 L 97 W 1 A 99 M 98 N 6 
+ 6  6  0 MMMN.....N..AA.N.K.....K..LL.KJJWW.. W 1 J 99 K 99 A 99 L 98 N 5 
+ 6  6  0 MMM........K...AAK...N.K.LLN..JJ.NWW A 98 N 2 W 1 L 97 J 99 N 2 
+ 6  6  0 ..MMM........AAN.....N.KLL.N.KJJ.WWK K 98 M 98 N 3 L 96 J 99 N 3 
+ 6  6  0 ..MMM....N...AAN.....N.K.LL..KJJWW.K W 1 K 98 L 97 M 98 J 99 N 6 
+ 6  6  0 .MMM.....N..AA.N.K...N.K...LLKJJ.WW. M 99 J 99 K 99 L 99 A 99 N 6 
+ 6  6  0 ..MMM....N..AA.N.....N.K...LLKJJ.WWK K 98 L 99 N 6 M 98 J 99 A 99 
+ 6  6  0 .MMM.......KAA...K...N.K.LLN...JJNWW A 99 M 99 N 4 L 97 N 4 W 1 
+ 6  6  0 .MMM.K.....KAA.N.K...N...LLN...JJWW. N 5 A 99 K 99 L 97 N 5 M 99 
+ 6  6  0 ...MMM...N..AA.N.....N.K...LLKJJ.WWK A 99 J 99 K 98 L 99 M 97 N 6 
+ 6  6  0 ..MMM......KAA.N.K...N.K.LLN..JJ.WW. J 99 N 5 L 97 A 99 M 98 N 5 
+ 6  6  0 .MMM.K...N.K.AAN.K...N.....LL.JJ..WW J 99 L 99 M 99 N 6 W 1 K 99 
+ 6  6  0 MMM..K.....K.AA..K...N...LLN..JJ.NWW N 2 L 97 W 1 J 99 N 2 K 99 
+ 6  6  0 MMMN.K...N.KAA.N.K........LL..JJ..WW J 99 K 99 L 98 A 99 N 5 W 1 
+ 6  6  0 MMMN.....N..AA.N.......K...LLKJJWW.K A 99 W 1 J 99 K 98 L 99 N 5 
+ 6  6  0 ..MMM......K.AAN.K...N.KLL.N..JJWW.. W 1 M 98 N 3 L 96 J 99 N 3 
+ 6  6  0 MMM......N..AA.N.K...N.K...LLKJJ..WW W 1 J 99 K 99 L 99 A 99 N 6 
+ 6  6  0 ...MMM...N.KAA.N.K...N.KLL....JJWW.. L 96 A 99 N 6 W 1 J 99 M 97 
+ 6  6  0 ...MMM.......AA..K...N.KLL.N.K.JJNWW K 99 M 97 N 4 W 1 L 96 N 4 
+ 6  6  0 MMM..K.....KAA.N.K...N...LLN..JJ.WW. N 5 L 97 J 99 K 99 A 99 N 5 
+ 6  6  0 ...MMM......AA.N.....N.KLL.N.K.JJWWK K 98 M 97 N 5 A 99 L 96 N 5 
+ 6  6  0 ...MMM.......AA..K...N.K.LLN.K.JJNWW M 97 K 99 N 4 L 97 N 4 W 1 
+ 6  6  0 ...MMM.....KAA.N.K...N.KLL.N..JJ.WW. M 97 J 99 N 5 A 99 L 96 N 5 
+ 6  6  0 ..MMMK...N.K.AAN.K...N.....LL.JJ..WW K 99 W 1 L 99 M 98 J 99 N 6 
+ 6  6  0 .MMM.......K.AAN.K...N.KLL.N..JJWW.. M 99 W 1 N 3 L 96 J 99 N 3 
+ 6  6  0 .MMM.K.....K.AAN.K...N..LL.N..JJ.WW. J 99 M 99 N 3 L 96 N 3 K 99 
+ 6  6  0 MMM..K.....KAA.N.K...N..LL.N...JJ.WW W 1 A 99 N 3 L 96 N 3 K 99 
+ 6  6  0 ..MMMK.....KAA...K...N.....NLLJJ.NWW N 6 A 99 J 99 M 98 W 1 K 99 
+ 6  6  0 MMM..K.....KAA.N.K...N..LL.N..JJ.WW. K 99 J 99 N 5 A 99 L 96 N 5 
+ 6  6  0 MMM......N..AA.N.....N.KLL...KJJWW.K W 1 K 98 J 99 A 99 L 96 N 6 
+ 6  6  0 MMM...........AA.K...N.K.LLN.K.JJNWW K 99 A 99 N 4 L 97 N 4 W 1 
+ 6  6  0 MMM..........AA..K...N.K.LLN.KJJ.NWW N 4 J 99 K 99 L 97 N 4 W 1 
+ 6  6  0 ..MMM......K...AAK...N.K.LLN...JJNWW M 98 A 98 N 4 L 97 N 4 W 1 
+ 6  6  0 ..MMMK...N.K.AAN.K...N...LL.....JJWW L 97 M 98 N 6 J 99 W 1 K 99 
+ 6  6  0 .MMM.K...N.K.AAN.K...N....LL..JJWW.. L 98 M 99 N 6 W 1 J 99 K 99 
+ 6  6  0 MMM..K.....K...AAK...N..LL.N...JJNWW K 99 A 98 N 4 W 1 L 96 N 4 
+ 6  6  0 .MMM.K...N.KAA.N.K...N....LL..JJ.WW. L 98 A 99 K 99 M 99 J 99 N 6 
+ 6  6  0 .MMM.........AAN.K...N.KLL.N.KJJ.WW. M 99 K 99 N 3 L 96 J 99 N 3 
+ 6  6  0 .MMM.......K...AAK...N.KLL.N...JJNWW M 99 A 98 N 4 W 1 L 96 N 4 
+ 6  6  0 .MMM.......K.AA..K...N.KLL.N..JJ.NWW M 99 J 99 N 4 W 1 L 96 N 4 
+ 6  6  0 .MMM.......KAA.N.K...N.KLL.N...JJ.WW A 99 M 99 N 5 W 1 L 96 N 5 
+ 6  6  0 .MMM.K.....K.AAN.K...N..LL.N...JJ.WW K 99 M 99 N 5 W 1 L 96 N 5 
+ 6  6  0 ...MMM...N.KAA.N.K...N.K..LL....JJWW L 98 N 6 M 97 J 99 W 1 A 99 
+ 6  6  0 MMM........KAA.N.K...N.K.LLN..JJWW.. N 3 L 97 N 3 W 1 J 99 A 99 
+ 6  6  0 ..MMM......K.AA..K...N.KLL.N..JJ.NWW M 98 J 99 N 4 W 1 L 96 N 4 
+ 6  6  0 ...MMM.....K...AAK...N.K.LLN...JJNWW M 97 A 98 N 4 L 97 N 4 W 1 
+ 6  6  0 ...MMM...N.KAA.N.K...N.K.LL.....JJWW L 97 N 6 M 97 J 99 W 1 A 99 
+ 6  6  0 ..MMM........AA..K...N.K.LLN.K.JJNWW M 98 K 99 N 4 L 97 N 4 W 1 
+ 6  6  0 ..MMMK.....K.AA..K...N..LL.N...JJNWW M 98 N 2 W 1 L 96 N 2 K 99 
+ 6  6  0 ..MMM........AAN.K...N.KLL.N.K.JJ.WW M 98 K 99 N 5 W 1 L 96 N 5 
+ 6  6  0 .MMM.K...N.KAA.N.K...N......LL..JJWW J 99 A 99 M 99 N 6 W 1 K 99 
+ 6  6  0 MMMN.K...N.KAA.N.K.........LL.JJWW.. W 1 L 99 N 5 K 99 J 99 A 99 
+ 6  6  0 ..MMM.......AA.N.K...N.K.LLN.K.JJWW. M 98 A 99 K 99 N 3 L 97 N 3 
+ 6  6  0 .MMM.K...N.KAA.N.K...N......LLJJWW.. N 6 K 99 M 99 W 1 J 99 A 99 
+ 6  6  0 .MMM.K...N.KAA.N.K...N..LL.....JJ.WW L 96 A 99 M 99 N 6 W 1 K 99 
+ 6  6  0 ...MMM......AA.N.K...N.K.LLN.K.JJWW. M 97 A 99 K 99 N 3 L 97 N 3 
+ 6  6  0 MMM..K...N.KAA.N.K...N...LL...JJWW.. A 99 L 97 N 6 W 1 J 99 K 99 
+ 6  6  0 .MMM.K...N.K.AAN.K...N...LL...JJ..WW W 1 L 97 K 99 M 99 J 99 N 6 
+ 6  6  0 ..MMMK...N.KAA.N.K...N......LL..JJWW A 99 M 98 N 6 J 99 W 1 K 99 
+ 6  6  0 MMM..........AA..K...N.KLL.N.KJJ.NWW K 99 J 99 N 4 W 1 L 96 N 4 
+ 6  6  0 ..MMMK...N.KAA.N.K...N..LL....JJ.WW. K 99 M 98 J 99 A 99 L 96 N 6 
+ 6  6  0 ..MMM....N...AAN.K...N.K.LL..KJJ..WW K 99 M 98 J 99 L 97 N 6 W 1 
+ 6  6  0 .MMM.K.....K..AA.K...N.....NLLJJ.NWW J 99 M 99 K 99 A 99 N 6 W 1 
+ 6  6  0 MMM..........AAN.K...N.KLL.N.K..JJWW J 99 K 99 N 5 W 1 L 96 N 5 
+ 6  6  0 ...MMM...N..AA.N.....N.K.LL..KJJ.WWK J 99 M 97 K 98 A 99 L 97 N 6 
+ 6  6  0 .MMM........AA.N.....N.K.LLN.K.JJWWK M 99 N 3 K 98 A 99 L 97 N 3 
+ 6  6  0 MMMN.....N..AA.N.......K.LL..KJJWW.K K 98 L 97 N 5 W 1 J 99 A 99 
+ 6  6  0 ...MMM...N...AAN.K...N.K..LL.K..JJWW M 97 J 99 K 99 L 98 N 6 W 1 
+ 6  6  0 MMM......N..AA.N.....N.K..LL.KJJWW.K K 98 W 1 A 99 L 98 J 99 N 6 
+ 6  6  0 MMM..........AAN.K...N.K.LLN.KJJ..WW N 3 K 99 W 1 L 97 J 99 N 3 
+ 6  6  0 .MMM.....N..AA.N.....N.K.LL..KJJ.WWK M 99 J 99 K 98 A 99 L 97 N 6 
+ 6  6  0 MMM......N..AA.N.K...N.K.LL..KJJ..WW J 99 K 99 A 99 L 97 N 6 W 1 
+ 6  6  0 .MMM.....N...AAN.K...N.K...LLKJJ..WW K 99 W 1 J 99 L 99 N 6 M 99 
+ 6  6  0 ..MMM....N.KAA.N.K...N.KLL....JJ..WW L 96 W 1 N 6 M 98 J 99 A 99 
+ 6  6  0 MMM..K...N.KAA.N.K...N...LL.....JJWW K 99 J 99 A 99 L 97 N 6 W 1 
+ 6  6  0 ..MMM......K..AA.K...N.K.LLN...JJNWW A 99 M 98 N 4 L 97 N 4 W 1 
+ 6  6  0 MMM..K...N.KAA.N.K...N....LL....JJWW A 99 K 99 L 98 J 99 N 6 W 1 
+ 6  6  0 MMM......N..AA.N.K...N.K..LL.K..JJWW A 99 J 99 K 99 L 98 N 6 W 1 
+ 6  6  0 MMM..K.....K..AA.K...N..LL.N...JJNWW A 99 N 2 W 1 L 96 N 2 K 99 
+ 6  6  0 ..MMM....N.KAA.N.K...N.K..LL..JJWW.. M 98 W 1 A 99 L 98 J 99 N 6 
+ 6  6  0 ...MMM...N.KAA.N.K...N.K.LL...JJWW.. W 1 A 99 J 99 L 97 M 97 N 6 
+ 6  6  0 ..MMM....N...AAN.K...N.K..LL.K..JJWW M 98 J 99 K 99 L 98 N 6 W 1 
+ 6  6  0 .MMM.....N...AAN.K...N.K.LL..KJJWW.. K 99 W 1 J 99 L 97 N 6 M 99 
+ 6  6  0 .MMM.......K.AAN.K...N.K.LLN..JJ..WW W 1 J 99 M 99 N 3 L 97 N 3 
+ 6  6  0 .MMM.....N.KAA.N.K...N.K..LL..JJWW.. M 99 W 1 A 99 L 98 J 99 N 6 
+ 6  6  0 .MMM.K...N.KAA.N.K...N...LL...JJ.WW. L 97 A 99 K 99 M 99 J 99 N 6 
+ 6  6  0 ..MMM....N.KAA.N.K...N.K...LL.JJWW.. L 99 W 1 N 6 M 98 J 99 A 99 
+ 6  6  0 ...MMM.......AAN.K...N.KLL.N.KJJ.WW. J 99 K 99 N 5 L 96 M 97 N 5 
+ 6  6  0 ..MMMK...N.K.AAN.K...N.....LL.JJWW.. L 99 W 1 J 99 K 99 M 98 N 6 
+ 6  6  0 .MMM.K...N.K.AAN.K...N....LL....JJWW K 99 L 98 M 99 J 99 N 6 W 1 
+ 6  6  0 ..MMM....N...AAN.K...N.K...LLKJJWW.. W 1 K 99 L 99 M 98 J 99 N 6 
+ 6  6  0 MMM.........AA.N.....N.KLL.N.KJJ.WWK K 98 J 99 N 5 A 99 L 96 N 5 
+ 6  6  0 ..MMM....N..AA.N.K...N.KLL...K.JJ.WW K 99 W 1 L 96 A 99 M 98 N 6 
+ 6  6  0 .MMM.....N...AAN.....N.K...LLKJJWW.K W 1 K 98 J 99 L 99 N 6 M 99 
+ 6  6  0 ...MMM...N...AAN.....N.KLL...KJJWW.K W 1 J 99 K 98 L 96 M 97 N 6 
+ 6  6  0 .MMM.K...N.KAA.N.K...N......LLJJ..WW M 99 J 99 N 6 W 1 K 99 A 99 
+ 6  6  0 .MMM.....N...AAN.K...N.KLL...KJJWW.. W 1 J 99 M 99 K 99 L 96 N 6 
+ 6  6  0 .MMM.K...N.K.AAN.K...N..LL....JJWW.. L 96 M 99 N 6 W 1 J 99 K 99 
+ 6  6  0 ..MMMK...N.KAA.N.K...N......LLJJWW.. A 99 W 1 J 99 K 99 M 98 N 6 
+ 6  6  0 ...MMM.....K..AA.K...N.K.LLN...JJNWW M 97 A 99 N 4 L 97 N 4 W 1 
+ 6  6  0 ...MMM...N...AAN.K...N.K..LL.KJJ..WW K 99 L 98 N 6 J 99 M 97 W 1 
+ 6  6  0 ...MMM.......AAN.K...N.K.LLN.KJJ.WW. K 99 N 5 J 99 L 97 M 97 N 5 
+ 6  6  0 ...MMM.....K.AAN.K...N.K.LLN..JJ..WW N 5 M 97 J 99 L 97 N 5 W 1 
+ 6  6  0 ..MMM....N..AA.N.K...N.KLL...KJJ.WW. J 99 M 98 K 99 A 99 L 96 N 6 
+ 6  6  0 MMM..K...N.KAA.N.K...N....LL..JJWW.. K 99 W 1 A 99 L 98 J 99 N 6 
+ 6  6  0 ...MMM...N..AA.N.K...N.K.LL..KJJ.WW. K 99 A 99 J 99 L 97 M 97 N 6 
+ 6  6  0 ..MMMK...N.KAA.N.K...N...LL...JJ.WW. K 99 J 99 L 97 A 99 M 98 N 6 
+ 6  6  0 .MMM.......K.AA..K...N.K.LLN..JJ.NWW J 99 M 99 N 4 L 97 N 4 W 1 
+ 6  6  0 ..MMM......K.AA..K...N.K.LLN..JJ.NWW N 4 M 98 J 99 L 97 N 4 W 1 
+ 6  6  0 MMMN.....N..AA.N.K.....K.LL..K..JJWW K 99 J 99 L 97 A 99 N 5 W 1 
+ 6  6  0 MMM........KAA...K...N.KLL.N..JJ.NWW N 2 L 96 W 1 A 99 J 99 N 2 
+ 6  6  0 ..MMM......K.AAN.K...N.KLL.N....JJWW J 99 M 98 N 5 W 1 L 96 N 5 
+ 6  6  0 ..MMM......K.AAN.K...N.K.LLN..JJ..WW N 5 M 98 J 99 L 97 N 5 W 1 
+ 6  6  0 MMM........KAA.N.K...N.K.LLN....JJWW J 99 N 5 A 99 L 97 N 5 W 1 
+ 6  6  0 MMM........KAA.N.K...N.KLL.N..JJ..WW N 3 L 96 W 1 A 99 J 99 N 3 
+ 6  6  0 .MMM.....N..AA.N.K...N.K...LLK.JJ.WW W 1 A 99 K 99 L 99 N 6 M 99 
+ 6  6  0 ...MMM...N..AA.N.K...N.K..LL.K.JJ.WW A 99 M 97 K 99 L 98 N 6 W 1 
+ 6  6  0 ...MMM.....K.AAN.K...N.KLL.N....JJWW N 5 J 99 W 1 L 96 M 97 N 5 
+ 6  6  0 ...MMM.....K.AAN.K...N.K.LLN....JJWW J 99 M 97 N 3 L 97 N 3 W 1 
+ 6  6  0 ..MMM......KAA.N.K...N.K.LLN...JJ.WW W 1 N 5 L 97 A 99 M 98 N 5 
+ 6  6  0 ...MMM...N...AAN.K...N.K.LL..KJJ..WW W 1 K 99 J 99 L 97 M 97 N 6 
+ 6  6  0 MMMN.....N..AA.N.K.....K...LLK..JJWW J 99 A 99 K 99 L 99 N 5 W 1 
+ 6  6  0 ...MMM...N.KAA.N.K...N.K..LL..JJ..WW L 98 A 99 N 6 J 99 M 97 W 1 
+ 6  6  0 .MMM.....N..AA.N.K...N.KLL...K.JJ.WW K 99 L 96 N 6 M 99 W 1 A 99 
+ 6  6  0 ...MMM.....KAA...K...N.KLL.N...JJNWW A 99 M 97 N 4 W 1 L 96 N 4 
+ 6  6  0 ..MMMK.....K...AAK...N.....NLLJJ.NWW A 98 J 99 N 6 M 98 W 1 K 99 
+ 6  6  0 ..MMMK...N.K.AAN.K...N....LL....JJWW M 98 K 99 L 98 J 99 N 6 W 1 
+ 6  6  0 ..MMMK...N.KAA.N.K...N.....LL..JJ.WW W 1 L 99 N 6 M 98 K 99 A 99 
+ 6  6  0 MMMN.....N..AA.N.K.....KLL...KJJWW.. K 99 L 96 N 5 W 1 J 99 A 99 
+ 6  6  0 MMMN.K...N.KAA.N.K......LL....JJ..WW A 99 J 99 W 1 L 96 N 5 K 99 
+ 6  6  0 ..MMM......K.AAN.K...N.KLL.N..JJ..WW W 1 M 98 N 3 L 96 J 99 N 3 
+ 6  6  0 ..MMM....N...AAN.K...N.K...LLKJJ..WW W 1 K 99 L 99 M 98 J 99 N 6 
+ 6  6  0 MMMN.....N..AA.N.K.....KLL...K..JJWW A 99 J 99 W 1 K 99 L 96 N 5 
+ 6  6  0 ..MMM....N...AAN.K...N.KLL...K..JJWW J 99 K 99 W 1 M 98 L 96 N 6 
+ 6  6  0 .MMM.....N...AAN.K...N.KLL...K..JJWW K 99 L 96 M 99 J 99 N 6 W 1 
+ 6  6  0 .MMM.....N.KAA.N.K...N.K...LL.JJ..WW J 99 M 99 W 1 L 99 A 99 N 6 
+ 6  6  0 ..MMM....N...AAN.K...N.K..LL.KJJWW.. M 98 W 1 K 99 L 98 J 99 N 6 
+ 6  6  0 MMM..K...N.KAA.N.K...N...LL...JJ..WW K 99 A 99 J 99 L 97 N 6 W 1 
+ 6  6  0 MMMN.K...N.KAA.N.K.......LL.....JJWW L 97 J 99 N 5 W 1 K 99 A 99 
+ 6  6  0 ..MMMK.....KAA.N.K...N..LL.N...JJWW. M 98 A 99 N 3 L 96 N 3 K 99 
+ 6  6  0 MMMN.K...N.KAA.N.K......LL......JJWW L 96 J 99 N 5 W 1 K 99 A 99 
+ 6  6  0 ...MMM.....K.AAN.K...N.K.LLN..JJWW.. N 5 L 97 N 5 W 1 J 99 M 97 
+ 6  6  0 ..MMM....N..AA.N.K...N.K..LL.K.JJ.WW M 98 A 99 K 99 L 98 N 6 W 1 
+ 6  6  0 ...MMM......AA.N.....N.K.LLN.K.JJWWK M 97 N 3 K 98 A 99 L 97 N 3 
+ 6  6  0 ..MMM....N..AA.N.....N.KLL...KJJ.WWK K 98 M 98 J 99 A 99 L 96 N 6 
+ 6  6  0 ..MMM........AAN.....N.K.LLN.KJJ.WWK N 5 K 98 L 97 M 98 J 99 N 5 
+ 6  6  0 ..MMM....N...AAN.K...N.K.LL..KJJWW.. M 98 W 1 J 99 K 99 L 97 N 6 
+ 6  6  0 ..MMM....N...AAN.....N.K...LLKJJWW.K W 1 M 98 K 98 L 99 J 99 N 6 
+ 6  6  0 .MMM.....N...AAN.....N.K.LL..KJJWW.K M 99 W 1 J 99 K 98 L 97 N 6 
+ 6  6  0 ..MMM....N...AAN.....N.KLL...KJJWW.K W 1 J 99 K 98 M 98 L 96 N 6 
+ 6  6  0 .MMM.K.....KAA.N.K...N..LL.N...JJWW. N 5 M 99 L 96 K 99 A 99 N 5 
+ 6  6  0 ..MMM......KAA...K...N.K.LLN...JJNWW M 98 N 4 A 99 L 97 N 4 W 1 
+ 6  6  0 ...MMM...N..AA.N.K...N.K...LLKJJ.WW. M 97 J 99 K 99 L 99 A 99 N 6 
+ 6  6  0 .MMM.....N.KAA.N.K...N.K..LL..JJ..WW W 1 M 99 A 99 L 98 J 99 N 6 
+ 6  6  0 ..MMM......K...AAK...N.KLL.N...JJNWW M 98 A 98 N 4 W 1 L 96 N 4 
+ 6  6  0 ...MMM...N..AA.N.K...N.K...LLK.JJ.WW K 99 M 97 W 1 L 99 A 99 N 6 
+ 6  6  0 ..MMMK...N.KAA.N.K...N.....LL.JJ.WW. L 99 A 99 J 99 K 99 M 98 N 6 
+ 6  6  0 ...MMM...N..AA.N.K...N.K..LL.KJJ.WW. A 99 K 99 M 97 L 98 J 99 N 6 
+ 6  6  0 .MMM.K...N.K.AAN.K...N.....LL...JJWW M 99 L 99 N 6 J 99 W 1 K 99 
+ 6  6  0 MMMN.....N..AA.N.K.....K..LL.KJJ..WW J 99 A 99 K 99 L 98 N 5 W 1 
+ 6  6  0 .MMM.....N...AAN.....N.K..LL.KJJWW.K M 99 K 98 L 98 W 1 J 99 N 6 
+ 6  6  0 MMMN.K...N.KAA.N.K......LL....JJWW.. L 96 W 1 N 5 K 99 J 99 A 99 
+ 6  6  0 MMMN.....N..AA.N.......K..LL.KJJWW.K K 98 L 98 N 5 W 1 J 99 A 99 
+ 6  6  0 ..MMMK...N.KAA.N.K...N....LL...JJ.WW L 98 K 99 W 1 A 99 M 98 N 6 
+ 6  6  0 MMM........K..AA.K...N.K.LLN..JJ.NWW J 99 A 99 N 4 L 97 N 4 W 1 
+ 6  6  0 .MMM.....N..AA.N.K...N.KLL...KJJ.WW. K 99 M 99 J 99 A 99 L 96 N 6 
+ 6  6  0 .MMM.K...N.K.AAN.K...N...LL...JJWW.. K 99 W 1 J 99 L 97 N 6 M 99 
+ 6  6  0 .MMM.........AA..K...N.K.LLN.K.JJNWW K 99 M 99 N 4 L 97 N 4 W 1 
+ 6  6  0 .MMM.........AAN.K...N.K.LLN.KJJ.WW. K 99 J 99 M 99 N 3 L 97 N 3 
+ 6  6  0 ...MMM...N...AAN.K...N.K...LLK..JJWW M 97 J 99 K 99 L 99 N 6 W 1 
+ 6  6  0 ..MMMK...N.K.AAN.K...N....LL..JJWW.. W 1 L 98 J 99 K 99 M 98 N 6 
+ 6  6  0 MMM..K.....K.AAN.K...N...LLN..JJ..WW N 3 L 97 W 1 J 99 N 3 K 99 
+ 6  6  0 .MMM.K.....KAA...K...N.....NLLJJ.NWW N 6 M 99 J 99 W 1 K 99 A 99 
+ 6  6  0 MMMN.K...N.KAA.N.K........LL....JJWW L 98 J 99 N 5 W 1 K 99 A 99 
+ 6  6  0 MMM.........AA.N.....N.K.LLN.KJJ.WWK N 3 J 99 K 98 A 99 L 97 N 3 
+ 6  6  0 ..MMM.......AA.N.....N.K.LLN.K.JJWWK M 98 N 3 K 98 A 99 L 97 N 3 
+ 6  6  0 ..MMM....N..AA.N.K...N.K.LL..K.JJ.WW K 99 L 97 W 1 A 99 M 98 N 6 
+ 6  6  0 ...MMM...N.KAA.N.K...N.KLL......JJWW M 97 A 99 L 96 J 99 N 6 W 1 
+ 6  6  0 .MMM.....N...AAN.K...N.KLL...KJJ..WW W 1 J 99 M 99 K 99 L 96 N 6 
+ 6  6  0 .MMM.K...N.KAA.N.K...N....LL...JJ.WW M 99 L 98 N 6 W 1 K 99 A 99 
+ 6  6  0 MMM..K.....K.AAN.K...N...LLN..JJWW.. N 5 L 97 N 5 W 1 J 99 K 99 
+ 6  6  0 ..MMMK.....K.AAN.K...N..LL.N..JJ.WW. J 99 M 98 N 3 L 96 N 3 K 99 
+ 6  6  0 ..MMMK.....K..AA.K...N.....NLLJJ.NWW M 98 K 99 A 99 N 6 J 99 W 1 
+ 6  6  0 .MMM.........AAN.K...N.KLL.N.K.JJ.WW M 99 K 99 N 5 W 1 L 96 N 5 
+ 6  6  0 ..MMM....N...AAN.K...N.K..LL.KJJ..WW J 99 W 1 K 99 L 98 M 98 N 6 
+ 6  6  0 .MMM.K...N.K.AAN.K...N....LL..JJ..WW W 1 L 98 K 99 M 99 J 99 N 6 
+ 6  6  0 ..MMM....N..AA.N.K...N.K...LLKJJ.WW. K 99 L 99 N 6 M 98 J 99 A 99 
+ 6  6  0 ..MMM......K..AA.K...N.KLL.N...JJNWW M 98 A 99 N 4 W 1 L 96 N 4 
+ 6  6  0 .MMM.....N.KAA.N.K...N.K...LL...JJWW J 99 M 99 W 1 L 99 A 99 N 6 
+ 6  6  0 MMM..K.....K..AA.K...N...LLN...JJNWW K 99 A 99 N 4 L 97 N 4 W 1 
+ 6  6  0 .MMM.......K...AAK...N.K.LLN...JJNWW M 99 A 98 N 4 L 97 N 4 W 1 
+ 6  6  0 ...MMM.....KAA.N.K...N.K.LLN..JJ.WW. N 5 A 99 J 99 L 97 M 97 N 5 
+ 6  6  0 ..MMM....N.KAA.N.K...N.KLL....JJWW.. M 98 L 96 A 99 W 1 J 99 N 6 
+ 6  6  0 ..MMMK...N.K.AAN.K...N.....LL...JJWW L 99 M 98 N 6 J 99 W 1 K 99 
+ 6  6  0 ..MMMK.....K.AAN.K...N..LL.N...JJ.WW M 98 N 3 W 1 L 96 N 3 K 99 
+ 6  6  0 ...MMM.....KAA.N.K...N.KLL.N...JJ.WW N 5 A 99 W 1 L 96 M 97 N 5 
+ 6  6  0 MMM..K...N.KAA.N.K...N..LL....JJ..WW L 96 J 99 N 6 W 1 K 99 A 99 
+ 6  6  0 ..MMM....N.KAA.N.K...N.K...LL.JJ..WW A 99 W 1 L 99 M 98 J 99 N 6 
+ 6  6  0 ..MMMK...N.K.AAN.K...N....LL..JJ..WW K 99 J 99 L 98 M 98 N 6 W 1 
+ 6  6  0 MMM..K...N.KAA.N.K...N.....LL...JJWW K 99 L 99 J 99 W 1 A 99 N 6 
+ 6  6  0 ...MMM.......AAN.....N.K.LLN.KJJ.WWK N 5 K 98 J 99 L 97 M 97 N 5 
+ 6  6  0 .MMM.K...N.KAA.N.K...N.....LL..JJ.WW M 99 L 99 N 6 W 1 K 99 A 99 
+ 6  6  0 ..MMMK...N.KAA.N.K...N..LL.....JJ.WW A 99 L 96 M 98 N 6 W 1 K 99 
+ 6  6  0 MMM......N..AA.N.K...N.K.LL..K..JJWW K 99 J 99 A 99 L 97 N 6 W 1 
+ 6  6  0 .MMM.....N...AAN.K...N.K..LL.K..JJWW M 99 J 99 K 99 L 98 N 6 W 1 
+ 6  6  0 ...MMM...N..AA.N.....N.K..LL.KJJ.WWK M 97 K 98 A 99 L 98 J 99 N 6 
+ 6  6  0 ...MMM......AA.N.K...N.KLL.N.K.JJWW. M 97 K 99 N 5 A 99 L 96 N 5 
+ 6  6  0 MMMN.....N..AA.N.K.....K...LLKJJ..WW A 99 K 99 J 99 L 99 N 5 W 1 
+ 6  6  0 ...MMM...N.KAA.N.K...N.K...LL.JJWW.. A 99 L 99 N 6 W 1 J 99 M 97 
+ 6  6  0 .MMM.....N..AA.N.....N.K..LL.KJJ.WWK J 99 M 99 A 99 K 98 L 98 N 6 
+ 6  6  0 ..MMM....N.KAA.N.K...N.K.LL.....JJWW J 99 L 97 W 1 A 99 M 98 N 6 
+ 6  6  0 .MMM.....N.KAA.N.K...N.KLL....JJWW.. W 1 M 99 J 99 A 99 L 96 N 6 
+ 6  6  0 ..MMMK...N.K.AAN.K...N..LL....JJ..WW M 98 K 99 J 99 W 1 L 96 N 6 
+ 6  6  0 ..MMMK.....KAA.N.K...N...LLN...JJWW. M 98 N 5 A 99 L 97 K 99 N 5 
+ 6  6  0 ..MMMK...N.K.AAN.K...N...LL...JJWW.. W 1 L 97 J 99 K 99 M 98 N 6 
+ 6  6  0 .MMM.....N..AA.N.K...N.K..LL.KJJ.WW. M 99 K 99 A 99 L 98 J 99 N 6 
+ 6  6  0 .MMM.......K.AAN.K...N.K.LLN....JJWW J 99 N 5 W 1 L 97 N 5 M 99 
+ 6  6  0 .MMM.....N...AAN.K...N.K..LL.KJJWW.. M 99 W 1 K 99 L 98 J 99 N 6 
+ 6  6  0 MMMN.....N..AA.N.K.....K...LLKJJWW.. K 99 L 99 N 5 W 1 J 99 A 99 
+ 6  6  0 ..MMM....N..AA.N.....N.K.LL..KJJ.WWK K 98 J 99 L 97 A 99 M 98 N 6 
+ 6  6  0 .MMM.......KAA...K...N.KLL.N...JJNWW A 99 M 99 N 4 W 1 L 96 N 4 
+ 6  6  0 MMM..K...N.KAA.N.K...N..LL....JJWW.. L 96 N 6 K 99 W 1 J 99 A 99 
+ 6  6  0 ...MMM...N..AA.N.....N.KLL...KJJ.WWK A 99 J 99 K 98 L 96 M 97 N 6 
+ 6  6  0 MMMN.....N..AA.N.K.....K.LL..KJJ..WW A 99 K 99 W 1 L 97 J 99 N 5 
+ 6  6  0 .MMM.....N..AA.N.....N.KLL...KJJ.WWK A 99 K 98 L 96 M 99 J 99 N 6 
+ 6  6  0 .MMM.......KAA.N.K...N.KLL.N..JJ.WW. N 5 M 99 J 99 A 99 L 96 N 5 
+ 6  6  0 ..MMM........AA..K...N.KLL.N.K.JJNWW N 4 K 99 W 1 M 98 L 96 N 4 
+ 6  6  0 .MMM.K.....K.AAN.K...N...LLN..JJ.WW. N 5 L 97 K 99 M 99 J 99 N 5 
+ 6  6  0 MMM......N..AA.N.....N.K.LL..KJJWW.K K 98 L 97 A 99 W 1 J 99 N 6 
+ 6  6  0 ...MMM.....KAA...K...N.K.LLN...JJNWW A 99 M 97 N 4 L 97 N 4 W 1 
+ 6  6  0 MMM.........AA...K...N.K.LLN.K.JJNWW A 99 K 99 N 4 L 97 N 4 W 1 
+ 6  6  0 MMM........K...AAK...N.KLL.N..JJ.NWW J 99 A 98 N 4 W 1 L 96 N 4 
+ 6  6  0 .MMM.....N.KAA.N.K...N.K..LL....JJWW J 99 A 99 M 99 L 98 N 6 W 1 
+ 6  6  0 ..MMM....N.KAA.N.K...N.K..LL....JJWW J 99 L 98 W 1 A 99 M 98 N 6 
+ 6  6  0 .MMM.......K..AA.K...N.K.LLN...JJNWW M 99 A 99 N 4 L 97 N 4 W 1 
+ 6  6  0 .MMM.K...N.K.AAN.K...N...LL.....JJWW J 99 L 97 M 99 N 6 W 1 K 99 
+ 6  6  0 MMMN.K...N.KAA.N.K.......LL...JJWW.. W 1 A 99 J 99 K 99 L 97 N 5 
+ 6  6  0 MMMN.K...N.KAA.N.K........LL..JJWW.. W 1 L 98 N 5 K 99 J 99 A 99 
+ 6  6  0 .MMM........AA.N.....N.KLL.N.K.JJWWK K 98 M 99 N 5 A 99 L 96 N 5 
+ 6  6  0 ..MMMK...N.K.AAN.K...N...LL...JJ..WW K 99 M 98 J 99 L 97 N 6 W 1 
+ 6  6  0 MMM..K.....KAA.N.K...N...LLN...JJ.WW W 1 N 5 A 99 L 97 K 99 N 5 
+ 6  6  0 ..MMMK...N.KAA.N.K...N....LL..JJ.WW. A 99 L 98 J 99 K 99 M 98 N 6 
+ 6  6  0 MMM.........AA.N.K...N.KLL.N.K.JJ.WW W 1 K 99 N 5 A 99 L 96 N 5 
+ 6  6  0 ..MMM........AAN.K...N.K.LLN.K.JJ.WW M 98 N 3 W 1 K 99 L 97 N 3 
+ 6  6  0 MMM..K...N.KAA.N.K...N.....LL.JJ..WW L 99 J 99 N 6 W 1 K 99 A 99 
+ 6  6  0 .MMM.......K.AAN.K...N.KLL.N..JJ..WW M 99 W 1 N 3 L 96 J 99 N 3 
+ 6  6  0 MMM......N..AA.N.K...N.K.LL..KJJWW.. A 99 W 1 J 99 K 99 L 97 N 6 
+ 6  6  0 MMMN.....N..AA.N.......KLL...KJJWW.K K 98 L 96 N 5 W 1 J 99 A 99 
+ 6  6  0 MMM........KAA...K...N.K.LLN..JJ.NWW J 99 N 4 A 99 L 97 N 4 W 1 
+ 6  6  0 MMMN.K...N.KAA.N.K.........LL.JJ..WW L 99 N 5 J 99 W 1 K 99 A 99 
+ 6  6  0 ...MMM...N.KAA.N.K...N.KLL....JJ..WW L 96 A 99 N 6 J 99 M 97 W 1 
+ 6  6  0 ...MMM...N...AAN.....N.K.LL..KJJWW.K M 97 W 1 J 99 K 98 L 97 N 6 
+ 6  6  0 ...MMM...N...AAN.K...N.KLL...KJJ..WW W 1 J 99 M 97 K 99 L 96 N 6 
+ 6  6  0 .MMM.......K.AAN.K...N.K.LLN..JJWW.. N 5 W 1 J 99 L 97 N 5 M 99 
+ 6  6  0 .MMM.....N.KAA.N.K...N.K.LL...JJWW.. A 99 W 1 J 99 L 97 N 6 M 99 
+ 6  6  0 .MMM.....N.KAA.N.K...N.KLL....JJ..WW M 99 W 1 J 99 A 99 L 96 N 6 
+ 6  6  0 ..MMM....N...AAN.K...N.K.LL..K..JJWW M 98 K 99 L 97 J 99 N 6 W 1 
+ 6  6  0 MMM............AAK...N.KLL.N.K.JJNWW K 99 A 98 N 4 W 1 L 96 N 4 
+ 6  6  0 MMMN.....N..AA.N.K.....K.LL..KJJWW.. A 99 W 1 K 99 L 97 J 99 N 5 
+ 6  6  0 ...MMM...N..AA.N.K...N.KLL...K.JJ.WW A 99 W 1 M 97 K 99 L 96 N 6 
+ 6  6  0 .MMM.......KAA.N.K...N.K.LLN..JJ.WW. A 99 J 99 M 99 N 3 L 97 N 3 
+ 6  6  0 ...MMM.....K...AAK...N.KLL.N...JJNWW M 97 A 98 N 4 W 1 L 96 N 4 
+ 6  6  0 .MMM.........AAN.....N.KLL.N.KJJ.WWK J 99 N 5 K 98 M 99 L 96 N 5 
+ 6  6  0 MMM..K...N.KAA.N.K...N....LL..JJ..WW W 1 K 99 A 99 L 98 J 99 N 6 
+ 6  6  0 ..MMM....N.KAA.N.K...N.K.LL...JJ..WW L 97 W 1 N 6 M 98 J 99 A 99 
+ 6  6  0 MMM............AAK...N.K.LLN.K.JJNWW K 99 A 98 N 4 L 97 N 4 W 1 
+ 6  6  0 ..MMMK...N.K.AAN.K...N..LL......JJWW M 98 L 96 N 6 J 99 W 1 K 99 
+ 6  6  0 ..MMM......K.AAN.K...N.K.LLN..JJWW.. M 98 W 1 N 3 L 97 J 99 N 3 
+ 6  6  0 .MMM.....N..AA.N.K...N.K.LL..KJJ.WW. K 99 A 99 J 99 L 97 N 6 M 99 
+ 6  6  0 MMM..........AAN.K...N.K.LLN.KJJWW.. K 99 W 1 N 3 L 97 J 99 N 3 
+ 6  6  0 .MMM.....N...AAN.K...N.K...LLK..JJWW M 99 J 99 K 99 L 99 N 6 W 1 
+ 6  6  0 ...MMM...N.KAA.N.K...N.K..LL..JJWW.. A 99 L 98 N 6 W 1 J 99 M 97 
+ 6  6  0 MMM......N..AA.N.K...N.KLL...KJJ..WW K 99 W 1 J 99 A 99 L 96 N 6 
+ 6  6  0 MMM.........AA.N.K...N.KLL.N.KJJ.WW. K 99 J 99 N 5 A 99 L 96 N 5 
+ 6  6  0 .MMM.K.....K.AAN.K...N...LLN...JJ.WW K 99 N 5 W 1 L 97 N 5 M 99 
+ 6  6  0 ..MMMK...N.KAA.N.K...N......LLJJ..WW M 98 J 99 N 6 W 1 K 99 A 99 
+ 6  6  0 MMM..K.....K.AAN.K...N..LL.N....JJWW N 5 L 96 N 5 J 99 W 1 K 99 
+ 6  6  0 ...MMM.......AAN.K...N.KLL.N.K.JJ.WW W 1 K 99 N 5 L 96 M 97 N 5 
+ 6  6  0 MMM..........AAN.K...N.KLL.N.KJJ..WW K 99 W 1 N 3 L 96 J 99 N 3 
+ 6  6  0 MMM..........AAN.....N.KLL.N.KJJWW.K K 98 W 1 N 3 L 96 J 99 N 3 
+ 6  6  0 MMM......N..AA.N.K...N.K..LL.KJJWW.. A 99 W 1 K 99 L 98 J 99 N 6 
+ 6  6  0 MMM..K...N.KAA.N.K...N.....LL.JJWW.. W 1 L 99 J 99 K 99 A 99 N 6 
+ 6  6  0 .MMM.K...N.KAA.N.K...N.....LL.JJ.WW. L 99 A 99 K 99 M 99 J 99 N 6 
+ 6  6  0 ...MMM...N...AAN.K...N.KLL...KJJWW.. M 97 W 1 J 99 K 99 L 96 N 6 
+ 6  6  0 MMM......N..AA.N.....N.K...LLKJJWW.K W 1 J 99 K 98 L 99 A 99 N 6 
+ 6  6  0 .MMM.K...N.K.AAN.K...N..LL....JJ..WW M 99 K 99 J 99 W 1 L 96 N 6 
+ 6  6  0 ...MMM...N...AAN.K...N.K...LLKJJWW.. K 99 L 99 N 6 W 1 J 99 M 97 
+ 6  6  0 .MMM.....N...AAN.K...N.K.LL..KJJ..WW K 99 L 97 M 99 N 6 J 99 W 1 
+ 6  6  0 ..MMM....N.KAA.N.K...N.KLL......JJWW M 98 A 99 L 96 J 99 N 6 W 1 
+ 6  6  0 .MMM.......K..AA.K...N.KLL.N...JJNWW M 99 A 99 N 4 W 1 L 96 N 4 
+ 6  6  0 MMM.........AA.N.K...N.K.LLN.KJJ.WW. J 99 A 99 K 99 N 3 L 97 N 3 
+ 6  6  0 ..MMM......KAA.N.K...N.KLL.N...JJ.WW M 98 N 3 W 1 A 99 L 96 N 3 
+ 6  6  0 ..MMM......KAA.N.K...N.KLL.N..JJ.WW. N 5 M 98 J 99 A 99 L 96 N 5 
+ 6  6  0 MMM........KAA.N.K...N.KLL.N..JJWW.. N 3 L 96 N 3 W 1 J 99 A 99 
+ 6  6  0 MMM..K.....K...AAK...N...LLN...JJNWW A 98 N 2 W 1 K 99 L 97 N 2 
+ 6  6  0 MMM...........AA.K...N.KLL.N.K.JJNWW A 99 K 99 N 4 W 1 L 96 N 4 
+ 6  6  0 .MMM........AA.N.K...N.K.LLN.K.JJWW. M 99 A 99 K 99 N 3 L 97 N 3 
+ 6  6  0 ...MMM...N...AAN.....N.K..LL.KJJWW.K K 98 L 98 N 6 W 1 J 99 M 97 
+ 6  6  0 .MMM.....N..AA.N.K...N.K.LL..K.JJ.WW K 99 M 99 A 99 L 97 N 6 W 1 
+ 6  6  0 .MMM.....N.KAA.N.K...N.K.LL.....JJWW J 99 M 99 A 99 L 97 N 6 W 1 
+ 6  6  0 ..MMM....N..AA.N.K...N.K..LL.KJJ.WW. A 99 J 99 K 99 L 98 M 98 N 6 
+ 6  6  0 MMM..K.....KAA...K...N..LL.N...JJNWW N 4 K 99 W 1 A 99 L 96 N 4 
+ 6  6  0 .MMM.........AA..K...N.KLL.N.K.JJNWW M 99 K 99 N 4 W 1 L 96 N 4 
+ 6  6  0 .MMM.K.....K.AA..K...N..LL.N...JJNWW N 4 L 96 M 99 N 4 W 1 K 99 
+ 6  6  0 .MMM.K...N.KAA.N.K...N..LL....JJ.WW. K 99 M 99 J 99 A 99 L 96 N 6 
+ 6  6  0 .MMM.K...N.K.AAN.K...N.....LL.JJWW.. M 99 L 99 N 6 W 1 J 99 K 99 
+ 6  6  0 ...MMM...N...AAN.K...N.K.LL..KJJWW.. K 99 L 97 N 6 W 1 J 99 M 97 
+ 6  6  0 MMM..K.....K.AA..K...N..LL.N..JJ.NWW J 99 N 2 W 1 L 96 N 2 K 99 
+ 6  6  0 ..MMM........AAN.K...N.KLL.N.KJJ.WW. M 98 K 99 N 3 L 96 J 99 N 3 
+ 6  6  0 ...MMM...N.KAA.N.K...N.K.LL...JJ..WW L 97 A 99 N 6 J 99 M 97 W 1 
+ 6  6  0 ...MMM...N...AAN.K...N.K.LL..K..JJWW M 97 K 99 L 97 J 99 N 6 W 1 
+ 6  6  0 .MMM.......KAA.N.K...N.K.LLN...JJ.WW N 5 M 99 A 99 L 97 N 5 W 1 
+ 6  6  0 ...MMM...N.KAA.N.K...N.K...LL...JJWW M 97 L 99 J 99 W 1 A 99 N 6 
+ 6  6  0 ..MMM.......AA.N.K...N.KLL.N.K.JJWW. M 98 K 99 N 5 A 99 L 96 N 5 
+ 6  6  0 ..MMMK.....K.AA..K...N...LLN...JJNWW K 99 M 98 N 4 L 97 N 4 W 1 
+ 6  6  0 ..MMM....N..AA.N.....N.K..LL.KJJ.WWK J 99 K 98 A 99 L 98 M 98 N 6 
+ 6  6  0 ...MMM.....K.AA..K...N.KLL.N..JJ.NWW M 97 J 99 N 4 W 1 L 96 N 4 
+ 6  6  0 MMM......N..AA.N.K...N.K...LLK..JJWW K 99 L 99 J 99 W 1 A 99 N 6 
+ 6  6  0 .MMM.K...N.KAA.N.K...N...LL....JJ.WW K 99 M 99 A 99 L 97 N 6 W 1 
+ 7  7  0 .MMM.....N..AA.N.....N.K..LL.KJJWW.K M 99 K 98 W 1 A 99 L 98 J 99 N 6 
+ 7  7  0 ..MMM....N..AA.N.....N.KLL...KJJWW.K M 98 W 1 K 98 J 99 A 99 L 96 N 6 
+ 7  7  0 MMM............AAK...N.KLL.N.KJJ.NWW A 98 K 99 J 99 N 4 W 1 L 96 N 4 
+ 7  7  0 ..MMMK...N.KAA.N.K...N....LL..JJ..WW K 99 M 98 W 1 A 99 L 98 J 99 N 6 
+ 7  7  0 ..MMM....N..AA.N.K...N.K..LL.KJJ..WW K 99 M 98 W 1 A 99 L 98 J 99 N 6 
+ 7  7  0 ..MMMK.....K..AA.K...N...LLN...JJNWW K 99 A 99 M 98 N 4 L 97 N 4 W 1 
+ 7  7  0 .MMM.........AAN.K...N.KLL.N.KJJ..WW W 1 M 99 K 99 N 3 L 96 J 99 N 3 
+ 7  7  0 ..MMMK.....K.AAN.K...N..LL.N..JJ..WW M 98 N 3 J 99 W 1 L 96 N 3 K 99 
+ 7  7  0 .MMM.........AAN.K...N.K.LLN.KJJWW.. N 5 K 99 W 1 J 99 L 97 N 5 M 99 
+ 7  7  0 .MMM.....N..AA.N.K...N.K.LL..KJJWW.. A 99 K 99 W 1 J 99 L 97 N 6 M 99 
+ 7  7  0 ..MMM....N..AA.N.K...N.K..LL.KJJWW.. K 99 M 98 W 1 A 99 L 98 J 99 N 6 
+ 7  7  0 ...MMM......AA.N.....N.K.LLN.KJJ.WWK N 5 J 99 M 97 K 98 A 99 L 97 N 5 
+ 7  7  0 .MMM.K.....K..AA.K...N..LL.N...JJNWW M 99 A 99 N 2 W 1 L 96 N 2 K 99 
+ 7  7  0 .MMM...........AAK...N.KLL.N.K.JJNWW K 99 M 99 A 98 N 4 W 1 L 96 N 4 
+ 7  7  0 .MMM.K.....K.AA..K...N..LL.N..JJ.NWW K 99 M 99 J 99 N 4 W 1 L 96 N 4 
+ 7  7  0 .MMM.......K...AAK...N.KLL.N..JJ.NWW A 98 M 99 J 99 N 4 W 1 L 96 N 4 
+ 7  7  0 ...MMM.......AAN.....N.K.LLN.KJJWW.K M 97 W 1 J 99 K 98 N 3 L 97 N 3 
+ 7  7  0 ...MMM...N..AA.N.K...N.KLL...KJJ..WW W 1 M 97 J 99 K 99 A 99 L 96 N 6 
+ 7  7  0 MMM.........AA.N.K...N.K.LLN.KJJWW.. K 99 N 3 L 97 N 3 W 1 J 99 A 99 
+ 7  7  0 .MMM.......KAA.N.K...N.K.LLN..JJWW.. M 99 N 3 L 97 N 3 W 1 J 99 A 99 
+ 7  7  0 .MMM........AA.N.....N.KLL.N.KJJ.WWK M 99 K 98 J 99 N 5 A 99 L 96 N 5 
+ 7  7  0 ...MMM.......AA..K...N.KLL.N.KJJ.NWW J 99 K 99 M 97 N 4 W 1 L 96 N 4 
+ 7  7  0 ..MMM.......AA.N.K...N.KLL.N.K.JJ.WW A 99 M 98 K 99 N 5 W 1 L 96 N 5 
+ 7  7  0 .MMM.K...N.KAA.N.K...N.....LL.JJWW.. L 99 N 6 K 99 M 99 W 1 J 99 A 99 
+ 7  7  0 .MMM.K...N.KAA.N.K...N..LL....JJ..WW J 99 L 96 A 99 M 99 N 6 W 1 K 99 
+ 7  7  0 ..MMMK.....K...AAK...N..LL.N...JJNWW A 98 M 98 N 2 W 1 L 96 N 2 K 99 
+ 7  7  0 .MMM.K...N.KAA.N.K...N..LL....JJWW.. L 96 N 6 K 99 M 99 W 1 J 99 A 99 
+ 7  7  0 ..MMMK...N.KAA.N.K...N.....LL.JJWW.. K 99 L 99 W 1 N 6 M 98 J 99 A 99 
+ 7  7  0 ...MMM.....KAA...K...N.K.LLN..JJ.NWW A 99 M 97 N 2 W 1 L 97 J 99 N 2 
+ 7  7  0 MMM..K.....K..AA.K...N...LLN..JJ.NWW A 99 N 2 L 97 W 1 J 99 N 2 K 99 
+ 7  7  0 ..MMM.......AA.N.K...N.KLL.N.KJJ.WW. N 5 J 99 M 98 K 99 A 99 L 96 N 5 
+ 7  7  0 ..MMMK.....K.AAN.K...N...LLN..JJWW.. W 1 J 99 K 99 M 98 N 3 L 97 N 3 
+ 7  7  0 .MMM.K...N.KAA.N.K...N.....LL...JJWW L 99 J 99 A 99 M 99 N 6 W 1 K 99 
+ 7  7  0 .MMM.......K..AA.K...N.K.LLN..JJ.NWW A 99 J 99 M 99 N 4 L 97 N 4 W 1 
+ 7  7  0 .MMM..........AA.K...N.K.LLN.K.JJNWW M 99 K 99 A 99 N 4 L 97 N 4 W 1 
+ 7  7  0 .MMM.K...N.KAA.N.K...N....LL....JJWW L 98 J 99 A 99 M 99 N 6 W 1 K 99 
+ 7  7  0 ..MMM..........AAK...N.K.LLN.K.JJNWW K 99 M 98 A 98 N 4 L 97 N 4 W 1 
+ 7  7  0 .MMM.......KAA.N.K...N.K.LLN....JJWW M 99 J 99 N 5 A 99 L 97 N 5 W 1 
+ 7  7  0 ...MMM.....K..AA.K...N.KLL.N..JJ.NWW M 97 A 99 J 99 N 4 W 1 L 96 N 4 
+ 7  7  0 MMM...........AA.K...N.KLL.N.KJJ.NWW K 99 A 99 J 99 N 4 W 1 L 96 N 4 
+ 7  7  0 ..MMM......KAA.N.K...N.KLL.N....JJWW M 98 N 5 A 99 L 96 J 99 N 5 W 1 
+ 7  7  0 ..MMM......K..AA.K...N.KLL.N..JJ.NWW M 98 A 99 J 99 N 4 W 1 L 96 N 4 
+ 7  7  0 MMM..K.....KAA...K...N..LL.N..JJ.NWW K 99 N 2 L 96 W 1 A 99 J 99 N 2 
+ 7  7  0 ...MMM.....KAA.N.K...N.KLL.N....JJWW A 99 N 5 J 99 W 1 L 96 M 97 N 5 
+ 7  7  0 .MMM.K.....K...AAK...N...LLN...JJNWW A 98 N 4 L 97 M 99 N 4 W 1 K 99 
+ 7  7  0 .MMM.....N..AA.N.K...N.K..LL.K..JJWW J 99 K 99 A 99 M 99 L 98 N 6 W 1 
+ 7  7  0 ..MMM........AA..K...N.K.LLN.KJJ.NWW N 4 K 99 M 98 J 99 L 97 N 4 W 1 
+ 7  7  0 ..MMM........AAN.K...N.K.LLN.KJJ..WW N 5 K 99 M 98 J 99 L 97 N 5 W 1 
+ 7  7  0 ...MMM.....KAA.N.K...N.K.LLN..JJ..WW J 99 A 99 M 97 N 3 L 97 N 3 W 1 
+ 7  7  0 MMM.........AA.N.....N.KLL.N.KJJWW.K N 5 W 1 K 98 J 99 A 99 L 96 N 5 
+ 7  7  0 ..MMM....N..AA.N.K...N.K.LL..KJJ..WW A 99 K 99 M 98 J 99 L 97 N 6 W 1 
+ 7  7  0 ..MMMK.....K.AAN.K...N..LL.N....JJWW K 99 J 99 M 98 N 5 W 1 L 96 N 5 
+ 7  7  0 MMM.........AA.N.K...N.KLL.N.KJJ..WW N 3 K 99 L 96 W 1 A 99 J 99 N 3 
+ 7  7  0 .MMM.........AAN.....N.KLL.N.KJJWW.K K 98 M 99 W 1 N 3 L 96 J 99 N 3 
+ 7  7  0 ..MMM....N..AA.N.K...N.K...LLKJJ..WW A 99 W 1 K 99 L 99 M 98 J 99 N 6 
+ 7  7  0 ...MMM.......AAN.K...N.KLL.N.K..JJWW M 97 J 99 K 99 N 5 W 1 L 96 N 5 
+ 7  7  0 .MMM.K.....K.AAN.K...N...LLN....JJWW M 99 K 99 J 99 N 3 L 97 N 3 W 1 
+ 7  7  0 ..MMM........AAN.K...N.KLL.N.KJJWW.. M 98 K 99 W 1 N 3 L 96 J 99 N 3 
+ 7  7  0 MMM.........AA.N.K...N.K.LLN.K..JJWW J 99 K 99 N 5 A 99 L 97 N 5 W 1 
+ 7  7  0 ...MMM........AA.K...N.KLL.N.K.JJNWW A 99 K 99 M 97 N 4 W 1 L 96 N 4 
+ 7  7  0 .MMM........AA.N.K...N.K.LLN.K.JJ.WW M 99 K 99 N 5 A 99 L 97 N 5 W 1 
+ 7  7  0 ...MMM...N..AA.N.K...N.K.LL..K..JJWW J 99 M 97 K 99 A 99 L 97 N 6 W 1 
+ 7  7  0 ..MMMK...N.KAA.N.K...N..LL......JJWW M 98 K 99 A 99 L 96 J 99 N 6 W 1 
+ 7  7  0 MMM..K.....KAA.N.K...N..LL.N....JJWW N 3 L 96 J 99 N 3 W 1 K 99 A 99 
+ 7  7  0 ..MMMK...N.KAA.N.K...N...LL.....JJWW J 99 K 99 L 97 W 1 A 99 M 98 N 6 
+ 7  7  0 ..MMMK.....KAA.N.K...N...LLN...JJ.WW N 5 K 99 L 97 W 1 A 99 M 98 N 5 
+ 7  7  0 .MMM........AA...K...N.KLL.N.K.JJNWW M 99 N 4 W 1 K 99 A 99 L 96 N 4 
+ 7  7  0 MMM.........AA.N.K...N.KLL.N.KJJWW.. A 99 K 99 W 1 N 3 L 96 J 99 N 3 
+ 7  7  0 .MMM.....N..AA.N.K...N.KLL...K..JJWW A 99 K 99 L 96 M 99 J 99 N 6 W 1 
+ 7  7  0 ...MMM...N..AA.N.K...N.K.LL..KJJWW.. K 99 W 1 A 99 J 99 L 97 M 97 N 6 
+ 7  7  0 ..MMMK.....K.AA..K...N..LL.N..JJ.NWW K 99 M 98 J 99 N 4 W 1 L 96 N 4 
+ 7  7  0 ...MMM.......AAN.K...N.K.LLN.KJJWW.. W 1 K 99 N 5 J 99 L 97 M 97 N 5 
+ 7  7  0 ..MMMK...N.KAA.N.K...N...LL...JJWW.. W 1 K 99 J 99 L 97 A 99 M 98 N 6 
+ 7  7  0 ..MMM......K...AAK...N.K.LLN..JJ.NWW M 98 A 98 N 2 W 1 L 97 J 99 N 2 
+ 7  7  0 .MMM.....N..AA.N.K...N.K..LL.KJJWW.. K 99 M 99 W 1 A 99 L 98 J 99 N 6 
+ 7  7  0 ...MMM.....K...AAK...N.K.LLN..JJ.NWW M 97 A 98 N 2 W 1 L 97 J 99 N 2 
+ 7  7  0 ..MMM.......AA...K...N.KLL.N.K.JJNWW M 98 N 4 W 1 K 99 A 99 L 96 N 4 
+ 7  7  0 .MMM.K.....KAA.N.K...N...LLN..JJ.WW. J 99 N 5 A 99 K 99 L 97 N 5 M 99 
+ 7  7  0 ...MMM...N..AA.N.....N.K.LL..KJJWW.K W 1 J 99 M 97 K 98 A 99 L 97 N 6 
+ 7  7  0 ...MMM......AA...K...N.K.LLN.K.JJNWW A 99 M 97 K 99 N 4 L 97 N 4 W 1 
+ 7  7  0 .MMM.....N..AA.N.....N.K...LLKJJWW.K W 1 A 99 K 98 J 99 L 99 N 6 M 99 
+ 7  7  0 ..MMM......KAA.N.K...N.KLL.N..JJ..WW N 5 L 96 W 1 N 5 M 98 J 99 A 99 
+ 7  7  0 .MMM.K.....KAA...K...N...LLN...JJNWW K 99 A 99 M 99 N 4 L 97 N 4 W 1 
+ 7  7  0 MMM..K.....KAA.N.K...N...LLN..JJ..WW W 1 N 5 L 97 J 99 K 99 A 99 N 5 
+ 7  7  0 ..MMM....N..AA.N.K...N.K..LL.K..JJWW M 98 A 99 J 99 K 99 L 98 N 6 W 1 
+ 7  7  0 ..MMM........AAN.K...N.KLL.N.KJJ..WW K 99 W 1 M 98 N 3 L 96 J 99 N 3 
+ 7  7  0 .MMM.........AAN.K...N.K.LLN.KJJ..WW K 99 W 1 J 99 M 99 N 3 L 97 N 3 
+ 7  7  0 ..MMM......KAA.N.K...N.KLL.N..JJWW.. A 99 W 1 M 98 N 3 L 96 J 99 N 3 
+ 7  7  0 ..MMM.......AA.N.K...N.K.LLN.KJJ.WW. A 99 N 5 K 99 L 97 M 98 J 99 N 5 
+ 7  7  0 ...MMM...N..AA.N.K...N.K..LL.KJJ..WW M 97 K 99 W 1 A 99 L 98 J 99 N 6 
+ 7  7  0 ...MMM.......AAN.K...N.K.LLN.K..JJWW J 99 W 1 M 97 K 99 N 3 L 97 N 3 
+ 7  7  0 ...MMM.....KAA.N.K...N.KLL.N..JJWW.. W 1 M 97 J 99 N 5 A 99 L 96 N 5 
+ 7  7  0 .MMM.K.....K.AAN.K...N..LL.N..JJWW.. M 99 K 99 W 1 N 3 L 96 J 99 N 3 
+ 7  7  0 ...MMM.......AAN.....N.KLL.N.KJJWW.K N 5 W 1 J 99 K 98 L 96 M 97 N 5 
+ 7  7  0 ..MMM........AAN.....N.K.LLN.KJJWW.K N 5 W 1 K 98 L 97 M 98 J 99 N 5 
+ 7  7  0 ..MMM....N..AA.N.K...N.KLL...KJJWW.. M 98 W 1 J 99 K 99 A 99 L 96 N 6 
+ 7  7  0 .MMM.........AAN.K...N.KLL.N.K..JJWW M 99 J 99 K 99 N 5 W 1 L 96 N 5 
+ 7  7  0 .MMM.....N..AA.N.K...N.K...LLKJJ..WW K 99 J 99 M 99 W 1 L 99 A 99 N 6 
+ 7  7  0 ..MMMK.....K.AAN.K...N...LLN....JJWW M 98 K 99 J 99 N 3 L 97 N 3 W 1 
+ 7  7  0 ...MMM.....KAA...K...N.KLL.N..JJ.NWW J 99 A 99 M 97 N 4 W 1 L 96 N 4 
+ 7  7  0 ...MMM...N..AA.N.K...N.K...LLK..JJWW A 99 M 97 J 99 K 99 L 99 N 6 W 1 
+ 7  7  0 .MMM.K...N.KAA.N.K...N...LL.....JJWW M 99 K 99 J 99 A 99 L 97 N 6 W 1 
+ 7  7  0 MMM..K.....KAA.N.K...N...LLN..JJWW.. K 99 N 3 L 97 N 3 W 1 J 99 A 99 
+ 7  7  0 ..MMMK.....K.AA..K...N...LLN..JJ.NWW M 98 N 2 L 97 W 1 J 99 N 2 K 99 
+ 7  7  0 ...MMM......AA.N.K...N.KLL.N.KJJ.WW. K 99 M 97 J 99 N 5 A 99 L 96 N 5 
+ 7  7  0 MMM............AAK...N.K.LLN.KJJ.NWW K 99 A 98 N 2 W 1 L 97 J 99 N 2 
+ 7  7  0 ..MMMK.....KAA.N.K...N..LL.N..JJ.WW. M 98 K 99 J 99 N 5 A 99 L 96 N 5 
+ 7  7  0 ..MMMK...N.KAA.N.K...N....LL..JJWW.. M 98 K 99 W 1 A 99 L 98 J 99 N 6 
+ 7  7  0 ...MMM.....K..AA.K...N.K.LLN..JJ.NWW A 99 M 97 N 2 W 1 L 97 J 99 N 2 
+ 7  7  0 ...MMM......AA.N.K...N.KLL.N.K.JJ.WW K 99 N 5 A 99 W 1 L 96 M 97 N 5 
+ 7  7  0 .MMM.K.....KAA.N.K...N..LL.N...JJ.WW M 99 W 1 A 99 N 3 L 96 N 3 K 99 
+ 7  7  0 ..MMM....N..AA.N.....N.K...LLKJJWW.K W 1 K 98 L 99 N 6 M 98 J 99 A 99 
+ 7  7  0 ...MMM...N..AA.N.K...N.K...LLKJJWW.. W 1 M 97 J 99 K 99 L 99 A 99 N 6 
+ 7  7  0 .MMM.K...N.KAA.N.K...N....LL..JJ..WW W 1 L 98 A 99 K 99 M 99 J 99 N 6 
+ 7  7  0 ..MMM....N..AA.N.K...N.KLL...K..JJWW M 98 K 99 A 99 L 96 J 99 N 6 W 1 
+ 7  7  0 MMM..K.....K..AA.K...N..LL.N..JJ.NWW K 99 A 99 J 99 N 4 W 1 L 96 N 4 
+ 7  7  0 ...MMM.......AA..K...N.K.LLN.KJJ.NWW J 99 M 97 K 99 N 4 L 97 N 4 W 1 
+ 7  7  0 ...MMM......AA.N.....N.KLL.N.KJJ.WWK K 98 M 97 J 99 N 5 A 99 L 96 N 5 
+ 7  7  0 ..MMM......KAA...K...N.KLL.N..JJ.NWW N 4 L 96 W 1 N 4 M 98 J 99 A 99 
+ 7  7  0 ..MMMK...N.KAA.N.K...N.....LL...JJWW J 99 W 1 L 99 N 6 M 98 K 99 A 99 
+ 7  7  0 .MMM.....N..AA.N.....N.KLL...KJJWW.K K 98 W 1 M 99 J 99 A 99 L 96 N 6 
+ 7  7  0 .MMM........AA.N.K...N.KLL.N.KJJ.WW. J 99 N 5 A 99 M 99 K 99 L 96 N 5 
+ 7  7  0 .MMM.....N..AA.N.K...N.K.LL..K..JJWW A 99 K 99 L 97 M 99 J 99 N 6 W 1 
+ 7  7  0 .MMM.K...N.KAA.N.K...N..LL......JJWW K 99 M 99 A 99 L 96 J 99 N 6 W 1 
+ 7  7  0 ..MMMK.....KAA...K...N...LLN...JJNWW K 99 M 98 N 4 A 99 L 97 N 4 W 1 
+ 7  7  0 ..MMM.......AA.N.....N.K.LLN.KJJ.WWK K 98 J 99 N 5 L 97 A 99 M 98 N 5 
+ 7  7  0 MMM.........AA...K...N.KLL.N.KJJ.NWW J 99 N 4 W 1 K 99 A 99 L 96 N 4 
+ 7  7  0 ..MMM....N..AA.N.K...N.KLL...KJJ..WW A 99 M 98 W 1 J 99 K 99 L 96 N 6 
+ 7  7  0 .MMM........AA.N.K...N.K.LLN.KJJ.WW. A 99 K 99 J 99 M 99 N 3 L 97 N 3 
+ 7  7  0 ..MMM....N..AA.N.K...N.K...LLKJJWW.. W 1 K 99 L 99 N 6 M 98 J 99 A 99 
+ 7  7  0 ..MMM........AAN.K...N.KLL.N.K..JJWW J 99 M 98 K 99 N 5 W 1 L 96 N 5 
+ 7  7  0 ..MMM....N..AA.N.K...N.K.LL..KJJWW.. A 99 M 98 W 1 J 99 K 99 L 97 N 6 
+ 7  7  0 .MMM.........AAN.....N.K.LLN.KJJWW.K M 99 W 1 J 99 K 98 N 3 L 97 N 3 
+ 7  7  0 .MMM.K.....K.AA..K...N...LLN..JJ.NWW N 4 W 1 L 97 K 99 M 99 J 99 N 4 
+ 7  7  0 .MMM.K...N.KAA.N.K...N...LL...JJ..WW A 99 W 1 L 97 K 99 M 99 J 99 N 6 
+ 7  7  0 .MMM.K.....K.AAN.K...N..LL.N..JJ..WW W 1 J 99 M 99 N 3 L 96 N 3 K 99 
+ 7  7  0 .MMM.........AA..K...N.KLL.N.KJJ.NWW N 4 W 1 J 99 M 99 K 99 L 96 N 4 
+ 7  7  0 .MMM.......KAA.N.K...N.K.LLN..JJ..WW N 5 L 97 J 99 N 5 M 99 W 1 A 99 
+ 7  7  0 .MMM.....N..AA.N.K...N.K..LL.KJJ..WW M 99 K 99 W 1 A 99 L 98 J 99 N 6 
+ 7  7  0 .MMM.........AAN.K...N.K.LLN.K..JJWW N 5 K 99 L 97 M 99 J 99 N 5 W 1 
+ 7  7  0 .MMM.K.....K.AAN.K...N...LLN..JJWW.. M 99 N 5 L 97 N 5 W 1 J 99 K 99 
+ 7  7  0 ..MMM........AAN.....N.KLL.N.KJJWW.K W 1 K 98 M 98 N 3 L 96 J 99 N 3 
+ 7  7  0 ..MMM.......AA.N.K...N.K.LLN.K.JJ.WW W 1 M 98 A 99 K 99 N 3 L 97 N 3 
+ 7  7  0 .MMM.....N..AA.N.K...N.K...LLKJJWW.. W 1 M 99 J 99 K 99 L 99 A 99 N 6 
+ 7  7  0 .MMM.K...N.KAA.N.K...N....LL..JJWW.. L 98 N 6 K 99 M 99 W 1 J 99 A 99 
+ 7  7  0 .MMM.K.....K.AAN.K...N...LLN..JJ..WW W 1 N 5 L 97 K 99 M 99 J 99 N 5 
+ 7  7  0 ..MMMK.....KAA...K...N..LL.N...JJNWW A 99 M 98 N 2 W 1 L 96 N 2 K 99 
+ 7  7  0 ..MMMK.....K..AA.K...N..LL.N...JJNWW K 99 M 98 A 99 N 4 W 1 L 96 N 4 
+ 7  7  0 MMM.........AA...K...N.K.LLN.KJJ.NWW J 99 A 99 K 99 N 4 L 97 N 4 W 1 
+ 7  7  0 ...MMM.....KAA.N.K...N.K.LLN....JJWW A 99 J 99 M 97 N 3 L 97 N 3 W 1 
+ 7  7  0 ..MMM......KAA.N.K...N.K.LLN..JJ..WW W 1 J 99 N 5 L 97 A 99 M 98 N 5 
+ 7  7  0 MMM...........AA.K...N.K.LLN.KJJ.NWW K 99 J 99 A 99 N 4 L 97 N 4 W 1 
+ 7  7  0 ..MMM..........AAK...N.KLL.N.K.JJNWW M 98 K 99 A 98 N 4 W 1 L 96 N 4 
+ 7  7  0 .MMM.......K..AA.K...N.KLL.N..JJ.NWW M 99 A 99 J 99 N 4 W 1 L 96 N 4 
+ 7  7  0 .MMM.......KAA.N.K...N.KLL.N..JJ..WW J 99 A 99 M 99 N 5 W 1 L 96 N 5 
+ 7  7  0 MMM..K.....K...AAK...N..LL.N..JJ.NWW K 99 J 99 A 98 N 4 W 1 L 96 N 4 
+ 7  7  0 ..MMM....N..AA.N.K...N.K...LLK..JJWW K 99 L 99 M 98 J 99 W 1 A 99 N 6 
+ 7  7  0 .MMM.....N..AA.N.K...N.K.LL..KJJ..WW W 1 K 99 A 99 J 99 L 97 N 6 M 99 
+ 7  7  0 ..MMM......KAA.N.K...N.K.LLN....JJWW A 99 M 98 J 99 N 3 L 97 N 3 W 1 
+ 7  7  0 ...MMM.......AAN.K...N.KLL.N.KJJ..WW K 99 N 5 W 1 J 99 L 96 M 97 N 5 
+ 7  7  0 ...MMM...N..AA.N.K...N.K...LLKJJ..WW W 1 M 97 J 99 K 99 L 99 A 99 N 6 
+ 7  7  0 ...MMM.......AAN.K...N.KLL.N.KJJWW.. W 1 J 99 K 99 N 5 L 96 M 97 N 5 
+ 7  7  0 .MMM.....N..AA.N.K...N.KLL...KJJ..WW W 1 K 99 M 99 J 99 A 99 L 96 N 6 
+ 7  7  0 ..MMMK.....K.AAN.K...N...LLN..JJ..WW N 5 K 99 M 98 J 99 L 97 N 5 W 1 
+ 7  7  0 ...MMM...N..AA.N.....N.K...LLKJJWW.K M 97 W 1 J 99 K 98 L 99 A 99 N 6 
+ 7  7  0 ..MMMK.....KAA.N.K...N...LLN..JJ.WW. K 99 J 99 N 5 L 97 A 99 M 98 N 5 
+ 7  7  0 .MMM.K.....KAA...K...N..LL.N...JJNWW N 4 L 96 A 99 M 99 N 4 W 1 K 99 
+ 7  7  0 ..MMM.......AA...K...N.K.LLN.K.JJNWW M 98 A 99 K 99 N 4 L 97 N 4 W 1 
+ 7  7  0 .MMM.K...N.KAA.N.K...N.....LL.JJ..WW M 99 L 99 J 99 N 6 W 1 K 99 A 99 
+ 7  7  0 MMM..K.....KAA...K...N...LLN..JJ.NWW K 99 J 99 N 4 A 99 L 97 N 4 W 1 
+ 7  7  0 ...MMM.......AAN.K...N.K.LLN.KJJ..WW J 99 W 1 M 97 K 99 N 3 L 97 N 3 
+ 7  7  0 .MMM........AA...K...N.K.LLN.K.JJNWW K 99 A 99 M 99 N 4 L 97 N 4 W 1 
+ 7  7  0 .MMM.........AAN.K...N.KLL.N.KJJWW.. K 99 M 99 W 1 N 3 L 96 J 99 N 3 
+ 7  7  0 .MMM........AA.N.....N.K.LLN.KJJ.WWK J 99 M 99 N 3 K 98 A 99 L 97 N 3 
+ 7  7  0 .MMM...........AAK...N.K.LLN.K.JJNWW M 99 K 99 A 98 N 4 L 97 N 4 W 1 
+ 7  7  0 .MMM.....N..AA.N.K...N.KLL...KJJWW.. W 1 K 99 M 99 J 99 A 99 L 96 N 6 
+ 7  7  0 ..MMM......KAA...K...N.K.LLN..JJ.NWW J 99 M 98 N 4 A 99 L 97 N 4 W 1 
+ 7  7  0 ...MMM...N..AA.N.K...N.K.LL..KJJ..WW W 1 K 99 A 99 J 99 L 97 M 97 N 6 
+ 7  7  0 ...MMM......AA.N.K...N.K.LLN.KJJ.WW. M 97 J 99 A 99 K 99 N 3 L 97 N 3 
+ 7  7  0 .MMM.......K...AAK...N.K.LLN..JJ.NWW M 99 A 98 N 2 W 1 L 97 J 99 N 2 
+ 7  7  0 ...MMM.....KAA.N.K...N.K.LLN..JJWW.. A 99 N 5 L 97 N 5 W 1 J 99 M 97 
+ 7  7  0 ..MMMK.....K...AAK...N...LLN...JJNWW M 98 A 98 N 2 W 1 K 99 L 97 N 2 
+ 7  7  0 .MMM.K.....K..AA.K...N...LLN...JJNWW M 99 K 99 A 99 N 4 L 97 N 4 W 1 
+ 7  7  0 .MMM.........AA..K...N.K.LLN.KJJ.NWW M 99 N 4 J 99 K 99 L 97 N 4 W 1 
+ 7  7  0 ..MMMK.....K.AAN.K...N..LL.N..JJWW.. M 98 K 99 W 1 N 3 L 96 J 99 N 3 
+ 7  7  0 MMM..K.....KAA.N.K...N..LL.N..JJWW.. N 3 L 96 W 1 N 3 K 99 J 99 A 99 
+ 7  7  0 .MMM.K.....K.AAN.K...N..LL.N....JJWW J 99 K 99 M 99 N 5 W 1 L 96 N 5 
+ 7  7  0 MMM..K.....KAA.N.K...N...LLN....JJWW N 3 L 97 J 99 N 3 W 1 K 99 A 99 
+ 7  7  0 ..MMM.........AA.K...N.K.LLN.K.JJNWW A 99 M 98 K 99 N 4 L 97 N 4 W 1 
+ 7  7  0 ..MMM........AA..K...N.KLL.N.KJJ.NWW K 99 M 98 J 99 N 4 W 1 L 96 N 4 
+ 7  7  0 .MMM.K.....KAA.N.K...N...LLN...JJ.WW A 99 K 99 N 5 W 1 L 97 N 5 M 99 
+ 7  7  0 ...MMM.........AAK...N.KLL.N.K.JJNWW A 98 K 99 M 97 N 4 W 1 L 96 N 4 
+ 7  7  0 ..MMM......K..AA.K...N.K.LLN..JJ.NWW J 99 A 99 M 98 N 4 L 97 N 4 W 1 
+ 7  7  0 ..MMM.........AA.K...N.KLL.N.K.JJNWW A 99 N 4 K 99 W 1 M 98 L 96 N 4 
+ 7  7  0 ...MMM...N..AA.N.K...N.KLL...KJJWW.. M 97 W 1 J 99 K 99 A 99 L 96 N 6 
+ 7  7  0 ...MMM........AA.K...N.K.LLN.K.JJNWW A 99 M 97 K 99 N 4 L 97 N 4 W 1 
+ 7  7  0 .MMM.......KAA...K...N.K.LLN..JJ.NWW J 99 A 99 M 99 N 4 L 97 N 4 W 1 
+ 7  7  0 ...MMM......AA...K...N.KLL.N.K.JJNWW A 99 K 99 M 97 N 4 W 1 L 96 N 4 
+ 7  7  0 ...MMM.........AAK...N.K.LLN.K.JJNWW A 98 M 97 K 99 N 4 L 97 N 4 W 1 
+ 7  7  0 MMM.........AA.N.K...N.K.LLN.KJJ..WW A 99 N 3 K 99 W 1 L 97 J 99 N 3 
+ 7  7  0 ...MMM...N..AA.N.....N.K..LL.KJJWW.K M 97 K 98 W 1 A 99 L 98 J 99 N 6 
+ 7  7  0 ..MMM....N..AA.N.....N.K.LL..KJJWW.K M 98 K 98 L 97 A 99 W 1 J 99 N 6 
+ 7  7  0 ...MMM...N..AA.N.....N.KLL...KJJWW.K K 98 L 96 A 99 N 6 W 1 J 99 M 97 
+ 7  7  0 .MMM..........AA.K...N.KLL.N.K.JJNWW K 99 M 99 A 99 N 4 W 1 L 96 N 4 
+ 7  7  0 .MMM.......KAA...K...N.KLL.N..JJ.NWW A 99 M 99 J 99 N 4 W 1 L 96 N 4 
+ 7  7  0 .MMM.K.....K...AAK...N..LL.N...JJNWW M 99 K 99 A 98 N 4 W 1 L 96 N 4 
+ 7  7  0 ...MMM.....KAA.N.K...N.KLL.N..JJ..WW N 5 L 96 A 99 N 5 J 99 M 97 W 1 
+ 7  7  0 .MMM.K...N.KAA.N.K...N...LL...JJWW.. L 97 N 6 K 99 M 99 W 1 J 99 A 99 
+ 7  7  0 ..MMMK...N.KAA.N.K...N....LL....JJWW J 99 L 98 K 99 W 1 A 99 M 98 N 6 
+ 7  7  0 ..MMMK...N.KAA.N.K...N...LL...JJ..WW A 99 K 99 M 98 J 99 L 97 N 6 W 1 
+ 7  7  0 .MMM........AA.N.K...N.KLL.N.K.JJ.WW M 99 W 1 K 99 N 5 A 99 L 96 N 5 
+ 7  7  0 ..MMMK...N.KAA.N.K...N.....LL.JJ..WW M 98 L 99 J 99 N 6 W 1 K 99 A 99 
+ 7  7  0 .MMM.....N..AA.N.....N.K.LL..KJJWW.K M 99 K 98 L 97 A 99 W 1 J 99 N 6 
+ 7  7  0 ...MMM...N..AA.N.K...N.KLL...K..JJWW M 97 K 99 A 99 L 96 J 99 N 6 W 1 
+ 7  7  0 MMM.........AA.N.....N.K.LLN.KJJWW.K W 1 N 3 J 99 K 98 A 99 L 97 N 3 
+ 7  7  0 MMM.........AA.N.K...N.KLL.N.K..JJWW N 5 K 99 A 99 L 96 J 99 N 5 W 1 
+ 7  7  0 ...MMM...N..AA.N.K...N.K..LL.KJJWW.. W 1 A 99 K 99 M 97 L 98 J 99 N 6 
+ 7  7  0 ...MMM......AA.N.K...N.K.LLN.K.JJ.WW N 5 M 97 K 99 A 99 L 97 N 5 W 1 
+ 7  7  0 ..MMM........AAN.K...N.K.LLN.KJJWW.. W 1 N 5 K 99 L 97 M 98 J 99 N 5 
+ 7  7  0 ...MMM...N..AA.N.K...N.K..LL.K..JJWW A 99 M 97 J 99 K 99 L 98 N 6 W 1 
+ 7  7  0 MMM..K.....K...AAK...N...LLN..JJ.NWW J 99 A 98 N 2 W 1 K 99 L 97 N 2 
+ 7  7  0 ..MMM.......AA.N.....N.KLL.N.KJJ.WWK A 99 K 98 M 98 N 3 L 96 J 99 N 3 
+ 7  7  0 ..MMMK.....KAA.N.K...N..LL.N...JJ.WW N 5 A 99 L 96 M 98 N 5 W 1 K 99 
+ 7  7  0 ..MMM........AAN.K...N.K.LLN.K..JJWW J 99 M 98 N 3 W 1 K 99 L 97 N 3 
+ 7  7  0 ..MMM....N..AA.N.K...N.K.LL..K..JJWW K 99 J 99 L 97 W 1 A 99 M 98 N 6 
+ 7  7  0 MMM..K.....KAA.N.K...N..LL.N..JJ..WW J 99 W 1 A 99 N 3 L 96 N 3 K 99 
+ 7  7  0 ..MMM....N..AA.N.....N.K..LL.KJJWW.K A 99 K 98 L 98 W 1 M 98 J 99 N 6 
+ 7  7  0 .MMM.......KAA.N.K...N.KLL.N..JJWW.. A 99 M 99 W 1 N 3 L 96 J 99 N 3 
+ 7  7  0 ...MMM.....K...AAK...N.KLL.N..JJ.NWW A 98 M 97 J 99 N 4 W 1 L 96 N 4 
+ 7  7  0 .MMM.....N..AA.N.K...N.K...LLK..JJWW M 99 K 99 L 99 J 99 W 1 A 99 N 6 
+ 7  7  0 ..MMMK...N.KAA.N.K...N..LL....JJWW.. M 98 L 96 N 6 K 99 W 1 J 99 A 99 
+ 7  7  0 .MMM.K.....KAA.N.K...N..LL.N..JJ.WW. K 99 N 5 M 99 J 99 A 99 L 96 N 5 
+ 7  7  0 .MMM.......KAA.N.K...N.KLL.N....JJWW M 99 N 5 A 99 L 96 J 99 N 5 W 1 
+ 7  7  0 ..MMMK...N.KAA.N.K...N..LL....JJ..WW J 99 A 99 L 96 M 98 N 6 W 1 K 99 
+ 7  7  0 ..MMM......KAA.N.K...N.K.LLN..JJWW.. W 1 J 99 N 5 L 97 A 99 M 98 N 5 
+ 7  7  0 ..MMM......K...AAK...N.KLL.N..JJ.NWW M 98 J 99 A 98 N 4 W 1 L 96 N 4 
+ 8  8  0 .MMM........AA.N.K...N.KLL.N.KJJWW.. M 99 A 99 K 99 W 1 N 3 L 96 J 99 N 3 
+ 8  8  0 .MMM...........AAK...N.K.LLN.KJJ.NWW M 99 K 99 A 98 N 2 W 1 L 97 J 99 N 2 
+ 8  8  0 .MMM.K.....KAA...K...N...LLN..JJ.NWW J 99 K 99 A 99 M 99 N 4 L 97 N 4 W 1 
+ 8  8  0 ...MMM......AA.N.K...N.K.LLN.KJJWW.. M 97 K 99 N 3 L 97 N 3 W 1 J 99 A 99 
+ 8  8  0 ...MMM........AA.K...N.KLL.N.KJJ.NWW A 99 J 99 K 99 M 97 N 4 W 1 L 96 N 4 
+ 8  8  0 .MMM........AA...K...N.KLL.N.KJJ.NWW J 99 M 99 N 4 W 1 K 99 A 99 L 96 N 4 
+ 8  8  0 .MMM........AA.N.....N.K.LLN.KJJWW.K K 98 M 99 N 3 L 97 N 3 W 1 J 99 A 99 
+ 8  8  0 ...MMM......AA.N.K...N.KLL.N.K..JJWW A 99 M 97 J 99 K 99 N 5 W 1 L 96 N 5 
+ 8  8  0 ...MMM......AA.N.K...N.K.LLN.KJJ..WW K 99 J 99 A 99 M 97 N 3 L 97 N 3 W 1 
+ 8  8  0 .MMM.K.....K..AA.K...N...LLN..JJ.NWW M 99 A 99 N 2 L 97 W 1 J 99 N 2 K 99 
+ 8  8  0 .MMM.K.....KAA.N.K...N..LL.N....JJWW M 99 N 3 L 96 J 99 N 3 W 1 K 99 A 99 
+ 8  8  0 ...MMM......AA.N.....N.KLL.N.KJJWW.K K 98 W 1 M 97 J 99 N 5 A 99 L 96 N 5 
+ 8  8  0 ..MMM.......AA.N.K...N.K.LLN.KJJWW.. W 1 A 99 N 5 K 99 L 97 M 98 J 99 N 5 
+ 8  8  0 ..MMMK.....KAA.N.K...N..LL.N..JJWW.. W 1 M 98 K 99 J 99 N 5 A 99 L 96 N 5 
+ 8  8  0 ..MMMK.....K...AAK...N...LLN..JJ.NWW A 98 M 98 N 2 L 97 W 1 J 99 N 2 K 99 
+ 8  8  0 ..MMM.......AA...K...N.KLL.N.KJJ.NWW J 99 M 98 N 4 W 1 K 99 A 99 L 96 N 4 
+ 8  8  0 ...MMM.........AAK...N.KLL.N.KJJ.NWW A 98 J 99 K 99 M 97 N 4 W 1 L 96 N 4 
+ 8  8  0 ..MMM.........AA.K...N.K.LLN.KJJ.NWW A 99 N 4 K 99 M 98 J 99 L 97 N 4 W 1 
+ 8  8  0 ..MMMK.....KAA.N.K...N..LL.N..JJ..WW K 99 N 5 L 96 W 1 N 5 M 98 J 99 A 99 
+ 8  8  0 .MMM.K.....KAA.N.K...N...LLN..JJ..WW M 99 W 1 N 5 L 97 J 99 K 99 A 99 N 5 
+ 8  8  0 ..MMMK.....K..AA.K...N..LL.N..JJ.NWW J 99 K 99 M 98 A 99 N 4 W 1 L 96 N 4 
+ 8  8  0 ..MMM.......AA.N.K...N.K.LLN.K..JJWW M 98 J 99 K 99 N 5 A 99 L 97 N 5 W 1 
+ 8  8  0 ..MMM.......AA.N.K...N.K.LLN.KJJ..WW J 99 W 1 M 98 A 99 K 99 N 3 L 97 N 3 
+ 8  8  0 .MMM........AA.N.K...N.KLL.N.KJJ..WW M 99 N 3 K 99 L 96 W 1 A 99 J 99 N 3 
+ 8  8  0 .MMM.K.....K...AAK...N...LLN..JJ.NWW J 99 A 98 N 4 L 97 M 99 N 4 W 1 K 99 
+ 8  8  0 ..MMM.......AA.N.K...N.KLL.N.KJJWW.. A 99 M 98 K 99 W 1 N 3 L 96 J 99 N 3 
+ 8  8  0 .MMM........AA.N.K...N.K.LLN.K..JJWW M 99 J 99 K 99 N 5 A 99 L 97 N 5 W 1 
+ 8  8  0 ..MMMK.....KAA.N.K...N...LLN....JJWW K 99 A 99 M 98 J 99 N 3 L 97 N 3 W 1 
+ 8  8  0 ...MMM......AA...K...N.K.LLN.KJJ.NWW K 99 A 99 M 97 N 2 W 1 L 97 J 99 N 2 
+ 8  8  0 .MMM..........AA.K...N.K.LLN.KJJ.NWW A 99 M 99 N 4 J 99 K 99 L 97 N 4 W 1 
+ 8  8  0 ..MMM..........AAK...N.KLL.N.KJJ.NWW J 99 M 98 K 99 A 98 N 4 W 1 L 96 N 4 
+ 8  8  0 .MMM.K.....KAA.N.K...N..LL.N..JJ..WW N 5 J 99 L 96 A 99 M 99 N 5 W 1 K 99 
+ 8  8  0 .MMM.K.....KAA.N.K...N..LL.N..JJWW.. N 5 L 96 N 5 K 99 M 99 W 1 J 99 A 99 
+ 8  8  0 .MMM.K.....K...AAK...N..LL.N..JJ.NWW J 99 M 99 K 99 A 98 N 4 W 1 L 96 N 4 
+ 8  8  0 .MMM........AA.N.K...N.KLL.N.K..JJWW M 99 N 5 K 99 A 99 L 96 J 99 N 5 W 1 
+ 8  8  0 ...MMM......AA.N.K...N.KLL.N.KJJWW.. K 99 W 1 M 97 J 99 N 5 A 99 L 96 N 5 
+ 8  8  0 .MMM.K.....KAA.N.K...N...LLN..JJWW.. W 1 J 99 N 5 A 99 K 99 L 97 N 5 M 99 
+ 8  8  0 ..MMM.......AA.N.....N.K.LLN.KJJWW.K M 98 W 1 N 3 J 99 K 98 A 99 L 97 N 3 
+ 8  8  0 ...MMM........AA.K...N.K.LLN.KJJ.NWW K 99 A 99 M 97 N 2 W 1 L 97 J 99 N 2 
+ 8  8  0 ...MMM......AA.N.K...N.KLL.N.KJJ..WW J 99 K 99 N 5 A 99 W 1 L 96 M 97 N 5 
+ 8  8  0 ..MMM.......AA.N.K...N.KLL.N.K..JJWW K 99 M 98 N 5 A 99 L 96 J 99 N 5 W 1 
+ 8  8  0 ..MMMK.....KAA...K...N...LLN..JJ.NWW A 99 M 98 N 2 L 97 W 1 J 99 N 2 K 99 
+ 8  8  0 .MMM.K.....K..AA.K...N..LL.N..JJ.NWW K 99 M 99 A 99 J 99 N 4 W 1 L 96 N 4 
+ 8  8  0 ...MMM......AA.N.K...N.K.LLN.K..JJWW J 99 N 5 M 97 K 99 A 99 L 97 N 5 W 1 
+ 8  8  0 .MMM........AA...K...N.K.LLN.KJJ.NWW K 99 J 99 A 99 M 99 N 4 L 97 N 4 W 1 
+ 8  8  0 ...MMM......AA...K...N.KLL.N.KJJ.NWW J 99 A 99 K 99 M 97 N 4 W 1 L 96 N 4 
+ 8  8  0 .MMM........AA.N.....N.KLL.N.KJJWW.K K 98 A 99 M 99 W 1 N 3 L 96 J 99 N 3 
+ 8  8  0 .MMM...........AAK...N.KLL.N.KJJ.NWW A 98 N 4 W 1 J 99 M 99 K 99 L 96 N 4 
+ 8  8  0 .MMM........AA.N.K...N.K.LLN.KJJWW.. M 99 K 99 N 3 L 97 N 3 W 1 J 99 A 99 
+ 8  8  0 .MMM.K.....KAA...K...N..LL.N..JJ.NWW K 99 A 99 M 99 J 99 N 4 W 1 L 96 N 4 
+ 8  8  0 ...MMM.........AAK...N.K.LLN.KJJ.NWW M 97 K 99 A 98 N 2 W 1 L 97 J 99 N 2 
+ 8  8  0 .MMM.K.....KAA.N.K...N...LLN....JJWW N 5 M 99 K 99 J 99 A 99 L 97 N 5 W 1 
+ 8  8  0 ...MMM......AA.N.....N.K.LLN.KJJWW.K W 1 N 5 J 99 M 97 K 98 A 99 L 97 N 5 
+ 8  8  0 .MMM........AA.N.K...N.K.LLN.KJJ..WW M 99 A 99 N 3 K 99 W 1 L 97 J 99 N 3 
+ 8  8  0 ..MMMK.....KAA.N.K...N...LLN..JJWW.. K 99 W 1 J 99 N 5 L 97 A 99 M 98 N 5 
+ 8  8  0 ..MMM.........AA.K...N.KLL.N.KJJ.NWW M 98 K 99 A 99 J 99 N 4 W 1 L 96 N 4 
+ 8  8  0 ..MMM.......AA.N.....N.KLL.N.KJJWW.K K 98 A 99 W 1 M 98 N 3 L 96 J 99 N 3 
+ 8  8  0 ..MMMK.....K..AA.K...N...LLN..JJ.NWW A 99 M 98 N 2 L 97 W 1 J 99 N 2 K 99 
+ 8  8  0 ..MMMK.....K...AAK...N..LL.N..JJ.NWW K 99 M 98 J 99 A 98 N 4 W 1 L 96 N 4 
+ 8  8  0 ..MMM.......AA...K...N.K.LLN.KJJ.NWW A 99 N 4 K 99 M 98 J 99 L 97 N 4 W 1 
+ 8  8  0 ..MMMK.....KAA.N.K...N...LLN..JJ..WW A 99 N 5 K 99 M 98 J 99 L 97 N 5 W 1 
+ 8  8  0 ..MMMK.....KAA...K...N..LL.N..JJ.NWW K 99 N 4 L 96 W 1 N 4 M 98 J 99 A 99 
+ 8  8  0 .MMM..........AA.K...N.KLL.N.KJJ.NWW M 99 K 99 A 99 J 99 N 4 W 1 L 96 N 4 
+ 8  8  0 ..MMMK.....KAA.N.K...N..LL.N....JJWW A 99 K 99 J 99 M 98 N 5 W 1 L 96 N 5 
+ 8  8  0 ..MMM..........AAK...N.K.LLN.KJJ.NWW M 98 K 99 A 98 N 2 W 1 L 97 J 99 N 2 
+ 8  8  0 ..MMM.......AA.N.K...N.KLL.N.KJJ..WW J 99 A 99 M 98 K 99 N 5 W 1 L 96 N 5 

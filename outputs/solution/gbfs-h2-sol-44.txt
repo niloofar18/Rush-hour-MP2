@@ -1,0 +1,15 @@
+Initial Board Configuration: CKKKNTC...NTAA.FFTQQQMII...MS....MS.
+
+C K K K N T
+C . . . N T
+A A . F F T
+Q Q Q M I I
+. . . M S .
+. . . M S .
+
+Car Fuel Available: C:100 K:7 N:100 T:100 A:4 F:7 Q:100 M:5 I:3 S:100 
+
+Puzzle cannot be solved. 
+Error: No Solution
+
+Runtime: 0.0010328292846679688

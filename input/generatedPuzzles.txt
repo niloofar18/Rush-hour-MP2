@@ -1,0 +1,150 @@
+# Puzzle 1
+XXX.P.....P.GAA...G......M.J...M.J..
+
+# Puzzle 2
+NN......GWWWAAGT.FO..T.FO..QQC..YY.C Q29 O02 Y68
+
+# Puzzle 3
+..VVV.......AA.......W...SSWF....WF. A83 W56 F11
+
+# Puzzle 4
+YQ..BBYQ....YAAHH.FFOKKKCCO.DD.EESSS
+
+# Puzzle 5
+J.....J.....AA........R.....R.....UU
+
+# Puzzle 6
+..WW.....CCCAANN....UU...KK.O.....O.
+
+# Puzzle 7
+GHH...G..FFFAA...M.....MWQQQ.RWVV..R
+
+# Puzzle 8
+...TUU...T.C.AAT.CMM..OO.VV....HHH..
+
+# Puzzle 9
+FEW...FEWUU.FAA...RRROOO..GGDD....VV
+
+# Puzzle 10
+..DD.ENNP..EAAPM.E.IPM..TI.KKXT....X
+
+# Puzzle 11
+F..LL.FSSO..AA.O..HHH.....DDW...IIW.
+
+# Puzzle 12
+.....O.....O.AAGG...........E.....E. O24
+
+# Puzzle 13
+VVN.OO..NQ..AANQ.GH.MM.GH..T..HEETII
+
+# Puzzle 14
+.NVU...NVUGGAA.WX....WX....WX.JJ..CC N69 G65 U42 W14
+
+# Puzzle 15
+EEJ..H..J..HAA.....NNNW.....W....FF. H46 N51 A96 F35 J31
+
+# Puzzle 16
+..XXXKDDD..KAA.RMC...RMC.NJ.BC.NJ.B.
+
+# Puzzle 17
+DO.FFEDO.R.E.AARK.W.T.K.W.T.K.W.T... K90 A95 W41 F34
+
+# Puzzle 18
+MMM........K.AAN.K...N.K...NLL.JJWW. N77 W25
+
+# Puzzle 19
+O.EEWDO...WDAAXKW...XK....LKVV..LJJ.
+
+# Puzzle 20
+...........N.AA..N...R...L.RQ..L..Q.
+
+# Puzzle 21
+YY...........AA..C...X.C.M.X...M.XKK
+
+# Puzzle 22
+.........WWH.AA..H...UU...MMMT.....T U92 H89
+
+# Puzzle 23
+VKJ...VKJOOOVAA..........MM.UU......
+
+# Puzzle 24
+...W.....WLF.AAOLF..HOL...H.....H... W42 A58 O42
+
+# Puzzle 25
+....FF......AA.GG.XH.CCCXH....XH.III A76 G71
+
+# Puzzle 26
+.UU..........AA.KF...PKF.YYP......RR A66 P28 F29 Y17
+
+# Puzzle 27
+..XX....V...AAV....TTT..K....QK....Q
+
+# Puzzle 28
+..N.EEH.N...HAAD..H..DI.MMQQI...CC.. H50
+
+# Puzzle 29
+R.XQ..R.XQ..RAA....DDDU.L..HUCL..HUC
+
+# Puzzle 30
+.....OJ.TT.OJAAN.OJ..N..XCGM.KXCGM.K C12 K26 X67 T08 A30
+
+# Puzzle 31
+X....VX.Q.SVAAQ.S.UUU..RJ.BB.RJ..HHR B89 J45
+
+# Puzzle 32
+Y...VVY..KK.YAA.U.....U.....UO..NN.O
+
+# Puzzle 33
+KKY.....Y.TT.AAMM......N.....NPPP...
+
+# Puzzle 34
+....J.....J.AA.....LLH..V..HE.VCC.E.
+
+# Puzzle 35
+.SWG.R.SWG.R.AA.DRII..D..OOO.V.UUU.V W82 G35 S30 V10 O19 I78
+
+# Puzzle 36
+WF.TT.WF.C...AAC.I.G.C.I.GLLLI.PPP.. L48 F89 A80 C76 G99
+
+# Puzzle 37
+G..FFFG.OOE.IAA.E.IQQQE.IP.....P..UU P10 F28
+
+# Puzzle 38
+.PPGGG..WWWQ.AA..QU...Y.UF..Y.UF....
+
+# Puzzle 39
+.............AAKQ....KQ.YYTF.L..TF.L
+
+# Puzzle 40
+....T..YY.T..AAIT.OO.IJJ...GG.....MM G82 Y06 T30
+
+# Puzzle 41
+..L.....L.R..AA.R.VVUSS.X.U...X.....
+
+# Puzzle 42
+.D.....D.B...AAB...J.BOO.J.QQQ....NN
+
+# Puzzle 43
+B...TTB..E.ILAAEYIL..EY.CC..RR..PPP. Y86 E95
+
+# Puzzle 44
+CKKKNTC...NTAA.FFTQQQMII...MS....MS. A43 I37 M57 F70 K75
+
+# Puzzle 45
+..OO.LYY.D.LVAAD.LV..TT.MMME..CC.ENN
+
+# Puzzle 46
+..NCYWDDNCYW.AACY.VB..UUVB.SQQ...S..
+
+# Puzzle 47
+GV....GV.Y..AA.Y....FFF...H..LPPH..L
+
+# Puzzle 48
+........FF...AA....WWWX.....X.....X.
+
+# Puzzle 49
+.KQW.N.KQW.NAAQM.NX..MUUXJJBB.......
+
+# Puzzle 50
+........C.OOAAC......Q..XX.QW..GGQW.
+

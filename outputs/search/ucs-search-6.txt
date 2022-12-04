@@ -1,0 +1,319 @@
+ 0  0  0 ..WW.....CCCAANN....UU...KK.O.....O.
+ 1  1  0 ....WW...CCCAANN....UU...KK.O.....O. W 98 
+ 1  1  0 ..WW....CCC.AANN....UU...KK.O.....O. C 99 
+ 1  1  0 ..WW.....CCCAANNO...UUO..KK......... O 98 
+ 1  1  0 ..WW.....CCCAANN....UU..KK..O.....O. K 99 
+ 1  1  0 ..WW.....CCCAANN...UU....KK.O.....O. U 99 
+ 1  1  0 ..WW.....CCCAANN....UUO..KK.O....... O 99 
+ 1  1  0 ..WW.....CCCAANN....UU....KKO.....O. K 99 
+ 1  1  0 ...WW....CCCAANN....UU...KK.O.....O. W 99 
+ 1  1  0 ..WW.....CCCAA......UU...KK.O.....O. N 98 
+ 1  1  0 ..WW...CCC..AANN....UU...KK.O.....O. C 98 
+ 1  1  0 ..WW..CCC...AANN....UU...KK.O.....O. C 97 
+ 2  2  0 WW......CCC.AANN....UU...KK.O.....O. W 98 C 99 
+ 2  2  0 ..WW.....CCCAANN......UUKK..O.....O. U 98 K 99 
+ 2  2  0 ..WW...CCCO.AANNO...UU...KK......... O 97 C 98 
+ 2  2  0 ..WW.....CCCAA......UU..KK..O.....O. N 98 K 99 
+ 2  2  0 ..WW...CCC..AANN....UU..KK..O.....O. K 99 C 98 
+ 2  2  0 ..WW...CCC..AANN..UU.....KK.O.....O. U 98 C 98 
+ 2  2  0 .WW......CCCAANN....UU..KK..O.....O. W 99 K 99 
+ 2  2  0 ..WW...CCC..AA......UU...KK.O.....O. N 98 C 98 
+ 2  2  0 .WW....CCC..AANN....UU...KK.O.....O. W 99 C 98 
+ 2  2  0 ..WW.....CCCAANNO...UUO.KK.......... O 98 K 99 
+ 2  2  0 ...WW....CCCAANN..UU.....KK.O.....O. U 98 W 99 
+ 2  2  0 ...WW....CCCAA......UU...KK.O.....O. N 98 W 99 
+ 2  2  0 ..WW.....CCCAANNO.UU..O..KK......... U 98 O 98 
+ 2  2  0 ..WWO.CCC.O.AANN....UU...KK......... O 96 C 97 
+ 2  2  0 ...WW....CCCAANN.....UU..KK.O.....O. U 99 W 99 
+ 2  2  0 ..WW..CCC...AANN.....UU..KK.O.....O. U 99 C 97 
+ 2  2  0 ...WW....CCCAANN......UU.KK.O.....O. U 98 W 99 
+ 2  2  0 ..WW..CCC...AA......UU...KK.O.....O. N 98 C 97 
+ 2  2  0 ..WW..CCC...AANN....UU....KKO.....O. C 97 K 99 
+ 2  2  0 ...WW.CCC...AANN....UU...KK.O.....O. W 99 C 97 
+ 2  2  0 WW.......CCCAANN....UU....KKO.....O. W 98 K 99 
+ 2  2  0 .WW......CCCAANNO...UUO..KK......... W 99 O 98 
+ 2  2  0 ....WW...CCCAA......UU...KK.O.....O. N 98 W 98 
+ 2  2  0 ...WW....CCCAANN....UU..KK..O.....O. K 99 W 99 
+ 2  2  0 ..WW.....CCCAANN...UU.O..KK.O....... U 99 O 99 
+ 2  2  0 ..WW.....CCCAA......UUO..KK.O....... N 98 O 99 
+ 2  2  0 ..WW....CCC.AANN....UUO..KK.O....... C 99 O 99 
+ 2  2  0 ..WW.....CCCAANN....UUO...KKO....... O 99 K 99 
+ 2  2  0 ..WW...CCC..AANN......UU.KK.O.....O. U 98 C 98 
+ 2  2  0 WW.......CCCAANN....UUO..KK.O....... W 98 O 99 
+ 2  2  0 ..WW.....CCCAANN..UU......KKO.....O. U 98 K 99 
+ 2  2  0 ..WW.....CCCAA.....UU....KK.O.....O. N 98 U 99 
+ 2  2  0 ..WW....CCC.AANN...UU....KK.O.....O. C 99 U 99 
+ 2  2  0 ..WW....CCC.AA......UU...KK.O.....O. N 98 C 99 
+ 2  2  0 ..WW.....CCCAA......UU....KKO.....O. N 98 K 99 
+ 2  2  0 ..WW.....CCC....AA..UU...KK.O.....O. A 96 N 98 
+ 2  2  0 .WW......CCCAANN...UU....KK.O.....O. W 99 U 99 
+ 2  2  0 WW.......CCCAANN...UU....KK.O.....O. W 98 U 99 
+ 2  2  0 ..WW.....CCCAANN......UU..KKO.....O. U 98 K 99 
+ 2  2  0 ...WW....CCCAANN...UU....KK.O.....O. W 99 U 99 
+ 2  2  0 ....WW...CCCAANN...UU....KK.O.....O. W 98 U 99 
+ 2  2  0 ..WW.....CCCAANN.....UU...KKO.....O. U 99 K 99 
+ 2  2  0 ...WW....CCCAANN....UUO..KK.O....... O 99 W 99 
+ 2  2  0 ..WW.....CCCAANN...UU...KK..O.....O. U 99 K 99 
+ 2  2  0 .WW.....CCC.AANN....UU...KK.O.....O. W 99 C 99 
+ 2  2  0 ..WW.....CCCAANN..UU....KK..O.....O. U 98 K 99 
+ 2  2  0 ..WW.....CCCAANN.....UU.KK..O.....O. U 99 K 99 
+ 2  2  0 WW.....CCC..AANN....UU...KK.O.....O. W 98 C 98 
+ 2  2  0 ..WW...CCC..AANN....UUO..KK.O....... C 98 O 99 
+ 2  2  0 ....WW..CCC.AANN....UU...KK.O.....O. C 99 W 98 
+ 2  2  0 ..WWO..CCCO.AANN....UU...KK......... O 96 C 98 
+ 2  2  0 ....WW...CCCAANN....UUO..KK.O....... W 98 O 99 
+ 2  2  0 ..WW....CCC.AANN......UU.KK.O.....O. U 98 C 99 
+ 2  2  0 ....WW...CCCAANN....UU..KK..O.....O. W 98 K 99 
+ 2  2  0 ...WW....CCCAANNO...UUO..KK......... O 98 W 99 
+ 2  2  0 ....WW...CCCAANNO...UUO..KK......... W 98 O 98 
+ 2  2  0 ....WW...CCCAANN....UU....KKO.....O. W 98 K 99 
+ 2  2  0 WW....CCC...AANN....UU...KK.O.....O. W 98 C 97 
+ 2  2  0 ....WWCCC...AANN....UU...KK.O.....O. C 97 W 98 
+ 2  2  0 ..WW..CCC...AANN....UU..KK..O.....O. C 97 K 99 
+ 2  2  0 ..WW....CCC.AANN....UU....KKO.....O. K 99 C 99 
+ 2  2  0 ..WW..CCC...AANN......UU.KK.O.....O. U 98 C 97 
+ 2  2  0 ..WW....CCC.AANN.....UU..KK.O.....O. U 99 C 99 
+ 2  2  0 ....WW...CCCAANN.....UU..KK.O.....O. U 99 W 98 
+ 2  2  0 ..WW..CCC...AANNO...UUO..KK......... C 97 O 98 
+ 2  2  0 ....WW...CCCAANN..UU.....KK.O.....O. U 98 W 98 
+ 2  2  0 ..WW.....CCCAANNO...UUO....KK....... K 98 O 98 
+ 2  2  0 ..WW..CCC.O.AANNO...UU...KK......... O 97 C 97 
+ 2  2  0 ..WW.....CCCAANN..UU..O..KK.O....... U 98 O 99 
+ 2  2  0 ..WW....CCC.AANN....UU..KK..O.....O. K 99 C 99 
+ 2  2  0 ..WW.....CCCAANN...UU.....KKO.....O. U 99 K 99 
+ 2  2  0 ..WW..CCC...AANN..UU.....KK.O.....O. U 98 C 97 
+ 2  2  0 ...WW...CCC.AANN....UU...KK.O.....O. C 99 W 99 
+ 2  2  0 ..WW.....CCCAANNO...UUO.....KK...... K 97 O 98 
+ 2  2  0 ....WW.CCC..AANN....UU...KK.O.....O. C 98 W 98 
+ 2  2  0 ....WW...CCCAANN......UU.KK.O.....O. U 98 W 98 
+ 2  2  0 ..WW...CCC..AANNO...UUO..KK......... C 98 O 98 
+ 2  2  0 ..WW....CCC.AANNO...UUO..KK......... O 98 C 99 
+ 3  3  0 WW......CCC.AANN....UUO..KK.O....... O 99 W 98 C 99 
+ 3  3  0 .WW....CCC..AANN....UUO..KK.O....... O 99 W 99 C 98 
+ 3  3  0 WW....CCC...AANN.....UU..KK.O.....O. W 98 U 99 C 97 
+ 3  3  0 ...WW.CCC...AANN....UUO..KK.O....... O 99 W 99 C 97 
+ 3  3  0 .WW......CCCAANN..UU......KKO.....O. W 99 U 98 K 99 
+ 3  3  0 WW....CCC...AANN....UUO..KK.O....... C 97 W 98 O 99 
+ 3  3  0 .WW......CCCAANN....UUO..KK.O....... W 97 W 97 O 99 
+ 3  3  0 .WW....CCC..AANN......UU.KK.O.....O. W 99 U 98 C 98 
+ 3  3  0 WW.....CCC..AANN......UU.KK.O.....O. W 98 U 98 C 98 
+ 3  3  0 ...WW..CCC..AANN......UU.KK.O.....O. W 99 U 98 C 98 
+ 3  3  0 WW.......CCCAANN....UU...KK.O.....O. O 98 W 98 O 98 
+ 3  3  0 ..WW.....CCCAANN...UU.O...KKO....... U 99 O 99 K 99 
+ 3  3  0 ..WW.....CCCAANN..UU..O...KKO....... U 98 O 99 K 99 
+ 3  3  0 ..WW.....CCCAA......UUO...KKO....... N 98 O 99 K 99 
+ 3  3  0 ..WW....CCC.AANN....UUO...KKO....... C 99 O 99 K 99 
+ 3  3  0 ..WW...CCC..AANN....UUO...KKO....... C 98 O 99 K 99 
+ 3  3  0 ..WW..CCC...AANN....UUO...KKO....... C 97 O 99 K 99 
+ 3  3  0 .WW......CCCAANN....UUO...KKO....... W 99 O 99 K 99 
+ 3  3  0 ....WW..CCC.AANN...UU....KK.O.....O. W 98 C 99 U 99 
+ 3  3  0 ...WW....CCCAANN....UUO...KKO....... W 99 O 99 K 99 
+ 3  3  0 ....WW...CCCAANN....UUO...KKO....... W 98 O 99 K 99 
+ 3  3  0 ..WW....CCC.AANN....UUO.KK..O....... K 99 C 99 O 99 
+ 3  3  0 ..WW.....CCCAANNO...UUO...KK........ O 98 O 98 K 99 
+ 3  3  0 ..WW....CCC.AANN...UU.O..KK.O....... U 99 C 99 O 99 
+ 3  3  0 ..WW....CCC.AANN..UU..O..KK.O....... U 98 C 99 O 99 
+ 3  3  0 ..WW....CCC.AA......UUO..KK.O....... N 98 C 99 O 99 
+ 3  3  0 WW.......CCCAANNO...UUO..KK......... O 98 W 98 O 98 
+ 3  3  0 ..WW..CCC...AANN....UUO..KK.O....... C 97 C 97 O 99 
+ 3  3  0 .WW.....CCC.AANN....UUO..KK.O....... W 99 C 99 O 99 
+ 3  3  0 ..WW...CCC..AANN.....UU..KK.O.....O. U 97 U 97 C 98 
+ 3  3  0 ....WW..CCC.AANN....UUO..KK.O....... W 98 C 99 O 99 
+ 3  3  0 ..WW...CCC..AANN...UU.O..KK.O....... C 98 U 99 O 99 
+ 3  3  0 ..WW.....CCCAANN......UU.KK.O.....O. C 96 U 98 C 96 
+ 3  3  0 .WW......CCCAANN...UU.O..KK.O....... W 99 U 99 O 99 
+ 3  3  0 WW.......CCCAANN...UU.O..KK.O....... W 98 U 99 O 99 
+ 3  3  0 ...WW....CCCAANN...UU.O..KK.O....... W 99 U 99 O 99 
+ 3  3  0 ...WW....CCCAANN....UU....KKO.....O. K 97 K 97 W 99 
+ 3  3  0 ...WW....CCCAANN...UU...KK..O.....O. U 99 K 99 W 99 
+ 3  3  0 ...WW....CCCAANN..UU....KK..O.....O. U 98 K 99 W 99 
+ 3  3  0 ...WW...CCC.AANN...UU....KK.O.....O. W 99 C 99 U 99 
+ 3  3  0 ...WW....CCCAANN......UUKK..O.....O. U 98 K 99 W 99 
+ 3  3  0 ...WW....CCCAA......UU..KK..O.....O. N 98 K 99 W 99 
+ 3  3  0 ...WW...CCC.AANN....UU..KK..O.....O. C 99 K 99 W 99 
+ 3  3  0 ...WW.CCC...AANN....UU..KK..O.....O. C 97 K 99 W 99 
+ 3  3  0 WW.......CCCAANN....UU..KK..O.....O. W 96 K 99 W 96 
+ 3  3  0 WW.....CCC..AANN....UUO..KK.O....... C 98 W 98 O 99 
+ 3  3  0 .WW......CCCAANNO.UU..O..KK......... U 98 W 99 O 98 
+ 3  3  0 .WW.....CCC.AANNO...UUO..KK......... C 99 W 99 O 98 
+ 3  3  0 .WW....CCC..AANNO...UUO..KK......... C 98 W 99 O 98 
+ 3  3  0 .WW...CCC...AANNO...UUO..KK......... C 97 W 99 O 98 
+ 3  3  0 ..WW....CCC.AANN..UU......KKO.....O. C 99 U 98 K 99 
+ 3  3  0 WW.......CCCAANN...UU.....KKO.....O. U 99 W 98 K 99 
+ 3  3  0 WW.......CCCAANN.....UU...KKO.....O. U 99 W 98 K 99 
+ 3  3  0 WW.......CCCAANN......UU..KKO.....O. U 98 W 98 K 99 
+ 3  3  0 WW.......CCCAA......UU....KKO.....O. N 98 W 98 K 99 
+ 3  3  0 ..WW.....CCCAA....UU......KKO.....O. N 98 U 98 K 99 
+ 3  3  0 WW.....CCC..AANN....UU....KKO.....O. C 98 W 98 K 99 
+ 3  3  0 WW....CCC...AANN....UU....KKO.....O. C 97 W 98 K 99 
+ 3  3  0 .WW......CCCAANN....UU....KKO.....O. W 97 W 97 K 99 
+ 3  3  0 ...WW.CCC...AA......UU...KK.O.....O. N 98 W 99 C 97 
+ 3  3  0 ...WW..CCC..AANN....UU...KK.O.....O. C 96 W 99 C 96 
+ 3  3  0 WW......CCC.AANN...UU....KK.O.....O. W 98 C 99 U 99 
+ 3  3  0 .WW...CCC...AANN....UU...KK.O.....O. W 97 W 97 C 97 
+ 3  3  0 ..WW..CCC...AANN..UU......KKO.....O. C 97 U 98 K 99 
+ 3  3  0 ..WW..CCC.O.AANNO...UU....KK........ O 97 C 97 K 99 
+ 3  3  0 ..WWO.CCC.O.AANN....UU....KK........ O 96 C 97 K 99 
+ 3  3  0 ..WW....CCC.AANN...UU...KK..O.....O. K 99 C 99 U 99 
+ 3  3  0 ..WW..CCC...AANN.....UU...KKO.....O. U 99 C 97 K 99 
+ 3  3  0 ..WW..CCC...AANN......UU..KKO.....O. U 98 C 97 K 99 
+ 3  3  0 ..WW....CCC.....AA..UU...KK.O.....O. A 96 N 98 C 99 
+ 3  3  0 ..WW...CCC..AANN....UU....KKO.....O. C 96 C 96 K 99 
+ 3  3  0 .WW...CCC...AANN....UU....KKO.....O. W 99 C 97 K 99 
+ 3  3  0 .WW.....CCC.AANN...UU....KK.O.....O. W 99 C 99 U 99 
+ 3  3  0 ...WW.CCC...AANN....UU....KKO.....O. W 99 C 97 K 99 
+ 3  3  0 ....WWCCC...AANN....UU....KKO.....O. W 98 C 97 K 99 
+ 3  3  0 ..WW....CCC.AANN..UU.....KK.O.....O. U 98 C 99 U 98 
+ 3  3  0 .WW......CCCAANN......UU.KK.O.....O. W 97 U 98 W 97 
+ 3  3  0 WW.......CCCAANN......UU.KK.O.....O. W 96 U 98 W 96 
+ 3  3  0 ..WW..CCC...AANN...UU....KK.O.....O. C 97 C 97 U 99 
+ 3  3  0 ..WW..CCC...AA.......UU..KK.O.....O. N 98 U 99 C 97 
+ 3  3  0 ..WW...CCC..AANN...UU....KK.O.....O. C 98 C 98 U 99 
+ 3  3  0 ..WW....CCC.AA.....UU....KK.O.....O. N 98 C 99 U 99 
+ 3  3  0 ...WW.CCC...AANN.....UU..KK.O.....O. W 99 U 99 C 97 
+ 3  3  0 .WW...CCC...AANN.....UU..KK.O.....O. W 99 U 99 C 97 
+ 3  3  0 ...WW...CCC.AANN......UU.KK.O.....O. C 99 U 98 W 99 
+ 3  3  0 .WW......CCCAANN.....UU..KK.O.....O. W 97 U 99 W 97 
+ 3  3  0 WW.......CCCAANN.....UU..KK.O.....O. W 96 U 99 W 96 
+ 3  3  0 ....WW...CCCAANN..UU......KKO.....O. W 98 U 98 K 99 
+ 3  3  0 ..WWO.CCC.O.AANN....UU.....KK....... K 98 O 96 C 97 
+ 3  3  0 ..WWO.CCC.O.AANN....UU......KK...... K 97 O 96 C 97 
+ 3  3  0 ...WW....CCCAANN..UU......KKO.....O. W 99 U 98 K 99 
+ 3  3  0 ..WWO.CCC.O.AANN..UU.....KK......... U 98 O 96 C 97 
+ 3  3  0 WW.......CCCAANN..UU......KKO.....O. W 98 U 98 K 99 
+ 3  3  0 ..WWO.CCC.O.AANN......UU.KK......... U 98 O 96 C 97 
+ 3  3  0 ..WWO.CCC.O.AA......UU...KK......... N 98 O 96 C 97 
+ 3  3  0 .WW.O.CCC.O.AANN....UU...KK......... W 99 O 96 C 97 
+ 3  3  0 WW..O.CCC.O.AANN....UU...KK......... W 98 O 96 C 97 
+ 3  3  0 ..WW.....CCCAANNO.UU..O...KK........ K 99 U 98 O 98 
+ 3  3  0 ..WW.....CCCAANNO.UU..O....KK....... K 98 U 98 O 98 
+ 3  3  0 ..WW.....CCCAANNO.UU..O.....KK...... K 97 U 98 O 98 
+ 3  3  0 ..WW.....CCCAANNO..UU.O..KK......... U 97 U 97 O 98 
+ 3  3  0 ..WW....CCC.AANNO.UU..O..KK......... C 99 U 98 O 98 
+ 3  3  0 ..WW...CCC..AANNO.UU..O..KK......... C 98 U 98 O 98 
+ 3  3  0 ..WW..CCC...AANNO.UU..O..KK......... C 97 U 98 O 98 
+ 3  3  0 WW.......CCCAANNO.UU..O..KK......... W 98 U 98 O 98 
+ 3  3  0 ...WW....CCCAANNO.UU..O..KK......... W 99 U 98 O 98 
+ 3  3  0 ....WW...CCCAANNO.UU..O..KK......... W 98 U 98 O 98 
+ 3  3  0 ...WW.CCC...AANN..UU.....KK.O.....O. C 97 U 98 W 99 
+ 3  3  0 .WW......CCCAANN..UU.....KK.O.....O. W 97 U 98 W 97 
+ 3  3  0 WW.......CCCAANN..UU.....KK.O.....O. W 96 U 98 W 96 
+ 3  3  0 ..WW..CCC...AANNO...UUO.KK.......... C 97 O 98 K 99 
+ 3  3  0 .WW......CCCAANNO...UUO.KK.......... W 99 O 98 K 99 
+ 3  3  0 WW.......CCCAANNO...UUO.KK.......... W 98 O 98 K 99 
+ 3  3  0 ...WW....CCCAANNO...UUO.KK.......... W 99 O 98 K 99 
+ 3  3  0 ..WW...CCC..AANNO...UUO.KK.......... C 98 O 98 K 99 
+ 3  3  0 .WW....CCC..AANN..UU.....KK.O.....O. U 98 W 99 C 98 
+ 3  3  0 ..WW....CCC.AANNO...UUO.KK.......... C 99 O 98 K 99 
+ 3  3  0 ..WW.....CCCAANNO.UU..O.KK.......... U 98 O 98 K 99 
+ 3  3  0 .WW......CCCAANN....UU...KK.O.....O. C 96 W 99 C 96 
+ 3  3  0 ...WW....CCCAA........UU.KK.O.....O. N 98 U 98 W 99 
+ 3  3  0 ...WW...CCC.AANN..UU.....KK.O.....O. C 99 U 98 W 99 
+ 3  3  0 ..WW.....CCCAANN..UU.....KK.O.....O. O 96 U 98 O 96 
+ 3  3  0 ...WW....CCCAANN.....UU...KKO.....O. K 99 U 99 W 99 
+ 3  3  0 ...WW..CCC..AANN.....UU..KK.O.....O. C 98 U 99 W 99 
+ 3  3  0 ...WW...CCC.AANN.....UU..KK.O.....O. C 99 U 99 W 99 
+ 3  3  0 ...WW....CCCAANN......UU..KKO.....O. K 99 U 98 W 99 
+ 3  3  0 ..WW..CCC...AANN.....UU.KK..O.....O. K 99 U 99 C 97 
+ 3  3  0 ..WW..CCC.......AA..UU...KK.O.....O. A 96 N 98 C 97 
+ 3  3  0 WW.......CCCAANN....UUO.KK..O....... K 99 W 98 O 99 
+ 3  3  0 .WW......CCCAANN.....UU.KK..O.....O. U 99 W 99 K 99 
+ 3  3  0 ...WW.CCC.O.AANNO...UU...KK......... O 97 W 99 C 97 
+ 3  3  0 .WW......CCCAA......UU..KK..O.....O. N 98 W 99 K 99 
+ 3  3  0 .WW....CCC..AANN....UU..KK..O.....O. C 98 W 99 K 99 
+ 3  3  0 ...WW.CCC...AANN...UU....KK.O.....O. U 99 W 99 C 97 
+ 3  3  0 ...WW....CCCAANN....UUO.KK..O....... O 99 K 99 W 99 
+ 3  3  0 ..WW...CCCO.AANNO.UU.....KK......... O 97 U 98 C 98 
+ 3  3  0 .WW......CCCAANNO...UUO.....KK...... K 97 W 99 O 98 
+ 3  3  0 ..WW...CCC..AANN..UU....KK..O.....O. K 99 U 98 C 98 
+ 3  3  0 .WW......CCCAANNO...UUO....KK....... K 98 W 99 O 98 
+ 3  3  0 ..WW...CCC..AANN......UUKK..O.....O. K 99 U 98 C 98 
+ 3  3  0 ..WW.....CCCAANN...UU.O.KK..O....... K 99 U 99 O 99 
+ 3  3  0 ..WW.....CCC....AA..UUO..KK.O....... A 96 N 98 O 99 
+ 3  3  0 ..WW.....CCCAANN....UUO.KK..O....... K 97 O 99 K 97 
+ 3  3  0 WW.....CCC..AANN..UU.....KK.O.....O. W 98 U 98 C 98 
+ 3  3  0 ....WW.CCC..AANN..UU.....KK.O.....O. W 98 U 98 C 98 
+ 3  3  0 ...WW...CCC.AANN....UUO..KK.O....... W 99 C 99 O 99 
+ 3  3  0 ..WW...CCC..AANN.....UU.KK..O.....O. U 99 K 99 C 98 
+ 3  3  0 ..WW...CCC..AA........UU.KK.O.....O. N 98 U 98 C 98 
+ 3  3  0 ..WW...CCC..AA......UU..KK..O.....O. N 98 K 99 C 98 
+ 3  3  0 ..WW.....CCC....AA.UU....KK.O.....O. A 96 N 98 U 99 
+ 3  3  0 WW.....CCC..AANN....UU..KK..O.....O. W 98 K 99 C 98 
+ 3  3  0 ...WW..CCC..AANN....UU..KK..O.....O. C 98 K 99 W 99 
+ 3  3  0 ....WW.CCC..AANN....UU..KK..O.....O. W 98 K 99 C 98 
+ 3  3  0 WW.......CCCAA......UUO..KK.O....... N 98 W 98 O 99 
+ 3  3  0 ..WW...CCCO.AANNO...UU......KK...... K 97 O 97 C 98 
+ 3  3  0 ..WW...CCCO.AANNO.....UU.KK......... U 98 O 97 C 98 
+ 3  3  0 .WW....CCCO.AANNO...UU...KK......... W 99 O 97 C 98 
+ 3  3  0 ...WW..CCCO.AANNO...UU...KK......... W 99 O 97 C 98 
+ 3  3  0 ..WW.....CCC....AA..UU....KKO.....O. A 96 N 98 K 99 
+ 3  3  0 ..WW....CCC.AANN......UUKK..O.....O. C 99 U 98 K 99 
+ 3  3  0 ..WW..CCC...AANNO...UUO...KK........ O 98 C 97 K 99 
+ 3  3  0 ..WW..CCC...AANN......UUKK..O.....O. C 97 U 98 K 99 
+ 3  3  0 ..WW....CCC.AANNO..UU.O..KK......... O 98 C 99 U 99 
+ 3  3  0 WW.......CCCAANN......UUKK..O.....O. W 98 U 98 K 99 
+ 3  3  0 ..WW..CCC...AA......UU....KKO.....O. N 98 C 97 K 99 
+ 3  3  0 ....WW...CCCAANN......UUKK..O.....O. W 98 U 98 K 99 
+ 3  3  0 WW......CCC.AANN....UU....KKO.....O. K 99 W 98 C 99 
+ 3  3  0 ...WW.CCC...AANN......UU.KK.O.....O. C 97 U 98 W 99 
+ 3  3  0 WW......CCC.AANN..UU.....KK.O.....O. U 98 W 98 C 99 
+ 3  3  0 WW......CCC.AANN......UU.KK.O.....O. U 98 W 98 C 99 
+ 3  3  0 ....WWCCC...AANN.....UU..KK.O.....O. W 98 U 99 C 97 
+ 3  3  0 ..WW.....CCCAANN.....UU..KK.O.....O. C 94 U 99 C 94 
+ 3  3  0 WW......CCC.AANNO...UUO..KK......... O 98 W 98 C 99 
+ 3  3  0 ..WWO.CCC.O.AANN....UU..KK.......... K 99 O 96 C 97 
+ 3  3  0 ..WWO.CCC.O.AANN...UU....KK......... U 99 O 96 C 97 
+ 3  3  0 ..WWO.CCC.O.AANN.....UU..KK......... U 99 O 96 C 97 
+ 3  3  0 ..WW...CCC......AA..UU...KK.O.....O. A 96 N 98 C 98 
+ 3  3  0 ..WW...CCCO.AANNO...UU....KK........ K 99 O 97 C 98 
+ 3  3  0 ..WWO..CCCO.AANN....UU..KK.......... O 96 K 99 C 98 
+ 3  3  0 ..WW...CCCO.AANNO...UU..KK.......... O 97 K 99 C 98 
+ 3  3  0 .WW......CCCAANN...UU...KK..O.....O. U 99 W 99 K 99 
+ 3  3  0 ..WW...CCC..AANN...UU...KK..O.....O. U 99 K 99 C 98 
+ 3  3  0 ...WW....CCCAANN..UU..O..KK.O....... O 99 U 98 W 99 
+ 3  3  0 .WW....CCC..AANN...UU....KK.O.....O. U 99 W 99 C 98 
+ 3  3  0 .WW....CCC..AANN....UU....KKO.....O. K 99 W 99 C 98 
+ 3  3  0 .WW....CCC..AANN.....UU..KK.O.....O. U 99 W 99 C 98 
+ 3  3  0 ...WW....CCC....AA..UU...KK.O.....O. A 96 N 98 W 99 
+ 3  3  0 ...WW..CCC..AANN..UU.....KK.O.....O. C 98 U 98 W 99 
+ 3  3  0 ...WW....CCCAA.......UU..KK.O.....O. N 98 U 99 W 99 
+ 3  3  0 .WW......CCCAANN......UUKK..O.....O. U 98 W 99 K 99 
+ 3  3  0 .WW...CCC...AANN....UU..KK..O.....O. C 97 W 99 K 99 
+ 3  3  0 .WW......CCCAANNO...UUO...KK........ K 99 W 99 O 98 
+ 3  3  0 ....WW...CCC....AA..UU...KK.O.....O. A 96 N 98 W 98 
+ 3  3  0 ..WW...CCC..AANN..UU......KKO.....O. K 99 U 98 C 98 
+ 3  3  0 ....WW.CCC..AANN......UU.KK.O.....O. W 98 U 98 C 98 
+ 3  3  0 ..WW...CCC..AA....UU.....KK.O.....O. N 98 U 98 C 98 
+ 3  3  0 WW.......CCCAANN....UUO...KKO....... W 98 O 99 K 99 
+ 3  3  0 ..WW...CCC..AANN......UU..KKO.....O. K 99 U 98 C 98 
+ 3  3  0 ..WW..CCC...AANN...UU.O..KK.O....... C 97 U 99 O 99 
+ 3  3  0 ....WW...CCCAANN...UU.O..KK.O....... W 98 U 99 O 99 
+ 3  3  0 .WW......CCCAANNO..UU.O..KK......... U 99 W 99 O 98 
+ 3  3  0 ..WW...CCCO.AANNO..UU....KK......... U 99 O 97 C 98 
+ 3  3  0 ....WW.CCCO.AANNO...UU...KK......... W 98 O 97 C 98 
+ 3  3  0 ..WW..CCC...AANN...UU.....KKO.....O. U 99 C 97 K 99 
+ 3  3  0 ..WW....CCC.AANN...UU.....KKO.....O. K 99 C 99 U 99 
+ 3  3  0 WW......CCC.AA......UU...KK.O.....O. N 98 W 98 C 99 
+ 3  3  0 ..WW.....CCC....AA..UU..KK..O.....O. A 96 N 98 K 99 
+ 3  3  0 .WW......CCCAANN....UUO.KK..O....... O 99 W 99 K 99 
+ 3  3  0 .WW....CCC..AA......UU...KK.O.....O. N 98 W 99 C 98 
+ 3  3  0 ...WW....CCCAA....UU.....KK.O.....O. N 98 U 98 W 99 
+ 3  3  0 .WW.....CCC.AANN....UU..KK..O.....O. C 99 W 99 K 99 
+ 3  3  0 ..WWO..CCCO.AANN..UU.....KK......... O 96 U 98 C 98 
+ 3  3  0 ..WW.....CCCAA.....UU.O..KK.O....... N 98 U 99 O 99 
+ 3  3  0 WW.......CCCAANN..UU..O..KK.O....... U 98 W 98 O 99 
+ 3  3  0 ..WW...CCCO.AANNO...UU.....KK....... K 98 O 97 C 98 
+ 3  3  0 WW.......CCCAANNO...UUO...KK........ O 98 W 98 K 99 
+ 3  3  0 WW.....CCCO.AANNO...UU...KK......... W 98 O 97 C 98 
+ 3  3  0 WW......CCC.AANN.....UU..KK.O.....O. U 99 W 98 C 99 
+ 3  3  0 ..WW...CCC..AANN....UUO.KK..O....... O 99 K 99 C 98 
+ 3  3  0 ..WW...CCC..AANN..UU..O..KK.O....... O 99 U 98 C 98 
+ 3  3  0 ..WW.....CCCAANNO..UU.O.KK.......... U 99 O 98 K 99 
+ 3  3  0 ....WW...CCCAANNO...UUO.KK.......... W 98 O 98 K 99 
+ 3  3  0 ...WW....CCCAANN.....UU.KK..O.....O. K 99 U 99 W 99 
+ 3  3  0 ..WW...CCCO.AANNO....UU..KK......... U 99 O 97 C 98 
+ 3  3  0 WW......CCC.AANN....UU..KK..O.....O. K 99 W 98 C 99 
+ 3  3  0 .WW.O..CCCO.AANN....UU...KK......... O 96 W 99 C 98 
+ 3  3  0 ...WW.CCC...AANNO...UUO..KK......... O 98 W 99 C 97 
+ 3  3  0 ..WW.....CCCAA........UUKK..O.....O. N 98 U 98 K 99 
+ 3  3  0 .WW......CCCAANN..UU....KK..O.....O. U 98 W 99 K 99 

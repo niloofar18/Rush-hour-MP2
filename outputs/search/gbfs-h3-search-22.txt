@@ -1,0 +1,357 @@
+ 4  0  4 .........WWH.AA..H...UU...MMMT.....T
+ 4  0  4 ......WW...H.AA..H...UU...MMMT.....T W 97 
+ 4  0  4 ........WW.H.AA..H...UU...MMMT.....T W 99 
+ 4  0  4 .........WWH..AA.H...UU...MMMT.....T A 99 
+ 4  0  4 .........WWH.AA..H...UU..MMM.T.....T M 99 
+ 4  0  4 .........WWH.AA..H...UUT..MMMT...... T 99 
+ 4  0  4 .........WWH...AAH...UU...MMMT.....T A 98 
+ 4  0  4 .........WWH.AA..H...UU.MMM..T.....T M 98 
+ 4  0  4 .........WWH.AA..H..UU....MMMT.....T U 8 
+ 4  0  4 .......WW..H.AA..H...UU...MMMT.....T W 98 
+ 4  0  4 .....H...WWH.AA......UU...MMMT.....T H 7 
+ 4  0  4 .........WWH.AA..H.UU.....MMMT.....T U 7 
+ 4  0  4 .........WWH.AA..HUU......MMMT.....T U 6 
+ 4  0  4 .........WW..AA..H...UUH..MMMT.....T H 7 
+ 4  0  4 .........WWH.AA..H....UU..MMMT.....T U 8 
+ 4  0  4 .........WWHAA...H...UU...MMMT.....T A 99 
+ 4  0  4 ........WW.H..AA.H...UU...MMMT.....T A 99 W 99 
+ 4  0  4 ........WW.H.AA..H...UUT..MMMT...... T 99 W 99 
+ 4  0  4 .........WWH.AA..HUU...T..MMMT...... U 6 T 99 
+ 4  0  4 .........WWH...AAH...UU.MMM..T.....T M 98 A 98 
+ 4  0  4 .....H...WWHAA.......UU...MMMT.....T H 7 A 99 
+ 4  0  4 .........WWHAA...H...UUT..MMMT...... A 99 T 99 
+ 4  0  4 ........WW.H...AAH...UU...MMMT.....T A 98 W 99 
+ 4  0  4 .........WWH...AAH...UUT..MMMT...... A 98 T 99 
+ 4  0  4 .....H...WWH.AA......UUT..MMMT...... H 7 T 99 
+ 4  0  4 ......WW...H.AA..H...UUT..MMMT...... T 99 W 97 
+ 4  0  4 .....H..WW.H.AA......UU...MMMT.....T H 7 W 99 
+ 4  0  4 .......WW..H.AA..H...UUT..MMMT...... W 98 T 99 
+ 4  0  4 ........WW...AA..H...UUH..MMMT.....T H 7 W 99 
+ 4  0  4 .........WWH.AA..H..UU...MMM.T.....T U 8 M 99 
+ 4  0  4 .........WWH.AA..H.UU....MMM.T.....T U 7 M 99 
+ 4  0  4 .........WWH..AA.H...UUT..MMMT...... T 99 A 99 
+ 4  0  4 .........WWH.AA..HUU.....MMM.T.....T U 6 M 99 
+ 4  0  4 .........WWH.AA..H....UU.MMM.T.....T U 8 M 99 
+ 4  0  4 ......WW...H.AA..H...UU..MMM.T.....T M 99 W 97 
+ 4  0  4 .........WWHAA...H...UU..MMM.T.....T A 99 M 99 
+ 4  0  4 .........WWH...AAH...UU..MMM.T.....T A 98 M 99 
+ 4  0  4 ......WW...H.AA..H...UU.MMM..T.....T M 98 W 97 
+ 4  0  4 .....H...WWH.AA......UU..MMM.T.....T H 7 M 99 
+ 4  0  4 .........WWH.AA..H...UUT.MMM.T...... T 99 M 99 
+ 4  0  4 .........WWHAA...H....UU..MMMT.....T A 99 U 8 
+ 4  0  4 .........WW..AA..H...UUH.MMM.T.....T H 7 M 99 
+ 4  0  4 .....H...WWH.AA.......UU..MMMT.....T H 7 U 8 
+ 4  0  4 ......WW...H.AA..H..UU....MMMT.....T U 8 W 97 
+ 4  0  4 .......WW..H.AA..H...UU..MMM.T.....T W 98 M 99 
+ 4  0  4 ..........WW.AA..H...UUH..MMMT.....T W 99 H 7 
+ 4  0  4 .........WWHAA...HUU......MMMT.....T A 99 U 6 
+ 4  0  4 .........WWH..AA.H...UU..MMM.T.....T M 99 A 99 
+ 4  0  4 .....H...WWH.AA...UU......MMMT.....T H 7 U 6 
+ 4  0  4 .........WW..AA..HUU...H..MMMT.....T H 7 U 6 
+ 4  0  4 ......WW...H.AA..H.UU.....MMMT.....T U 7 W 97 
+ 4  0  4 .........WWH..AA.H...UU.MMM..T.....T M 98 A 99 
+ 4  0  4 .......WW..H.AA..H.UU.....MMMT.....T U 7 W 98 
+ 4  0  4 .........WWHAA...H.UU.....MMMT.....T A 99 U 7 
+ 4  0  4 .........WW.AA...H...UUH..MMMT.....T A 99 H 7 
+ 4  0  4 .....H...WWH.AA....UU.....MMMT.....T H 7 U 7 
+ 4  0  4 .........WWH..AA.H..UU....MMMT.....T U 8 A 99 
+ 4  0  4 .........WW..AA..H.UU..H..MMMT.....T H 7 U 7 
+ 4  0  4 .......WW..H.AA..HUU......MMMT.....T U 6 W 98 
+ 4  0  4 ......WW...H.AA..HUU......MMMT.....T U 6 W 97 
+ 4  0  4 .........WWH..AA.H.UU.....MMMT.....T U 7 A 99 
+ 4  0  4 .......WW..H.AA..H....UU..MMMT.....T U 8 W 98 
+ 4  0  4 .......WW..HAA...H...UU...MMMT.....T A 99 W 98 
+ 4  0  4 .........WWH..AA.HUU......MMMT.....T U 6 A 99 
+ 4  0  4 .....H.WW..H.AA......UU...MMMT.....T H 7 W 98 
+ 4  0  4 .......WW....AA..H...UUH..MMMT.....T H 7 W 98 
+ 4  0  4 ......WW...H.AA..H....UU..MMMT.....T U 8 W 97 
+ 4  0  4 .........WWH..AA.H....UU..MMMT.....T U 8 A 99 
+ 4  0  4 .........WWHAA...H..UU....MMMT.....T A 99 U 8 
+ 4  0  4 .....H...WWH.AA.....UU....MMMT.....T H 7 U 8 
+ 4  0  4 .........WW..AA..H..UU.H..MMMT.....T H 7 U 8 
+ 4  0  4 ......WW...HAA...H...UU...MMMT.....T A 99 W 97 
+ 4  0  4 .....H...WWH..AA.....UU...MMMT.....T H 7 A 99 
+ 4  0  4 .......WW..H.AA..H..UU....MMMT.....T W 98 U 8 
+ 4  0  4 .........WWH.AA..H..UU..MMM..T.....T U 8 M 98 
+ 4  0  4 .........WW...AA.H...UUH..MMMT.....T H 7 A 99 
+ 4  0  4 .........WWH.AA..H.UU...MMM..T.....T U 7 M 98 
+ 4  0  4 .........WWH.AA..HUU....MMM..T.....T U 6 M 98 
+ 4  0  4 ......WW...H..AA.H...UU...MMMT.....T A 99 W 97 
+ 4  0  4 .......WW..H..AA.H...UU...MMMT.....T W 98 A 99 
+ 4  0  4 .........WWH.AA..H....UUMMM..T.....T U 8 M 98 
+ 4  0  4 .........WWHAA...H...UU.MMM..T.....T A 99 M 98 
+ 4  0  4 ........WW.H.AA..H...UU..MMM.T.....T M 99 W 99 
+ 4  0  4 .....H...WWH.AA......UU.MMM..T.....T H 7 M 98 
+ 4  0  4 .........WW..AA..H...UUHMMM..T.....T H 7 M 98 
+ 4  0  4 ......WW...H...AAH...UU...MMMT.....T A 98 W 97 
+ 4  0  4 ........WW.H.AA..H...UU.MMM..T.....T M 98 W 99 
+ 4  0  4 .......WW..H.AA..H...UU.MMM..T.....T W 98 M 98 
+ 4  0  4 .........WWH...AAH..UU....MMMT.....T U 8 A 98 
+ 4  0  4 ........WW.H.AA..H..UU....MMMT.....T U 8 W 99 
+ 4  0  4 .........WWH...AAH.UU.....MMMT.....T U 7 A 98 
+ 4  0  4 .........WWH...AAHUU......MMMT.....T U 6 A 98 
+ 4  0  4 .....HWW...H.AA......UU...MMMT.....T H 7 W 97 
+ 4  0  4 ........WW.H.AA..H.UU.....MMMT.....T U 7 W 99 
+ 4  0  4 .........WWH...AAH....UU..MMMT.....T U 8 A 98 
+ 4  0  4 ........WW.H.AA..HUU......MMMT.....T U 6 W 99 
+ 4  0  4 .....H...WWH...AA....UU...MMMT.....T H 7 A 98 
+ 4  0  4 .........WW....AAH...UUH..MMMT.....T H 7 A 98 
+ 4  0  4 ......WW.....AA..H...UUH..MMMT.....T H 7 W 97 
+ 4  0  4 ........WW.H.AA..H....UU..MMMT.....T U 8 W 99 
+ 4  0  4 .......WW..H...AAH...UU...MMMT.....T W 98 A 98 
+ 4  0  4 .........WWH.AA..H...UUTMMM..T...... M 98 T 99 
+ 4  0  4 ........WW.HAA...H...UU...MMMT.....T A 99 W 99 
+ 4  0  4 .........WWH.AA..H..UU.T..MMMT...... U 8 T 99 
+ 4  0  4 .........WWH.AA..H.UU..T..MMMT...... U 7 T 99 
+ 4  0  4 ........WW.H..AA.H...UUT..MMMT...... T 99 A 99 W 99 
+ 4  0  4 .........WWH.AA..HUU...T.MMM.T...... M 99 U 6 T 99 
+ 4  0  4 ........WW.H...AAH...UU.MMM..T.....T W 99 M 98 A 98 
+ 4  0  4 .........WWH...AAHUU....MMM..T.....T U 6 M 98 A 98 
+ 4  0  4 .......WW..H.AA..H...UUTMMM..T...... M 98 W 98 T 99 
+ 4  0  4 .....H...WWH..AA.....UU..MMM.T.....T H 7 M 99 A 99 
+ 4  0  4 .........WW.AA...H..UU.H..MMMT.....T U 8 A 99 H 7 
+ 4  0  4 .......WW...AA...H...UUH..MMMT.....T W 98 A 99 H 7 
+ 4  0  4 ......WW....AA...H...UUH..MMMT.....T W 97 A 99 H 7 
+ 4  0  4 .....H...WWHAA.....UU.....MMMT.....T H 7 A 99 U 7 
+ 4  0  4 .........WW.AA...H.UU..H..MMMT.....T H 7 A 99 U 7 
+ 4  0  4 ........WW.HAA...H.UU.....MMMT.....T W 99 A 99 U 7 
+ 4  0  4 .......WW..HAA...H.UU.....MMMT.....T A 99 U 7 W 98 
+ 4  0  4 .......WW..H..AA.H.UU.....MMMT.....T A 99 U 7 W 98 
+ 4  0  4 .......WW..H...AAH.UU.....MMMT.....T A 98 U 7 W 98 
+ 4  0  4 .....H.WW..H.AA....UU.....MMMT.....T H 7 U 7 W 98 
+ 4  0  4 .......WW....AA..H.UU..H..MMMT.....T H 7 U 7 W 98 
+ 4  0  4 .........WWH..AA.HUU....MMM..T.....T U 6 M 98 A 99 
+ 4  0  4 .........WWH..AA.H....UUMMM..T.....T U 8 M 98 A 99 
+ 4  0  4 .....H...WWH..AA.....UU.MMM..T.....T H 7 M 98 A 99 
+ 4  0  4 .........WW...AA.H...UUHMMM..T.....T H 7 M 98 A 99 
+ 4  0  4 .......WW..H..AA.H...UU.MMM..T.....T W 98 M 98 A 99 
+ 4  0  4 ......WW...H..AA.H.UU.....MMMT.....T A 99 U 7 W 97 
+ 4  0  4 ......WW...H...AAH.UU.....MMMT.....T A 98 U 7 W 97 
+ 4  0  4 .....HWW...H.AA....UU.....MMMT.....T H 7 U 7 W 97 
+ 4  0  4 ......WW.....AA..H.UU..H..MMMT.....T H 7 U 7 W 97 
+ 4  0  4 .........WW...AA.HUU...H..MMMT.....T A 99 H 7 U 6 
+ 4  0  4 .........WW....AAHUU...H..MMMT.....T A 98 H 7 U 6 
+ 4  0  4 .......WW....AA..HUU...H..MMMT.....T W 98 H 7 U 6 
+ 4  0  4 ......WW.....AA..HUU...H..MMMT.....T W 97 H 7 U 6 
+ 4  0  4 .....H...WWHAA....UU......MMMT.....T H 7 A 99 U 6 
+ 4  0  4 .........WW.AA...HUU...H..MMMT.....T H 7 A 99 U 6 
+ 4  0  4 ........WW.HAA...HUU......MMMT.....T W 99 A 99 U 6 
+ 4  0  4 .......WW..HAA...HUU......MMMT.....T W 98 A 99 U 6 
+ 4  0  4 ......WW...HAA...HUU......MMMT.....T W 97 A 99 U 6 
+ 4  0  4 ..........WW.AA..H..UU.H..MMMT.....T U 8 W 99 H 7 
+ 4  0  4 .........WWHAA...HUU....MMM..T.....T M 98 A 99 U 6 
+ 4  0  4 ..........WW.AA..HUU...H..MMMT.....T U 6 W 99 H 7 
+ 4  0  4 ..........WWAA...H...UUH..MMMT.....T A 99 W 99 H 7 
+ 4  0  4 ..........WW..AA.H...UUH..MMMT.....T A 99 W 99 H 7 
+ 4  0  4 ..........WW...AAH...UUH..MMMT.....T A 98 W 99 H 7 
+ 4  0  4 .....H.WW..H.AA......UU..MMM.T.....T H 7 W 98 M 99 
+ 4  0  4 ......WW...H..AA.H..UU....MMMT.....T A 99 U 8 W 97 
+ 4  0  4 ......WW...H...AAH..UU....MMMT.....T A 98 U 8 W 97 
+ 4  0  4 .....HWW...H.AA.....UU....MMMT.....T H 7 U 8 W 97 
+ 4  0  4 ......WW.....AA..H..UU.H..MMMT.....T H 7 U 8 W 97 
+ 4  0  4 ..........WW.AA..H...UUH.MMM.T.....T W 99 H 7 M 99 
+ 4  0  4 .....H...WWHAA........UU..MMMT.....T H 7 A 99 U 8 
+ 4  0  4 ........WW.HAA...H....UU..MMMT.....T W 99 A 99 U 8 
+ 4  0  4 .......WW..HAA...H....UU..MMMT.....T W 98 A 99 U 8 
+ 4  0  4 ......WW...HAA...H....UU..MMMT.....T W 97 A 99 U 8 
+ 4  0  4 ......WW...H.AA..H.UU...MMM..T.....T U 7 M 98 W 97 
+ 4  0  4 ..........WW.AA..H...UUHMMM..T.....T M 98 W 99 H 7 
+ 4  0  4 ......WW...H.AA..H....UUMMM..T.....T U 8 M 98 W 97 
+ 4  0  4 ......WW...HAA...H...UU.MMM..T.....T A 99 M 98 W 97 
+ 4  0  4 ......WW...H..AA.H...UU.MMM..T.....T A 99 M 98 W 97 
+ 4  0  4 ......WW...H.AA..H..UU..MMM..T.....T U 8 M 98 W 97 
+ 4  0  4 ......WW.....AA..H...UUHMMM..T.....T H 7 M 98 W 97 
+ 4  0  4 .....H...WWH...AA....UU..MMM.T.....T H 7 A 98 M 99 
+ 4  0  4 .......WW..H...AAH...UU..MMM.T.....T W 98 A 98 M 99 
+ 4  0  4 .......WW..H..AA.H...UU..MMM.T.....T A 99 W 98 M 99 
+ 4  0  4 ........WW.HAA...H...UU..MMM.T.....T W 99 A 99 M 99 
+ 4  0  4 .........WWHAA...H....UUMMM..T.....T M 98 A 99 U 8 
+ 4  0  4 ......WW...H..AA.H...UU..MMM.T.....T A 99 M 99 W 97 
+ 4  0  4 ......WW...HAA...H..UU....MMMT.....T A 99 U 8 W 97 
+ 4  0  4 .....HWW...H.AA......UU..MMM.T.....T H 7 M 99 W 97 
+ 4  0  4 .......WW....AA..H...UUH.MMM.T.....T W 98 H 7 M 99 
+ 4  0  4 .........WWH..AA.H....UU.MMM.T.....T A 99 U 8 M 99 
+ 4  0  4 .......WW..H..AA.H..UU....MMMT.....T W 98 U 8 A 99 
+ 4  0  4 .....H...WWH.AA.......UU.MMM.T.....T H 7 U 8 M 99 
+ 4  0  4 .........WW..AA..HUU...HMMM..T.....T M 98 H 7 U 6 
+ 4  0  4 .......WW..H.AA..H....UU.MMM.T.....T W 98 U 8 M 99 
+ 4  0  4 .......WW..H.AA..H.UU...MMM..T.....T M 98 U 7 W 98 
+ 4  0  4 .........WWH...AAHUU.....MMM.T.....T A 98 U 6 M 99 
+ 4  0  4 .........WWH..AA.H.UU...MMM..T.....T U 7 M 98 A 99 
+ 4  0  4 .........WW..AA..HUU...H.MMM.T.....T H 7 U 6 M 99 
+ 4  0  4 .....H...WWH..AA...UU.....MMMT.....T H 7 U 7 A 99 
+ 4  0  4 .......WW..H.AA..HUU.....MMM.T.....T W 98 U 6 M 99 
+ 4  0  4 .....H...WWH....AA.UU.....MMMT.....T A 97 H 7 U 7 
+ 4  0  4 .........WWH..AA.H...UUTMMM..T...... M 98 T 99 A 99 
+ 4  0  4 ......WW...H..AA.HUU......MMMT.....T A 99 U 6 W 97 
+ 4  0  4 .........WWH..AA.H.UU..T..MMMT...... U 7 T 99 A 99 
+ 4  0  4 .......WW..H.AA..HUU....MMM..T.....T M 98 U 6 W 98 
+ 4  0  4 .........WWH..AA.H.UU....MMM.T.....T A 99 U 7 M 99 
+ 4  0  4 .......WW..H.AA..H..UU..MMM..T.....T M 98 W 98 U 8 
+ 4  0  4 .....H...WWH.AA....UU....MMM.T.....T H 7 U 7 M 99 
+ 4  0  4 .....H...WWH..AA..UU......MMMT.....T H 7 U 6 A 99 
+ 4  0  4 ........WW.H.AA..H.UU....MMM.T.....T W 99 U 7 M 99 
+ 4  0  4 .....H...WWH..AA......UU..MMMT.....T H 7 U 8 A 99 
+ 4  0  4 ......WW...H.AA..H.UU....MMM.T.....T W 97 U 7 M 99 
+ 4  0  4 ......WW...H..AA.H....UU..MMMT.....T A 99 U 8 W 97 
+ 4  0  4 .........WWH..AA.H..UU...MMM.T.....T A 99 U 8 M 99 
+ 4  0  4 .........WW....AAH..UU.H..MMMT.....T A 98 H 7 U 8 
+ 4  0  4 .....H...WWH.AA.....UU...MMM.T.....T H 7 U 8 M 99 
+ 4  0  4 ........WW.HAA...H..UU....MMMT.....T W 99 A 99 U 8 
+ 4  0  4 ........WW.H.AA..H..UU...MMM.T.....T W 99 U 8 M 99 
+ 4  0  4 .....HWW...HAA.......UU...MMMT.....T H 7 A 99 W 97 
+ 4  0  4 ......WW...H.AA..H..UU...MMM.T.....T W 97 U 8 M 99 
+ 4  0  4 .........WW..AA..H..UU.HMMM..T.....T M 98 H 7 U 8 
+ 4  0  4 ........WW...AA..H..UU.H..MMMT.....T U 8 H 7 W 99 
+ 4  0  4 .........WW...AA.H..UU.H..MMMT.....T H 7 U 8 A 99 
+ 4  0  4 ........WW...AA..HUU...H..MMMT.....T U 6 H 7 W 99 
+ 4  0  4 .........WWH.AA..H.UU..TMMM..T...... T 99 U 7 M 98 
+ 4  0  4 .......WW..H.AA..H..UU.T..MMMT...... U 8 W 98 T 99 
+ 4  0  4 .....H...WWH.AA.......UUMMM..T.....T H 7 U 8 M 98 
+ 4  0  4 .......WW..H..AA.H...UUT..MMMT...... A 99 W 98 T 99 
+ 4  0  4 .....H.WW..H..AA.....UU...MMMT.....T H 7 W 98 A 99 
+ 4  0  4 ......WW...H.AA..H...UUTMMM..T...... M 98 T 99 W 97 
+ 4  0  4 .....H.WW..H.AA.....UU....MMMT.....T H 7 W 98 U 8 
+ 4  0  4 ......WW...H.AA..H.UU..T..MMMT...... U 7 T 99 W 97 
+ 4  0  4 .....H...WWH.AA....UU...MMM..T.....T H 7 U 7 M 98 
+ 4  0  4 .....HWW...H.AA......UUT..MMMT...... H 7 T 99 W 97 
+ 4  0  4 .......WW..H...AAH..UU....MMMT.....T A 98 W 98 U 8 
+ 4  0  4 .........WWH...AAH.UU..T..MMMT...... U 7 A 98 T 99 
+ 4  0  4 ........WW.H.AA..H..UU..MMM..T.....T W 99 U 8 M 98 
+ 4  0  4 .......WW..H...AAH...UUT..MMMT...... W 98 A 98 T 99 
+ 4  0  4 .........WW....AAH.UU..H..MMMT.....T A 98 H 7 U 7 
+ 4  0  4 ........WW.H...AAH..UU....MMMT.....T U 8 A 98 W 99 
+ 4  0  4 .......WW.....AA.H...UUH..MMMT.....T A 99 H 7 W 98 
+ 4  0  4 ........WW.H...AAHUU......MMMT.....T U 6 A 98 W 99 
+ 4  0  4 .......WW..H..AA.H....UU..MMMT.....T A 99 U 8 W 98 
+ 4  0  4 .....H..WW.H...AA....UU...MMMT.....T H 7 A 98 W 99 
+ 4  0  4 .....H.WW..HAA.......UU...MMMT.....T H 7 A 99 W 98 
+ 4  0  4 .........WWHAA...H...UUTMMM..T...... M 98 A 99 T 99 
+ 4  0  4 .........WW...AA.H.UU..H..MMMT.....T A 99 H 7 U 7 
+ 4  0  4 .........WWHAA...H.UU..T..MMMT...... U 7 A 99 T 99 
+ 4  0  4 ......WW...H...AAHUU......MMMT.....T A 98 U 6 W 97 
+ 4  0  4 .......WW..HAA...H...UUT..MMMT...... W 98 A 99 T 99 
+ 4  0  4 .......WW..H...AAHUU......MMMT.....T A 98 U 6 W 98 
+ 4  0  4 .........WWH...AAH....UUMMM..T.....T U 8 M 98 A 98 
+ 4  0  4 .....H.WW..H.AA...UU......MMMT.....T H 7 U 6 W 98 
+ 4  0  4 .......WW..H...AAH...UU.MMM..T.....T W 98 M 98 A 98 
+ 4  0  4 .........WW....AAH...UUHMMM..T.....T H 7 M 98 A 98 
+ 4  0  4 ......WW...H...AAH...UU.MMM..T.....T W 97 M 98 A 98 
+ 4  0  4 .........WWH.AA..HUU...TMMM..T...... M 98 U 6 T 99 
+ 4  0  4 .........WWH...AAH.UU...MMM..T.....T U 7 M 98 A 98 
+ 4  0  4 .........WWH..AA.HUU...T..MMMT...... A 99 U 6 T 99 
+ 4  0  4 .........WWH...AAH..UU..MMM..T.....T U 8 M 98 A 98 
+ 4  0  4 .....H...WWH.AA...UU...T..MMMT...... H 7 U 6 T 99 
+ 4  0  4 .......WW..H.AA..H...UUT.MMM.T...... M 99 W 98 T 99 
+ 4  0  4 ......WW...H.AA..HUU...T..MMMT...... W 97 U 6 T 99 
+ 4  0  4 ........WW.H...AAH...UU..MMM.T.....T M 99 A 98 W 99 
+ 4  0  4 ........WW.H.AA..H..UU.T..MMMT...... U 8 T 99 W 99 
+ 4  0  4 .....H..WW.H....AA...UU...MMMT.....T A 97 H 7 W 99 
+ 4  0  4 ........WW.H.AA..HUU...T..MMMT...... U 6 T 99 W 99 
+ 4  0  4 ......WW...H.AA..H...UUT.MMM.T...... M 99 T 99 W 97 
+ 4  0  4 ........WW.H...AAH...UUT..MMMT...... A 98 T 99 W 99 
+ 4  0  4 ..........WW.AA..H.UU..H..MMMT.....T U 7 W 99 H 7 
+ 4  0  4 ........WW.H..AA.H...UU..MMM.T.....T M 99 A 99 W 99 
+ 4  0  4 .........WWH.AA..H..UU.T.MMM.T...... T 99 U 8 M 99 
+ 4  0  4 ........WW.H..AA.H..UU....MMMT.....T U 8 A 99 W 99 
+ 4  0  4 .........WWHAA...HUU.....MMM.T.....T A 99 U 6 M 99 
+ 4  0  4 ........WW.H..AA.HUU......MMMT.....T U 6 A 99 W 99 
+ 4  0  4 .........WWH..AA.H...UUT.MMM.T...... M 99 T 99 A 99 
+ 4  0  4 .....H..WW.H..AA.....UU...MMMT.....T H 7 A 99 W 99 
+ 4  0  4 .....H...WWH....AA...UU..MMM.T.....T A 97 H 7 M 99 
+ 4  0  4 .........WWHAA...H....UU.MMM.T.....T A 99 U 8 M 99 
+ 4  0  4 .....HWW...H.AA......UU.MMM..T.....T H 7 M 98 W 97 
+ 4  0  4 .........WW....AAH...UUH.MMM.T.....T H 7 A 98 M 99 
+ 4  0  4 .........WW...AA.H...UUH.MMM.T.....T A 99 H 7 M 99 
+ 4  0  4 .......WW..HAA...H...UU..MMM.T.....T W 98 A 99 M 99 
+ 4  0  4 .....H...WWH....AA....UU..MMMT.....T A 97 H 7 U 8 
+ 4  0  4 ......WW.....AA..H...UUH.MMM.T.....T H 7 M 99 W 97 
+ 4  0  4 .........WWH.AA..H..UU.TMMM..T...... T 99 U 8 M 98 
+ 4  0  4 ........WW.H.AA..H....UU.MMM.T.....T W 99 U 8 M 99 
+ 4  0  4 .........WWH..AA.H..UU..MMM..T.....T U 8 M 98 A 99 
+ 4  0  4 .....H...WWH.AA...UU.....MMM.T.....T H 7 U 6 M 99 
+ 4  0  4 .....H...WWH..AA....UU....MMMT.....T H 7 U 8 A 99 
+ 4  0  4 ......WW...H.AA..HUU.....MMM.T.....T W 97 U 6 M 99 
+ 4  0  4 .........WW..AA..H.UU..HMMM..T.....T M 98 H 7 U 7 
+ 4  0  4 .....H...WWH..AA.....UUT..MMMT...... H 7 T 99 A 99 
+ 4  0  4 .........WWHAA...H..UU..MMM..T.....T M 98 A 99 U 8 
+ 4  0  4 .........WW..AA..H.UU..H.MMM.T.....T H 7 U 7 M 99 
+ 4  0  4 .......WW....AA..H...UUHMMM..T.....T M 98 H 7 W 98 
+ 4  0  4 .........WWHAA...H..UU...MMM.T.....T A 99 U 8 M 99 
+ 4  0  4 ......WW...H...AAH....UU..MMMT.....T A 98 U 8 W 97 
+ 4  0  4 .........WW..AA..H..UU.H.MMM.T.....T H 7 U 8 M 99 
+ 4  0  4 .....H...WWH....AA..UU....MMMT.....T A 97 H 7 U 8 
+ 4  0  4 ........WW...AA..H...UUHMMM..T.....T M 98 H 7 W 99 
+ 4  0  4 .....HWW...H.AA.......UU..MMMT.....T H 7 U 8 W 97 
+ 4  0  4 ........WW..AA...H...UUH..MMMT.....T A 99 H 7 W 99 
+ 4  0  4 .....HWW...H..AA.....UU...MMMT.....T H 7 A 99 W 97 
+ 4  0  4 .....H.WW..H.AA......UUT..MMMT...... H 7 W 98 T 99 
+ 4  0  4 ........WW.H.AA..H.UU...MMM..T.....T W 99 U 7 M 98 
+ 4  0  4 ......WW...H..AA.H...UUT..MMMT...... A 99 T 99 W 97 
+ 4  0  4 .....H...WWH.AA.....UU..MMM..T.....T H 7 U 8 M 98 
+ 4  0  4 .....H...WWH...AA....UUT..MMMT...... H 7 A 98 T 99 
+ 4  0  4 .......WW..H...AAH....UU..MMMT.....T A 98 U 8 W 98 
+ 4  0  4 ........WW.H...AAH.UU.....MMMT.....T U 7 A 98 W 99 
+ 4  0  4 .......WW..HAA...H..UU....MMMT.....T U 8 A 99 W 98 
+ 4  0  4 ........WW.....AAH...UUH..MMMT.....T H 7 A 98 W 99 
+ 4  0  4 .....HWW...H.AA...UU......MMMT.....T H 7 U 6 W 97 
+ 4  0  4 .....H...WWHAA.......UUT..MMMT...... H 7 A 99 T 99 
+ 4  0  4 .......WW..H..AA.HUU......MMMT.....T A 99 U 6 W 98 
+ 4  0  4 ........WW.H.AA..H...UUT.MMM.T...... M 99 T 99 W 99 
+ 4  0  4 .....H...WWH...AA....UU.MMM..T.....T H 7 M 98 A 98 
+ 4  0  4 .........WWH...AAH...UUTMMM..T...... T 99 M 98 A 98 
+ 4  0  4 .........WWH...AAHUU...T..MMMT...... A 98 U 6 T 99 
+ 4  0  4 .........WWH...AAH...UUT.MMM.T...... M 99 A 98 T 99 
+ 4  0  4 ........WW.H.AA..H...UUTMMM..T...... M 98 T 99 W 99 
+ 4  0  4 .....H...WWH....AA...UUT..MMMT...... A 97 H 7 T 99 
+ 4  0  4 ........WW.HAA...H...UUT..MMMT...... A 99 T 99 W 99 
+ 4  0  4 .........WWH..AA.HUU.....MMM.T.....T A 99 U 6 M 99 
+ 4  0  4 ........WW.H..AA.H...UU.MMM..T.....T M 98 A 99 W 99 
+ 4  0  4 .........WWHAA...H.UU....MMM.T.....T A 99 U 7 M 99 
+ 4  0  4 ........WW.H..AA.H....UU..MMMT.....T U 8 A 99 W 99 
+ 4  0  4 ......WW...H.AA..HUU....MMM..T.....T U 6 M 98 W 97 
+ 4  0  4 .....H...WWHAA.......UU..MMM.T.....T H 7 A 99 M 99 
+ 4  0  4 .....H...WWH.AA......UUT.MMM.T...... H 7 T 99 M 99 
+ 4  0  4 ......WW...H...AAH...UU..MMM.T.....T A 98 M 99 W 97 
+ 4  0  4 .......WW..H.AA..H....UUMMM..T.....T M 98 U 8 W 98 
+ 4  0  4 ......WW...H.AA..H....UU.MMM.T.....T W 97 U 8 M 99 
+ 4  0  4 .........WW.AA...H...UUHMMM..T.....T M 98 A 99 H 7 
+ 4  0  4 .........WWH..AA.H..UU.T..MMMT...... U 8 T 99 A 99 
+ 4  0  4 .....H.WW..H....AA...UU...MMMT.....T A 97 H 7 W 98 
+ 4  0  4 .......WW..H.AA..H.UU....MMM.T.....T W 98 U 7 M 99 
+ 4  0  4 .....H...WWHAA......UU....MMMT.....T H 7 A 99 U 8 
+ 4  0  4 .......WW..H.AA..H..UU...MMM.T.....T W 98 U 8 M 99 
+ 4  0  4 ........WW.H.AA..H....UUMMM..T.....T W 99 U 8 M 98 
+ 4  0  4 .......WW..H.AA..H.UU..T..MMMT...... U 7 W 98 T 99 
+ 4  0  4 ........WW.H.AA..HUU....MMM..T.....T W 99 U 6 M 98 
+ 4  0  4 .........WWH...AAH..UU.T..MMMT...... U 8 A 98 T 99 
+ 4  0  4 .......WW......AAH...UUH..MMMT.....T A 98 H 7 W 98 
+ 4  0  4 ........WW.H...AAH....UU..MMMT.....T U 8 A 98 W 99 
+ 4  0  4 .....H.WW..H.AA.......UU..MMMT.....T H 7 U 8 W 98 
+ 4  0  4 .........WWHAA...HUU...T..MMMT...... A 99 U 6 T 99 
+ 4  0  4 ......WW...HAA...H...UUT..MMMT...... W 97 A 99 T 99 
+ 4  0  4 .........WWHAA...H...UUT.MMM.T...... M 99 A 99 T 99 
+ 4  0  4 ........WW.H.AA..H.UU..T..MMMT...... U 7 T 99 W 99 
+ 4  0  4 .........WWH.AA..H.UU..T.MMM.T...... T 99 U 7 M 99 
+ 4  0  4 ........WW.H..AA.H.UU.....MMMT.....T U 7 A 99 W 99 
+ 4  0  4 ......WW...HAA...H...UU..MMM.T.....T A 99 M 99 W 97 
+ 4  0  4 .........WW.AA...H...UUH.MMM.T.....T H 7 A 99 M 99 
+ 4  0  4 .........WWHAA...H.UU...MMM..T.....T M 98 A 99 U 7 
+ 4  0  4 ........WW.H.AA..HUU.....MMM.T.....T W 99 U 6 M 99 
+ 4  0  4 .......WW..HAA...H...UU.MMM..T.....T M 98 A 99 W 98 
+ 4  0  4 .........WWH...AAH..UU...MMM.T.....T A 98 U 8 M 99 
+ 4  0  4 .....H...WWH.AA...UU....MMM..T.....T H 7 U 6 M 98 
+ 4  0  4 ......WW...H.AA..H..UU.T..MMMT...... U 8 T 99 W 97 
+ 4  0  4 .......WW....AA..H..UU.H..MMMT.....T U 8 H 7 W 98 
+ 4  0  4 .......WW..H.AA..HUU...T..MMMT...... W 98 U 6 T 99 
+ 4  0  4 .........WWHAA...H..UU.T..MMMT...... U 8 A 99 T 99 
+ 4  0  4 ........WW...AA..H...UUH.MMM.T.....T M 99 H 7 W 99 
+ 4  0  4 ........WW....AA.H...UUH..MMMT.....T H 7 A 99 W 99 
+ 4  0  4 ......WW...HAA...H.UU.....MMMT.....T A 99 U 7 W 97 
+ 4  0  4 .........WWH...AAH.UU....MMM.T.....T A 98 U 7 M 99 
+ 4  0  4 ......WW......AA.H...UUH..MMMT.....T W 97 H 7 A 99 
+ 4  0  4 .....H..WW.H.AA......UUT..MMMT...... H 7 T 99 W 99 
+ 4  0  4 ......WW...H...AAH...UUT..MMMT...... W 97 A 98 T 99 
+ 4  0  4 .....H...WWH....AAUU......MMMT.....T A 97 H 7 U 6 
+ 4  0  4 .........WWH...AAH....UU.MMM.T.....T A 98 U 8 M 99 
+ 4  0  4 ........WW...AA..H.UU..H..MMMT.....T U 7 H 7 W 99 

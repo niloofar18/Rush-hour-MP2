@@ -1,0 +1,350 @@
+ 4  0  4 .PPGGG..WWWQ.AA..QU...Y.UF..Y.UF....
+ 5  1  4 PP.GGG..WWWQ.AA..QU...Y.UF..Y.UF.... P 99 
+ 5  1  4 .PPGGG.WWW.Q.AA..QU...Y.UF..Y.UF.... W 99 
+ 5  1  4 .PPGGG..WWWQ...AAQU...Y.UF..Y.UF.... A 98 
+ 5  1  4 .PPGGG..WWWQ.AA.YQU...Y.UF....UF.... Y 99 
+ 5  1  4 .PPGGG..WWWQ.AA..QUF..Y.UF..Y.U..... F 99 
+ 5  1  4 .PPGGG..WWW..AA..QU...YQUF..Y.UF.... Q 99 
+ 5  1  4 .PPGGG..WWWQ.AA..QU.....UF..Y.UF..Y. Y 99 
+ 5  1  4 .PPGGG..WWWQUAA..QU...Y.UF..Y..F.... U 99 
+ 5  1  4 .PPGGGWWW..Q.AA..QU...Y.UF..Y.UF.... W 98 
+ 5  1  4 .PPGGG..WWW..AA...U...YQUF..YQUF.... Q 98 
+ 5  1  4 .PPGGGU.WWWQUAA..QU...Y..F..Y..F.... U 98 
+ 5  1  4 UPPGGGU.WWWQUAA..Q....Y..F..Y..F.... U 97 
+ 5  1  4 .PPGGG..WWW..AA...U...Y.UF..YQUF...Q Q 97 
+ 5  1  4 .PPGGG..WWWQAA...QU...Y.UF..Y.UF.... A 99 
+ 5  1  4 .PPGGG..WWWQ..AA.QU...Y.UF..Y.UF.... A 99 
+ 6  2  4 PPGGG...WWWQ.AA..QU...Y.UF..Y.UF.... G 99 P 99 
+ 6  2  4 .PPGGG.WWW.Q...AAQU...Y.UF..Y.UF.... A 98 W 99 
+ 6  2  4 .PPGGG.WWW.Q.AA..QUF..Y.UF..Y.U..... F 99 W 99 
+ 6  2  4 .PPGGG..WWWQ..AA.QUF..Y.UF..Y.U..... A 99 F 99 
+ 6  2  4 .PPGGG..WWW..AA..QU....QUF..Y.UF..Y. Y 99 Q 99 
+ 6  2  4 .PPGGG..WWW.AA....U...YQUF..YQUF.... Q 98 A 99 
+ 6  2  4 .PPGGG..WWWQ.FAA.QUF..Y.U...Y.U..... F 98 A 99 
+ 6  2  4 .PPGGG..WWW..AA..QUF..YQUF..Y.U..... Q 99 F 99 
+ 6  2  4 .PPGGG.WWW...AA..QU...YQUF..Y.UF.... Q 99 W 99 
+ 6  2  4 .PPGGG..WWW..AA...UF..YQUF..YQU..... Q 98 F 99 
+ 6  2  4 .PPGGG..WWW..AA...UF..Y.UF..YQU....Q Q 97 F 99 
+ 6  2  4 PP.GGG..WWWQ.AA..QUF..Y.UF..Y.U..... F 99 P 99 
+ 6  2  4 .PPGGG.WWW...AA...U...YQUF..YQUF.... Q 98 W 99 
+ 6  2  4 .PPGGGWWW..Q.AA..QUF..Y.UF..Y.U..... W 98 F 99 
+ 6  2  4 .PPGGG..WWWQUAA.YQU...Y.UF.....F.... U 99 Y 99 
+ 6  2  4 .PPGGG.WWW...AA...U...Y.UF..YQUF...Q Q 97 W 99 
+ 6  2  4 .PPGGGU.WWWQUAA.YQU...Y..F.....F.... U 98 Y 99 
+ 6  2  4 UPPGGGU.WWWQUAA.YQ....Y..F.....F.... U 97 Y 99 
+ 6  2  4 PP.GGG..WWWQ.AA.YQU...Y.UF....UF.... Y 99 P 99 
+ 6  2  4 .PPGGG..WWWQ...AAQUF..Y.UF..Y.U..... F 99 A 98 
+ 6  2  4 .PPGGG..WWWQAA..YQU...Y.UF....UF.... A 99 Y 99 
+ 6  2  4 .PPGGG..WWWQ.AA..QUF....UF..Y.U...Y. Y 99 F 99 
+ 6  2  4 .PPGGG..WWWQ..AAYQU...Y.UF....UF.... A 99 Y 99 
+ 6  2  4 PP.GGG..WWWQ.AA..QU.....UF..Y.UF..Y. Y 99 P 99 
+ 6  2  4 .PPGGG..WWW..AA.YQU...YQUF....UF.... Q 99 Y 99 
+ 6  2  4 .PPGGG..WWW..AA.Y.U...YQUF...QUF.... Q 98 Y 99 
+ 6  2  4 PP.GGG..WWWQUAA..QU...Y.UF..Y..F.... U 99 P 99 
+ 6  2  4 .PPGGG..WWW..AA.Y.U...Y.UF...QUF...Q Q 97 Y 99 
+ 6  2  4 .PPGGG..WWWQ.AA.YQUF..Y.UF....U..... F 99 Y 99 
+ 6  2  4 .PPGGGWWW..Q.AA.YQU...Y.UF....UF.... W 98 Y 99 
+ 6  2  4 PP.GGGU.WWWQUAA..QU...Y..F..Y..F.... U 98 P 99 
+ 6  2  4 .PPGGG..WWWQ.F.AAQUF..Y.U...Y.U..... F 98 A 98 
+ 6  2  4 .PPGGG.FWWWQ.F.AAQU...Y.U...Y.U..... F 97 A 98 
+ 6  2  4 .PPGGG.FWWWQ.FAA.QU...Y.U...Y.U..... F 97 A 99 
+ 6  2  4 PP.GGG..WWWQAA...QU...Y.UF..Y.UF.... A 99 P 99 
+ 6  2  4 .PPGGG..WWWQ...AAQU.....UF..Y.UF..Y. Y 99 A 98 
+ 6  2  4 .PPGGG..WWWQUAA..QU.....UF..Y..F..Y. U 99 Y 99 
+ 6  2  4 .PPGGGWWW.YQ.AA.YQU.....UF....UF.... Y 98 W 98 
+ 6  2  4 .PPGGG..WWW...AA..U...YQUF..YQUF.... Q 98 A 99 
+ 6  2  4 .PPGGG..WWW...AA..U...Y.UF..YQUF...Q Q 97 A 99 
+ 6  2  4 .PPGGG..WWWQU..AAQU...Y.UF..Y..F.... U 99 A 98 
+ 6  2  4 .PPGGG..WWW.AA....U...Y.UF..YQUF...Q Q 97 A 99 
+ 6  2  4 UPPGGGU.WWW.UAA.......YQ.F..YQ.F.... Q 98 U 97 
+ 6  2  4 PP.GGG..WWWQ..AA.QU...Y.UF..Y.UF.... A 99 P 99 
+ 6  2  4 .PPGGGU.WWWQU..AAQU...Y..F..Y..F.... U 98 A 98 
+ 6  2  4 UPPGGGU.WWW.UAA.......Y..F..YQ.F...Q Q 97 U 97 
+ 6  2  4 .PPGGGU.WWW.UAA...U...YQ.F..YQ.F.... Q 98 U 98 
+ 6  2  4 UPPGGGU.WWWQU..AAQ....Y..F..Y..F.... U 97 A 98 
+ 6  2  4 .PPGGGU.WWW.UAA...U...Y..F..YQ.F...Q Q 97 U 98 
+ 6  2  4 .PPGGGWWW..QAA...QU...Y.UF..Y.UF.... A 99 W 98 
+ 6  2  4 PP.GGG..WWWQ...AAQU...Y.UF..Y.UF.... A 98 P 99 
+ 6  2  4 .PPGGG..WWW....AAQU...YQUF..Y.UF.... Q 99 A 98 
+ 6  2  4 .PPGGG..WWWQU.AA.QU...Y.UF..Y..F.... A 99 U 99 
+ 6  2  4 .PPGGGWWW..Q..AA.QU...Y.UF..Y.UF.... A 99 W 98 
+ 6  2  4 .PPGGGWWW....AA...U...YQUF..YQUF.... Q 98 W 98 
+ 6  2  4 .PPGGG..WWW....AA.U...YQUF..YQUF.... Q 98 A 98 
+ 6  2  4 .PPGGGWWW....AA...U...Y.UF..YQUF...Q Q 97 W 98 
+ 6  2  4 .PPGGG..WWW.UAA...U...YQUF..YQ.F.... Q 98 U 99 
+ 6  2  4 PP.GGG..WWW..AA..QU...YQUF..Y.UF.... Q 99 P 99 
+ 6  2  4 .PPGGG..WWW....AA.U...Y.UF..YQUF...Q Q 97 A 98 
+ 6  2  4 .PPGGG..WWW.UAA...U...Y.UF..YQ.F...Q Q 97 U 99 
+ 6  2  4 .PPGGGWWW..QUAA..QU...Y.UF..Y..F.... W 98 U 99 
+ 6  2  4 .PPGGGWWW..Q...AAQU...Y.UF..Y.UF.... W 98 A 98 
+ 6  2  4 .PPGGGU.WWWQUAA..QU......F..Y..F..Y. U 98 Y 99 
+ 6  2  4 UPPGGGU.WWWQUAA..Q.......F..Y..F..Y. U 97 Y 99 
+ 6  2  4 PP.GGG..WWW..AA...U...YQUF..YQUF.... Q 98 P 99 
+ 6  2  4 .PPGGG.WWW.Q.AA.YQU...Y.UF....UF.... Y 99 W 99 
+ 6  2  4 .PPGGG..WWWQAA...QU.....UF..Y.UF..Y. A 99 Y 99 
+ 6  2  4 .PPGGG..WWW.....AAU...YQUF..YQUF.... A 97 Q 98 
+ 6  2  4 UPPGGGU.WWWQU.AA.Q....Y..F..Y..F.... A 99 U 97 
+ 6  2  4 .PPGGG..WWWQ..AA.QU.....UF..Y.UF..Y. A 99 Y 99 
+ 6  2  4 .PPGGG.WWWYQ.AA.YQU.....UF....UF.... Y 98 W 99 
+ 6  2  4 .PPGGG..WWW..AA...U....QUF..YQUF..Y. Q 98 Y 99 
+ 6  2  4 .PPGGG..WWW..AA...U.....UF..YQUF..YQ Q 97 Y 99 
+ 6  2  4 PP.GGG..WWW..AA...U...Y.UF..YQUF...Q Q 97 P 99 
+ 6  2  4 .PPGGG.WWW.Q.AA..QU.....UF..Y.UF..Y. Y 99 W 99 
+ 6  2  4 .PPGGGWWW..Q.AA..QU.....UF..Y.UF..Y. W 98 Y 99 
+ 6  2  4 .PPGGG..WWW.UAA..QU...YQUF..Y..F.... U 99 Q 99 
+ 6  2  4 .PPGGG.WWW.QUAA..QU...Y.UF..Y..F.... U 99 W 99 
+ 6  2  4 .PPGGGU.WWW.UAA..QU...YQ.F..Y..F.... U 98 Q 99 
+ 6  2  4 UPPGGGU.WWW.UAA..Q....YQ.F..Y..F.... U 97 Q 99 
+ 6  2  4 PP.GGG.WWW.Q.AA..QU...Y.UF..Y.UF.... W 99 P 99 
+ 6  2  4 .PPGGGUWWW.QUAA..QU...Y..F..Y..F.... U 98 W 99 
+ 6  2  4 .PPGGG..WWW.AA...QU...YQUF..Y.UF.... A 99 Q 99 
+ 6  2  4 .PPGGGU.WWWQU.AA.QU...Y..F..Y..F.... A 99 U 98 
+ 6  2  4 .PPGGG..WWW...AA.QU...YQUF..Y.UF.... A 99 Q 99 
+ 6  2  4 UPPGGGUWWW.QUAA..Q....Y..F..Y..F.... U 97 W 99 
+ 6  2  4 .PPGGGWWW....AA..QU...YQUF..Y.UF.... W 98 Q 99 
+ 6  2  4 .PPGGG...WWW.AA..QU...YQUF..Y.UF.... W 99 Q 99 
+ 6  2  4 PP.GGGWWW..Q.AA..QU...Y.UF..Y.UF.... W 98 P 99 
+ 6  2  4 .PPGGG.WWW.QAA...QU...Y.UF..Y.UF.... A 99 W 99 
+ 6  2  4 .PPGGG..WWWQUAA..QUF..Y.UF..Y....... U 99 F 99 
+ 6  2  4 .PPGGGU.WWWQUAA..QUF..Y..F..Y....... U 98 F 99 
+ 6  2  4 .PPGGG.WWW.Q..AA.QU...Y.UF..Y.UF.... A 99 W 99 
+ 6  2  4 UPPGGGU.WWWQUAA..Q.F..Y..F..Y....... U 97 F 99 
+ 6  2  4 .PPGGG..WWWQAA...QUF..Y.UF..Y.U..... A 99 F 99 
+ 7  3  4 PPGGG...WWWQ.AA..QUF..Y.UF..Y.U..... F 99 G 99 P 99 
+ 7  3  4 .PPGGG.WWW.QUAA..QUF..Y.UF..Y....... U 99 F 99 W 99 
+ 7  3  4 .PPGGG.WWW.Q.AA.YQUF..Y.UF....U..... Y 99 F 99 W 99 
+ 7  3  4 .PPGGG..WWWQ.FAAYQUF..Y.U.....U..... Y 99 F 98 A 99 
+ 7  3  4 .PPGGG..WWWQUAA.YQUF..Y.UF.......... F 99 U 99 Y 99 
+ 7  3  4 PP.GGGU.WWWQU..AAQU...Y..F..Y..F.... A 98 U 98 P 99 
+ 7  3  4 PP.GGGU.WWWQUAA..QU......F..Y..F..Y. U 98 Y 99 P 99 
+ 7  3  4 PP.GGG..WWWQAA...QU.....UF..Y.UF..Y. A 99 Y 99 P 99 
+ 7  3  4 PP.GGG..WWWQ..AA.QU.....UF..Y.UF..Y. A 99 Y 99 P 99 
+ 7  3  4 PP.GGG..WWWQ...AAQU.....UF..Y.UF..Y. A 98 Y 99 P 99 
+ 7  3  4 PP.GGG..WWW..AA...U....QUF..YQUF..Y. Q 98 Y 99 P 99 
+ 7  3  4 PP.GGG..WWW..AA...U.....UF..YQUF..YQ Q 97 Y 99 P 99 
+ 7  3  4 PP.GGG.WWW.Q.AA..QU.....UF..Y.UF..Y. W 99 Y 99 P 99 
+ 7  3  4 PP.GGGWWW..Q.AA..QU.....UF..Y.UF..Y. W 98 Y 99 P 99 
+ 7  3  4 .PPGGG..WWW...AAYQU...YQUF....UF.... Q 99 A 99 Y 99 
+ 7  3  4 .PPGGG..WWW...AAY.U...YQUF...QUF.... Q 98 A 99 Y 99 
+ 7  3  4 .PPGGG..WWW...AAY.U...Y.UF...QUF...Q Q 97 A 99 Y 99 
+ 7  3  4 .PPGGG.WWW.Q..AAYQU...Y.UF....UF.... W 99 A 99 Y 99 
+ 7  3  4 .PPGGGWWW..Q..AAYQU...Y.UF....UF.... W 98 A 99 Y 99 
+ 7  3  4 .PPGGGU.WWWQUAA..QUF.....F..Y.....Y. U 98 Y 99 F 99 
+ 7  3  4 UPPGGGU.WWWQUAA..Q.F.....F..Y.....Y. U 97 Y 99 F 99 
+ 7  3  4 .PPGGG..WWWQAA...QUF....UF..Y.U...Y. A 99 Y 99 F 99 
+ 7  3  4 PP.GGGU.WWWQU.AA.QU...Y..F..Y..F.... A 99 U 98 P 99 
+ 7  3  4 .PPGGG..WWW..AA...UF....UF..YQU...YQ Q 97 Y 99 F 99 
+ 7  3  4 .PPGGG..WWW.AA..YQU...YQUF....UF.... Q 99 A 99 Y 99 
+ 7  3  4 .PPGGG..WWW.AA..Y.U...YQUF...QUF.... Q 98 A 99 Y 99 
+ 7  3  4 .PPGGG..WWW.AA..Y.U...Y.UF...QUF...Q Q 97 A 99 Y 99 
+ 7  3  4 .PPGGG.WWW.QAA..YQU...Y.UF....UF.... W 99 A 99 Y 99 
+ 7  3  4 .PPGGGWWW..QAA..YQU...Y.UF....UF.... W 98 A 99 Y 99 
+ 7  3  4 .PPGGG..WWWQU..AAQUF..Y.UF..Y....... U 99 F 99 A 98 
+ 7  3  4 .PPGGG..WWWQAA..YQUF..Y.UF....U..... F 99 A 99 Y 99 
+ 7  3  4 UPPGGGU.WWWQU..AAQ.F..Y..F..Y....... U 97 F 99 A 98 
+ 7  3  4 .PPGGG..WWW....AA.UF..YQUF..YQU..... Q 98 F 99 A 98 
+ 7  3  4 .PPGGG..WWW....AA.UF..Y.UF..YQU....Q Q 97 F 99 A 98 
+ 7  3  4 .PPGGG..WWWQ...AAQUF....UF..Y.U...Y. Y 99 F 99 A 98 
+ 7  3  4 PP.GGG..WWW..AA.YQU...YQUF....UF.... Q 99 Y 99 P 99 
+ 7  3  4 PP.GGG..WWW..AA.Y.U...YQUF...QUF.... Q 98 Y 99 P 99 
+ 7  3  4 PP.GGG..WWW..AA.Y.U...Y.UF...QUF...Q Q 97 Y 99 P 99 
+ 7  3  4 .PPGGGWWW....AA.Y.U...Y.UF...QUF...Q W 98 Q 97 Y 99 
+ 7  3  4 PP.GGGWWW..Q.AA.YQU...Y.UF....UF.... W 98 Y 99 P 99 
+ 7  3  4 UPPGGGU.WWWQU.AAYQ....Y..F.....F.... A 99 U 97 Y 99 
+ 7  3  4 UPPGGGU.WWW.UAA.YQ....YQ.F.....F.... Q 99 U 97 Y 99 
+ 7  3  4 PP.GGG..WWWQUAA..QU.....UF..Y..F..Y. U 99 Y 99 P 99 
+ 7  3  4 UPPGGGU.WWW.UAA.Y.....Y..F...Q.F...Q Q 97 U 97 Y 99 
+ 7  3  4 UPPGGGUWWW.QUAA.YQ....Y..F.....F.... W 99 U 97 Y 99 
+ 7  3  4 .PPGGGU.WWWQU.AAYQU...Y..F.....F.... A 99 U 98 Y 99 
+ 7  3  4 .PPGGG.WWW...AA.Y.U...Y.UF...QUF...Q W 99 Q 97 Y 99 
+ 7  3  4 .PPGGGU.WWW.UAA.Y.U...YQ.F...Q.F.... Q 98 U 98 Y 99 
+ 7  3  4 .PPGGGU.WWW.UAA.Y.U...Y..F...Q.F...Q Q 97 U 98 Y 99 
+ 7  3  4 .PPGGGUWWW.QUAA.YQU...Y..F.....F.... W 99 U 98 Y 99 
+ 7  3  4 .PPGGG..WWW..AA.Y.UF..Y.UF...QU....Q F 99 Q 97 Y 99 
+ 7  3  4 .PPGGG..WWWQU.AAYQU...Y.UF.....F.... A 99 U 99 Y 99 
+ 7  3  4 PP.GGG..WWWQU.AA.QU...Y.UF..Y..F.... A 99 U 99 P 99 
+ 7  3  4 .PPGGG..WWW.UAA.Y.U...YQUF...Q.F.... Q 98 U 99 Y 99 
+ 7  3  4 .PPGGG...WWW.AA.YQU...YQUF....UF.... W 99 Q 99 Y 99 
+ 7  3  4 .PPGGG.WWW.QUAA.YQU...Y.UF.....F.... W 99 U 99 Y 99 
+ 7  3  4 .PPGGG.FWWWQ.FAA.QU.....U...Y.U...Y. Y 99 F 97 A 99 
+ 7  3  4 PP.GGG..WWWQUAA.YQU...Y.UF.....F.... P 99 U 99 Y 99 
+ 7  3  4 .PPGGGWWW.YQUAA.YQU.....UF.....F.... U 99 Y 98 W 98 
+ 7  3  4 .PPGGGWWW..Q.AA..QUF....UF..Y.U...Y. Y 99 W 98 F 99 
+ 7  3  4 .PPGGG..WWWQU.AA.QU.....UF..Y..F..Y. A 99 U 99 Y 99 
+ 7  3  4 .PPGGGWWW..QAA...QUF..Y.UF..Y.U..... A 99 W 98 F 99 
+ 7  3  4 .PPGGG..WWW.UAA...U.....UF..YQ.F..YQ Q 97 U 99 Y 99 
+ 7  3  4 .PPGGGWWW....AA...UF..YQUF..YQU..... Q 98 W 98 F 99 
+ 7  3  4 .PPGGGWWW.Y..AA.YQU....QUF....UF.... Q 99 Y 98 W 98 
+ 7  3  4 PP.GGG..WWWQ.AA..QUF....UF..Y.U...Y. Y 99 F 99 P 99 
+ 7  3  4 .PPGGG..WWW.UAA...U....QUF..YQ.F..Y. Q 98 U 99 Y 99 
+ 7  3  4 PP.GGGU.WWWQUAA..QUF..Y..F..Y....... U 98 F 99 P 99 
+ 7  3  4 PP.GGGWWW.YQ.AA.YQU.....UF....UF.... P 99 Y 98 W 98 
+ 7  3  4 PP.GGG..WWWQ...AAQUF..Y.UF..Y.U..... A 98 F 99 P 99 
+ 7  3  4 .PPGGG.FWWW..FAA..U...YQU...YQU..... Q 98 F 97 A 99 
+ 7  3  4 PP.GGG..WWW..AA...UF..Y.UF..YQU....Q Q 97 F 99 P 99 
+ 7  3  4 .PPGGGU.WWWQU..AAQU......F..Y..F..Y. U 98 Y 99 A 98 
+ 7  3  4 .PPGGG.WWWY..AA.YQU....QUF....UF.... Y 98 Q 99 W 99 
+ 7  3  4 .PPGGGWWW..Q...AAQU.....UF..Y.UF..Y. W 98 Y 99 A 98 
+ 7  3  4 .PPGGGUWWW..UAA..QU...YQ.F..Y..F.... U 98 Q 99 W 99 
+ 7  3  4 .PPGGG..WWW....AA.U.....UF..YQUF..YQ Q 97 Y 99 A 98 
+ 7  3  4 .PPGGG.WWW..AA...QU...YQUF..Y.UF.... A 99 Q 99 W 99 
+ 7  3  4 .PPGGG.FWWW..FAA.QU...YQU...Y.U..... Q 99 F 97 A 99 
+ 7  3  4 PP.GGG.WWW...AA..QU...YQUF..Y.UF.... P 99 Q 99 W 99 
+ 7  3  4 PP.GGG.WWW.QAA...QU...Y.UF..Y.UF.... W 99 A 99 P 99 
+ 7  3  4 .PPGGGU.WWW.UAA..QUF..YQ.F..Y....... U 98 Q 99 F 99 
+ 7  3  4 UPPGGGUFWWWQUFAA.Q....Y.....Y....... U 97 F 97 A 99 
+ 7  3  4 .PPGGG..WWW.AA...QUF..YQUF..Y.U..... A 99 Q 99 F 99 
+ 7  3  4 .PPGGGUFWWWQUFAA.QU...Y.....Y....... U 98 F 97 A 99 
+ 7  3  4 .PPGGGWWW....AA..QUF..YQUF..Y.U..... W 98 Q 99 F 99 
+ 7  3  4 .PPGGG...WWW.AA.Y.U...YQUF...QUF.... W 99 Q 98 Y 99 
+ 7  3  4 PP.GGG..WWW..AA..QUF..YQUF..Y.U..... P 99 Q 99 F 99 
+ 7  3  4 .PPGGG.FWWWQUF.AAQU...Y.U...Y....... U 99 F 97 A 98 
+ 7  3  4 .PPGGG..WWWQUFAA.QUF..Y.U...Y....... U 99 F 98 A 99 
+ 7  3  4 .PPGGG.FWWW..F.AA.U...YQU...YQU..... Q 98 F 97 A 98 
+ 7  3  4 UPPGGGU.WWWQUFAA.Q.F..Y.....Y....... U 97 F 98 A 99 
+ 7  3  4 .PPGGG.FWWW..F.AAQU...YQU...Y.U..... Q 99 F 97 A 98 
+ 7  3  4 .PPGGG..WWW..FAA..UF..YQU...YQU..... Q 98 F 98 A 99 
+ 7  3  4 .PPGGG..WWW..F.AA.UF..Y.U...YQU....Q Q 97 F 98 A 98 
+ 7  3  4 .PPGGG.WWW.Q.FAA.QUF..Y.U...Y.U..... W 99 F 98 A 99 
+ 7  3  4 .PPGGG..WWWQUF.AAQUF..Y.U...Y....... U 99 F 98 A 98 
+ 7  3  4 PP.GGG..WWWQ.FAA.QUF..Y.U...Y.U..... P 99 F 98 A 99 
+ 7  3  4 .PPGGG..WWW..F.AA.UF..YQU...YQU..... Q 98 F 98 A 98 
+ 7  3  4 UPPGGGU.WWW.UAA..Q.....Q.F..Y..F..Y. U 97 Y 99 Q 99 
+ 7  3  4 .PPGGG..WWW..F.AAQUF..YQU...Y.U..... Q 99 F 98 A 98 
+ 7  3  4 .PPGGG..WWW...AA.QU....QUF..Y.UF..Y. A 99 Y 99 Q 99 
+ 7  3  4 .PPGGGWWW....AA.Y.U...YQUF...QUF.... W 98 Q 98 Y 99 
+ 7  3  4 .PPGGG.WWW...AA..QU....QUF..Y.UF..Y. W 99 Y 99 Q 99 
+ 7  3  4 .PPGGG..WWWQ.F.AAQUF....U...Y.U...Y. Y 99 F 98 A 98 
+ 7  3  4 .PPGGG...WWW.AA..QU....QUF..Y.UF..Y. W 99 Y 99 Q 99 
+ 7  3  4 PP.GGGUWWW.QUAA..QU...Y..F..Y..F.... W 99 U 98 P 99 
+ 7  3  4 .PPGGG..WWWQ..AA.QUF....UF..Y.U...Y. Y 99 A 99 F 99 
+ 7  3  4 PP.GGGU.WWW.UAA...U...Y..F..YQ.F...Q Q 97 U 98 P 99 
+ 7  3  4 .PPGGGU.WWWQU.AA.QUF..Y..F..Y....... U 98 A 99 F 99 
+ 7  3  4 .PPGGG.WWW...AA.Y.U...YQUF...QUF.... W 99 Q 98 Y 99 
+ 7  3  4 .PPGGG..WWW...AA.QUF..YQUF..Y.U..... Q 99 A 99 F 99 
+ 7  3  4 PP.GGG..WWW.UAA..QU...YQUF..Y..F.... Q 99 U 99 P 99 
+ 7  3  4 .PPGGG..WWW...AA..UF..Y.UF..YQU....Q Q 97 A 99 F 99 
+ 7  3  4 PP.GGGWWW..QUAA..QU...Y.UF..Y..F.... W 98 U 99 P 99 
+ 7  3  4 PP.GGG..WWWQ..AA.QUF..Y.UF..Y.U..... P 99 A 99 F 99 
+ 7  3  4 PP.GGG.WWW.QUAA..QU...Y.UF..Y..F.... W 99 U 99 P 99 
+ 7  3  4 .PPGGGUWWW.QUAA..QUF..Y..F..Y....... U 98 F 99 W 99 
+ 7  3  4 .PPGGG.WWW.Q.AA..QUF....UF..Y.U...Y. Y 99 F 99 W 99 
+ 7  3  4 UPPGGGUWWW.QUAA..Q.F..Y..F..Y....... U 97 F 99 W 99 
+ 7  3  4 .PPGGG.WWW.QAA...QUF..Y.UF..Y.U..... A 99 F 99 W 99 
+ 7  3  4 .PPGGG..WWW.UAA..QU....QUF..Y..F..Y. U 99 Y 99 Q 99 
+ 7  3  4 .PPGGG.WWW...AA..QUF..YQUF..Y.U..... Q 99 F 99 W 99 
+ 7  3  4 .PPGGG..WWW..AA..QUF...QUF..Y.U...Y. F 99 Y 99 Q 99 
+ 7  3  4 .PPGGG.WWW...AA...UF..Y.UF..YQU....Q Q 97 F 99 W 99 
+ 7  3  4 .PPGGGWWW..Q.AA.YQUF..Y.UF....U..... Y 99 W 98 F 99 
+ 7  3  4 .PPGGG.WWW.Q.F.AAQUF..Y.U...Y.U..... F 98 A 98 W 99 
+ 7  3  4 .PPGGG.WWW...AA.YQU...YQUF....UF.... Y 99 Q 99 W 99 
+ 7  3  4 .PPGGG.WWW.QU..AAQU...Y.UF..Y..F.... U 99 A 98 W 99 
+ 7  3  4 .PPGGG.WWW......AAU...YQUF..YQUF.... A 97 Q 98 W 99 
+ 7  3  4 UPPGGGUWWW.QU..AAQ....Y..F..Y..F.... U 97 A 98 W 99 
+ 7  3  4 PP.GGG..WWWQ.AA.YQUF..Y.UF....U..... Y 99 F 99 P 99 
+ 7  3  4 .PPGGG.WWW.....AA.U...YQUF..YQUF.... Q 98 A 98 W 99 
+ 7  3  4 .PPGGG..WWWQUAA..QUF....UF..Y.....Y. U 99 Y 99 F 99 
+ 7  3  4 PP.GGG.WWW.Q...AAQU...Y.UF..Y.UF.... P 99 A 98 W 99 
+ 7  3  4 .PPGGGU.WWWQUAA.YQUF..Y..F.......... F 99 U 98 Y 99 
+ 7  3  4 PPGGG...WWWQ.AA..QU.....UF..Y.UF..Y. Y 99 G 99 P 99 
+ 7  3  4 .PPGGGU.WWWQU..AAQUF..Y..F..Y....... U 98 F 99 A 98 
+ 7  3  4 PPGGG.U.WWWQUAA..QU...Y..F..Y..F.... U 98 G 99 P 99 
+ 7  3  4 PP.GGG..WWWQ..AAYQU...Y.UF....UF.... A 99 Y 99 P 99 
+ 7  3  4 PPGGG...WWWQ..AA.QU...Y.UF..Y.UF.... A 99 G 99 P 99 
+ 7  3  4 .PPGGGWWW....AA.YQU...YQUF....UF.... W 98 Q 99 Y 99 
+ 7  3  4 PPGGGQ..WWWQ.AA...U...Y.UF..Y.UF.... Q 99 G 99 P 99 
+ 7  3  4 UPPGGGU.WWW.UAA.Y.....YQ.F...Q.F.... Q 98 U 97 Y 99 
+ 7  3  4 PPGGG...WWW..AA...U...YQUF..YQUF.... Q 98 G 99 P 99 
+ 7  3  4 .PPGGG..WWW..AA.Y.UF..YQUF...QU..... F 99 Q 98 Y 99 
+ 7  3  4 PPGGG..WWW.Q.AA..QU...Y.UF..Y.UF.... W 99 G 99 P 99 
+ 7  3  4 PP.GGGU.WWWQUAA.YQU...Y..F.....F.... P 99 U 98 Y 99 
+ 7  3  4 .PPGGG..WWW.UAA.YQU...YQUF.....F.... Q 99 U 99 Y 99 
+ 7  3  4 .PPGGG.FWWW..FAA..U...Y.U...YQU....Q Q 97 F 97 A 99 
+ 7  3  4 .PPGGGWWW..QUAA.YQU...Y.UF.....F.... W 98 U 99 Y 99 
+ 7  3  4 .PPGGG..WWWQU..AAQU.....UF..Y..F..Y. U 99 Y 99 A 98 
+ 7  3  4 .PPGGGWWW..QUAA..QUF..Y.UF..Y....... U 99 W 98 F 99 
+ 7  3  4 .PPGGGWWW.Y..AA.Y.U....QUF...QUF.... Q 98 Y 98 W 98 
+ 7  3  4 .PPGGGWWW....AA...UF..Y.UF..YQU....Q Q 97 W 98 F 99 
+ 7  3  4 .PPGGGWWW.Y..AA.Y.U.....UF...QUF...Q Q 97 Y 98 W 98 
+ 7  3  4 PP.GGG..WWWQAA...QUF..Y.UF..Y.U..... A 99 F 99 P 99 
+ 7  3  4 PP.GGG..WWW.AA....U...YQUF..YQUF.... Q 98 A 99 P 99 
+ 7  3  4 PP.GGGWWW..Q.AA..QUF..Y.UF..Y.U..... W 98 F 99 P 99 
+ 7  3  4 .PPGGG..WWW....AA.U....QUF..YQUF..Y. Q 98 Y 99 A 98 
+ 7  3  4 UPPGGGUWWW..UAA..Q....YQ.F..Y..F.... U 97 Q 99 W 99 
+ 7  3  4 PP.GGGWWW..QAA...QU...Y.UF..Y.UF.... W 98 A 99 P 99 
+ 7  3  4 .PPGGG..WWW.UAA..QUF..YQUF..Y....... U 99 Q 99 F 99 
+ 7  3  4 .PPGGG.FWWWQUFAA.QU...Y.U...Y....... U 99 F 97 A 99 
+ 7  3  4 .PPGGG..WWW....AAQUF..YQUF..Y.U..... A 98 Q 99 F 99 
+ 7  3  4 .PPGGGWWW..Q.F.AAQUF..Y.U...Y.U..... W 98 F 98 A 98 
+ 7  3  4 .PPGGG..WWWQ.FAA.QUF....U...Y.U...Y. Y 99 F 98 A 99 
+ 7  3  4 UPPGGGUFWWWQUF.AAQ....Y.....Y....... U 97 F 97 A 98 
+ 7  3  4 .PPGGG..WWW..FAA.QUF..YQU...Y.U..... Q 99 F 98 A 99 
+ 7  3  4 .PPGGGU.WWWQUF.AAQUF..Y.....Y....... U 98 F 98 A 98 
+ 7  3  4 .PPGGGWWW..Q.FAA.QUF..Y.U...Y.U..... W 98 F 98 A 99 
+ 7  3  4 UPPGGGU.WWWQUF.AAQ.F..Y.....Y....... U 97 F 98 A 98 
+ 7  3  4 .PPGGG..WWW.AA...QU....QUF..Y.UF..Y. A 99 Y 99 Q 99 
+ 7  3  4 .PPGGG...WWW.AA.Y.U...Y.UF...QUF...Q W 99 Q 97 Y 99 
+ 7  3  4 .PPGGGWWW....AA..QU....QUF..Y.UF..Y. W 98 Y 99 Q 99 
+ 7  3  4 PP.GGGU.WWW.UAA...U...YQ.F..YQ.F.... Q 98 U 98 P 99 
+ 7  3  4 .PPGGG..WWWQU.AA.QUF..Y.UF..Y....... U 99 A 99 F 99 
+ 7  3  4 PP.GGG..WWW.UAA...U...YQUF..YQ.F.... Q 98 U 99 P 99 
+ 7  3  4 .PPGGG..WWW...AA..UF..YQUF..YQU..... Q 98 A 99 F 99 
+ 7  3  4 PP.GGG..WWW.UAA...U...Y.UF..YQ.F...Q Q 97 U 99 P 99 
+ 7  3  4 .PPGGG.WWW.Q...AAQUF..Y.UF..Y.U..... F 99 A 98 W 99 
+ 7  3  4 .PPGGG.WWWYQ.AA.YQUF....UF....U..... Y 98 F 99 W 99 
+ 7  3  4 .PPGGG..WWWQ..AAYQUF..Y.UF....U..... Y 99 A 99 F 99 
+ 7  3  4 .PPGGG.WWW...AA...UF..YQUF..YQU..... Q 98 F 99 W 99 
+ 7  3  4 .PPGGG..WWW.....AAUF..YQUF..YQU..... A 97 Q 98 F 99 
+ 7  3  4 .PPGGG.WWW.Q...AAQU.....UF..Y.UF..Y. Y 99 A 98 W 99 
+ 7  3  4 .PPGGG..WWW.....AAUF..Y.UF..YQU....Q A 97 Q 97 F 99 
+ 7  3  4 .PPGGG.WWW.....AAQU...YQUF..Y.UF.... Q 99 A 98 W 99 
+ 7  3  4 .PPGGG..WWW..AA...UF...QUF..YQU...Y. Q 98 Y 99 F 99 
+ 7  3  4 PPGGG...WWWQ.AA.YQU...Y.UF....UF.... Y 99 G 99 P 99 
+ 7  3  4 PP.GGG..WWWQAA..YQU...Y.UF....UF.... A 99 Y 99 P 99 
+ 7  3  4 PPGGG...WWWQAA...QU...Y.UF..Y.UF.... A 99 G 99 P 99 
+ 7  3  4 .PPGGG.FWWWQ.FAAYQU...Y.U.....U..... F 97 A 99 Y 99 
+ 7  3  4 PPGGG...WWW..AA..QU...YQUF..Y.UF.... Q 99 G 99 P 99 
+ 7  3  4 .PPGGGU.WWW.UAA.YQU...YQ.F.....F.... Q 99 U 98 Y 99 
+ 7  3  4 PPGGG.WWW..Q.AA..QU...Y.UF..Y.UF.... W 98 G 99 P 99 
+ 7  3  4 .PPGGG.WWW.QUAA..QU.....UF..Y..F..Y. W 99 U 99 Y 99 
+ 7  3  4 .PPGGGWWW.YQ.AA.YQUF....UF....U..... Y 98 W 98 F 99 
+ 7  3  4 .PPGGGWWW.YQ..AAYQU.....UF....UF.... A 99 Y 98 W 98 
+ 7  3  4 PP.GGG..WWWQUAA..QUF..Y.UF..Y....... U 99 F 99 P 99 
+ 7  3  4 UPPGGGU.WWWQU..AAQ.......F..Y..F..Y. U 97 Y 99 A 98 
+ 7  3  4 .PPGGG.WWW..UAA..QU...YQUF..Y..F.... U 99 Q 99 W 99 
+ 7  3  4 PP.GGG..WWW.AA....U...Y.UF..YQUF...Q Q 97 A 99 P 99 
+ 7  3  4 UPPGGGU.WWW.UAA..Q.F..YQ.F..Y....... U 97 Q 99 F 99 
+ 7  3  4 .PPGGG.FWWW..F.AA.U...Y.U...YQU....Q Q 97 F 97 A 98 
+ 7  3  4 .PPGGGU.WWWQUFAA.QUF..Y.....Y....... U 98 F 98 A 99 
+ 7  3  4 PP.GGG.FWWWQ.F.AAQU...Y.U...Y.U..... P 99 F 97 A 98 
+ 7  3  4 .PPGGGU.WWW.UAA..QU....Q.F..Y..F..Y. U 98 Y 99 Q 99 
+ 7  3  4 PP.GGGU.WWW.UAA..QU...YQ.F..Y..F.... Q 99 U 98 P 99 
+ 7  3  4 PP.GGG..WWW..AA..QU....QUF..Y.UF..Y. P 99 Y 99 Q 99 
+ 7  3  4 PP.GGG..WWWQU..AAQU...Y.UF..Y..F.... A 98 U 99 P 99 
+ 7  3  4 .PPGGG.WWW.Q..AA.QUF..Y.UF..Y.U..... A 99 F 99 W 99 
+ 7  3  4 .PPGGGWWW..Q..AA.QUF..Y.UF..Y.U..... W 98 A 99 F 99 
+ 7  3  4 .PPGGG..WWW..AA.YQUF..YQUF....U..... Y 99 Q 99 F 99 
+ 7  3  4 .PPGGGUWWW.QU..AAQU...Y..F..Y..F.... U 98 A 98 W 99 
+ 7  3  4 UPPGGGU.WWWQUAA.YQ.F..Y..F.......... F 99 U 97 Y 99 
+ 7  3  4 PPGGG...WWWQUAA..QU...Y.UF..Y..F.... U 99 G 99 P 99 
+ 7  3  4 PP.GGG.WWW.Q.AA.YQU...Y.UF....UF.... W 99 Y 99 P 99 
+ 7  3  4 PPGGG...WWW..AA...U...Y.UF..YQUF...Q Q 97 G 99 P 99 
+ 7  3  4 .PPGGGWWW.YQAA..YQU.....UF....UF.... A 99 Y 98 W 98 
+ 7  3  4 .PPGGGWWW..Q...AAQUF..Y.UF..Y.U..... A 98 W 98 F 99 
+ 7  3  4 .PPGGGWWW..QUAA..QU.....UF..Y..F..Y. W 98 U 99 Y 99 
+ 7  3  4 .PPGGG.WWW....AA.QU...YQUF..Y.UF.... A 99 Q 99 W 99 
+ 7  3  4 .PPGGGUFWWWQUF.AAQU...Y.....Y....... U 98 F 97 A 98 
+ 7  3  4 .PPGGG..WWW..FAA..UF..Y.U...YQU....Q Q 97 F 98 A 99 
+ 7  3  4 PP.GGG..WWWQ.F.AAQUF..Y.U...Y.U..... P 99 F 98 A 98 
+ 7  3  4 PP.GGG.WWW.Q.AA..QUF..Y.UF..Y.U..... P 99 F 99 W 99 
+ 7  3  4 UPPGGGU.WWWQU.AA.Q.F..Y..F..Y....... U 97 A 99 F 99 
+ 7  3  4 .PPGGG.WWW......AAU...Y.UF..YQUF...Q A 97 Q 97 W 99 
+ 7  3  4 PPGGG...WWWQ...AAQU...Y.UF..Y.UF.... A 98 G 99 P 99 
+ 7  3  4 PP.GGG..WWW.AA...QU...YQUF..Y.UF.... Q 99 A 99 P 99 
+ 7  3  4 PP.GGG..WWW..AA...UF..YQUF..YQU..... Q 98 F 99 P 99 
+ 7  3  4 PP.GGG.FWWWQ.FAA.QU...Y.U...Y.U..... P 99 F 97 A 99 
+ 7  3  4 .PPGGG.WWW.....AA.U...Y.UF..YQUF...Q Q 97 A 98 W 99 
+ 7  3  4 .PPGGG..WWW....AAQU....QUF..Y.UF..Y. A 98 Y 99 Q 99 
+ 7  3  4 .PPGGG.FWWWQ.F.AAQU.....U...Y.U...Y. Y 99 F 97 A 98 
+ 7  3  4 .PPGGG..WWW.UAA.Y.U...Y.UF...Q.F...Q Q 97 U 99 Y 99 
+ 7  3  4 .PPGGG...WWW.AA..QUF..YQUF..Y.U..... W 99 Q 99 F 99 

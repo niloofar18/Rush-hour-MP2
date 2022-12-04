@@ -1,0 +1,27 @@
+Initial Board Configuration: X....VX.Q.SVAAQ.S.UUU..RJ.BB.RJ..HHR
+
+X . . . . V
+X . Q . S V
+A A Q . S .
+U U U . . R
+J . B B . R
+J . . H H R
+
+Car Fuel Available: X:100 V:100 Q:100 S:100 A:100 U:100 R:100 J:4 B:8 H:100 
+
+Runtime: 0.08093500137329102
+Search Path Length: 546
+Solution Path Length: 3
+Solution Path: S down 2; Q up 1; A right 4
+
+S  down 2 	98 X....VX.Q..VAAQ...UUU.SRJ.BBSRJ..HHR S98 
+Q    up 1 	99 X.Q..VX.Q..VAA....UUU.SRJ.BBSRJ..HHR S98 Q99 
+A right 4 	96 X.Q..VX.Q..V....AAUUU.SRJ.BBSRJ..HHR S98 Q99 A96 
+
+! S98 Q99 A96 
+X . Q . . V
+X . Q . . V
+. . . . A A
+U U U . S R
+J . B B S R
+J . . H H R

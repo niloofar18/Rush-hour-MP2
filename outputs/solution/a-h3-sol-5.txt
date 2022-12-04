@@ -1,0 +1,25 @@
+Initial Board Configuration: J.....J.....AA........R.....R.....UU
+
+J . . . . .
+J . . . . .
+A A . . . .
+. . . . R .
+. . . . R .
+. . . . U U
+
+Car Fuel Available: J:100 A:100 R:100 U:100 
+
+Runtime: 0.0010161399841308594
+Search Path Length: 1
+Solution Path Length: 1
+Solution Path: A right 4
+
+A right 4 	96 J.....J.........AA....R.....R.....UU A96 
+
+! A96 
+J . . . . .
+J . . . . .
+. . . . A A
+. . . . R .
+. . . . R .
+. . . . U U

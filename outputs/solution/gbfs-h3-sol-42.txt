@@ -1,0 +1,15 @@
+Initial Board Configuration: .D.....D.B...AAB...J.BOO.J.QQQ....NN
+
+. D . . . .
+. D . B . .
+. A A B . .
+. J . B O O
+. J . Q Q Q
+. . . . N N
+
+Car Fuel Available: D:100 B:100 A:100 J:100 O:100 Q:100 N:100 
+
+Puzzle cannot be solved. 
+Error: No Solution
+
+Runtime: 0.05703115463256836

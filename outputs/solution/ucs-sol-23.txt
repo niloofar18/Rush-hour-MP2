@@ -1,0 +1,25 @@
+Initial Board Configuration: VKJ...VKJOOOVAA..........MM.UU......
+
+V K J . . .
+V K J O O O
+V A A . . .
+. . . . . .
+. M M . U U
+. . . . . .
+
+Car Fuel Available: V:100 K:100 J:100 O:100 A:100 M:100 U:100 
+
+Runtime: 0.0
+Search Path Length: 2
+Solution Path Length: 1
+Solution Path: A right 3
+
+A right 3 	97 VKJ...VKJOOOV...AA.......MM.UU...... A97 
+
+! A97 
+V K J . . .
+V K J O O O
+V . . . A A
+. . . . . .
+. M M . U U
+. . . . . .

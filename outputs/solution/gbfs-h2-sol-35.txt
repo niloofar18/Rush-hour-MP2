@@ -1,0 +1,15 @@
+Initial Board Configuration: .SWG.R.SWG.R.AA.DRII..D..OOO.V.UUU.V
+
+. S W G . R
+. S W G . R
+. A A . D R
+I I . . D .
+. O O O . V
+. U U U . V
+
+Car Fuel Available: S:3 W:8 G:3 R:100 A:100 D:100 I:7 O:1 V:1 U:100 
+
+Puzzle cannot be solved. 
+Error: No Solution
+
+Runtime: 121.0859203338623

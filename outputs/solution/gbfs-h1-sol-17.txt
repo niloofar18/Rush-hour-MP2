@@ -1,0 +1,27 @@
+Initial Board Configuration: DO.FFEDO.R.E.AARK.W.T.K.W.T.K.W.T...
+
+D O . F F E
+D O . R . E
+. A A R K .
+W . T . K .
+W . T . K .
+W . T . . .
+
+Car Fuel Available: D:100 O:100 F:3 E:100 R:100 A:9 K:9 W:4 T:100 
+
+Runtime: 0.19022488594055176
+Search Path Length: 850
+Solution Path Length: 3
+Solution Path: R down 3; K down 1; A right 3
+
+R  down 3 	97 DO.FFEDO...E.AA.K.W.T.K.W.TRK.W.TR.. R97 
+K  down 1 	 8 DO.FFEDO...E.AA...W.T.K.W.TRK.W.TRK. R97 K8 
+A right 3 	 6 DO.FFEDO...E....AAW.T.K.W.TRK.W.TRK. R97 K8 A6 
+
+! R97 K8 A6 
+D O . F F E
+D O . . . E
+. . . . A A
+W . T . K .
+W . T R K .
+W . T R K .

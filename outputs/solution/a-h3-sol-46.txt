@@ -1,0 +1,15 @@
+Initial Board Configuration: ..NCYWDDNCYW.AACY.VB..UUVB.SQQ...S..
+
+. . N C Y W
+D D N C Y W
+. A A C Y .
+V B . . U U
+V B . S Q Q
+. . . S . .
+
+Car Fuel Available: N:100 C:100 Y:100 W:100 D:100 A:100 V:100 B:100 U:100 S:100 Q:100 
+
+Puzzle cannot be solved. 
+Error: No Solution
+
+Runtime: 1.8203999996185303

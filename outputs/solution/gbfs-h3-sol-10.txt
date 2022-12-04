@@ -1,0 +1,15 @@
+Initial Board Configuration: ..DD.ENNP..EAAPM.E.IPM..TI.KKXT....X
+
+. . D D . E
+N N P . . E
+A A P M . E
+. I P M . .
+T I . K K X
+T . . . . X
+
+Car Fuel Available: D:100 E:100 N:100 P:100 A:100 M:100 I:100 T:100 K:100 X:100 
+
+Puzzle cannot be solved. 
+Error: No Solution
+
+Runtime: 2.0501842498779297

@@ -1,0 +1,25 @@
+Initial Board Configuration: ..VVV.......AA.......W...SSWF....WF.
+
+. . V V V .
+. . . . . .
+A A . . . .
+. . . W . .
+. S S W F .
+. . . W F .
+
+Car Fuel Available: V:100 A:8 W:5 S:100 F:1 
+
+Runtime: 0.0010018348693847656
+Search Path Length: 2
+Solution Path Length: 1
+Solution Path: A right 4
+
+A right 4 	 4 ..VVV...........AA...W...SSWF....WF. A4 
+
+! A4 
+. . V V V .
+. . . . . .
+. . . . A A
+. . . W . .
+. S S W F .
+. . . W F .

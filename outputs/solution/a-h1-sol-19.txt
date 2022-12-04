@@ -1,0 +1,35 @@
+Initial Board Configuration: O.EEWDO...WDAAXKW...XK....LKVV..LJJ.
+
+O . E E W D
+O . . . W D
+A A X K W .
+. . X K . .
+. . L K V V
+. . L J J .
+
+Car Fuel Available: O:100 E:100 W:100 D:100 A:100 X:100 K:100 L:100 V:100 J:100 
+
+Runtime: 19.363086223602295
+Search Path Length: 9018
+Solution Path Length: 11
+Solution Path: W down 1; E right 1; X up 2; L up 2; J left 2; K up 1; V left 4; W down 2; L down 1; K down 2; A right 4
+
+W  down 1 	99 O.EE.DO...WDAAXKW...XKW...LKVV..LJJ. W99 
+E right 1 	99 O..EEDO...WDAAXKW...XKW...LKVV..LJJ. W99 E99 
+X    up 2 	98 O.XEEDO.X.WDAA.KW....KW...LKVV..LJJ. W99 E99 X98 
+L    up 2 	98 O.XEEDO.X.WDAALKW...LKW....KVV...JJ. W99 E99 X98 L98 
+J  left 2 	98 O.XEEDO.X.WDAALKW...LKW....KVV.JJ... W99 E99 X98 L98 J98 
+K    up 1 	99 O.XEEDO.XKWDAALKW...LKW.....VV.JJ... W99 E99 X98 L98 J98 K99 
+V  left 4 	96 O.XEEDO.XKWDAALKW...LKW.VV.....JJ... W99 E99 X98 L98 J98 K99 V96 
+W  down 2 	97 O.XEEDO.XK.DAALK....LKW.VV..W..JJ.W. W97 E99 X98 L98 J98 K99 V96 
+L  down 1 	97 O.XEEDO.XK.DAA.K....LKW.VVL.W..JJ.W. W97 E99 X98 L97 J98 K99 V96 
+K  down 2 	97 O.XEEDO.X..DAA......LKW.VVLKW..JJKW. W97 E99 X98 L97 J98 K97 V96 
+A right 4 	96 O.XEEDO.X..D....AA..LKW.VVLKW..JJKW. W97 E99 X98 L97 J98 K97 V96 A96 
+
+! W97 E99 X98 L97 J98 K97 V96 A96 
+O . X E E D
+O . X . . D
+. . . . A A
+. . L K W .
+V V L K W .
+. J J K W .

@@ -1,0 +1,650 @@
+ 2  0  2 F..LL.FSSO..AA.O..HHH.....DDW...IIW.
+ 2  0  2 F...LLFSSO..AA.O..HHH.....DDW...IIW. L 99 
+ 2  0  2 F.LL..FSSO..AA.O..HHH.....DDW...IIW. L 99 
+ 2  0  2 F..LL.FSSO..AA.O....HHH...DDW...IIW. H 98 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.....DDW.II..W. I 98 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.....DDW..II.W. I 99 
+ 2  0  2 F..LL.FSSO..AA.O.....HHH..DDW...IIW. H 97 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W...DDW...II.. W 99 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W...DD....II.. W 98 
+ 2  0  2 FLL...FSSO..AA.O..HHH.....DDW...IIW. L 98 
+ 2  0  2 F..LL.FSSO...AAO..HHH.....DDW...IIW. A 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH.....DD....II.. W 97 
+ 2  0  2 F..LL.FSSO..AA.O..HHH....DD.W...IIW. D 99 
+ 2  0  2 F..LL.FSS...AA.O..HHHO....DDW...IIW. O 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH...DD..W...IIW. D 98 
+ 2  0  2 F..LL.FSSO..AA.O...HHH....DDW...IIW. H 99 
+ 2  0  2 F.LL..FSSO...AAO..HHH.....DDW...IIW. A 99 L 99 
+ 2  0  2 F.LL..FSSO..AA.O..HHH.....DDW..II.W. I 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH...DD..W..II.W. D 98 I 99 
+ 2  0  2 F..LL.FSSO..AA.O.....HHH.DD.W...IIW. D 99 H 97 
+ 2  0  2 F..LL.F.SS..AA.O..HHHO....DDW...IIW. S 99 O 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHH....DDW..II.W. H 99 I 99 
+ 2  0  2 F..LL.F..SS.AA.O..HHHO....DDW...IIW. S 98 O 99 
+ 2  0  2 F..LL.F...SSAA.O..HHHO....DDW...IIW. S 97 O 99 
+ 2  0  2 F.LL..FSS...AA.O..HHHO....DDW...IIW. O 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.O.....HHH..DDW..II.W. H 97 I 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHH...DD.W...IIW. H 99 D 99 
+ 2  0  2 F..LL.FSS...AA.O..HHHO...DD.W...IIW. O 99 D 99 
+ 2  0  2 F..LL.FSSO...AAO..HHH.....DDW..II.W. A 99 I 99 
+ 2  0  2 F..LL.FSS...AA....HHHO...DDOW...IIW. O 98 D 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH.....DD......II I 98 W 97 
+ 2  0  2 F...LLFSSO..AA.O..HHH.....DDW..II.W. I 99 L 99 
+ 2  0  2 F..LL.FSS...AA.O..HHHO....DDW..II.W. O 99 I 99 
+ 2  0  2 FLL...FSSO..AA.O..HHH.....DDW..II.W. L 98 I 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH....DD.....II.. D 99 W 97 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W...DDW.II.... W 99 I 98 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH...DD......II.. D 98 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH......DD...II.. D 99 W 97 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W...DD..II.... W 98 I 98 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH.......DD..II.. D 98 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW..HHH....DD....II.. H 99 W 97 
+ 2  0  2 F...LLFSSO..AA.O..HHH.....DDW.II..W. I 98 L 99 
+ 2  0  2 F..LL.FSSO..AA.O....HHH...DDW..II.W. I 99 H 98 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH.....DD..II.... W 97 I 98 
+ 2  0  2 F..LL.FSSOW.AA.OW...HHH...DD....II.. H 98 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW....HHH..DD....II.. H 97 W 97 
+ 2  0  2 F..LL.FSSO..AA.O..HHH....DD.W.II..W. D 99 I 98 
+ 2  0  2 F..LL.FSS.W.AA.OW.HHHO....DD....II.. O 99 W 97 
+ 2  0  2 F..LL.FSSO...AAO..HHH....DD.W...IIW. D 99 A 99 
+ 2  0  2 F...LLFSSO..AA.O..HHH.W...DDW...II.. W 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH...DD..W.II..W. D 98 I 98 
+ 2  0  2 F..LL.FSSO...AAO..HHH...DD..W...IIW. D 98 A 99 
+ 2  0  2 F..LL.FSSO...AAO...HHH....DDW...IIW. H 99 A 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHH....DDW.II..W. H 99 I 98 
+ 2  0  2 F..LL.FSS....AAO..HHHO....DDW...IIW. O 99 A 99 
+ 2  0  2 F...LLFSSO..AA.OW.HHH.W...DD....II.. W 98 L 99 
+ 2  0  2 F..LL.FSSO..AA.O.....HHH..DDW.II..W. H 97 I 98 
+ 2  0  2 ...LL.FSSO..FAAO..HHH.....DDW...IIW. F 99 A 99 
+ 2  0  2 FLL.W.FSSOW.AA.O..HHH.....DD....II.. W 96 L 98 
+ 2  0  2 F..LL.FSSO...AAO..HHH.....DDW.II..W. A 99 I 98 
+ 2  0  2 FLL...FSSO..AA.O..HHH....DD.W...IIW. D 99 L 98 
+ 2  0  2 FLL...FSSO..AA.O..HHH...DD..W...IIW. D 98 L 98 
+ 2  0  2 F...LLFSSOW.AA.OW.HHH.....DD....II.. W 97 L 99 
+ 2  0  2 F..LL.FSS...AA.O..HHHO....DDW.II..W. O 99 I 98 
+ 2  0  2 FLL...FSSO..AA.O...HHH....DDW...IIW. H 99 L 98 
+ 2  0  2 FLL...FSSO...AAO..HHH.....DDW...IIW. A 99 L 98 
+ 2  0  2 FLL...FSSO..AA.O..HHH.....DDW.II..W. L 98 I 98 
+ 2  0  2 FLLO..FSSO..AA....HHH.....DDW...IIW. O 99 L 98 
+ 2  0  2 FLL...FSS...AA.O..HHHO....DDW...IIW. O 99 L 98 
+ 2  0  2 F...LLFSSO..AA.O..HHH....DD.W...IIW. D 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.O....HHH...DDW.II..W. I 98 H 98 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W...DDW....II. I 99 W 99 
+ 2  0  2 FLL...FSSOW.AA.OW.HHH.....DD....II.. W 97 L 98 
+ 2  0  2 F..LL.FSS...AA.O..HHHO..DD..W...IIW. D 98 O 99 
+ 2  0  2 F..LL.FSSO..AA.O....HHH..DD.W...IIW. D 99 H 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W...DD......II I 98 W 98 
+ 2  0  2 F...LLFSSO..AA.O..HHH...DD..W...IIW. D 98 L 99 
+ 2  0  2 F..LL.FSSO..AA.O....HHH.DD..W...IIW. D 98 H 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W..DD.....II.. D 99 W 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W.DD......II.. D 98 W 98 
+ 2  0  2 F...LLFSSO..AA.O...HHH....DDW...IIW. H 99 L 99 
+ 2  0  2 F..LL.FSSO...AAO....HHH...DDW...IIW. A 99 H 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W....DD...II.. D 99 W 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W...DD.....II. I 99 W 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W.....DD..II.. D 98 W 98 
+ 2  0  2 FLL...FSSO..AA.O....HHH...DDW...IIW. L 98 H 98 
+ 2  0  2 F..LL.FSSO..AA.OW..HHHW...DD....II.. H 99 W 98 
+ 2  0  2 F..LL.FSSO...AAOW.HHH.W...DD....II.. A 99 W 98 
+ 2  0  2 F...LLFSSO..AA.O....HHH...DDW...IIW. H 98 L 99 
+ 2  0  2 F.LL..FSSO..AA.O..HHH.....DDW.II..W. I 98 L 99 
+ 2  0  2 F..LL.FSS...AA.OW.HHHOW...DD....II.. O 99 W 98 
+ 2  0  2 FLL...FSSO..AA.OW.HHH.W...DD....II.. L 98 W 98 
+ 2  0  2 F.LL..FSSO..AA.O..HHH.W...DDW...II.. W 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W...DDW.....II I 98 W 99 
+ 2  0  2 F...LLFSSO..AA.O.....HHH..DDW...IIW. H 97 L 99 
+ 2  0  2 F.LL..FSSO..AA.OW.HHH.W...DD....II.. W 98 L 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W..DD.W...II.. D 99 W 99 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH.....DD....II.. W 97 A 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W.DD..W...II.. D 98 W 99 
+ 2  0  2 F.LL..FSSOW.AA.OW.HHH.....DD....II.. W 97 L 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHHW...DDW...II.. H 99 W 99 
+ 2  0  2 F..LL.FSSO...AAO..HHH.W...DDW...II.. A 99 W 99 
+ 2  0  2 F...LLFSSO...AAO..HHH.....DDW...IIW. A 99 L 99 
+ 2  0  2 F.LLW.FSSOW.AA.O..HHH.....DD....II.. W 96 L 99 
+ 2  0  2 F..LL.FSS...AA.O..HHHOW...DDW...II.. O 99 W 99 
+ 2  0  2 FLL...FSSO..AA.O..HHH.W...DDW...II.. L 98 W 99 
+ 2  0  2 F.LL..FSSO..AA.O..HHH....DD.W...IIW. D 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.O.....HHHDD..W...IIW. D 98 H 97 
+ 2  0  2 F..OLLFSSO..AA....HHH.....DDW...IIW. O 99 L 99 
+ 2  0  2 F.LL..FSSO..AA.O..HHH...DD..W...IIW. D 98 L 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH.....DD.....II. I 99 W 97 
+ 2  0  2 F..LL.FSSO...AAO.....HHH..DDW...IIW. A 99 H 97 
+ 2  0  2 F.LL..FSSO..AA.O...HHH....DDW...IIW. H 99 L 99 
+ 2  0  2 FLL...FSSO..AA.O.....HHH..DDW...IIW. L 98 H 97 
+ 2  0  2 F...LLFSS...AA.O..HHHO....DDW...IIW. O 99 L 99 
+ 2  0  2 F.LL..FSSO..AA.O....HHH...DDW...IIW. H 98 L 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W...DDW..II... W 99 I 99 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W...DD...II... W 98 I 99 
+ 2  0  2 F.LL..FSSO..AA.O.....HHH..DDW...IIW. H 97 L 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH.....DD...II... W 97 I 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH....DD.W..II.W. D 99 I 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHH..DD..W...IIW. H 99 D 98 
+ 2  0  2 F..LL.FSS...AA....HHHO..DD.OW...IIW. O 98 D 98 
+ 2  0  2 F.LL..FSSO...AAO..HHH.....DDW..II.W. I 99 A 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHH...DD.W.II..W. I 98 H 99 D 99 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH.....DD...II... W 97 A 99 I 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH......DD..II... I 99 D 99 W 97 
+ 2  0  2 FLL.W.FSSOW.AA.O....HHH...DD....II.. H 98 W 96 L 98 
+ 2  0  2 FLL.W.FSSOW.AA.O.....HHH..DD....II.. H 97 W 96 L 98 
+ 2  0  2 F..LL.FSSO...AAO..HHH....DD.W..II.W. D 99 A 99 I 99 
+ 2  0  2 FLL.W.FSSOW..AAO..HHH.....DD....II.. A 99 W 96 L 98 
+ 2  0  2 FLLOW.FSSOW.AA....HHH.....DD....II.. O 99 W 96 L 98 
+ 2  0  2 F..LL.FSSO...AAO....HHH...DDW..II.W. H 98 A 99 I 99 
+ 2  0  2 FLL.W.FSS.W.AA.O..HHHO....DD....II.. O 99 W 96 L 98 
+ 2  0  2 ...LL.FSSO..FAAO..HHH.W...DDW...II.. W 99 F 99 A 99 
+ 2  0  2 ...LL.FSSO..FAAOW.HHH.W...DD....II.. W 98 F 99 A 99 
+ 2  0  2 ...LL.FSSOW.FAAOW.HHH.....DD....II.. W 97 F 99 A 99 
+ 2  0  2 F..LL.FSSO..AA.O.....HHH.DD.W..II.W. I 99 D 99 H 97 
+ 2  0  2 F..LL.FSS....AAO..HHHO....DDW..II.W. O 99 A 99 I 99 
+ 2  0  2 ...LL.FSSO..FAAO....HHH...DDW...IIW. H 98 F 99 A 99 
+ 2  0  2 ...LL.FSSO..FAAO.....HHH..DDW...IIW. H 97 F 99 A 99 
+ 2  0  2 FLL...FSSO...AAO..HHH.....DDW..II.W. L 98 A 99 I 99 
+ 2  0  2 .LL...FSSO..FAAO..HHH.....DDW...IIW. L 98 F 99 A 99 
+ 2  0  2 LL....FSSO..FAAO..HHH.....DDW...IIW. L 97 F 99 A 99 
+ 2  0  2 F..LL.FSSO..AA.O.....HHH.DD.W.II..W. I 98 D 99 H 97 
+ 2  0  2 F...LLFSSO...AAO..HHH.....DDW..II.W. L 99 A 99 I 99 
+ 2  0  2 ....LLFSSO..FAAO..HHH.....DDW...IIW. L 99 F 99 A 99 
+ 2  0  2 ...LL.FSSO..FAAO..HHH.....DDW..II.W. F 99 A 99 I 99 
+ 2  0  2 F..LL.FSSO...AAO.....HHH.DD.W...IIW. A 99 D 99 H 97 
+ 2  0  2 F..LL.FSS...AA.O..HHHO...DD.W.II..W. I 98 O 99 D 99 
+ 2  0  2 F..LL.FSSO...AAO.....HHH..DDW.II..W. A 99 H 97 I 98 
+ 2  0  2 F.LL..FSSO..AA.O.....HHH..DDW.II..W. L 99 H 97 I 98 
+ 2  0  2 F..LL.FSS...AA.O..HHHOW..DD.W...II.. W 99 O 99 D 99 
+ 2  0  2 FLL...FSSO..AA.O.....HHH..DDW.II..W. L 98 H 97 I 98 
+ 2  0  2 F...LLFSSO..AA.OW.HHH.W...DD......II I 98 W 98 L 99 
+ 2  0  2 F..LL.F.SS..AA.O..HHHO....DDW..II.W. I 99 S 99 O 99 
+ 2  0  2 F..LL.FSS...AA.OW.HHHOW..DD.....II.. W 98 O 99 D 99 
+ 2  0  2 F..LL.FSS.W.AA.OW.HHHO...DD.....II.. W 97 O 99 D 99 
+ 2  0  2 F...LLFSSO..AA.OW.HHH.W..DD.....II.. D 99 W 98 L 99 
+ 2  0  2 F...LLFSSO..AA.OW.HHH.W.DD......II.. D 98 W 98 L 99 
+ 2  0  2 F..LL.F..SS.AA.O..HHHO....DDW..II.W. I 99 S 98 O 99 
+ 2  0  2 F.LL..FSS...AA.O..HHHO....DDW.II..W. I 98 O 99 L 99 
+ 2  0  2 F...LLFSSO..AA.OW.HHH.W....DD...II.. D 99 W 98 L 99 
+ 2  0  2 F...LLFSSO..AA.OW.HHH.W.....DD..II.. D 98 W 98 L 99 
+ 2  0  2 F..LL.FSS....AAO..HHHO...DD.W...IIW. A 99 O 99 D 99 
+ 2  0  2 F...LLFSSO..AA.OW..HHHW...DD....II.. H 99 W 98 L 99 
+ 2  0  2 F...LLFSSO...AAOW.HHH.W...DD....II.. A 99 W 98 L 99 
+ 2  0  2 F..LL.F...SSAA.O..HHHO....DDW..II.W. I 99 S 97 O 99 
+ 2  0  2 F..OLLFSSO..AA..W.HHH.W...DD....II.. O 99 W 98 L 99 
+ 2  0  2 F...LLFSS...AA.OW.HHHOW...DD....II.. O 99 W 98 L 99 
+ 2  0  2 FLL...FSS...AA.O..HHHO...DD.W...IIW. L 98 O 99 D 99 
+ 2  0  2 F..LL.FSS....AAO..HHHOW...DDW...II.. W 99 O 99 A 99 
+ 2  0  2 F..LL.FSS...AA....HHHO...DDOW..II.W. O 98 D 99 I 99 
+ 2  0  2 F..LL.FSS...AA....HHH....DDOW..IIOW. O 97 D 99 I 99 
+ 2  0  2 FLLO..FSSO..AA.......HHH..DDW...IIW. O 99 L 98 H 97 
+ 2  0  2 ...LL..SSO..FAAO..F..HHH..DDW...IIW. F 98 A 99 H 97 
+ 2  0  2 ...LL..SSO...AAO..F..HHHF.DDW...IIW. F 97 A 99 H 97 
+ 2  0  2 ...LL..SSO...AAO.....HHHF.DDW.F.IIW. F 96 A 99 H 97 
+ 2  0  2 F.LL..FSSO..AA.O...HHH..DD..W...IIW. H 99 D 98 L 99 
+ 2  0  2 F.LL..FSS...AA....HHHO..DD.OW...IIW. O 98 D 98 L 99 
+ 2  0  2 F.LL..FSSO..AA.O.....HHHDD..W...IIW. L 99 D 98 H 97 
+ 2  0  2 F.LL..FSS...AA....HHHO...DDOW...IIW. O 98 D 99 L 99 
+ 2  0  2 FLLO..FSSO..AA....HHH.W...DDW...II.. O 99 L 98 W 99 
+ 2  0  2 F.LLW.FSSOW.AA.O..HHH.....DD......II I 98 W 96 L 99 
+ 2  0  2 F.LLW.FSSOW.AA.O..HHH....DD.....II.. D 99 W 96 L 99 
+ 2  0  2 F.LLW.FSSOW.AA.O..HHH...DD......II.. D 98 W 96 L 99 
+ 2  0  2 F.LLW.FSSOW.AA.O..HHH......DD...II.. D 99 W 96 L 99 
+ 2  0  2 F.LLW.FSSOW.AA.O..HHH.......DD..II.. D 98 W 96 L 99 
+ 2  0  2 F.LLW.FSSOW.AA.O...HHH....DD....II.. H 99 W 96 L 99 
+ 2  0  2 F.LLW.FSSOW.AA.O....HHH...DD....II.. H 98 W 96 L 99 
+ 2  0  2 F.LLW.FSSOW.AA.O.....HHH..DD....II.. H 97 W 96 L 99 
+ 2  0  2 F..OLLFSSO...AA...HHH.....DDW...IIW. O 99 A 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHHW.DD..W...II.. H 99 D 98 W 99 
+ 2  0  2 F..LL.FSS...AA....HHHOW.DD.OW...II.. O 98 D 98 W 99 
+ 2  0  2 F..LL.FSS...AA....HHHOW..DDOW...II.. O 98 D 99 W 99 
+ 2  0  2 F...LLFSSO...AAO.....HHH..DDW...IIW. A 99 H 97 L 99 
+ 2  0  2 F..OLLFSSO..AA.......HHH..DDW...IIW. O 99 H 97 L 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W..DD.W.....II D 99 I 98 W 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W.DD..W.....II D 98 I 98 W 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHHW...DDW.....II H 99 I 98 W 99 
+ 2  0  2 F..LL.FSSO...AAO..HHH.W...DDW.....II A 99 I 98 W 99 
+ 2  0  2 F..LL.FSS...AA.O..HHHOW...DDW.....II O 99 I 98 W 99 
+ 2  0  2 FLL...FSSO..AA.O..HHH.W...DDW.....II L 98 I 98 W 99 
+ 2  0  2 F.LL..FSSO..AA.O..HHH.W..DD.W...II.. D 99 W 99 L 99 
+ 2  0  2 F.LL..FSSO..AA.O..HHH.W.DD..W...II.. D 98 W 99 L 99 
+ 2  0  2 F.LL..FSSO..AA.O...HHHW...DDW...II.. H 99 W 99 L 99 
+ 2  0  2 F...LLFSS...AA.O..HHHO...DD.W...IIW. L 99 O 99 D 99 
+ 2  0  2 F..LL.FSS...AA.O..HHHO...DD.W..II.W. I 99 O 99 D 99 
+ 2  0  2 F..LL.FSS.......AAHHHO...DDOW...IIW. A 96 O 98 D 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH...DD....II.... I 98 D 98 W 97 
+ 2  0  2 F..LL.FSS....AAOW.HHHOW...DD....II.. W 98 O 99 A 99 
+ 2  0  2 FLLO..FSSO..AA..W.HHH.W...DD....II.. O 99 L 98 W 98 
+ 2  0  2 F.LLW.FSSOW.AA.O..HHH.....DD..II.... W 96 I 98 L 99 
+ 2  0  2 F..OLLFSSO..AA......HHH...DDW...IIW. O 99 H 98 L 99 
+ 2  0  2 F.LL..FSSO..AA.OW..HHHW...DD....II.. L 99 H 99 W 98 
+ 2  0  2 FLLO..FSSO..AA......HHH...DDW...IIW. O 99 L 98 H 98 
+ 2  0  2 F..LL.FSSO..AA.OW..HHHW.....DD..II.. H 99 D 98 W 98 
+ 2  0  2 F..LL.FSSO...AAOW.HHH.W.....DD..II.. A 99 D 98 W 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W.....DD.II... I 99 D 98 W 98 
+ 2  0  2 F..LL.FSS...AA..W.HHHOW....ODD..II.. O 98 D 98 W 98 
+ 2  0  2 F.LL..FSSO..AA.OW.HHH.W.....DD..II.. L 99 D 98 W 98 
+ 2  0  2 FLL...FSSO..AA.OW.HHH.W.....DD..II.. L 98 D 98 W 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W.....DD...II. D 98 I 99 W 98 
+ 2  0  2 F..LL.FSSO...AAOW.HHH.W...DD.....II. A 99 I 99 W 98 
+ 2  0  2 F..LL.FSS...AA.OW.HHHOW...DD.....II. O 99 I 99 W 98 
+ 2  0  2 F.LL..FSSO..AA.OW.HHH.W...DD.....II. L 99 I 99 W 98 
+ 2  0  2 FLL...FSSO..AA.OW.HHH.W...DD.....II. L 98 I 99 W 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W....DD....II. I 99 D 99 W 98 
+ 2  0  2 F..LL.FSSO..AA.OW..HHHW....DD...II.. H 99 D 99 W 98 
+ 2  0  2 F..LL.FSSO...AAOW.HHH.W....DD...II.. A 99 D 99 W 98 
+ 2  0  2 F..LL.FSS...AA.OW.HHHOW....DD...II.. O 99 D 99 W 98 
+ 2  0  2 F.LL..FSSO..AA.OW.HHH.W....DD...II.. L 99 D 99 W 98 
+ 2  0  2 FLL...FSSO..AA.OW.HHH.W....DD...II.. L 98 D 99 W 98 
+ 2  0  2 F...LLFSSO...AAO....HHH...DDW...IIW. L 99 A 99 H 98 
+ 2  0  2 ...LL..SSO..FAAO..F.HHH...DDW...IIW. F 98 A 99 H 98 
+ 2  0  2 ...LL..SSO...AAO..F.HHH.F.DDW...IIW. F 97 A 99 H 98 
+ 2  0  2 ...LL..SSO...AAO....HHH.F.DDW.F.IIW. F 96 A 99 H 98 
+ 2  0  2 F..OLLFSSO..AA.....HHH....DDW...IIW. O 99 H 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.OW..HHHW.DD......II.. H 99 D 98 W 98 
+ 2  0  2 F..LL.FSS...AA..W.HHHOW.DD.O....II.. O 98 D 98 W 98 
+ 2  0  2 F.LL..FSSO..AA.OW.HHH.W.DD......II.. L 99 D 98 W 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W..DD......II. I 99 D 99 W 98 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W..DD.W..II... I 99 D 99 W 99 
+ 2  0  2 F..LL.FSS...AA..W.HHHOW..DDO....II.. O 98 D 99 W 98 
+ 2  0  2 F.LL..FSSO..AA.OW.HHH.W..DD.....II.. L 99 D 99 W 98 
+ 2  0  2 F...LLFSSO..AA.O...HHH..DD..W...IIW. H 99 D 98 L 99 
+ 2  0  2 F...LLFSSO..AA.O....HHH.DD..W...IIW. H 98 D 98 L 99 
+ 2  0  2 F..OLLFSSO..AA....HHH...DD..W...IIW. O 99 D 98 L 99 
+ 2  0  2 F...LLFSS...AA....HHHO..DD.OW...IIW. O 98 D 98 L 99 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W..DD.......II D 99 I 98 W 98 
+ 2  0  2 F.LLW.FSSOW.AA.O..HHH.....DD.....II. I 99 W 96 L 99 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W....DD.....II D 99 I 98 W 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W.....DD....II D 98 I 98 W 98 
+ 2  0  2 F..LL.FSSO..AA.OW..HHHW...DD......II H 99 I 98 W 98 
+ 2  0  2 F..LL.FSSO...AAOW.HHH.W...DD......II A 99 I 98 W 98 
+ 2  0  2 F..LL.FSS...AA.OW.HHHOW...DD......II O 99 I 98 W 98 
+ 2  0  2 F.LL..FSSO..AA.OW.HHH.W...DD......II L 99 I 98 W 98 
+ 2  0  2 FLL...FSSO..AA.OW.HHH.W...DD......II L 98 I 98 W 98 
+ 2  0  2 F.LL..FSSO..AA.O....HHH..DD.W...IIW. L 99 D 99 H 98 
+ 2  0  2 F...LLFSS...AA.O..HHHO..DD..W...IIW. L 99 D 98 O 99 
+ 2  0  2 FLLO..FSSOW.AA..W.HHH.....DD....II.. O 99 W 97 L 98 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W..DD.W....II. D 99 I 99 W 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W.DD..W....II. D 98 I 99 W 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHHW...DDW....II. H 99 I 99 W 99 
+ 2  0  2 F..LL.FSSO...AAO..HHH.W...DDW....II. A 99 I 99 W 99 
+ 2  0  2 F.LL..FSSO..AA.O..HHH.W...DDW....II. L 99 I 99 W 99 
+ 2  0  2 FLL...FSSO..AA.O..HHH.W...DDW....II. L 98 I 99 W 99 
+ 2  0  2 F.LL..FSSO..AA.O....HHH...DDW.II..W. L 99 I 98 H 98 
+ 2  0  2 F..OLLFSSO..AA....HHH....DD.W...IIW. O 99 D 99 L 99 
+ 2  0  2 F...LLFSS...AA....HHHO...DDOW...IIW. O 98 D 99 L 99 
+ 2  0  2 FLL...FSS...AA.OW.HHHOW...DD....II.. W 98 O 99 L 98 
+ 2  0  2 FLL...FSSO..AA.O....HHH...DDW.II..W. H 98 L 98 I 98 
+ 2  0  2 FLLO..FSSO..AA....HHH.....DDW.II..W. O 99 L 98 I 98 
+ 2  0  2 FLL...FSSO...AAOW.HHH.W...DD....II.. W 98 A 99 L 98 
+ 2  0  2 FLL...FSSO...AAO....HHH...DDW...IIW. H 98 A 99 L 98 
+ 2  0  2 FLL...FSSO...AAO.....HHH..DDW...IIW. H 97 A 99 L 98 
+ 2  0  2 FLLO..FSSO...AA...HHH.....DDW...IIW. O 99 A 99 L 98 
+ 2  0  2 F.LL..FSS...AA.O..HHHOW...DDW...II.. W 99 O 99 L 99 
+ 2  0  2 F..LL.FSSOW.AA.OW..HHH....DD..II.... I 98 H 99 W 97 
+ 2  0  2 F..LL.FSSO...AAO..HHH.W.DD..W...II.. W 99 D 98 A 99 
+ 2  0  2 FLL...FSSO...AAO..HHH.W...DDW...II.. W 99 A 99 L 98 
+ 2  0  2 FLL...FSS...AA.O..HHHO....DDW.II..W. L 98 O 99 I 98 
+ 2  0  2 F...LLFSSOW..AAOW.HHH.....DD....II.. A 99 W 97 L 99 
+ 2  0  2 F..OLLFSSOW.AA..W.HHH.....DD....II.. O 99 W 97 L 99 
+ 2  0  2 FLL...FSSO..AA.OW.HHH.W.DD......II.. W 98 D 98 L 98 
+ 2  0  2 FLL...FSSO..AA.O...HHH..DD..W...IIW. H 99 D 98 L 98 
+ 2  0  2 FLL...FSSO..AA.O.....HHHDD..W...IIW. H 97 D 98 L 98 
+ 2  0  2 FLLO..FSSO..AA....HHH...DD..W...IIW. O 99 D 98 L 98 
+ 2  0  2 FLL...FSS...AA.O..HHHO..DD..W...IIW. O 99 D 98 L 98 
+ 2  0  2 FLL...FSS...AA....HHHO..DD.OW...IIW. O 98 D 98 L 98 
+ 2  0  2 FLL...FSSO..AA.OW.HHH.W..DD.....II.. W 98 D 99 L 98 
+ 2  0  2 FLLO..FSSO..AA....HHH....DD.W...IIW. O 99 D 99 L 98 
+ 2  0  2 FLL...FSS...AA....HHHO...DDOW...IIW. O 98 D 99 L 98 
+ 2  0  2 F..LL.FSSO...AAO....HHH...DDW.II..W. H 98 A 99 I 98 
+ 2  0  2 FLL...FSSO...AAO..HHH.....DDW.II..W. L 98 A 99 I 98 
+ 2  0  2 FLL.W.FSSOW.AA.O..HHH.....DD......II I 98 W 96 L 98 
+ 2  0  2 FLL.W.FSSOW.AA.O..HHH....DD.....II.. D 99 W 96 L 98 
+ 2  0  2 FLL.W.FSSOW.AA.O..HHH......DD...II.. D 99 W 96 L 98 
+ 2  0  2 FLL.W.FSSOW.AA.O..HHH.......DD..II.. D 98 W 96 L 98 
+ 2  0  2 FLL.W.FSSOW.AA.O...HHH....DD....II.. H 99 W 96 L 98 
+ 2  0  2 F.LL..FSS...AA.OW.HHHOW...DD....II.. W 98 O 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHH..DD..W.II..W. H 99 D 98 I 98 
+ 2  0  2 F..LL.FSSO..AA.O....HHH.DD..W.II..W. H 98 D 98 I 98 
+ 2  0  2 F.LL..FSS.W.AA.OW.HHHO....DD....II.. W 97 O 99 L 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH.......DD.II... I 99 D 98 W 97 
+ 2  0  2 F..LL.FSSO..AA.O.....HHHDD..W.II..W. H 97 D 98 I 98 
+ 2  0  2 F..LL.FSSO...AAO..HHH...DD..W.II..W. A 99 D 98 I 98 
+ 2  0  2 F.LLW.FSS.W.AA.O..HHHO....DD....II.. W 96 O 99 L 99 
+ 2  0  2 F..LL.FSS...AA.O..HHHO..DD..W.II..W. O 99 D 98 I 98 
+ 2  0  2 F..LL.FSS...AA....HHHO..DD.OW.II..W. O 98 D 98 I 98 
+ 2  0  2 F.LL..FSS...AA.O..HHHO...DD.W...IIW. D 99 O 99 L 99 
+ 2  0  2 F..LL.FSS...AA....HHH...DD.OW.II.OW. O 97 D 98 I 98 
+ 2  0  2 F.LL..FSSO..AA.O..HHH...DD..W.II..W. L 99 D 98 I 98 
+ 2  0  2 F.LL..FSS...AA.O..HHHO..DD..W...IIW. D 98 O 99 L 99 
+ 2  0  2 FLL...FSSO..AA.O..HHH...DD..W.II..W. L 98 D 98 I 98 
+ 2  0  2 F...LLFSSO..AA.O..HHH.W...DDW.....II I 98 W 99 L 99 
+ 2  0  2 F...LLFSSO..AA.O..HHH.W..DD.W...II.. D 99 W 99 L 99 
+ 2  0  2 F...LLFSSO..AA.O..HHH.W.DD..W...II.. D 98 W 99 L 99 
+ 2  0  2 F...LLFSSO..AA.O...HHHW...DDW...II.. H 99 W 99 L 99 
+ 2  0  2 F..LL.F...SSAA.O..HHHO....DDW.II..W. I 98 S 97 O 99 
+ 2  0  2 F..LL.FSSOW.AA.OW...HHH...DD...II... I 99 H 98 W 97 
+ 2  0  2 F...LLFSSO...AAO..HHH.W...DDW...II.. A 99 W 99 L 99 
+ 2  0  2 F..OLLFSSO..AA....HHH.W...DDW...II.. O 99 W 99 L 99 
+ 2  0  2 FLL...FSS....AAO..HHHO....DDW...IIW. L 98 O 99 A 99 
+ 2  0  2 F...LLFSS....AAO..HHHO....DDW...IIW. L 99 O 99 A 99 
+ 2  0  2 ...LL.FSS...FAAO..HHHO....DDW...IIW. F 99 O 99 A 99 
+ 2  0  2 F.LL..FSSO..AA.O...HHH....DDW.II..W. L 99 H 99 I 98 
+ 2  0  2 FLL...FSSO..AA.O...HHH....DDW.II..W. L 98 H 99 I 98 
+ 2  0  2 F..LL.FSSO...AAO...HHHW...DDW...II.. W 99 H 99 A 99 
+ 2  0  2 F..LL.FSSO...AAOW..HHHW...DD....II.. W 98 H 99 A 99 
+ 2  0  2 FLL...FSSO...AAO...HHH....DDW...IIW. L 98 H 99 A 99 
+ 2  0  2 F...LLFSSO...AAO...HHH....DDW...IIW. L 99 H 99 A 99 
+ 2  0  2 ...LL.FSSO..FAAO...HHH....DDW...IIW. F 99 H 99 A 99 
+ 2  0  2 ...LL..SSO..FAAO..FHHH....DDW...IIW. F 98 H 99 A 99 
+ 2  0  2 ...LL..SSO...AAO..FHHH..F.DDW...IIW. F 97 H 99 A 99 
+ 2  0  2 ...LL..SSO...AAO...HHH..F.DDW.F.IIW. F 96 H 99 A 99 
+ 2  0  2 F..LL.FSSO...AAOW.HHH.W.DD......II.. W 98 D 98 A 99 
+ 2  0  2 F..LL.FSSO...AAO...HHH..DD..W...IIW. H 99 D 98 A 99 
+ 2  0  2 F..LL.FSSO...AAO....HHH.DD..W...IIW. H 98 D 98 A 99 
+ 2  0  2 F..LL.FSSO...AAO.....HHHDD..W...IIW. H 97 D 98 A 99 
+ 2  0  2 F..LL.FSS....AAO..HHHO..DD..W...IIW. O 99 D 98 A 99 
+ 2  0  2 F..LL.FSS....AA...HHHO..DD.OW...IIW. O 98 D 98 A 99 
+ 2  0  2 FLL...FSSO...AAO..HHH...DD..W...IIW. L 98 D 98 A 99 
+ 2  0  2 F...LLFSSO...AAO..HHH...DD..W...IIW. L 99 D 98 A 99 
+ 2  0  2 ...LL.FSSO..FAAO..HHH...DD..W...IIW. F 99 D 98 A 99 
+ 2  0  2 F..LL.F...SSAA.O..HHHOW...DDW...II.. W 99 S 97 O 99 
+ 2  0  2 F...LLFSS...AA.O..HHHOW...DDW...II.. O 99 W 99 L 99 
+ 2  0  2 F..LL.F...SSAA.OW.HHHOW...DD....II.. W 98 S 97 O 99 
+ 2  0  2 F..LL.FSSOW.AA.OW....HHH..DD...II... I 99 H 97 W 97 
+ 2  0  2 F..LL.FSSO...AAOW.HHH.W..DD.....II.. W 98 D 99 A 99 
+ 2  0  2 F..LL.F...SSAA.O..HHHO...DD.W...IIW. D 99 S 97 O 99 
+ 2  0  2 F..LL.FSSO...AAO....HHH..DD.W...IIW. H 98 D 99 A 99 
+ 2  0  2 F..LL.F...SSAA.O..HHHO..DD..W...IIW. D 98 S 97 O 99 
+ 2  0  2 F..LL.FSS.W.AA.OW.HHHO....DD.....II. I 99 O 99 W 97 
+ 2  0  2 F..LL.FSS....AA...HHHO...DDOW...IIW. O 98 D 99 A 99 
+ 2  0  2 F...LLFSSO..AA.O..HHH.W...DDW....II. I 99 W 99 L 99 
+ 2  0  2 FLL...FSSO...AAO..HHH....DD.W...IIW. L 98 D 99 A 99 
+ 2  0  2 F..LL.F...SS.AAO..HHHO....DDW...IIW. A 99 S 97 O 99 
+ 2  0  2 F...LLFSSO...AAO..HHH....DD.W...IIW. L 99 D 99 A 99 
+ 2  0  2 ...LL.FSSO..FAAO..HHH....DD.W...IIW. F 99 D 99 A 99 
+ 2  0  2 F..LL.F..OSSAA.O..HHH.....DDW...IIW. O 98 S 97 O 98 
+ 2  0  2 F..LL.FSSO...AAO..HHH.W..DD.W...II.. W 99 D 99 A 99 
+ 2  0  2 F..LL.FSS.W..AAOW.HHHO....DD....II.. A 99 O 99 W 97 
+ 2  0  2 FLL...FSS.W.AA.OW.HHHO....DD....II.. L 98 O 99 W 97 
+ 2  0  2 F...LLFSS.W.AA.OW.HHHO....DD....II.. L 99 O 99 W 97 
+ 2  0  2 F..LL.FSSO...AAO...HHH....DDW.II..W. I 98 H 99 A 99 
+ 2  0  2 FLL...FSSO..AA.O...HHHW...DDW...II.. W 99 H 99 L 98 
+ 2  0  2 F..LL.FSSO...AAO..HHH....DD.W.II..W. A 99 D 99 I 98 
+ 2  0  2 F..LL.FSSO..AA.O....HHH..DD.W.II..W. H 98 D 99 I 98 
+ 2  0  2 F..LL.FSS...AA....HHH....DDOW.II.OW. O 97 D 99 I 98 
+ 2  0  2 F.LL..FSSO..AA.O..HHH....DD.W.II..W. L 99 D 99 I 98 
+ 2  0  2 FLL...FSSO..AA.O..HHH....DD.W.II..W. L 98 D 99 I 98 
+ 2  0  2 F...LLFSSO..AA.OW.HHH.W...DD.....II. I 99 W 98 L 99 
+ 2  0  2 F.LL..FSSOW.AA.OW....HHH..DD....II.. L 99 H 97 W 97 
+ 2  0  2 FLL...FSSOW.AA.OW....HHH..DD....II.. L 98 H 97 W 97 
+ 2  0  2 F...LLFSSOW.AA.OW....HHH..DD....II.. L 99 H 97 W 97 
+ 2  0  2 F..LL.FSSOW..AAOW...HHH...DD....II.. A 99 H 98 W 97 
+ 2  0  2 FLL.W.FSSOW.AA.O..HHH.....DD..II.... I 98 W 96 L 98 
+ 2  0  2 FLL...FSSOW.AA.OW...HHH...DD....II.. L 98 H 98 W 97 
+ 2  0  2 F...LLFSSOW.AA.OW...HHH...DD....II.. L 99 H 98 W 97 
+ 2  0  2 F...LLFSSOW.AA.OW.HHH.....DD.....II. I 99 W 97 L 99 
+ 2  0  2 F..LL.FSSOW.AA.OW...HHH...DD..II.... H 98 W 97 I 98 
+ 2  0  2 F..LL.FSSOW.AA.OW....HHH..DD..II.... H 97 W 97 I 98 
+ 2  0  2 FLL...FSSO..AA.O..HHH.W.DD..W...II.. W 99 D 98 L 98 
+ 2  0  2 F..LL.FSS.W.AA.OW.HHHO....DD..II.... O 99 W 97 I 98 
+ 2  0  2 F.LL..FSSOW.AA.OW.HHH.....DD..II.... L 99 W 97 I 98 
+ 2  0  2 FLL...FSSOW.AA.OW.HHH.....DD..II.... L 98 W 97 I 98 
+ 2  0  2 FLL...FSS...AA.O..HHHOW...DDW...II.. W 99 O 99 L 98 
+ 2  0  2 F...LLFSSOW.AA.OW.HHH.....DD..II.... W 97 I 98 L 99 
+ 2  0  2 F...LLFSSO..AA.O..HHH....DD.W.II..W. D 99 I 98 L 99 
+ 2  0  2 F...LLFSSO..AA.O..HHH...DD..W.II..W. D 98 I 98 L 99 
+ 2  0  2 F...LLFSSO..AA.O....HHH...DDW.II..W. H 98 I 98 L 99 
+ 2  0  2 F...LLFSSO..AA.O.....HHH..DDW.II..W. H 97 I 98 L 99 
+ 2  0  2 F...LLFSSO...AAO..HHH.....DDW.II..W. A 99 I 98 L 99 
+ 2  0  2 F...LLFSS...AA.O..HHHO....DDW.II..W. O 99 I 98 L 99 
+ 2  0  2 F..LL.FSSOW.AA.OW..HHH....DD.....II. I 99 H 99 W 97 
+ 2  0  2 F..LL.FSSOW..AAOW..HHH....DD....II.. A 99 H 99 W 97 
+ 2  0  2 F.LL..FSSOW.AA.OW..HHH....DD....II.. L 99 H 99 W 97 
+ 2  0  2 F..LL.FSS...AA.OW.HHHOW.DD......II.. W 98 D 98 O 99 
+ 2  0  2 F...LLFSSOW.AA.OW..HHH....DD....II.. L 99 H 99 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH.......DDII.... I 98 D 98 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH.......DD...II. I 99 D 98 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW...HHH.....DD..II.. H 98 D 98 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW....HHH....DD..II.. H 97 D 98 W 97 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH.......DD..II.. A 99 D 98 W 97 
+ 2  0  2 F..LL.FSS.W.AA..W.HHHO.....ODD..II.. O 98 D 98 W 97 
+ 2  0  2 F.LL..FSSOW.AA.OW.HHH.......DD..II.. L 99 D 98 W 97 
+ 2  0  2 FLL...FSSOW.AA.OW.HHH.......DD..II.. L 98 D 98 W 97 
+ 2  0  2 F.LL..FSSO..AA.O....HHH.DD..W...IIW. L 99 D 98 H 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W..DD...II.... D 99 W 98 I 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W....DD.II.... D 99 W 98 I 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W.....DDII.... D 98 W 98 I 98 
+ 2  0  2 F..LL.FSSO..AA.OW..HHHW...DD..II.... H 99 W 98 I 98 
+ 2  0  2 F..LL.FSS...AA.OW.HHHOW...DD..II.... O 99 W 98 I 98 
+ 2  0  2 F.LL..FSSO..AA.OW.HHH.W...DD..II.... L 99 W 98 I 98 
+ 2  0  2 FLL...FSSO..AA.OW.HHH.W...DD..II.... L 98 W 98 I 98 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH......DD.II.... I 98 D 99 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH......DD....II. I 99 D 99 W 97 
+ 2  0  2 F..LL.FSS...AA.OW.HHHOW.....DD..II.. O 99 D 98 W 98 
+ 2  0  2 F..LL.FSSOW.AA.OW..HHH.....DD...II.. H 99 D 99 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW...HHH....DD...II.. H 98 D 99 W 97 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH......DD...II.. A 99 D 99 W 97 
+ 2  0  2 F..LL.FSS.W.AA.OW.HHHO.....DD...II.. O 99 D 99 W 97 
+ 2  0  2 F.LL..FSSOW.AA.OW.HHH......DD...II.. L 99 D 99 W 97 
+ 2  0  2 F...LLFSSOW.AA.OW.HHH......DD...II.. L 99 D 99 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH...DD.......II. I 99 D 98 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW..HHH..DD......II.. H 99 D 98 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW...HHH.DD......II.. H 98 D 98 W 97 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH...DD......II.. A 99 D 98 W 97 
+ 2  0  2 F..LL.FSS.W.AA.OW.HHHO..DD......II.. O 99 D 98 W 97 
+ 2  0  2 F..LL.FSS.W.AA..W.HHHO..DD.O....II.. O 98 D 98 W 97 
+ 2  0  2 FLL...FSSOW.AA.OW.HHH...DD......II.. L 98 D 98 W 97 
+ 2  0  2 F...LLFSSOW.AA.OW.HHH...DD......II.. L 99 D 98 W 97 
+ 2  0  2 F...LLFSSO..AA.O.....HHHDD..W...IIW. H 97 D 98 L 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W.DD..W.II.... D 98 W 99 I 98 
+ 2  0  2 F..LL.FSSO..AA.O...HHHW...DDW.II.... H 99 W 99 I 98 
+ 2  0  2 F..LL.FSSO...AAO..HHH.W...DDW.II.... A 99 W 99 I 98 
+ 2  0  2 F.LL..FSSOW.AA.OW.HHH.....DD.....II. I 99 W 97 L 99 
+ 2  0  2 F.LL..FSSO..AA.O..HHH.W...DDW.II.... L 99 W 99 I 98 
+ 2  0  2 FLL...FSSO..AA.O..HHH.W...DDW.II.... L 98 W 99 I 98 
+ 2  0  2 F...LLFSSO..AA.O..HHH.W...DDW.II.... L 99 W 99 I 98 
+ 2  0  2 F..LL.FSSOW.AA.OW...HHH..DD.....II.. H 98 D 99 W 97 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH....DD.....II.. A 99 D 99 W 97 
+ 2  0  2 F..LL.FSS.W.AA..W.HHHO...DDO....II.. O 98 D 99 W 97 
+ 2  0  2 F.LL..FSSOW.AA.OW.HHH....DD.....II.. L 99 D 99 W 97 
+ 2  0  2 F..LL.FSS...AA.O..HHHOW...DDW....II. O 99 I 99 W 99 
+ 2  0  2 F...LLFSSOW.AA.OW.HHH....DD.....II.. L 99 D 99 W 97 
+ 2  0  2 FLL...FSSO..AA.OW.HHH.W...DD...II... W 98 L 98 I 99 
+ 2  0  2 FLL...FSSOW.AA.OW.HHH.....DD...II... W 97 L 98 I 99 
+ 2  0  2 FLL...FSSO..AA.O..HHH....DD.W..II.W. D 99 L 98 I 99 
+ 2  0  2 FLL...FSSO..AA.O....HHH...DDW..II.W. H 98 L 98 I 99 
+ 2  0  2 FLLO..FSSO..AA....HHH.....DDW..II.W. O 99 L 98 I 99 
+ 2  0  2 F..LL.FSS.W.AA.OW.HHHO....DD...II... W 97 O 99 I 99 
+ 2  0  2 FLL...FSS...AA.O..HHHO....DDW..II.W. L 98 O 99 I 99 
+ 2  0  2 F...LLFSSO..AA.OW.HHH.W...DD...II... W 98 I 99 L 99 
+ 2  0  2 F...LLFSSOW.AA.OW.HHH.....DD...II... W 97 I 99 L 99 
+ 2  0  2 F...LLFSSO..AA.O....HHH...DDW..II.W. H 98 I 99 L 99 
+ 2  0  2 F..OLLFSSO..AA....HHH.....DDW..II.W. O 99 I 99 L 99 
+ 2  0  2 F...LLFSS...AA.O..HHHO....DDW..II.W. O 99 I 99 L 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH....DD.......II D 99 I 98 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH...DD........II D 98 I 98 W 97 
+ 2  0  2 FLL...FSSO..AA.O....HHH.DD..W...IIW. H 98 D 98 L 98 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH.......DD....II D 98 I 98 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW..HHH....DD......II H 99 I 98 W 97 
+ 2  0  2 F..LL.FSSOW.AA.OW...HHH...DD......II H 98 I 98 W 97 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH.....DD......II A 99 I 98 W 97 
+ 2  0  2 F.LL..FSSOW.AA.OW.HHH.....DD......II L 99 I 98 W 97 
+ 2  0  2 F...LLFSSOW.AA.OW.HHH.....DD......II L 99 I 98 W 97 
+ 2  0  2 FLL.W.FSSOW.AA.O..HHH...DD......II.. D 98 W 96 L 98 
+ 2  0  2 F..LL.FSSO...AAOW.HHH.W...DD...II... W 98 A 99 I 99 
+ 2  0  2 F.LL..F...SSAA.O..HHHO....DDW...IIW. L 99 S 97 O 99 
+ 2  0  2 F..LL.FSS...AA....HHHO...DDOW.II..W. O 98 D 99 I 98 
+ 2  0  2 FLL...F...SSAA.O..HHHO....DDW...IIW. L 98 S 97 O 99 
+ 2  0  2 F...LLF...SSAA.O..HHHO....DDW...IIW. L 99 S 97 O 99 
+ 2  0  2 F..LL.FSSOW.AA.OW....HHH..DD.....II. I 99 H 97 W 97 
+ 2  0  2 F..LL.FSS....AAO..HHHO....DDW.II..W. I 98 O 99 A 99 
+ 2  0  2 F..LL.F..SS.AA.O..HHHO....DDW.II..W. I 98 S 98 O 99 
+ 2  0  2 F..LL.F..SS.AA.O..HHHOW...DDW...II.. W 99 S 98 O 99 
+ 2  0  2 F..LL.FSSOW..AAOW....HHH..DD....II.. A 99 H 97 W 97 
+ 2  0  2 F..LL.F..SS.AA.OW.HHHOW...DD....II.. W 98 S 98 O 99 
+ 2  0  2 F..LL.F..SS.AA.O..HHHO...DD.W...IIW. D 99 S 98 O 99 
+ 2  0  2 F..LL.FSSOW.AA.OW...HHH...DD.....II. I 99 H 98 W 97 
+ 2  0  2 ...LL.FSSO..FAAO..HHH.....DDW.II..W. I 98 F 99 A 99 
+ 2  0  2 FLLO..FSSO..AA.....HHH....DDW...IIW. O 99 H 99 L 98 
+ 2  0  2 F..LL.FSSO..AA.O...HHHW..DD.W...II.. W 99 H 99 D 99 
+ 2  0  2 F..LL.FSSOW.AA.OW..HHH...DD.....II.. W 97 H 99 D 99 
+ 2  0  2 F...LLFSSO..AA.O..HHH.W...DDW..II... W 99 I 99 L 99 
+ 2  0  2 F..LL.FSSO...AAO...HHH...DD.W...IIW. A 99 H 99 D 99 
+ 2  0  2 FLL...FSSO..AA.O...HHH...DD.W...IIW. L 98 H 99 D 99 
+ 2  0  2 F..LL.FSS...AA.OW.HHHOW...DD...II... W 98 O 99 I 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH....DD...II.... I 98 D 99 W 97 
+ 2  0  2 F..LL.FSSO...AAO.....HHH..DDW..II.W. A 99 H 97 I 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH....DD....II... I 99 D 99 W 97 
+ 2  0  2 F...LLFSSO..AA.O.....HHH..DDW..II.W. L 99 H 97 I 99 
+ 2  0  2 F..LL.F..SS.AA.O..HHHO..DD..W...IIW. D 98 S 98 O 99 
+ 2  0  2 F..LL.F..SS..AAO..HHHO....DDW...IIW. A 99 S 98 O 99 
+ 2  0  2 F.LL..FSSOW.AA.OW...HHH...DD....II.. L 99 H 98 W 97 
+ 2  0  2 FLL...FSSO..AA.O..HHH.W..DD.W...II.. W 99 D 99 L 98 
+ 2  0  2 F.LL..F..SS.AA.O..HHHO....DDW...IIW. L 99 S 98 O 99 
+ 2  0  2 FLL...F..SS.AA.O..HHHO....DDW...IIW. L 98 S 98 O 99 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH.....DD..II.... A 99 W 97 I 98 
+ 2  0  2 F...LLF..SS.AA.O..HHHO....DDW...IIW. L 99 S 98 O 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHHW...DDW..II... W 99 H 99 I 99 
+ 2  0  2 F..LL.FSSO..AA.O....HHH..DD.W..II.W. D 99 I 99 H 98 
+ 2  0  2 FLLO..FSSO......AAHHH.....DDW...IIW. A 96 O 99 L 98 
+ 2  0  2 FLL...FSSOW.AA.OW.HHH.....DD.....II. I 99 W 97 L 98 
+ 2  0  2 F..LL.FSSO..AA.OW..HHHW...DD...II... W 98 H 99 I 99 
+ 2  0  2 F..LL.FSSOW.AA.OW..HHH....DD...II... W 97 H 99 I 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHH...DD.W..II.W. D 99 H 99 I 99 
+ 2  0  2 F...LLFSSO..AA.O...HHH....DDW.II..W. H 99 I 98 L 99 
+ 2  0  2 F..LL.FSSO...AAO...HHH....DDW..II.W. A 99 H 99 I 99 
+ 2  0  2 FLL...FSSO..AA.O...HHH....DDW..II.W. L 98 H 99 I 99 
+ 2  0  2 F..OLLFSSO..AA....HHH.....DDW.II..W. O 99 I 98 L 99 
+ 2  0  2 F...LLFSSO..AA.O...HHH....DDW..II.W. L 99 H 99 I 99 
+ 2  0  2 F..LL.F.SS..AA.O..HHHO....DDW.II..W. I 98 S 99 O 99 
+ 2  0  2 F..LL.FSS...AA.O..HHHOW.DD..W...II.. W 99 D 98 O 99 
+ 2  0  2 F..LL.F.SS..AA.O..HHHOW...DDW...II.. W 99 S 99 O 99 
+ 2  0  2 F..LL.F.SS..AA.OW.HHHOW...DD....II.. W 98 S 99 O 99 
+ 2  0  2 FLL...FSSOW.AA.OW..HHH....DD....II.. L 98 H 99 W 97 
+ 2  0  2 F..LL.F.SSW.AA.OW.HHHO....DD....II.. W 97 S 99 O 99 
+ 2  0  2 F..LL.F.SS..AA.O..HHHO...DD.W...IIW. D 99 S 99 O 99 
+ 2  0  2 F..LL.F.SS..AA.O..HHHO..DD..W...IIW. D 98 S 99 O 99 
+ 2  0  2 F..LL.F.SS...AAO..HHHO....DDW...IIW. A 99 S 99 O 99 
+ 2  0  2 F..LL.FSSOW.AA.OW..HHH......DD..II.. H 99 D 98 W 97 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W....DD..II... I 99 D 99 W 98 
+ 2  0  2 FLL...F.SS..AA.O..HHHO....DDW...IIW. L 98 S 99 O 99 
+ 2  0  2 F...LLFSSOW.AA.OW.HHH.......DD..II.. L 99 D 98 W 97 
+ 2  0  2 F.LL..FSSO..AA.O.....HHH.DD.W...IIW. L 99 D 99 H 97 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W.DD.......II. I 99 D 98 W 98 
+ 2  0  2 F...LLFSSO..AA.O.....HHH.DD.W...IIW. L 99 D 99 H 97 
+ 2  0  2 F..LL.FSSO...AAOW.HHH.W...DD..II.... A 99 W 98 I 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W.DD.....II... W 98 D 98 I 99 
+ 2  0  2 F..LL.FSSO..AA.O....HHH.DD..W..II.W. H 98 D 98 I 99 
+ 2  0  2 F..LL.FSSO..AA.OW..HHHW...DD.....II. H 99 I 99 W 98 
+ 2  0  2 F..LL.FSSO...AAO..HHH...DD..W..II.W. A 99 D 98 I 99 
+ 2  0  2 FLL...FSSOW.AA.OW.HHH......DD...II.. L 98 D 99 W 97 
+ 2  0  2 F..LL.FSS...AA....HHHO..DD.OW..II.W. O 98 D 98 I 99 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH.....DD.....II. I 99 W 97 A 99 
+ 2  0  2 FLL...FSSO..AA.O..HHH...DD..W..II.W. L 98 D 98 I 99 
+ 2  0  2 F..LL.FSSOW.AA.OW....HHHDD......II.. H 97 D 98 W 97 
+ 2  0  2 F.LL..FSSO..AA.O..HHH.W...DDW..II... W 99 I 99 L 99 
+ 2  0  2 F.LL..FSSOW.AA.OW.HHH.....DD...II... W 97 I 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W..DD.W.II.... D 99 W 99 I 98 
+ 2  0  2 F.LL..FSSO..AA.O..HHH....DD.W..II.W. D 99 I 99 L 99 
+ 2  0  2 F.LL..FSSO..AA.O...HHH....DDW..II.W. H 99 I 99 L 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH....DD......II. I 99 D 99 W 97 
+ 2  0  2 F.LL..FSSO..AA.O.....HHH..DDW..II.W. H 97 I 99 L 99 
+ 2  0  2 FLL...FSSOW.AA.OW.HHH....DD.....II.. L 98 D 99 W 97 
+ 2  0  2 F.LL..FSSO...AAO..HHH.W...DDW...II.. W 99 A 99 L 99 
+ 2  0  2 F.LL..FSSOW..AAOW.HHH.....DD....II.. W 97 A 99 L 99 
+ 2  0  2 F.LL..FSSO...AAO..HHH....DD.W...IIW. D 99 A 99 L 99 
+ 2  0  2 FLL...FSSOW..AAOW.HHH.....DD....II.. W 97 A 99 L 98 
+ 2  0  2 F.LL..FSSO...AAO...HHH....DDW...IIW. H 99 A 99 L 99 
+ 2  0  2 F...LLFSSO..AA.O..HHH....DD.W..II.W. D 99 I 99 L 99 
+ 2  0  2 F.LL..FSSO...AAO.....HHH..DDW...IIW. H 97 A 99 L 99 
+ 2  0  2 F.LL..FSS....AAO..HHHO....DDW...IIW. O 99 A 99 L 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH......DD.....II D 99 I 98 W 97 
+ 2  0  2 ..LL..FSSO..FAAO..HHH.....DDW...IIW. F 99 A 99 L 99 
+ 2  0  2 F..LL.FSS.W.AA.OW.HHHO....DD......II O 99 I 98 W 97 
+ 2  0  2 FLL.W.FSSOW.AA.O..HHH.....DD.....II. I 99 W 96 L 98 
+ 2  0  2 F..LL.FSSO...AAO..HHH.W...DDW..II... W 99 A 99 I 99 
+ 2  0  2 F.LL..F.SS..AA.O..HHHO....DDW...IIW. L 99 S 99 O 99 
+ 2  0  2 F..LL.FSS.W.AA.OW.HHHO......DD..II.. O 99 D 98 W 97 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W..DD....II... I 99 D 99 W 98 
+ 2  0  2 F...LLF.SS..AA.O..HHHO....DDW...IIW. L 99 S 99 O 99 
+ 2  0  2 FLL...FSSO..AA.O.....HHH.DD.W...IIW. L 98 D 99 H 97 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W.DD....II.... D 98 W 98 I 98 
+ 2  0  2 F..LL.FSSO..AA.O..HHH.W.DD..W..II... W 99 D 98 I 99 
+ 2  0  2 F..LL.FSSOW.AA.OW.HHH...DD.....II... W 97 D 98 I 99 
+ 2  0  2 F...LLFSSO..AA.OW.HHH.W...DD..II.... L 99 W 98 I 98 
+ 2  0  2 F..OLLFSSO......AAHHH.....DDW...IIW. A 96 O 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.OW..HHHW..DD.....II.. W 98 H 99 D 99 
+ 2  0  2 F...LLFSSO..AA.O...HHH...DD.W...IIW. L 99 H 99 D 99 
+ 2  0  2 FLL...FSSO..AA.O..HHH.W...DDW..II... W 99 L 98 I 99 
+ 2  0  2 FLL...FSSO..AA.O.....HHH..DDW..II.W. L 98 H 97 I 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHH..DD..W..II.W. H 99 D 98 I 99 
+ 2  0  2 F..LL.FSSO..AA.O.....HHHDD..W..II.W. H 97 D 98 I 99 
+ 2  0  2 F..LL.FSSOW.AA.OW....HHH...DD...II.. H 97 D 99 W 97 
+ 2  0  2 F..LL.FSS...AA.O..HHHO..DD..W..II.W. O 99 D 98 I 99 
+ 2  0  2 F..LL.FSS...AA....HHH...DD.OW..IIOW. O 97 D 98 I 99 
+ 2  0  2 F.LL..FSSO..AA.O..HHH.W...DDW.....II I 98 W 99 L 99 
+ 2  0  2 F...LLFSSO..AA.O..HHH...DD..W..II.W. L 99 D 98 I 99 
+ 2  0  2 F.LL..FSSO..AA.OW.HHH.W...DD...II... W 98 I 99 L 99 
+ 2  0  2 F.LL..FSSOW.AA.OW.HHH...DD......II.. L 99 D 98 W 97 
+ 2  0  2 F.LLW.FSSOW.AA.O..HHH.....DD...II... W 96 I 99 L 99 
+ 2  0  2 F.LL..FSSO..AA.O..HHH...DD..W..II.W. D 98 I 99 L 99 
+ 2  0  2 F..LL.FSS...AA.O..HHHOW...DDW.II.... O 99 W 99 I 98 
+ 2  0  2 F..LL.FSSO..AA.OW.HHH.W.DD........II D 98 I 98 W 98 
+ 2  0  2 F.LL..FSSO..AA.O....HHH...DDW..II.W. H 98 I 99 L 99 
+ 2  0  2 F.LL..FSS...AA.O..HHHO....DDW..II.W. O 99 I 99 L 99 
+ 2  0  2 F..LL.FSSOW.AA.OW....HHH.DD.....II.. H 97 D 99 W 97 
+ 2  0  2 F.LL..FSSO...AAO..HHH.....DDW.II..W. I 98 A 99 L 99 
+ 2  0  2 F.LL..FSSO...AAOW.HHH.W...DD....II.. W 98 A 99 L 99 
+ 2  0  2 FLL.W.FSSOW.AA.O..HHH.....DD...II... W 96 L 98 I 99 
+ 2  0  2 F...LLFSSO..AA.O....HHH..DD.W...IIW. H 98 D 99 L 99 
+ 2  0  2 F.LLW.FSSOW..AAO..HHH.....DD....II.. W 96 A 99 L 99 
+ 2  0  2 F.LL..FSSO...AAO..HHH...DD..W...IIW. D 98 A 99 L 99 
+ 2  0  2 F.LL..FSSO...AAO....HHH...DDW...IIW. H 98 A 99 L 99 
+ 2  0  2 F..LL.FSSOW.AA.OW....HHH..DD......II H 97 I 98 W 97 
+ 2  0  2 FLL...FSSO..AA.O....HHH..DD.W...IIW. H 98 D 99 L 98 
+ 2  0  2 FLL...FSSOW.AA.OW.HHH.....DD......II L 98 I 98 W 97 
+ 2  0  2 FLL...FSSO..AA.OW..HHHW...DD....II.. W 98 H 99 L 98 
+ 2  0  2 F.LL..FSSO..AA.O...HHH...DD.W...IIW. L 99 H 99 D 99 
+ 2  0  2 F..LL.FSS...AA.O..HHHOW...DDW..II... W 99 O 99 I 99 
+ 2  0  2 F.LL..FSSO...AAOW.HHH.W...DD...II... W 98 I 99 A 99 L 99 
+ 2  0  2 FLL.W.FSSOW.AA.O....HHH...DD...II... I 99 H 98 W 96 L 98 
+ 2  0  2 FLL.W.FSSOW.AA.O....HHH.DD......II.. D 98 H 98 W 96 L 98 
+ 2  0  2 F...LLFSSOW..AAOW.HHH.....DD...II... L 99 W 97 A 99 I 99 
+ 2  0  2 FLL.W.FSSOW..AAO....HHH...DD....II.. A 99 H 98 W 96 L 98 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH...DD.....II... D 98 W 97 A 99 I 99 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH....DD....II... D 99 W 97 A 99 I 99 
+ 2  0  2 F.LL..FSSO...AAO..HHH.W...DDW..II... W 99 I 99 A 99 L 99 
+ 2  0  2 F.LL..FSSO...AAO..HHH...DD..W..II.W. D 98 I 99 A 99 L 99 
+ 2  0  2 F...LLFSSOW.AA.OW.HHH......DD..II... L 99 I 99 D 99 W 97 
+ 2  0  2 FLLOW.FSSOW.AA......HHH...DD....II.. O 99 H 98 W 96 L 98 
+ 2  0  2 F.LL..FSSOW..AAOW.HHH.....DD...II... W 97 I 99 A 99 L 99 
+ 2  0  2 FLL...FSSO..AA.O...HHH...DD.W.II..W. L 98 I 98 H 99 D 99 
+ 2  0  2 F.LLW.FSSOW..AAO..HHH.....DD...II... W 96 I 99 A 99 L 99 
+ 2  0  2 FLL...FSSOW..AAOW.HHH.....DD...II... L 98 W 97 A 99 I 99 
+ 2  0  2 F..LL.FSSOW..AAOW....HHH..DD...II... H 97 W 97 A 99 I 99 
+ 2  0  2 F..LL.FSSO...AAO...HHH...DD.W.II..W. A 99 I 98 H 99 D 99 
+ 2  0  2 FLL...FSSOW.AA.OW.HHH......DD..II... L 98 I 99 D 99 W 97 
+ 2  0  2 F.LL..FSSO...AAO....HHH...DDW..II.W. H 98 I 99 A 99 L 99 
+ 2  0  2 F..LL.FSSO..AA.OW..HHHW..DD...II.... W 98 I 98 H 99 D 99 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH......DD..II... D 99 W 97 A 99 I 99 
+ 2  0  2 F..LL.FSSO..AA.O...HHHW..DD.W.II.... W 99 I 98 H 99 D 99 
+ 2  0  2 F..LL.FSS.W..AAOW.HHHO....DD...II... O 99 W 97 A 99 I 99 
+ 2  0  2 F..LL.FSSOW..AAOW...HHH...DD...II... H 98 W 97 A 99 I 99 
+ 2  0  2 FLL.W.FSSOW.AA.O....HHH...DD.....II. I 99 H 98 W 96 L 98 
+ 2  0  2 F..LL.FSSOW.AA.OW....HHH...DD..II... H 97 I 99 D 99 W 97 
+ 2  0  2 FLL.W.FSSOW.AA.O....HHH....DD...II.. D 99 H 98 W 96 L 98 
+ 2  0  2 ..LL..FSSO..FAAO..HHH.....DDW..II.W. F 99 I 99 A 99 L 99 
+ 2  0  2 FLL.W.FSSOW.AA.O....HHH...DD......II I 98 H 98 W 96 L 98 
+ 2  0  2 FLL.W.FSSOW.AA.O....HHH.....DD..II.. D 98 H 98 W 96 L 98 
+ 2  0  2 F.LL..FSSO..AA.O...HHH...DD.W.II..W. L 99 I 98 H 99 D 99 
+ 2  0  2 F.LL..FSSOW.AA.OW.HHH......DD..II... L 99 I 99 D 99 W 97 
+ 2  0  2 F.LL..FSS....AAO..HHHO....DDW..II.W. O 99 I 99 A 99 L 99 
+ 2  0  2 F.LL..FSSO...AAO.....HHH..DDW..II.W. H 97 I 99 A 99 L 99 
+ 2  0  2 F...LLFSSO..AA.O...HHH...DD.W.II..W. L 99 I 98 H 99 D 99 
+ 2  0  2 ...LL.FSSOW.FAAOW.HHH.....DD...II... F 99 W 97 A 99 I 99 
+ 2  0  2 F..LL.FSSOW..AAOW.HHH.......DD.II... D 98 W 97 A 99 I 99 
+ 2  0  2 F.LL..FSSO...AAO...HHH....DDW..II.W. H 99 I 99 A 99 L 99 
+ 2  0  2 F..LL.FSS.W.AA.OW.HHHO.....DD..II... O 99 I 99 D 99 W 97 
+ 2  0  2 FLL.W.FSSOW.AA.O....HHH...DD..II.... I 98 H 98 W 96 L 98 
+ 2  0  2 F..LL.FSSOW.AA.OW..HHH...DD...II.... W 97 I 98 H 99 D 99 
+ 2  0  2 F..LL.FSSOW..AAOW..HHH....DD...II... H 99 W 97 A 99 I 99 
+ 2  0  2 F..LL.FSSOW.AA.OW...HHH....DD..II... H 98 I 99 D 99 W 97 
+ 2  0  2 F.LL..FSSO...AAO..HHH....DD.W..II.W. D 99 I 99 A 99 L 99 
+ 2  0  2 F..LL.FSSOW.AA.OW..HHH.....DD..II... H 99 I 99 D 99 W 97 
+ 2  0  2 FLL.W.FSSOW.AA.O....HHH..DD.....II.. D 99 H 98 W 96 L 98 

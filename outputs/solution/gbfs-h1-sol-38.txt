@@ -1,0 +1,26 @@
+Initial Board Configuration: .PPGGG..WWWQ.AA..QU...Y.UF..Y.UF....
+
+. P P G G G
+. . W W W Q
+. A A . . Q
+U . . . Y .
+U F . . Y .
+U F . . . .
+
+Car Fuel Available: P:100 G:100 W:100 Q:100 A:100 U:100 Y:100 F:100 
+
+Runtime: 0.04036760330200195
+Search Path Length: 349
+Solution Path Length: 2
+Solution Path: Q down 3; A right 3
+
+Q  down 3 	97 .PPGGG..WWW..AA...U...Y.UF..YQUF...Q Q97 
+A right 3 	97 .PPGGG..WWW.....AAU...Y.UF..YQUF...Q Q97 A97 
+
+! Q97 A97 
+. P P G G G
+. . W W W .
+. . . . A A
+U . . . Y .
+U F . . Y Q
+U F . . . Q

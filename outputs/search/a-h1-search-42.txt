@@ -1,0 +1,176 @@
+ 1  0  1 .D.....D.B...AAB...J.BOO.J.QQQ....NN
+ 2  1  1 .D.B...D.B...AAB...J..OO.J.QQQ....NN B 99 
+ 2  1  1 .D.....D.B...AAB.....BOO.J.QQQ.J..NN J 99 
+ 2  1  1 .D.....D.B...AAB...J.BOO.J.QQQ..NN.. N 98 
+ 2  1  1 .D.....D.B...AAB...J.BOO.J.QQQ...NN. N 99 
+ 2  1  1 .D.....D.B...AAB...J.BOO.J.QQQ.NN... N 97 
+ 2  1  1 .D.....D.B..AA.B...J.BOO.J.QQQ....NN A 99 
+ 2  1  1 .D.....D.B...AAB...J.BOO.J.QQQNN.... N 96 
+ 2  1  1 .D.....D.B...AAB...J.BOO.JQQQ.....NN Q 99 
+ 3  2  1 .D.B...D.B...AAB...J..OO.J.QQQ..NN.. N 98 B 99 
+ 3  2  1 .D.B...D.B...AAB...J..OO.J.QQQ...NN. N 99 B 99 
+ 3  2  1 .D.....D.B...AAB...J.BOO.JQQQ...NN.. Q 99 N 98 
+ 3  2  1 .D.....D.B...AAB...J.BOO.JQQQ.NN.... Q 99 N 96 
+ 3  2  1 .D.....D.B..AA.B...J.BOO.J.QQQNN.... N 96 A 99 
+ 3  2  1 .D.B...D.B...AAB...J..OO.J.QQQ.NN... N 97 B 99 
+ 3  2  1 .D.B...D.B...AAB...J..OO.J.QQQNN.... N 96 B 99 
+ 3  2  1 .D.....D.B...AAB.....BOO.J.QQQ.J.NN. N 99 J 99 
+ 3  2  1 .D.B...D.B...AAB...J..OO.JQQQ.....NN Q 99 B 99 
+ 3  2  1 .D.B...D.B...AAB...J.OO..J.QQQ....NN O 99 B 99 
+ 3  2  1 .D.....D.B...AAB...J.BOO.JQQQ....NN. Q 99 N 99 
+ 3  2  1 .D.....D.B..AA.B...J.BOO.JQQQ.....NN Q 99 A 99 
+ 3  2  1 .D.B...D.B...AAB...JOO...J.QQQ....NN O 98 B 99 
+ 3  2  1 .D.....D.B..AA.B...J.BOO.J.QQQ.NN... A 99 N 97 
+ 3  2  1 .D.....D.B..AA.B...J.BOO.J.QQQ...NN. A 99 N 99 
+ 3  2  1 .D.B...D.B...AAB......OO.J.QQQ.J..NN J 99 B 99 
+ 3  2  1 .D.....D.B..AA.B...J.BOO.J.QQQ..NN.. A 99 N 98 
+ 3  2  1 .D.....D.B...AAB...J.BOO.JQQQ..NN... Q 99 N 97 
+ 3  2  1 .D.....D.B...AAB.....BOO.J.QQQ.JNN.. N 98 J 99 
+ 3  2  1 .D.B...D.B..AA.B...J..OO.J.QQQ....NN A 99 B 99 
+ 3  2  1 .D.....D.B...AAB.....BOO.JQQQ..J..NN Q 99 J 99 
+ 3  2  1 .D.....D.B..AA.B.....BOO.J.QQQ.J..NN A 99 J 99 
+ 4  3  1 .D.B...D.B...AAB...J..OO.JQQQ...NN.. Q 99 N 98 B 99 
+ 4  3  1 .D.....D.B..AA.B...J.BOO.JQQQ...NN.. A 99 Q 99 N 98 
+ 4  3  1 .D.B...D.B...AAB...J..OO.JQQQ.NN.... B 99 Q 99 N 96 
+ 4  3  1 .D.B...D.B...AAB...J.OO..J.QQQNN.... O 99 N 96 B 99 
+ 4  3  1 .D.B...D.B..AA.B......OO.J.QQQ.J..NN A 99 J 99 B 99 
+ 4  3  1 .D.B...D.B...AAB......OO.JQQQ..J..NN J 99 Q 99 B 99 
+ 4  3  1 .D.....D.B...AAB.....BOO.JQQQ..JNN.. J 99 Q 99 N 98 
+ 4  3  1 .D.B...D.B...AAB...J.OO..J.QQQ...NN. O 99 N 99 B 99 
+ 4  3  1 .D.B...D.B...AAB...J..OO.JQQQ....NN. Q 99 N 99 B 99 
+ 4  3  1 .D.B...D.B...AAB...JOO...J.QQQ...NN. O 98 N 99 B 99 
+ 4  3  1 .D.B...D.B...AAB......OO.J.QQQ.J.NN. J 99 N 99 B 99 
+ 4  3  1 .D.....D.B..AA.B...J.BOO.JQQQ.NN.... A 99 Q 99 N 96 
+ 4  3  1 .D.B...D.B...AAB...J..OO.JQQQ..NN... Q 99 N 97 B 99 
+ 4  3  1 .D.B...D.B..AA.B...J..OO.J.QQQ...NN. A 99 N 99 B 99 
+ 4  3  1 .D.B...D.B...AAB...J.OO..J.QQQ..NN.. O 99 N 98 B 99 
+ 4  3  1 .D.B...D.B..AA.B...J..OO.J.QQQNN.... B 99 N 96 A 99 
+ 4  3  1 .D.B...D.B...AAB...JOO...J.QQQ..NN.. O 98 N 98 B 99 
+ 4  3  1 .D.B...D.B...AAB......OO.J.QQQ.JNN.. J 99 N 98 B 99 
+ 4  3  1 .D.....D.B...AAB.....BOO.JQQQ..J.NN. Q 99 N 99 J 99 
+ 4  3  1 .D.....D.B..AA.B...J.BOO.JQQQ..NN... N 97 Q 99 A 99 
+ 4  3  1 .D.B...D.B...AAB.....OO..J.QQQ.J..NN J 99 O 99 B 99 
+ 4  3  1 .D.B...D.B..AA.B...J..OO.J.QQQ..NN.. A 99 N 98 B 99 
+ 4  3  1 .D.B...D.B...AAB...J.OO..JQQQ.....NN O 99 Q 99 B 99 
+ 4  3  1 .D.....D.B..AA.B...J.BOO.JQQQ....NN. A 99 Q 99 N 99 
+ 4  3  1 .D.B...D.B..AA.B...J.OO..J.QQQ....NN A 99 O 99 B 99 
+ 4  3  1 .D.B...D.B...AAB...JOO...JQQQ.....NN O 98 Q 99 B 99 
+ 4  3  1 .D.B...D.B...AAB....OO...J.QQQ.J..NN J 99 O 98 B 99 
+ 4  3  1 .D.....D.B..AA.B.....BOO.JQQQ..J..NN J 99 Q 99 A 99 
+ 4  3  1 .D.B...D.B..AA.B...J..OO.JQQQ.....NN A 99 Q 99 B 99 
+ 4  3  1 .D.B...D.B..AA.B...JOO...J.QQQ....NN A 99 O 98 B 99 
+ 4  3  1 .D.....D.B..AA.B.....BOO.J.QQQ.J.NN. A 99 N 99 J 99 
+ 4  3  1 .D.B...D.B...AAB...JOO...J.QQQNN.... O 98 N 96 B 99 
+ 4  3  1 .D.B...D.B...AAB...OO....J.QQQ.J..NN O 97 J 99 B 99 
+ 4  3  1 .D.B...D.B...AAB..OO.....J.QQQ.J..NN O 96 J 99 B 99 
+ 4  3  1 .D.B...D.B...AAB...J.OO..J.QQQ.NN... O 99 N 97 B 99 
+ 4  3  1 .D.B...D.B...AAB...JOO...J.QQQ.NN... O 98 N 97 B 99 
+ 4  3  1 .D.....D.B..AA.B.....BOO.J.QQQ.JNN.. J 99 A 99 N 98 
+ 4  3  1 .D.B...D.B..AA.B...J..OO.J.QQQ.NN... A 99 N 97 B 99 
+ 5  4  1 .D.B...D.B...AAB...J.OO..JQQQ...NN.. O 99 Q 99 N 98 B 99 
+ 5  4  1 .D.B...D.B...AAB...J.OO..JQQQ.NN.... O 99 B 99 Q 99 N 96 
+ 5  4  1 .D.B...D.B...AAB.....OO..JQQQ..J..NN O 99 J 99 Q 99 B 99 
+ 5  4  1 .D.B...D.B...AAB.....OO..J.QQQ.JNN.. J 99 O 99 N 98 B 99 
+ 5  4  1 .D.B...D.B..AA.B......OO.J.QQQ.JNN.. N 98 A 99 J 99 B 99 
+ 5  4  1 .D.B...D.B...AAB..OO.....J.QQQ.J.NN. O 96 J 99 N 99 B 99 
+ 5  4  1 .D.....D.B..AA.B.....BOO.JQQQ..JNN.. J 99 A 99 Q 99 N 98 
+ 5  4  1 .D.B...D.B..AA.B...J.OO..J.QQQNN.... A 99 O 99 N 96 B 99 
+ 5  4  1 .D.B...D.B...AAB......OO.JQQQ..J.NN. N 99 J 99 Q 99 B 99 
+ 5  4  1 .D.B...D.B..AA.B......OO.J.QQQ.J.NN. N 99 A 99 J 99 B 99 
+ 5  4  1 .D.B...D.B...AAB...J.OO..JQQQ....NN. Q 99 O 99 N 99 B 99 
+ 5  4  1 .D.B...D.B..AA.B...JOO...J.QQQ...NN. A 99 O 98 N 99 B 99 
+ 5  4  1 .D.B...D.B...AAB....OO...J.QQQ.J.NN. J 99 O 98 N 99 B 99 
+ 5  4  1 .D.B...D.B...AAB.....OO..J.QQQ.J.NN. J 99 O 99 N 99 B 99 
+ 5  4  1 .D.B...D.B...AAB....OO...JQQQ..J..NN O 98 J 99 Q 99 B 99 
+ 5  4  1 .D.B...D.B...AAB...OO....J.QQQ.J.NN. O 97 J 99 N 99 B 99 
+ 5  4  1 .D.B...D.B...AAB..OO.....JQQQ..J..NN O 96 J 99 Q 99 B 99 
+ 5  4  1 .D.B...D.B..AA.B......OO.JQQQ..J..NN Q 99 A 99 J 99 B 99 
+ 5  4  1 .D.B...D.B..AA.B...JOO...J.QQQNN.... O 98 B 99 N 96 A 99 
+ 5  4  1 .D.B...D.B...AAB...OO....J.QQQ.JNN.. O 97 J 99 N 98 B 99 
+ 5  4  1 .D.B...D.B..AA.B...J.OO..J.QQQ..NN.. A 99 O 99 N 98 B 99 
+ 5  4  1 .D.B...D.B..AA.B.....OO..J.QQQ.J..NN O 99 A 99 J 99 B 99 
+ 5  4  1 .D.B...D.B..AA.B....OO...J.QQQ.J..NN O 98 A 99 J 99 B 99 
+ 5  4  1 .D.B...D.B...AAB....OO...J.QQQ.JNN.. J 99 O 98 N 98 B 99 
+ 5  4  1 .D.B...D.B..AA.B...OO....J.QQQ.J..NN O 97 A 99 J 99 B 99 
+ 5  4  1 .D.B...D.B..AA.B..OO.....J.QQQ.J..NN O 96 A 99 J 99 B 99 
+ 5  4  1 .D.....D.B..AA.B.....BOO.JQQQ..J.NN. A 99 Q 99 N 99 J 99 
+ 5  4  1 .D.B...D.B..AA.B...JOO...J.QQQ..NN.. A 99 O 98 N 98 B 99 
+ 5  4  1 .D.B...D.B...AAB...JOO...JQQQ.NN.... O 98 B 99 Q 99 N 96 
+ 5  4  1 .D.B...D.B..AA.B...J..OO.JQQQ.NN.... A 99 B 99 Q 99 N 96 
+ 5  4  1 .D.B...D.B...AAB..OO.....J.QQQ.JNN.. O 96 J 99 N 98 B 99 
+ 5  4  1 .D.B...D.B...AAB...JOO...JQQQ...NN.. O 98 Q 99 N 98 B 99 
+ 5  4  1 .D.B...D.B...AAB......OO.JQQQ..JNN.. J 99 Q 99 N 98 B 99 
+ 5  4  1 .D.B...D.B..AA.B...J.OO..JQQQ.....NN A 99 O 99 Q 99 B 99 
+ 5  4  1 .D.B...D.B...AAB...JOO...JQQQ..NN... O 98 Q 99 N 97 B 99 
+ 5  4  1 .D.B...D.B...AAB...OO....JQQQ..J..NN O 97 J 99 Q 99 B 99 
+ 5  4  1 .D.B...D.B..AA.B...J..OO.JQQQ...NN.. A 99 Q 99 N 98 B 99 
+ 5  4  1 .D.B...D.B..AA.B...J..OO.JQQQ..NN... A 99 Q 99 N 97 B 99 
+ 5  4  1 .D.B...D.B..AA.B...JOO...JQQQ.....NN A 99 O 98 Q 99 B 99 
+ 5  4  1 .D.B...D.B..AA.B...J.OO..J.QQQ.NN... N 97 A 99 O 99 B 99 
+ 5  4  1 .D.B...D.B..AA.B...J..OO.JQQQ....NN. A 99 Q 99 N 99 B 99 
+ 5  4  1 .D.B...D.B..AA.B...JOO...J.QQQ.NN... N 97 A 99 O 98 B 99 
+ 5  4  1 .D.....D.B...AAB..OO.B...J.QQQ.J..NN B 98 O 96 J 99 B 98 
+ 5  4  1 .D.B...D.B...AAB...JOO...JQQQ....NN. O 98 Q 99 N 99 B 99 
+ 5  4  1 .D.B...D.B..AA.B...J.OO..J.QQQ...NN. A 99 O 99 N 99 B 99 
+ 5  4  1 .D.....D.B...AAB...OOB...J.QQQ.J..NN B 98 O 97 J 99 B 98 
+ 5  4  1 .D.B...D.B...AAB...J.OO..JQQQ..NN... O 99 Q 99 N 97 B 99 
+ 6  5  1 .D.B...D.B...AAB.....OO..JQQQ..JNN.. J 99 O 99 Q 99 N 98 B 99 
+ 6  5  1 .D.B...D.B...AAB.....OO..JQQQ..J.NN. N 99 O 99 J 99 Q 99 B 99 
+ 6  5  1 .D.B...D.B..AA.B..OO.....J.QQQ.J.NN. A 99 O 96 J 99 N 99 B 99 
+ 6  5  1 .D.B...D.B...AAB....OO...JQQQ..JNN.. N 98 O 98 J 99 Q 99 B 99 
+ 6  5  1 .D.B...D.B...AAB....OO...JQQQ..J.NN. O 98 N 99 J 99 Q 99 B 99 
+ 6  5  1 .D.....D.B...AAB..OO.B...J.QQQ.JNN.. B 98 O 96 J 99 N 98 B 98 
+ 6  5  1 .D.B...D.B..AA.B...J.OO..JQQQ.NN.... A 99 O 99 B 99 Q 99 N 96 
+ 6  5  1 .D.B...D.B..AA.B.....OO..J.QQQ.JNN.. A 99 J 99 O 99 N 98 B 99 
+ 6  5  1 .D.B...D.B...AAB..OO.....JQQQ..J.NN. Q 99 O 96 J 99 N 99 B 99 
+ 6  5  1 .D.B...D.B..AA.B......OO.JQQQ..JNN.. Q 99 N 98 A 99 J 99 B 99 
+ 6  5  1 .D.....D.B...AAB..OO.B...J.QQQ.J.NN. B 98 O 96 J 99 N 99 B 98 
+ 6  5  1 .D.B...D.B..AA.B....OO...J.QQQ.J.NN. O 98 N 99 A 99 J 99 B 99 
+ 6  5  1 .D.B...D.B..AA.B...OO....J.QQQ.J.NN. O 97 N 99 A 99 J 99 B 99 
+ 6  5  1 .D.B...D.B...AAB...OO....JQQQ..J.NN. O 97 N 99 J 99 Q 99 B 99 
+ 6  5  1 .D.B...D.B..AA.B....OO...J.QQQ.JNN.. O 98 N 98 A 99 J 99 B 99 
+ 6  5  1 .D.B...D.B..AA.B...J.OO..JQQQ....NN. A 99 Q 99 O 99 N 99 B 99 
+ 6  5  1 .D.B...D.B..AA.B..OO.....J.QQQ.JNN.. O 96 N 98 A 99 J 99 B 99 
+ 6  5  1 .D.B...D.B..AA.B...JOO...JQQQ..NN... A 99 O 98 Q 99 N 97 B 99 
+ 6  5  1 .D.B...D.B..AA.B...J.OO..JQQQ..NN... N 97 A 99 O 99 Q 99 B 99 
+ 6  5  1 .D.....D.B...AAB..OO.B...JQQQ..J..NN B 98 O 96 J 99 Q 99 B 98 
+ 6  5  1 .D.B...D.B..AA.B......OO.JQQQ..J.NN. A 99 N 99 J 99 Q 99 B 99 
+ 6  5  1 .D.B...D.B..AA.B...JOO...JQQQ...NN.. Q 99 A 99 O 98 N 98 B 99 
+ 6  5  1 .D.B...D.B..AA.B...J.OO..JQQQ...NN.. A 99 O 99 Q 99 N 98 B 99 
+ 6  5  1 .D.B...D.B...AAB..OO.....JQQQ..JNN.. N 98 O 96 J 99 Q 99 B 99 
+ 6  5  1 .D.....D.B...AAB...OOB...J.QQQ.JNN.. B 98 O 97 J 99 N 98 B 98 
+ 6  5  1 .D.....D.B..AA.B..OO.B...J.QQQ.J..NN B 98 O 96 A 99 J 99 B 98 
+ 6  5  1 .D.B...D.B..AA.B...JOO...JQQQ.NN.... Q 99 O 98 B 99 N 96 A 99 
+ 6  5  1 .D.B...D.B..AA.B...OO....JQQQ..J..NN O 97 Q 99 A 99 J 99 B 99 
+ 6  5  1 .D.B...D.B..AA.B..OO.....JQQQ..J..NN A 99 O 96 J 99 Q 99 B 99 
+ 6  5  1 .D.B...D.B..AA.B....OO...JQQQ..J..NN A 99 O 98 J 99 Q 99 B 99 
+ 6  5  1 .D.....D.B..AA.B...OOB...J.QQQ.J..NN B 98 O 97 A 99 J 99 B 98 
+ 6  5  1 .D.B...D.B..AA.B.....OO..J.QQQ.J.NN. O 99 N 99 A 99 J 99 B 99 
+ 6  5  1 .D.B...D.B..AA.B...OO....J.QQQ.JNN.. O 97 N 98 A 99 J 99 B 99 
+ 6  5  1 .D.....D.B...AAB...OOB...JQQQ..J..NN B 98 O 97 J 99 Q 99 B 98 
+ 6  5  1 .D.B...D.B..AA.B...JOO...JQQQ....NN. Q 99 A 99 O 98 N 99 B 99 
+ 6  5  1 .D.B...D.B..AA.B.....OO..JQQQ..J..NN A 99 O 99 J 99 Q 99 B 99 
+ 6  5  1 .D.....D.B...AAB...OOB...J.QQQ.J.NN. B 98 O 97 J 99 N 99 B 98 
+ 6  5  1 .D.B...D.B...AAB...OO....JQQQ..JNN.. Q 99 O 97 J 99 N 98 B 99 
+ 7  6  1 .D.B...D.B..AA.B.....OO..JQQQ..JNN.. A 99 J 99 O 99 Q 99 N 98 B 99 
+ 7  6  1 .D.B...D.B..AA.B..OO.....JQQQ..J.NN. Q 99 A 99 O 96 J 99 N 99 B 99 
+ 7  6  1 .D.....D.B..AA.B..OO.B...J.QQQ.JNN.. A 99 B 98 O 96 J 99 N 98 B 98 
+ 7  6  1 .D.B...D.B..AA.B....OO...JQQQ..J.NN. A 99 O 98 N 99 J 99 Q 99 B 99 
+ 7  6  1 .D.....D.B...AAB..OO.B...JQQQ..J.NN. B 98 Q 99 O 96 J 99 N 99 B 98 
+ 7  6  1 .D.B...D.B..AA.B.....OO..JQQQ..J.NN. A 99 N 99 O 99 J 99 Q 99 B 99 
+ 7  6  1 .D.B...D.B..AA.B....OO...JQQQ..JNN.. A 99 N 98 O 98 J 99 Q 99 B 99 
+ 7  6  1 .D.....D.B..AA.B...OOB...JQQQ..J..NN B 98 O 97 Q 99 A 99 J 99 B 98 
+ 7  6  1 .D.....D.B..AA.B..OO.B...J.QQQ.J.NN. B 98 A 99 O 96 J 99 N 99 B 98 
+ 7  6  1 .D.B...D.B..AA.B...OO....JQQQ..JNN.. O 97 Q 99 N 98 A 99 J 99 B 99 
+ 7  6  1 .D.B...D.B..AA.B..OO.....JQQQ..JNN.. O 96 Q 99 N 98 A 99 J 99 B 99 
+ 7  6  1 .D.....D.B..AA.B..OO.B...JQQQ..J..NN A 99 B 98 O 96 J 99 Q 99 B 98 
+ 7  6  1 .D.....D.B...AAB..OO.B...JQQQ..JNN.. Q 99 B 98 O 96 J 99 N 98 B 98 
+ 7  6  1 .D.....D.B..AA.B...OOB...J.QQQ.JNN.. A 99 B 98 O 97 J 99 N 98 B 98 
+ 7  6  1 .D.....D.B...AAB...OOB...JQQQ..JNN.. Q 99 B 98 O 97 J 99 N 98 B 98 
+ 7  6  1 .D.....D.B..AA.B...OOB...J.QQQ.J.NN. B 98 O 97 N 99 A 99 J 99 B 98 
+ 7  6  1 .D.B...D.B..AA.B...OO....JQQQ..J.NN. Q 99 O 97 N 99 A 99 J 99 B 99 
+ 7  6  1 .D.....D.B...AAB...OOB...JQQQ..J.NN. B 98 O 97 N 99 J 99 Q 99 B 98 
+ 8  7  1 .D.....D.B..AA.B..OO.B...JQQQ..JNN.. Q 99 A 99 B 98 O 96 J 99 N 98 B 98 
+ 8  7  1 .D.....D.B..AA.B...OOB...JQQQ..JNN.. N 98 B 98 O 97 Q 99 A 99 J 99 B 98 
+ 8  7  1 .D.....D.B..AA.B..OO.B...JQQQ..J.NN. B 98 Q 99 A 99 O 96 J 99 N 99 B 98 
+ 8  7  1 .D.....D.B..AA.B...OOB...JQQQ..J.NN. N 99 B 98 O 97 Q 99 A 99 J 99 B 98 

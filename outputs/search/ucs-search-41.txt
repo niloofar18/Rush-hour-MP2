@@ -1,0 +1,20 @@
+ 0  0  0 ..L.....L.R..AA.R.VVUSS.X.U...X.....
+ 1  1  0 ..L.R...L.R..AA...VVUSS.X.U...X..... R 99 
+ 1  1  0 ..L.....L.R.AA..R.VVUSS.X.U...X..... A 99 
+ 1  1  0 ..L.....L.R..AA.R.VVU.SSX.U...X..... S 99 
+ 1  1  0 ..L.....L.R..AA.R.VV.SS.X.U...X.U... U 99 
+ 1  1  0 ..L.....L.R...AAR.VVUSS.X.U...X..... A 99 
+ 2  2  0 ..L.R...L.R.....AAVVUSS.X.U...X..... A 97 R 99 
+ 2  2  0 ..L.....L.R.AA..R.VVU.SSX.U...X..... A 99 S 99 
+ 2  2  0 ..L.....L.R..AA.R..VVSS.X.U...X.U... V 99 U 99 
+ 2  2  0 ..L.....L.R..AA.R.VVSS..X.U...X.U... S 99 U 99 
+ 2  2  0 ..L.....L.R..AA.R.VV..SSX.U...X.U... S 99 U 99 
+ 2  2  0 ..L.....L.R...AAR.VVU.SSX.U...X..... S 99 A 99 
+ 2  2  0 ..L.....L.R...AAR.VV.SS.X.U...X.U... U 99 A 99 
+ 2  2  0 ..L.....L.R.AA..R.VV.SS.X.U...X.U... A 99 U 99 
+ 2  2  0 ..L.R...L.R...AA..VVUSS.X.U...X..... R 99 A 99 
+ 2  2  0 ..L.R...L.R..AA...VV.SS.X.U...X.U... R 99 U 99 
+ 2  2  0 ..L.R...L.R..AA...VVU.SSX.U...X..... R 99 S 99 
+ 2  2  0 ..L.R...L.R.AA....VVUSS.X.U...X..... R 99 A 99 
+ 2  2  0 ........L.R.AAL.R.VVUSS.X.U...X..... L 99 A 99 
+ 2  2  0 ..L.....L.R.AAU.R.VVUSS.X.....X..... U 99 A 99 

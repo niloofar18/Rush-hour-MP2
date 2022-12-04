@@ -1,0 +1,127 @@
+ 4  0  4 YY...........AA..C...X.C.M.X...M.XKK
+ 5  1  4 ....YY.......AA..C...X.C.M.X...M.XKK Y 96 
+ 5  1  4 ..YY.........AA..C...X.C.M.X...M.XKK Y 98 
+ 5  1  4 YY..........AA...C...X.C.M.X...M.XKK A 99 
+ 5  1  4 YY...........AA..C.M.X.C.M.X.....XKK M 99 
+ 5  1  4 YY............AA.C...X.C.M.X...M.XKK A 99 
+ 5  1  4 YY...........AAX.C...X.C.M.X...M..KK X 99 
+ 5  1  4 YY.......X...AAX.C...X.C.M.....M..KK X 98 
+ 5  1  4 ...YY........AA..C...X.C.M.X...M.XKK Y 97 
+ 5  1  4 YY.............AAC...X.C.M.X...M.XKK A 98 
+ 5  1  4 YY.X.....X...AAX.C.....C.M.....M..KK X 97 
+ 5  1  4 YY.........C.AA..C...X...M.X...M.XKK C 99 
+ 5  1  4 .YY..........AA..C...X.C.M.X...M.XKK Y 99 
+ 5  1  4 YY...C.....C.AA......X...M.X...M.XKK C 98 
+ 5  1  4 YY...........AA......X.C.M.X.C.M.XKK C 99 
+ 6  2  4 ....YY........AA.C...X.C.M.X...M.XKK A 99 Y 96 
+ 6  2  4 ....YY.......AA..C.M.X.C.M.X.....XKK M 99 Y 96 
+ 6  2  4 .YY.........AA...C...X.C.M.X...M.XKK Y 99 A 99 
+ 6  2  4 YY...........MAA.C.M.X.C...X.....XKK M 98 A 99 
+ 6  2  4 YY.......X.C.AAX.C...X...M.....M..KK C 99 X 98 
+ 6  2  4 YY..............AA...X.C.M.X.C.M.XKK A 97 C 99 
+ 6  2  4 YY...C...X.C.AAX.....X...M.....M..KK C 98 X 98 
+ 6  2  4 ...YY.......AA...C...X.C.M.X...M.XKK Y 97 A 99 
+ 6  2  4 YY.......X...AAX.....X.C.M...C.M..KK C 99 X 98 
+ 6  2  4 .YY......X...AAX.C...X.C.M.....M..KK Y 99 X 98 
+ 6  2  4 ....YY.........AAC...X.C.M.X...M.XKK A 98 Y 96 
+ 6  2  4 ..YY.........AAX.C...X.C.M.X...M..KK X 99 Y 98 
+ 6  2  4 ...YY....X...AAX.C...X.C.M.....M..KK Y 97 X 98 
+ 6  2  4 YY...........AAX.C...X.C.M.X...MKK.. K 98 X 99 
+ 6  2  4 ..YY.....X...AAX.C...X.C.M.....M..KK X 98 Y 98 
+ 6  2  4 YY.........C.AAX.C...X...M.X...M..KK C 99 X 99 
+ 6  2  4 YY...C.....C.AAX.....X...M.X...M..KK C 98 X 99 
+ 6  2  4 ..YY.......C.AA..C...X...M.X...M.XKK C 99 Y 98 
+ 6  2  4 ..YY.........AA..C.M.X.C.M.X.....XKK M 99 Y 98 
+ 6  2  4 YY...........AAX.C.M.X.C.M.X......KK X 99 M 99 
+ 6  2  4 YY...........AAX.....X.C.M.X.C.M..KK C 99 X 99 
+ 6  2  4 .YY..........AAX.C...X.C.M.X...M..KK Y 99 X 99 
+ 6  2  4 ..YY.C.....C.AA......X...M.X...M.XKK C 98 Y 98 
+ 6  2  4 ...YY........AAX.C...X.C.M.X...M..KK Y 97 X 99 
+ 6  2  4 YY.....M.....MAA.C...X.C...X.....XKK M 97 A 99 
+ 6  2  4 ..YY.........AA......X.C.M.X.C.M.XKK C 99 Y 98 
+ 6  2  4 YY..........AA...C.M.X.C.M.X.....XKK M 99 A 99 
+ 6  2  4 YY.........C..AA.C...X...M.X...M.XKK C 99 A 99 
+ 6  2  4 YY...C.....C..AA.....X...M.X...M.XKK C 98 A 99 
+ 6  2  4 ..YY........AA...C...X.C.M.X...M.XKK A 99 Y 98 
+ 6  2  4 YY............AA.....X.C.M.X.C.M.XKK C 99 A 99 
+ 6  2  4 .YY...........AA.C...X.C.M.X...M.XKK Y 99 A 99 
+ 6  2  4 ..YY..........AA.C...X.C.M.X...M.XKK A 99 Y 98 
+ 6  2  4 ...YY.........AA.C...X.C.M.X...M.XKK Y 97 A 99 
+ 6  2  4 YY...........AAX.C...X.C.M.X...M.KK. K 99 X 99 
+ 6  2  4 ...YY......C.AA..C...X...M.X...M.XKK C 99 Y 97 
+ 6  2  4 .YY..C.....C.AA......X...M.X...M.XKK C 98 Y 99 
+ 6  2  4 YY.......X...AAX.C.M.X.C.M........KK X 98 M 99 
+ 6  2  4 ..YY...........AAC...X.C.M.X...M.XKK A 98 Y 98 
+ 6  2  4 YY.X.....X...AAX.C.M...C.M........KK X 97 M 99 
+ 6  2  4 .YY..........AA......X.C.M.X.C.M.XKK C 99 Y 99 
+ 6  2  4 YY.X.....X...AAX.C.....C.M.....MKK.. K 98 X 97 
+ 6  2  4 YY.X.....X.C.AAX.C.......M.....M..KK C 99 X 97 
+ 6  2  4 YY.X.C...X.C.AAX.........M.....M..KK C 98 X 97 
+ 6  2  4 YY.X.....X...AAX.......C.M...C.M..KK C 99 X 97 
+ 6  2  4 .YYX.....X...AAX.C.....C.M.....M..KK Y 99 X 97 
+ 6  2  4 YY.....M.....M.AAC...X.C...X.....XKK M 97 A 98 
+ 6  2  4 YY.X.....X...AAX.C.....C.M.....M.KK. K 99 X 97 
+ 6  2  4 YY...C.....C...AA....X...M.X...M.XKK C 98 A 98 
+ 6  2  4 YY.............AA....X.C.M.X.C.M.XKK C 99 A 98 
+ 6  2  4 .YY............AAC...X.C.M.X...M.XKK Y 99 A 98 
+ 6  2  4 ...YYC.....C.AA......X...M.X...M.XKK C 98 Y 97 
+ 6  2  4 ...YY........AA......X.C.M.X.C.M.XKK C 99 Y 97 
+ 6  2  4 ...YY..........AAC...X.C.M.X...M.XKK A 98 Y 97 
+ 6  2  4 YY.......X...AAX.C...X.C.M.....MKK.. K 98 X 98 
+ 6  2  4 YY.........C.AA..C.M.X...M.X.....XKK C 99 M 99 
+ 6  2  4 ....YY.......AAX.C...X.C.M.X...M..KK X 99 Y 96 
+ 6  2  4 YY...C.....C.AA....M.X...M.X.....XKK C 98 M 99 
+ 6  2  4 YY.......X...AAX.C...X.C.M.....M.KK. K 99 X 98 
+ 6  2  4 YY...........AA....M.X.C.M.X.C...XKK C 99 M 99 
+ 6  2  4 ....YY...X...AAX.C...X.C.M.....M..KK X 98 Y 96 
+ 6  2  4 YY............AA.C.M.X.C.M.X.....XKK A 99 M 99 
+ 6  2  4 YY.............AAC.M.X.C.M.X.....XKK A 98 M 99 
+ 6  2  4 ...XYY...X...AAX.C.....C.M.....M..KK X 97 Y 96 
+ 6  2  4 .YY..........AA..C.M.X.C.M.X.....XKK Y 99 M 99 
+ 6  2  4 YY...........M.AAC.M.X.C...X.....XKK M 98 A 98 
+ 6  2  4 .YY........C.AA..C...X...M.X...M.XKK Y 99 C 99 
+ 6  2  4 ...YY........AA..C.M.X.C.M.X.....XKK Y 97 M 99 
+ 6  2  4 ....YY.....C.AA..C...X...M.X...M.XKK C 99 Y 96 
+ 6  2  4 YY..........AA.X.C...X.C.M.X...M..KK X 99 A 99 
+ 6  2  4 YY.......X..AA.X.C...X.C.M.....M..KK X 98 A 99 
+ 6  2  4 ....YY.......AA......X.C.M.X.C.M.XKK C 99 Y 96 
+ 6  2  4 YY.X.....X..AA.X.C.....C.M.....M..KK X 97 A 99 
+ 6  2  4 YY.........C...AAC...X...M.X...M.XKK C 99 A 98 
+ 6  2  4 YY.........CAA...C...X...M.X...M.XKK C 99 A 99 
+ 6  2  4 ....YY......AA...C...X.C.M.X...M.XKK A 99 Y 96 
+ 6  2  4 YY...C.....CAA.......X...M.X...M.XKK C 98 A 99 
+ 6  2  4 YY..........AA.......X.C.M.X.C.M.XKK C 99 A 99 
+ 7  3  4 ....YY........AA.C.M.X.C.M.X.....XKK M 99 A 99 Y 96 
+ 7  3  4 .YY.........AA...C.M.X.C.M.X.....XKK M 99 Y 99 A 99 
+ 7  3  4 YY.......X.C.AAX.C.M.X...M........KK M 99 C 99 X 98 
+ 7  3  4 .YY..........MAA.C.M.X.C...X.....XKK Y 99 M 98 A 99 
+ 7  3  4 ....YY...X...AAX.C.M.X.C.M........KK X 98 M 99 Y 96 
+ 7  3  4 .YY........CAA...C...X...M.X...M.XKK C 99 Y 99 A 99 
+ 7  3  4 YY.......X.C.AAX.C...X...M.....MKK.. K 98 C 99 X 98 
+ 7  3  4 YY.........C.MAA.C.M.X.....X.....XKK C 99 M 98 A 99 
+ 7  3  4 ....YY.......MAA.C.M.X.C...X.....XKK M 98 A 99 Y 96 
+ 7  3  4 ..YY.....X.C.AAX.C...X...M.....M..KK Y 98 C 99 X 98 
+ 7  3  4 ...YY....X.C.AAX.C...X...M.....M..KK Y 97 C 99 X 98 
+ 7  3  4 .YY..C.....CAA.......X...M.X...M.XKK C 98 Y 99 A 99 
+ 7  3  4 .YY......X..AA.X.C...X.C.M.....M..KK X 98 Y 99 A 99 
+ 7  3  4 ...XYY...X...AAX.C.M...C.M........KK X 97 M 99 Y 96 
+ 7  3  4 ....YY.....C.AA..C.M.X...M.X.....XKK C 99 M 99 Y 96 
+ 7  3  4 .YYX.....X..AA.X.C.....C.M.....M..KK X 97 Y 99 A 99 
+ 7  3  4 ....YY.M.....MAA.C...X.C...X.....XKK M 97 A 99 Y 96 
+ 7  3  4 YY...C.....C.MAA...M.X.....X.....XKK C 98 M 98 A 99 
+ 7  3  4 ....YY...X.C.AAX.C...X...M.....M..KK Y 96 C 99 X 98 
+ 7  3  4 ....YY.....C..AA.C...X...M.X...M.XKK C 99 A 99 Y 96 
+ 7  3  4 ....YY.......AA....M.X.C.M.X.C...XKK C 99 M 99 Y 96 
+ 7  3  4 .YY......X.C.AAX.C...X...M.....M..KK Y 99 C 99 X 98 
+ 7  3  4 YY.......X.CAA.X.C...X...M.....M..KK A 99 C 99 X 98 
+ 7  3  4 ...YY........MAA.C.M.X.C...X.....XKK Y 97 M 98 A 99 
+ 7  3  4 .YY.........AA.X.C...X.C.M.X...M..KK X 99 Y 99 A 99 
+ 7  3  4 .YY.........AA.......X.C.M.X.C.M.XKK C 99 Y 99 A 99 
+ 7  3  4 YY.......X.C.AAX.C...X...M.....M.KK. K 99 C 99 X 98 
+ 7  3  4 YY...........MAA...M.X.C...X.C...XKK C 99 M 98 A 99 
+ 7  3  4 ....YY......AA...C.M.X.C.M.X.....XKK A 99 M 99 Y 96 
+ 7  3  4 ..YY.........MAA.C.M.X.C...X.....XKK Y 98 M 98 A 99 
+ 7  3  4 ....YY.......AAX.C.M.X.C.M.X......KK X 99 M 99 Y 96 
+ 7  3  4 ....YY........AA.....X.C.M.X.C.M.XKK C 99 A 99 Y 96 
+ 7  3  4 .M..YY.M......AA.C...X.C...X.....XKK M 96 A 99 Y 96 
+ 7  3  4 ....YY.........AAC.M.X.C.M.X.....XKK A 98 M 99 Y 96 

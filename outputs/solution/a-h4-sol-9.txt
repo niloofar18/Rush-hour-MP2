@@ -1,0 +1,25 @@
+Initial Board Configuration: FEW...FEWUU.FAA...RRROOO..GGDD....VV
+
+F E W . . .
+F E W U U .
+F A A . . .
+R R R O O O
+. . G G D D
+. . . . V V
+
+Car Fuel Available: F:100 E:100 W:100 U:100 A:100 R:100 O:100 G:100 D:100 V:100 
+
+Runtime: 0.0
+Search Path Length: 1
+Solution Path Length: 1
+Solution Path: A right 3
+
+A right 3 	97 FEW...FEWUU.F...AARRROOO..GGDD....VV A97 
+
+! A97 
+F E W . . .
+F E W U U .
+F . . . A A
+R R R O O O
+. . G G D D
+. . . . V V

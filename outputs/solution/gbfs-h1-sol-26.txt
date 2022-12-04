@@ -1,0 +1,27 @@
+Initial Board Configuration: .UU..........AA.KF...PKF.YYP......RR
+
+. U U . . .
+. . . . . .
+. A A . K F
+. . . P K F
+. Y Y P . .
+. . . . R R
+
+Car Fuel Available: U:100 A:6 K:100 F:2 P:2 Y:1 R:100 
+
+Runtime: 0.6225273609161377
+Search Path Length: 1914
+Solution Path Length: 3
+Solution Path: K down 1; F up 2; A right 3
+
+K  down 1 	99 .UU..........AA..F...PKF.YYPK.....RR K99 
+F    up 2 	 0 .UU..F.....F.AA......PK..YYPK.....RR K99 F0 
+A right 3 	 3 .UU..F.....F....AA...PK..YYPK.....RR K99 F0 A3 
+
+! K99 F0 A3 
+. U U . . F
+. . . . . F
+. . . . A A
+. . . P K .
+. Y Y P K .
+. . . . R R

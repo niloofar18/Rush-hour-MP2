@@ -1,0 +1,29 @@
+Initial Board Configuration: ..XXXKDDD..KAA.RMC...RMC.NJ.BC.NJ.B.
+
+. . X X X K
+D D D . . K
+A A . R M C
+. . . R M C
+. N J . B C
+. N J . B .
+
+Car Fuel Available: X:100 K:100 D:100 A:100 R:100 M:100 C:100 N:100 J:100 B:100 
+
+Runtime: 4.25310492515564
+Search Path Length: 3125
+Solution Path Length: 5
+Solution Path: X left 1; C down 1; M up 2; R down 1; A right 4
+
+X  left 1 	99 .XXX.KDDD..KAA.RMC...RMC.NJ.BC.NJ.B. X99 
+C  down 1 	99 .XXX.KDDD..KAA.RM....RMC.NJ.BC.NJ.BC X99 C99 
+M    up 2 	98 .XXXMKDDD.MKAA.R.....R.C.NJ.BC.NJ.BC X99 C99 M98 
+R  down 1 	99 .XXXMKDDD.MKAA.......R.C.NJRBC.NJ.BC X99 C99 M98 R99 
+A right 4 	96 .XXXMKDDD.MK....AA...R.C.NJRBC.NJ.BC X99 C99 M98 R99 A96 
+
+! X99 C99 M98 R99 A96 
+. X X X M K
+D D D . M K
+. . . . A A
+. . . R . C
+. N J R B C
+. N J . B C

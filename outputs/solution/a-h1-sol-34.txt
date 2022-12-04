@@ -1,0 +1,25 @@
+Initial Board Configuration: ....J.....J.AA.....LLH..V..HE.VCC.E.
+
+. . . . J .
+. . . . J .
+A A . . . .
+. L L H . .
+V . . H E .
+V C C . E .
+
+Car Fuel Available: J:100 A:100 L:100 H:100 V:100 E:100 C:100 
+
+Runtime: 0.0
+Search Path Length: 1
+Solution Path Length: 1
+Solution Path: A right 4
+
+A right 4 	96 ....J.....J.....AA.LLH..V..HE.VCC.E. A96 
+
+! A96 
+. . . . J .
+. . . . J .
+. . . . A A
+. L L H . .
+V . . H E .
+V C C . E .

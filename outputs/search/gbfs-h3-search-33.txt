@@ -1,0 +1,91 @@
+ 4  0  4 KKY.....Y.TT.AAMM......N.....NPPP...
+ 4  0  4 KKY.....YTT..AAMM......N.....NPPP... T 99 
+ 4  0  4 KKY.....Y.TT.AA........N.....NPPP... M 99 
+ 4  0  4 KKY.....Y.TT.AAMM......N.....N..PPP. P 98 
+ 4  0  4 KKY.....Y.TT.AAMM......N.....N.PPP.. P 99 
+ 4  0  4 KKY.....Y.TT.AAMM......N.....N...PPP P 97 
+ 4  0  4 KKY.....Y.TTAA.MM......N.....NPPP... A 99 
+ 4  0  4 KKY.....Y.TT.AAMMN.....N......PPP... N 99 
+ 4  0  4 KKY.....Y.TT.AAMM............NPPP..N N 99 
+ 4  0  4 KKY.....YTT..AAMM......N.....N...PPP P 97 T 99 
+ 4  0  4 KKY.....YTT..AAMM......N.....N.PPP.. P 99 T 99 
+ 4  0  4 KK......Y.TTAAYMM......N.....NPPP... Y 99 A 99 
+ 4  0  4 KKY.....YTT..AAMMN.....N......PPP... N 99 T 99 
+ 4  0  4 KK........TTAAYMM...Y..N.....NPPP... Y 98 A 99 
+ 4  0  4 KK........TTAA.MM...Y..N..Y..NPPP... Y 97 A 99 
+ 4  0  4 KKY.....YTTN.AAMMN............PPP... N 98 T 99 
+ 4  0  4 KKY.....Y.TT.AAMMN.....N.........PPP N 99 P 97 
+ 4  0  4 KKY.....Y.TT.AA........N.....N...PPP M 99 P 97 
+ 4  0  4 KKY..N..YTTN.AAMM.............PPP... N 97 T 99 
+ 4  0  4 KKY.....Y.TTAA.MM......N.....N...PPP A 99 P 97 
+ 4  0  4 KKY.....Y.TT.AAMMN.....N.......PPP.. N 99 P 99 
+ 4  0  4 KKY.....YTT..AAMM............NPPP..N N 99 T 99 
+ 4  0  4 KKY.....Y.TT.AAMM............N.PPP.N N 99 P 99 
+ 4  0  4 KKY.....Y.TTAA.MMN.....N......PPP... N 99 A 99 
+ 4  0  4 KKY.....Y.TT.AA........N.....N.PPP.. M 99 P 99 
+ 4  0  4 KKY.....YTT..AA........N.....NPPP... M 99 T 99 
+ 4  0  4 KKY.....Y.TTAA.MM......N.....N.PPP.. A 99 P 99 
+ 4  0  4 KKY.....Y.TT.AAMMN.....N........PPP. N 99 P 98 
+ 4  0  4 KKY.....YTT.AA.MM......N.....NPPP... A 99 T 99 
+ 4  0  4 KKY.....Y.TT.AAMM............N..PPPN N 99 P 98 
+ 4  0  4 KKY.....Y.TT.AA........N.....N..PPP. M 99 P 98 
+ 4  0  4 KKY.....Y.TTAA.MM......N.....N..PPP. A 99 P 98 
+ 4  0  4 KKY.....Y.TT.AA..............NPPP..N M 99 N 99 
+ 4  0  4 KKY.....YTT..AAMM......N.....N..PPP. P 98 T 99 
+ 4  0  4 KKY.....Y.TTAA.MM............NPPP..N N 99 A 99 
+ 4  0  4 KKY.....Y.TTAA.........N.....NPPP... M 99 A 99 
+ 4  0  4 KKY.....YTT..AAMMN.....N.........PPP N 99 P 97 T 99 
+ 4  0  4 KKY.....YTTN.AAMMN.............PPP.. N 98 P 99 T 99 
+ 4  0  4 KK......Y.TTAAYMM......N.....N.PPP.. P 99 Y 99 A 99 
+ 4  0  4 KK........TTAAYMM...Y..N.....N..PPP. P 98 Y 98 A 99 
+ 4  0  4 KK.....TT...AAYMM...Y..N.....NPPP... T 97 Y 98 A 99 
+ 4  0  4 KK........TTAA.MM...Y..N..Y..N...PPP P 97 Y 97 A 99 
+ 4  0  4 .KK.......TTAAYMM...Y..N.....NPPP... K 99 Y 98 A 99 
+ 4  0  4 KK........TTAAYMM...Y..N.....N.PPP.. P 99 Y 98 A 99 
+ 4  0  4 ...KK.....TTAAYMM...Y..N.....NPPP... K 97 Y 98 A 99 
+ 4  0  4 KK........TTAA.MM...Y..N..Y..N..PPP. P 98 Y 97 A 99 
+ 4  0  4 KKY.....YTT.AA.MMN.....N......PPP... A 99 N 99 T 99 
+ 4  0  4 KKY.....YTTNAA.MMN............PPP... A 99 N 98 T 99 
+ 4  0  4 KK......Y.TTAAYMM......N.....N...PPP P 97 Y 99 A 99 
+ 4  0  4 KK......TT..AAYMM...Y..N.....NPPP... T 98 Y 98 A 99 
+ 4  0  4 KK......Y.TTAAYMM............NPPP..N N 99 Y 99 A 99 
+ 4  0  4 KK........TTAA......Y..N..Y..NPPP... M 99 Y 97 A 99 
+ 4  0  4 KK......YTT.AAYMM......N.....NPPP... T 99 Y 99 A 99 
+ 4  0  4 KK.....TT...AA.MM...Y..N..Y..NPPP... T 97 Y 97 A 99 
+ 4  0  4 ..KK....Y.TTAAYMM......N.....NPPP... K 98 Y 99 A 99 
+ 4  0  4 KK......TT..AA.MM...Y..N..Y..NPPP... T 98 Y 97 A 99 
+ 4  0  4 ....KK..Y.TTAAYMM......N.....NPPP... K 96 Y 99 A 99 
+ 4  0  4 KK.......TT.AAYMM...Y..N.....NPPP... T 99 Y 98 A 99 
+ 4  0  4 KKY.....YTTN.AAMMN...............PPP N 98 P 97 T 99 
+ 4  0  4 ..KK......TTAA.MM...Y..N..Y..NPPP... K 98 Y 97 A 99 
+ 4  0  4 KKY.....YTT..AA........N.....N...PPP M 99 P 97 T 99 
+ 4  0  4 KK........TTAAY.....Y..N.....NPPP... M 99 Y 98 A 99 
+ 4  0  4 ....KK....TTAA.MM...Y..N..Y..NPPP... K 96 Y 97 A 99 
+ 4  0  4 KK........TTAAYMM...Y........NPPP..N N 99 Y 98 A 99 
+ 4  0  4 KKY.....YTT..AAMMN.....N.......PPP.. N 99 P 99 T 99 
+ 4  0  4 KK........TTAAYMMN..Y..N......PPP... N 99 Y 98 A 99 
+ 4  0  4 KKY.....YTT..AA........N.....N.PPP.. M 99 P 99 T 99 
+ 4  0  4 KKY.....YTT..AAMM............N.PPP.N N 99 P 99 T 99 
+ 4  0  4 KK........TTAA.MM...Y..N..Y..N.PPP.. P 99 Y 97 A 99 
+ 4  0  4 ..KK......TTAAYMM...Y..N.....NPPP... K 98 Y 98 A 99 
+ 4  0  4 KKY.....YTTN.AAMMN..............PPP. P 98 N 98 T 99 
+ 4  0  4 KK......Y.TTAAYMM......N.....N..PPP. P 98 Y 99 A 99 
+ 4  0  4 KK....TT....AA.MM...Y..N..Y..NPPP... T 96 Y 97 A 99 
+ 4  0  4 KK......Y.TTAAY........N.....NPPP... M 99 Y 99 A 99 
+ 4  0  4 KK.......TT.AA.MM...Y..N..Y..NPPP... T 99 Y 97 A 99 
+ 4  0  4 ...KK...Y.TTAAYMM......N.....NPPP... K 97 Y 99 A 99 
+ 4  0  4 ...KK.....TTAA.MM...Y..N..Y..NPPP... K 97 Y 97 A 99 
+ 4  0  4 KKY..N..YTTN.AAMM................PPP N 97 P 97 T 99 
+ 4  0  4 KK........TTAA.MMN..Y..N..Y...PPP... N 99 Y 97 A 99 
+ 4  0  4 KKY..N..YTTN.AAMM..............PPP.. N 97 P 99 T 99 
+ 4  0  4 KK........TTAAYMM...Y..N.....N...PPP P 97 Y 98 A 99 
+ 4  0  4 KK....TT....AAYMM...Y..N.....NPPP... T 96 Y 98 A 99 
+ 4  0  4 ....KK....TTAAYMM...Y..N.....NPPP... K 96 Y 98 A 99 
+ 4  0  4 KK........TT.AAMM...Y..N..Y..NPPP... A 98 Y 97 A 98 
+ 4  0  4 .KK.....Y.TTAAYMM......N.....NPPP... K 99 Y 99 A 99 
+ 4  0  4 .KK.......TTAA.MM...Y..N..Y..NPPP... K 99 Y 97 A 99 
+ 4  0  4 KKY.....YTT..AAMMN.....N........PPP. P 98 N 99 T 99 
+ 4  0  4 KKY.....YTT.AA.MM......N.....N...PPP A 99 P 97 T 99 
+ 4  0  4 KK........TTAA.MM...Y.....Y..NPPP..N N 99 Y 97 A 99 
+ 4  0  4 KK......Y.TTAAYMMN.....N......PPP... N 99 Y 99 A 99 
+ 4  0  4 KKY.....YTT.AA.MM......N.....N.PPP.. A 99 P 99 T 99 

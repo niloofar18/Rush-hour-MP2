@@ -1,0 +1,43 @@
+ 0  0  0 GV....GV.Y..AA.Y....FFF...H..LPPH..L
+ 1  1  0 GV.Y..GV.Y..AA......FFF...H..LPPH..L Y 99 
+ 1  1  0 GV....GV.Y..AA.Y.....FFF..H..LPPH..L F 99 
+ 1  1  0 GV....GV.Y.LAA.Y.L..FFF...H...PPH... L 97 
+ 1  1  0 GV....GV.Y...AAY....FFF...H..LPPH..L A 99 
+ 1  1  0 GV....GV.Y..AA.Y....FFFL..H..LPPH... L 99 
+ 1  1  0 GV....GV.Y..AA.Y..FFF.....H..LPPH..L F 98 
+ 1  1  0 GV...LGV.Y.LAA.Y....FFF...H...PPH... L 96 
+ 2  2  0 GV.Y..GV.Y......AA..FFF...H..LPPH..L A 96 Y 99 
+ 2  2  0 GV....GV.Y..AAHY....HFFF.....LPP...L H 98 F 99 
+ 2  2  0 GV....GV.Y..AA.Y...FFF.L..H..LPPH... F 99 L 99 
+ 2  2  0 GV....GV.Y..AA.Y..FFF..L..H..LPPH... L 99 F 98 
+ 2  2  0 GV....GV.Y..AA.Y.LFFF..L..H...PPH... L 98 F 98 
+ 2  2  0 GV....GV.Y.LAA.Y.LFFF.....H...PPH... L 97 F 98 
+ 2  2  0 GV...LGV.Y.LAA.Y..FFF.....H...PPH... L 96 F 98 
+ 2  2  0 GV....GV.Y..AA.Y...FFF....H..LPPH..L F 97 F 97 
+ 2  2  0 GV....GV.Y...AAY..FFF.....H..LPPH..L A 99 F 98 
+ 2  2  0 GV.Y..GV.Y..AA....FFF.....H..LPPH..L Y 99 F 98 
+ 2  2  0 GV....GV....AA.Y..FFFY....H..LPPH..L Y 99 F 98 
+ 2  2  0 GV....GV....AA....FFFY....HY.LPPH..L Y 98 F 98 
+ 2  2  0 GV.Y.LGV.Y.LAA......FFF...H...PPH... Y 99 L 96 
+ 2  2  0 GV....GV.Y..AA.Y.L..FFFL..H...PPH... L 94 L 94 
+ 2  2  0 GV...LGV.Y.LAA.Y...FFF....H...PPH... F 99 L 96 
+ 2  2  0 GV...LGV.Y.LAA.Y.....FFF..H...PPH... F 99 L 96 
+ 2  2  0 GV....GV....AA....FFF.....HY.LPPHY.L Y 97 F 98 
+ 2  2  0 GV...LGV.Y.L.AAY....FFF...H...PPH... A 99 L 96 
+ 2  2  0 GV....GV.Y...AAY....FFFL..H..LPPH... A 99 L 99 
+ 2  2  0 GV.Y..GV.Y..AA......FFFL..H..LPPH... Y 99 L 99 
+ 2  2  0 GV....GV.Y...AAY...FFF....H..LPPH..L F 99 A 99 
+ 2  2  0 GV....GV.Y...AAY.....FFF..H..LPPH..L F 99 A 99 
+ 2  2  0 GV.Y..GV.Y...AA.....FFF...H..LPPH..L Y 99 A 99 
+ 2  2  0 .V.....V.Y..GAAY..G.FFF...H..LPPH..L G 98 A 99 
+ 2  2  0 .V.....V.Y...AAY..G.FFF.G.H..LPPH..L G 97 A 99 
+ 2  2  0 GV....GV.Y.LAA.Y.L.FFF....H...PPH... F 99 L 97 
+ 2  2  0 GV....GV.Y...AAY.L..FFFL..H...PPH... L 98 A 99 
+ 2  2  0 GV....GV.Y.LAA.Y.L...FFF..H...PPH... F 99 L 97 
+ 2  2  0 GV....GVHY..AAHY.....FFF.....LPP...L H 97 F 99 
+ 2  2  0 GV.Y..GV.Y.LAA...L..FFF...H...PPH... Y 99 L 97 
+ 2  2  0 GV....GV.Y..AA.Y....HFFF..H..LPP...L H 99 F 99 
+ 2  2  0 GVH...GVHY..AA.Y.....FFF.....LPP...L H 96 F 99 
+ 2  2  0 GV....GV.Y.L.AAY.L..FFF...H...PPH... A 99 L 97 
+ 2  2  0 .V....GV.Y..GAAY....FFF...H..LPPH..L G 99 A 99 
+ 2  2  0 GV.Y..GV.Y..AA.......FFF..H..LPPH..L Y 99 F 99 

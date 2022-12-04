@@ -1,0 +1,101 @@
+ 4  0  4 ..N.EEH.N...HAAD..H..DI.MMQQI...CC..
+ 5  1  4 ..NEE.H.N...HAAD..H..DI.MMQQI...CC.. E 99 
+ 5  1  4 ..NDEEH.ND..HAA...H...I.MMQQI...CC.. D 98 
+ 5  1  4 ..N.EEH.N...HAADI.H..DI.MMQQ....CC.. I 99 
+ 5  1  4 ..N.EEH.N...HAAD..H..DI.MMQQI..CC... C 99 
+ 5  1  4 ..N.EEH.N.I.HAADI.H..D..MMQQ....CC.. I 98 
+ 5  1  4 H.N.EEH.N...HAAD.....DI.MMQQI...CC.. H 4 
+ 5  1  4 ..N.EEH.N...HAAD..H..D..MMQQI...CCI. I 99 
+ 5  1  4 ..N.EEH.N...HAAD..H..DI.MMQQI.CC.... C 98 
+ 5  1  4 ..N.EEH.ND..HAAD..H...I.MMQQI...CC.. D 99 
+ 5  1  4 ..N.EEH.N...HAAD..H..DI.MMQQI....CC. C 99 
+ 5  1  4 ..N.EEH.N...HAAD..H..DI.MMQQI.....CC C 98 
+ 6  2  4 ..NEE.H.N...HAADI.H..DI.MMQQ....CC.. I 99 E 99 
+ 6  2  4 ..NEE.H.N...HAAD..H..DI.MMQQI..CC... C 99 E 99 
+ 6  2  4 ..N.EEH.N...HAADI.H..DI.MMQQ...CC... C 99 I 99 
+ 6  2  4 H.N.EEH.N.I.HAADI....D..MMQQ....CC.. H 4 I 98 
+ 6  2  4 ..NDEEH.ND..HAA...H...I.MMQQI....CC. D 98 C 99 
+ 6  2  4 ..NDEEH.ND..HAA...H...I.MMQQI.....CC D 98 C 98 
+ 6  2  4 ..N.EEH.N...HAAD..H..D..MMQQI..CC.I. I 99 C 99 
+ 6  2  4 ..NEE.H.N.I.HAADI.H..D..MMQQ....CC.. I 98 E 99 
+ 6  2  4 ..N.EEH.ND..HAAD..H...I.MMQQI..CC... D 99 C 99 
+ 6  2  4 ..NDEEH.ND..HAA...H...I.MMQQI..CC... D 98 C 99 
+ 6  2  4 ..NEE.H.N...HAAD..H..D..MMQQI...CCI. I 99 E 99 
+ 6  2  4 H.N.EEH.N...HAAD.....DI.MMQQI..CC... H 4 C 99 
+ 6  2  4 ..N.EEH.N...HAADI.H..DI.MMQQ..CC.... C 98 I 99 
+ 6  2  4 ..NEE.H.ND..HAAD..H...I.MMQQI...CC.. D 99 E 99 
+ 6  2  4 ..N.EEH.N...HAADI.H..DI.MMQQ.....CC. C 99 I 99 
+ 6  2  4 ..N.EEH.N...HAADI.H..DI.MMQQ......CC C 98 I 99 
+ 6  2  4 H.NEE.H.N...HAAD.....DI.MMQQI...CC.. H 4 E 99 
+ 6  2  4 ..N.EEH.N...HAADI.H..DI.MM.QQ...CC.. Q 99 I 99 
+ 6  2  4 ..N.EEH.N.I.HAADI.H..D..MMQQ..CC.... C 98 I 98 
+ 6  2  4 ..N.EEH.ND..HAAD..H...I.MMQQI.....CC C 98 D 99 
+ 6  2  4 ..N.EEH.ND..HAAD..H...I.MMQQI....CC. C 99 D 99 
+ 6  2  4 ..N.EEH.N...HAADI.H..DI.MM..QQ..CC.. Q 98 I 99 
+ 6  2  4 ..NDEEH.ND..HAA...H...I.MMQQI.CC.... D 98 C 98 
+ 6  2  4 ..N.EEH.ND..HAAD..H.....MMQQI...CCI. D 99 I 99 
+ 6  2  4 ..N.EEH.ND..HAADI.H...I.MMQQ....CC.. D 99 I 99 
+ 6  2  4 ..N.EEH.N.I.HAADI.H..D..MMQQ...CC... I 98 C 99 
+ 6  2  4 ..NDEEH.ND..HAA...H.....MMQQI...CCI. D 98 I 99 
+ 6  2  4 H.N.EEH.N...HAAD.....DI.MMQQI....CC. C 99 H 4 
+ 6  2  4 ..NDEEH.ND..HAA.I.H...I.MMQQ....CC.. D 98 I 99 
+ 6  2  4 H.N.EEH.N...HAAD.....DI.MMQQI.....CC C 98 H 4 
+ 6  2  4 H.N.EEH.N...HAAD.....D..MMQQI...CCI. I 99 H 4 
+ 6  2  4 H.N.EEH.N...HAADI....DI.MMQQ....CC.. H 4 I 99 
+ 6  2  4 H.N.EEH.ND..HAAD......I.MMQQI...CC.. D 99 H 4 
+ 6  2  4 H.N.EEH.N...HAAD.....DI.MMQQI.CC.... C 98 H 4 
+ 6  2  4 ..N.EEH.ND..HAAD..H...I.MMQQI.CC.... D 99 C 98 
+ 6  2  4 H.NDEEH.ND..HAA.......I.MMQQI...CC.. D 98 H 4 
+ 6  2  4 ..NEE.H.N...HAAD..H..DI.MMQQI.CC.... C 98 E 99 
+ 6  2  4 ..N.EEH.N.I.HAADI.H..D..MMQQ.....CC. C 99 I 98 
+ 6  2  4 ..N.EEH.N.I.HAADI.H..D..MMQQ......CC C 98 I 98 
+ 6  2  4 ..NEE.H.N...HAAD..H..DI.MMQQI....CC. C 99 E 99 
+ 6  2  4 ..N.EEH.N.I.HAADI.H..D..MM.QQ...CC.. Q 99 I 98 
+ 6  2  4 ..N.EEH.N...HAAD..H..D..MMQQI.CC..I. C 98 I 99 
+ 6  2  4 ..N.EEH.N.I.HAADI.H..D..MM..QQ..CC.. Q 98 I 98 
+ 6  2  4 ..NEE.H.N...HAAD..H..DI.MMQQI.....CC C 98 E 99 
+ 6  2  4 ..N.EEH.NDI.HAADI.H.....MMQQ....CC.. D 99 I 98 
+ 6  2  4 ..NDEEH.NDI.HAA.I.H.....MMQQ....CC.. D 98 I 98 
+ 7  3  4 ..NEE.H.N...HAADI.H..DI.MMQQ...CC... C 99 I 99 E 99 
+ 7  3  4 ..N.EEH.N...HAADI.H..DI.MM.QQ..CC... Q 99 C 99 I 99 
+ 7  3  4 H.N.EEH.NDI.HAADI.......MMQQ....CC.. D 99 H 4 I 98 
+ 7  3  4 ..N.EEH.ND..HAAD..H.....MMQQI..CC.I. D 99 I 99 C 99 
+ 7  3  4 ..NEE.H.NDI.HAADI.H.....MMQQ....CC.. D 99 I 98 E 99 
+ 7  3  4 H.NDEEH.NDI.HAA.I.......MMQQ....CC.. D 98 H 4 I 98 
+ 7  3  4 H.N.EEH.N.I.HAADI....D..MMQQ.....CC. C 99 H 4 I 98 
+ 7  3  4 ..NEE.H.N.I.HAADI.H..D..MMQQ.....CC. C 99 I 98 E 99 
+ 7  3  4 H.N.EEH.N.I.HAADI....D..MM..QQ..CC.. Q 98 H 4 I 98 
+ 7  3  4 ..NEE.H.N.I.HAADI.H..D..MMQQ......CC C 98 I 98 E 99 
+ 7  3  4 ..NDEEH.ND..H...AAH...I.MMQQI.....CC A 97 D 98 C 98 
+ 7  3  4 H.N.EEH.ND..HAAD......I.MMQQI..CC... H 4 D 99 C 99 
+ 7  3  4 ..NEE.H.N...HAAD..H..D..MMQQI..CC.I. I 99 C 99 E 99 
+ 7  3  4 H.NEE.H.N.I.HAADI....D..MMQQ....CC.. E 99 H 4 I 98 
+ 7  3  4 ..NEE.H.N...HAADI.H..DI.MMQQ.....CC. C 99 I 99 E 99 
+ 7  3  4 ..NEE.H.ND..HAADI.H...I.MMQQ....CC.. D 99 I 99 E 99 
+ 7  3  4 ..NEE.H.N.I.HAADI.H..D..MMQQ...CC... I 98 C 99 E 99 
+ 7  3  4 ..NEE.H.ND..HAAD..H.....MMQQI...CCI. D 99 I 99 E 99 
+ 7  3  4 H.N.EEH.N.I.HAADI....D..MMQQ...CC... C 99 H 4 I 98 
+ 7  3  4 H.N.EEH.N...HAADI....DI.MMQQ...CC... H 4 C 99 I 99 
+ 7  3  4 ..NDEEH.ND..H...AAH...I.MMQQI..CC... A 97 D 98 C 99 
+ 7  3  4 ..NEE.H.N...HAADI.H..DI.MMQQ..CC.... C 98 I 99 E 99 
+ 7  3  4 ..NEE.H.N...HAAD..H..D..MMQQI.CC..I. C 98 I 99 E 99 
+ 7  3  4 ..NEE.H.N...HAADI.H..DI.MM..QQ..CC.. Q 98 I 99 E 99 
+ 7  3  4 ..NDEEH.ND..HAA...H.....MMQQI..CC.I. D 98 I 99 C 99 
+ 7  3  4 ..NEE.H.N.I.HAADI.H..D..MM..QQ..CC.. Q 98 I 98 E 99 
+ 7  3  4 H.N.EEH.N.I.HAADI....D..MMQQ......CC C 98 H 4 I 98 
+ 7  3  4 H.N.EEH.N.I.HAADI....D..MM.QQ...CC.. Q 99 H 4 I 98 
+ 7  3  4 H.NEE.H.N...HAAD.....DI.MMQQI..CC... H 4 C 99 E 99 
+ 7  3  4 ..NDEEH.ND..H...AAH...I.MMQQI....CC. A 97 D 98 C 99 
+ 7  3  4 H.NEE.H.N...HAAD.....D..MMQQI...CCI. H 4 I 99 E 99 
+ 7  3  4 ..N.EEH.ND..HAADI.H...I.MMQQ...CC... D 99 C 99 I 99 
+ 7  3  4 ..NEE.H.N...HAADI.H..DI.MM.QQ...CC.. Q 99 I 99 E 99 
+ 7  3  4 ..NEE.H.N.I.HAADI.H..D..MMQQ..CC.... C 98 I 98 E 99 
+ 7  3  4 ..NEE.H.N...HAADI.H..DI.MMQQ......CC C 98 I 99 E 99 
+ 7  3  4 H.N.EEH.N...HAAD.....D..MMQQI..CC.I. H 4 I 99 C 99 
+ 7  3  4 H.N.EEH.N.I.HAADI....D..MMQQ..CC.... C 98 H 4 I 98 
+ 7  3  4 ..NDEEH.ND..HAA.I.H...I.MMQQ...CC... D 98 C 99 I 99 
+ 7  3  4 ..NEE.H.ND..HAAD..H...I.MMQQI..CC... D 99 C 99 E 99 
+ 7  3  4 ..N.EEH.NDI.HAADI.H.....MMQQ...CC... I 98 D 99 C 99 
+ 7  3  4 ..NEE.H.N.I.HAADI.H..D..MM.QQ...CC.. Q 99 I 98 E 99 
+ 7  3  4 H.NEE.H.N...HAADI....DI.MMQQ....CC.. H 4 I 99 E 99 
+ 7  3  4 ..N.EEH.N...HAADI.H..DI.MM..QQ.CC... Q 98 C 99 I 99 

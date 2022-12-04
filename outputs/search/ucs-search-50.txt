@@ -1,0 +1,68 @@
+ 0  0  0 ........C.OOAAC......Q..XX.QW..GGQW.
+ 1  1  0 ..........OOAA......CQ..XXCQW..GGQW. C 98 
+ 1  1  0 ..C.....C.OOAA.......Q..XX.QW..GGQW. C 99 
+ 1  1  0 ........C.OOAACQ.....Q..XX.QW..GG.W. Q 99 
+ 1  1  0 ........C.OOAAC......Q..XX.QW.GG.QW. G 99 
+ 1  1  0 ..........OOAAC.....CQ..XX.QW..GGQW. C 99 
+ 1  1  0 ........C.OOAAC......QW.XX.QW..GGQ.. W 99 
+ 1  1  0 ........COO.AAC......Q..XX.QW..GGQW. O 99 
+ 1  1  0 ........C.OOAAC......Q...XXQW..GGQW. X 99 
+ 1  1  0 ........CQOOAACQ.....Q..XX..W..GG.W. Q 98 
+ 1  1  0 ...Q....CQOOAACQ........XX..W..GG.W. Q 97 
+ 1  1  0 ........C.OOAAC.W....QW.XX.Q...GGQ.. W 98 
+ 2  2  0 ..........OO....AA..CQ..XXCQW..GGQW. A 96 C 98 
+ 2  2  0 ........C.OOAACQ.....Q..XX.QW.GG..W. G 99 Q 99 
+ 2  2  0 .......OO...AAC.....CQ..XX.QW..GGQW. O 97 C 99 
+ 2  2  0 ........C.OOAAC......Q...XXQW.GG.QW. G 99 X 99 
+ 2  2  0 .........QOOAACQ....CQ..XX..W..GG.W. C 99 Q 98 
+ 2  2  0 ........CQOOAACQ.....Q..XX..W.GG..W. G 99 Q 98 
+ 2  2  0 ........CQOOAACQ.....Q..XX..W...GGW. G 99 Q 98 
+ 2  2  0 ........CQOOAACQ.....QW.XX..W..GG... W 99 Q 98 
+ 2  2  0 ........CQOOAACQW....QW.XX.....GG... W 98 Q 98 
+ 2  2  0 ........CQOOAACQ.....Q...XX.W..GG.W. X 99 Q 98 
+ 2  2  0 ........CQOOAACQ.....Q....XXW..GG.W. X 98 Q 98 
+ 2  2  0 ..C.....CQOOAA.Q.....Q..XX..W..GG.W. C 99 Q 98 
+ 2  2  0 ...Q....CQOOAACQ........XX..W.GG..W. G 99 Q 97 
+ 2  2  0 ...Q....CQOOAACQ........XX..W...GGW. G 99 Q 97 
+ 2  2  0 ...Q....CQOOAACQ......W.XX..W..GG... W 99 Q 97 
+ 2  2  0 ...Q....CQOOAACQW.....W.XX.....GG... W 98 Q 97 
+ 2  2  0 ...Q....CQOOAACQ.........XX.W..GG.W. X 99 Q 97 
+ 2  2  0 ...Q....CQOOAACQ..........XXW..GG.W. X 98 Q 97 
+ 2  2  0 ..CQ....CQOOAA.Q........XX..W..GG.W. C 99 Q 97 
+ 2  2  0 ...Q.....QOOAACQ....C...XX..W..GG.W. C 99 Q 97 
+ 2  2  0 .........QOOAA.Q....CQ..XXC.W..GG.W. C 98 Q 98 
+ 2  2  0 ...Q.....QOOAA.Q....C...XXC.W..GG.W. C 98 Q 97 
+ 2  2  0 ........C.OOAAC......QW..XXQW..GGQ.. W 99 X 99 
+ 2  2  0 ........C.OOAAC.W....QW..XXQ...GGQ.. W 98 X 99 
+ 2  2  0 ........C.OOAACQ.....Q...XXQW..GG.W. Q 99 X 99 
+ 2  2  0 ........COO.AAC......Q...XXQW..GGQW. O 99 X 99 
+ 2  2  0 ..C.....C.OOAA.......Q...XXQW..GGQW. C 99 X 99 
+ 2  2  0 ..........OOAAC.....CQ...XXQW..GGQW. C 99 X 99 
+ 2  2  0 ........COO.AAC.W....QW.XX.Q...GGQ.. W 98 O 99 
+ 2  2  0 ........COO.AACQ.....Q..XX.QW..GG.W. Q 99 O 99 
+ 2  2  0 ..C.....COO.AA.......Q..XX.QW..GGQW. C 99 O 99 
+ 2  2  0 .........OO.AAC.....CQ..XX.QW..GGQW. C 99 O 99 
+ 2  2  0 .........OO.AA......CQ..XXCQW..GGQW. C 98 O 99 
+ 2  2  0 ........COO.AAC......QW.XX.QW..GGQ.. W 99 O 99 
+ 2  2  0 ........C.OOAACQ.....QW.XX.QW..GG... Q 99 W 99 
+ 2  2  0 ..C.....C.OOAA.......QW.XX.QW..GGQ.. C 99 W 99 
+ 2  2  0 ..........OOAAC.....CQW.XX.QW..GGQ.. C 99 W 99 
+ 2  2  0 ........COO.AAC......Q..XX.QW.GG.QW. G 99 O 99 
+ 2  2  0 ..........OOAAC.W...CQW.XX.Q...GGQ.. W 98 C 99 
+ 2  2  0 ..........OOAACQ....CQ..XX.QW..GG.W. Q 99 C 99 
+ 2  2  0 ........C.OOAAC......QW.XX.QW.GG.Q.. G 99 W 99 
+ 2  2  0 ..........OOAAC.....CQ..XX.QW.GG.QW. G 99 C 99 
+ 2  2  0 ......OO....AAC.....CQ..XX.QW..GGQW. O 96 C 99 
+ 2  2  0 ........OO..AAC.....CQ..XX.QW..GGQW. O 98 C 99 
+ 2  2  0 ..C.....C.OOAA.......Q..XX.QW.GG.QW. C 99 G 99 
+ 2  2  0 ..........OOAA......CQ..XXCQW.GG.QW. C 98 G 99 
+ 2  2  0 ........C.OOAAC.W....QW.XX.Q..GG.Q.. G 99 W 98 
+ 2  2  0 ........C.OOAACQW....QW.XX.Q...GG... Q 99 W 98 
+ 2  2  0 ..C.....C.OOAA..W....QW.XX.Q...GGQ.. C 99 W 98 
+ 2  2  0 ..........OOAA..W...CQW.XXCQ...GGQ.. C 98 W 98 
+ 2  2  0 ........C.OOAACQ.....Q..XX.QW...GGW. G 99 Q 99 
+ 2  2  0 ..........OOAA......CQW.XXCQW..GGQ.. C 98 W 99 
+ 2  2  0 ..C.....C.OOAA.Q.....Q..XX.QW..GG.W. C 99 Q 99 
+ 2  2  0 ..........OOAA.......Q..XXCQW.GGCQW. C 97 G 99 
+ 2  2  0 ..C.....C.OO....AA...Q..XX.QW..GGQW. A 96 C 99 
+ 2  2  0 ..........OOAA.Q....CQ..XXCQW..GG.W. C 98 Q 99 
