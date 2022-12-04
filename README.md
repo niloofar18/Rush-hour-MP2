@@ -33,7 +33,7 @@ All students contributed to the entire project as a whole and therefore it is ne
 <B>REQUIREMENTS</B>
 1. Having Python 3.8 or above
 2. Use this python as venv (interpretor)
-3. activate venv
+3. Activate venv
 4. Open the requirements.txt and install all of them in your project.
 
 <br>
