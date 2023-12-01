@@ -16,7 +16,7 @@ Second Mini Project for comp 472
 
 All students contributed to the entire project as a whole and therefore it is nearly impossible to assign specific tasks to each student. Multiple meetings (through Discord) were held for coordination and questions. Each student was assigned parts initially but the project demanded all students to participate in every part. All students participated in meetings and have contributed to the project equally (although it is impossible to measure) and all three students agree with this statement.
 
-<B> Since each person had difficulty to commit to Github separately/ or as a single file modified, we first decided to do all of the project on our Pycharm's App, and at the end one person share the whole project into Github repository via the button in pycharm called "Share the whole project in repository".</B>
+<B> Since each person had difficulty to commit to Github separately/ or as a single file modified, we first decided to do all of the project on our Pycharm's App, and at the end the leader will share the whole project into Github repository via the button in pycharm called "Share the whole project in repository".</B>
 
 ----------
 
